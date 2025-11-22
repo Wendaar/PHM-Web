@@ -1,0 +1,63 @@
+<style>
+.phm-carousel {
+  position: relative;
+  width: 100%;
+  aspect-ratio: 3.2 / 1; /* POMĚR BANNERU */
+  overflow: hidden;
+  border-radius: 10px;
+}
+
+.phm-carousel .slide {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  opacity: 0;
+  transition: opacity 0.8s ease-in-out;
+}
+
+.phm-carousel .slide.active {
+  opacity: 1;
+}
+
+.phm-carousel img,
+.phm-carousel video {
+  width: 100%;
+  height: 100%;
+  object-fit: cover; /* perfektní bez ořezu, pokud je poměr 3.2:1 */
+}
+</style>
+
+<div class="phm-carousel">
+  <div class="slide active">
+	<a href="https://www.bauerhockey.cz/Uzivatel/Registrace" target="_blank">
+    <img src="https://github.com/Wendaar/PHM-Web/blob/main/Web_baner_Bauer_1.png?raw=true" />
+  </div>
+
+  <div class="slide">
+	<a href="https://www.autopapousek.cz/" target="_blank">
+    <img src="https://github.com/Wendaar/PHM-Web/blob/main/Web_baner_papousek.png?raw=true" />
+  </div>
+
+  <div class="slide">
+	<a href="https://www.phmcup.cz/phm-hockey-travel/" target="_blank">
+    <img src="https://github.com/Wendaar/PHM-Web/blob/main/web-baner-hockeytravel.png?raw=true" />
+  </div>
+
+  <!-- POZDĚJI: VIDEO -->
+  <!--
+  <div class="slide">
+    <video src="https://TVUJ-VIDEO-SERVER/video.mp4" autoplay muted loop></video>
+  </div>
+  -->
+</div>
+
+<script>
+let index = 0;
+const slides = document.querySelectorAll('.phm-carousel .slide');
+
+setInterval(() => {
+  slides[index].classList.remove('active');
+  index = (index + 1) % slides.length;
+  slides[index].classList.add('active');
+}, 5000);
+</script>
