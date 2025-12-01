@@ -1,7 +1,14 @@
 {
-  "updated": "2025-12-01T19:40:10.251Z",
+  "updated": "2025-12-01T20:16:38.473Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
+    {
+      "id": "tmeEG0O_EPo",
+      "title": "LEV vs DSS 1.12.2025 21:00",
+      "thumbnail": "https://i.ytimg.com/vi/tmeEG0O_EPo/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2025-12-01T19:59:09Z"
+    },
     {
       "id": "AOTYL81T5yM",
       "title": "Polar Bears vs Paladins HOBBY 1.12.2025",
@@ -19,8 +26,8 @@
     {
       "id": "2UGRTrDhR2w",
       "title": "GAS vs REK 1.12.2025 19:30",
-      "thumbnail": "https://i.ytimg.com/vi/2UGRTrDhR2w/mqdefault_live.jpg",
-      "isLive": true,
+      "thumbnail": "https://i.ytimg.com/vi/2UGRTrDhR2w/mqdefault.jpg",
+      "isLive": false,
       "publishedAt": "2025-12-01T18:29:48Z"
     },
     {
@@ -43,13 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/KnI80Sc4Lig/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2025-12-01T07:08:47Z"
-    },
-    {
-      "id": "YbV5T3gt64o",
-      "title": "Alligators vs Taste KLASIK 30.11.2025",
-      "thumbnail": "https://i.ytimg.com/vi/YbV5T3gt64o/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2025-12-01T07:08:37Z"
     }
   ]
 }
