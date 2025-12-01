@@ -1,5 +1,5 @@
 {
-  "updated": "2025-12-01T18:55:51.571Z",
+  "updated": "2025-12-01T19:18:59.724Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
     {
@@ -8,6 +8,13 @@
       "thumbnail": "https://i.ytimg.com/vi/2UGRTrDhR2w/mqdefault_live.jpg",
       "isLive": true,
       "publishedAt": "2025-12-01T18:29:48Z"
+    },
+    {
+      "id": "AOTYL81T5yM",
+      "title": "Polar Bears vs Paladins HOBBY 1.12.2025",
+      "thumbnail": "https://i.ytimg.com/vi/AOTYL81T5yM/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2025-12-01T19:14:50Z"
     },
     {
       "id": "cz2Kgaw5454",
@@ -43,13 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/Vr2xGrhJ_iQ/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2025-12-01T05:39:44Z"
-    },
-    {
-      "id": "jBWILQLSZvk",
-      "title": "Vikings vs Soldiers B HOBBY 30.11.2025",
-      "thumbnail": "https://i.ytimg.com/vi/jBWILQLSZvk/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2025-12-01T05:33:58Z"
     }
   ]
 }
