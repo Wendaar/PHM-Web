@@ -1,7 +1,14 @@
 {
-  "updated": "2025-12-01T18:25:56.009Z",
+  "updated": "2025-12-01T18:55:51.571Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
+    {
+      "id": "2UGRTrDhR2w",
+      "title": "GAS vs REK 1.12.2025 19:30",
+      "thumbnail": "https://i.ytimg.com/vi/2UGRTrDhR2w/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2025-12-01T18:29:48Z"
+    },
     {
       "id": "cz2Kgaw5454",
       "title": "HOVNA vs Fešáci SPORT 30.11.2025",
@@ -43,13 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/jBWILQLSZvk/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2025-12-01T05:33:58Z"
-    },
-    {
-      "id": "6kv5AldOjDo",
-      "title": "Fotr vs Papoušci HOBBY 30.11.2025",
-      "thumbnail": "https://i.ytimg.com/vi/6kv5AldOjDo/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2025-12-01T04:06:40Z"
     }
   ]
 }
