@@ -1,27 +1,27 @@
 {
-  "updated": "2025-12-02T20:43:49.208Z",
+  "updated": "2025-12-02T21:15:32.619Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
-    {
-      "id": "oO6baH5Y9nw",
-      "title": "PLATIDLO vs. GLADIATORS KLASIK 2,12,2025",
-      "thumbnail": "https://i.ytimg.com/vi/oO6baH5Y9nw/mqdefault_live.jpg",
-      "isLive": true,
-      "publishedAt": "2025-12-02T19:24:42Z"
-    },
-    {
-      "id": "JnpTcc8wKso",
-      "title": "CHEZA - VOHOLTO 2.12.2025 21:,,",
-      "thumbnail": "https://i.ytimg.com/vi/JnpTcc8wKso/mqdefault_live.jpg",
-      "isLive": true,
-      "publishedAt": "2025-12-02T19:58:24Z"
-    },
     {
       "id": "Zo4NkDty7Y4",
       "title": "Car-Back vs Ducks B KLASIK 02.12.2025",
       "thumbnail": "https://i.ytimg.com/vi/Zo4NkDty7Y4/mqdefault_live.jpg",
       "isLive": true,
       "publishedAt": "2025-12-02T20:31:07Z"
+    },
+    {
+      "id": "JnpTcc8wKso",
+      "title": "CHEZA - VOHOLTO 2.12.2025 21:,,",
+      "thumbnail": "https://i.ytimg.com/vi/JnpTcc8wKso/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2025-12-02T19:58:24Z"
+    },
+    {
+      "id": "oO6baH5Y9nw",
+      "title": "PLATIDLO vs. GLADIATORS KLASIK 2,12,2025",
+      "thumbnail": "https://i.ytimg.com/vi/oO6baH5Y9nw/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2025-12-02T19:24:42Z"
     },
     {
       "id": "wHx2gqDvam8",
