@@ -1,20 +1,13 @@
 {
-  "updated": "2025-12-03T20:18:54.209Z",
+  "updated": "2025-12-03T20:44:51.767Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
     {
-      "id": "ZwJe8Y_Ucb0",
-      "title": "Roosters vs Kosti SUPER 03.12.2025",
-      "thumbnail": "https://i.ytimg.com/vi/ZwJe8Y_Ucb0/mqdefault_live.jpg",
+      "id": "k05b51uFtfo",
+      "title": "H.O.V.N.A vs Office Rats SPORT 3.12.2025",
+      "thumbnail": "https://i.ytimg.com/vi/k05b51uFtfo/mqdefault_live.jpg",
       "isLive": true,
-      "publishedAt": "2025-12-03T19:20:03Z"
-    },
-    {
-      "id": "hDgx4MNxtNM",
-      "title": "Ducks C vs Soldiers B HOBBY 03.12.2025",
-      "thumbnail": "https://i.ytimg.com/vi/hDgx4MNxtNM/mqdefault_live.jpg",
-      "isLive": true,
-      "publishedAt": "2025-12-03T19:19:30Z"
+      "publishedAt": "2025-12-03T20:42:58Z"
     },
     {
       "id": "fUoY9txtxIg",
@@ -22,6 +15,27 @@
       "thumbnail": "https://i.ytimg.com/vi/fUoY9txtxIg/mqdefault_live.jpg",
       "isLive": true,
       "publishedAt": "2025-12-03T20:06:46Z"
+    },
+    {
+      "id": "kFoPRu4bkg4",
+      "title": "RND vs BKZ - 03.12.2025",
+      "thumbnail": "https://i.ytimg.com/vi/kFoPRu4bkg4/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2025-12-03T20:35:21Z"
+    },
+    {
+      "id": "hDgx4MNxtNM",
+      "title": "Ducks C vs Soldiers B HOBBY 03.12.2025",
+      "thumbnail": "https://i.ytimg.com/vi/hDgx4MNxtNM/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2025-12-03T19:19:30Z"
+    },
+    {
+      "id": "ZwJe8Y_Ucb0",
+      "title": "Roosters vs Kosti SUPER 03.12.2025",
+      "thumbnail": "https://i.ytimg.com/vi/ZwJe8Y_Ucb0/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2025-12-03T19:20:03Z"
     },
     {
       "id": "-QcK2zRULrE",
@@ -36,20 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/Zo4NkDty7Y4/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2025-12-03T10:10:30Z"
-    },
-    {
-      "id": "JnpTcc8wKso",
-      "title": "Cheza vs Voholto SPORT 02.12.2025",
-      "thumbnail": "https://i.ytimg.com/vi/JnpTcc8wKso/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2025-12-03T09:09:42Z"
-    },
-    {
-      "id": "oO6baH5Y9nw",
-      "title": "PLATIDLO vs Gladiators KLASIK 02.12.2025",
-      "thumbnail": "https://i.ytimg.com/vi/oO6baH5Y9nw/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2025-12-03T08:50:52Z"
     }
   ]
 }
