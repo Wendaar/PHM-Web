@@ -1,13 +1,13 @@
 {
-  "updated": "2025-12-03T19:37:35.066Z",
+  "updated": "2025-12-03T20:18:54.209Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
     {
-      "id": "-QcK2zRULrE",
-      "title": "Heyoka vs Fešáci SPORT 03.12.2025",
-      "thumbnail": "https://i.ytimg.com/vi/-QcK2zRULrE/mqdefault_live.jpg",
+      "id": "ZwJe8Y_Ucb0",
+      "title": "Roosters vs Kosti SUPER 03.12.2025",
+      "thumbnail": "https://i.ytimg.com/vi/ZwJe8Y_Ucb0/mqdefault_live.jpg",
       "isLive": true,
-      "publishedAt": "2025-12-03T18:38:32Z"
+      "publishedAt": "2025-12-03T19:20:03Z"
     },
     {
       "id": "hDgx4MNxtNM",
@@ -17,11 +17,18 @@
       "publishedAt": "2025-12-03T19:19:30Z"
     },
     {
-      "id": "ZwJe8Y_Ucb0",
-      "title": "Roosters vs Kosti SUPER 3.12.2025",
-      "thumbnail": "https://i.ytimg.com/vi/ZwJe8Y_Ucb0/mqdefault_live.jpg",
+      "id": "fUoY9txtxIg",
+      "title": "Renegades vs Superheroes Super 03.12.25",
+      "thumbnail": "https://i.ytimg.com/vi/fUoY9txtxIg/mqdefault_live.jpg",
       "isLive": true,
-      "publishedAt": "2025-12-03T19:20:03Z"
+      "publishedAt": "2025-12-03T20:06:46Z"
+    },
+    {
+      "id": "-QcK2zRULrE",
+      "title": "Heyoka vs Fešáci SPORT 03.12.2025",
+      "thumbnail": "https://i.ytimg.com/vi/-QcK2zRULrE/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2025-12-03T18:38:32Z"
     },
     {
       "id": "Zo4NkDty7Y4",
@@ -43,13 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/oO6baH5Y9nw/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2025-12-03T08:50:52Z"
-    },
-    {
-      "id": "wHx2gqDvam8",
-      "title": "KV Elektro vs Spiders HOBBY 02.12.2025",
-      "thumbnail": "https://i.ytimg.com/vi/wHx2gqDvam8/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2025-12-03T08:35:36Z"
     }
   ]
 }
