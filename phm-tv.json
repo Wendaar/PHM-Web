@@ -1,13 +1,27 @@
 {
-  "updated": "2025-12-03T19:14:44.070Z",
+  "updated": "2025-12-03T19:37:35.066Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
     {
       "id": "-QcK2zRULrE",
-      "title": "Heyoka vs Fešáci Sport 03.12.25",
+      "title": "Heyoka vs Fešáci SPORT 03.12.2025",
       "thumbnail": "https://i.ytimg.com/vi/-QcK2zRULrE/mqdefault_live.jpg",
       "isLive": true,
       "publishedAt": "2025-12-03T18:38:32Z"
+    },
+    {
+      "id": "hDgx4MNxtNM",
+      "title": "Ducks C vs Soldiers B HOBBY 03.12.2025",
+      "thumbnail": "https://i.ytimg.com/vi/hDgx4MNxtNM/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2025-12-03T19:19:30Z"
+    },
+    {
+      "id": "ZwJe8Y_Ucb0",
+      "title": "Roosters vs Kosti SUPER 3.12.2025",
+      "thumbnail": "https://i.ytimg.com/vi/ZwJe8Y_Ucb0/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2025-12-03T19:20:03Z"
     },
     {
       "id": "Zo4NkDty7Y4",
@@ -36,20 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/wHx2gqDvam8/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2025-12-03T08:35:36Z"
-    },
-    {
-      "id": "wMq0sqK21OY",
-      "title": "PUK PAK PIVO vs Soldiers SUPER 02.12.2025",
-      "thumbnail": "https://i.ytimg.com/vi/wMq0sqK21OY/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2025-12-03T07:40:24Z"
-    },
-    {
-      "id": "U1jCRZU87lc",
-      "title": "REX vs Wolves SUPER 01.12.2025",
-      "thumbnail": "https://i.ytimg.com/vi/U1jCRZU87lc/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2025-12-02T10:05:36Z"
     }
   ]
 }
