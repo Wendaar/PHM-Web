@@ -1,5 +1,5 @@
 {
-  "updated": "2025-12-03T21:14:46.847Z",
+  "updated": "2025-12-03T21:36:21.684Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
     {
@@ -10,18 +10,18 @@
       "publishedAt": "2025-12-03T20:42:58Z"
     },
     {
-      "id": "fUoY9txtxIg",
-      "title": "Renegades vs Superheroes Super 03.12.25",
-      "thumbnail": "https://i.ytimg.com/vi/fUoY9txtxIg/mqdefault_live.jpg",
-      "isLive": true,
-      "publishedAt": "2025-12-03T20:06:46Z"
-    },
-    {
       "id": "kFoPRu4bkg4",
       "title": "RND vs BKZ - 03.12.2025",
       "thumbnail": "https://i.ytimg.com/vi/kFoPRu4bkg4/mqdefault_live.jpg",
       "isLive": true,
       "publishedAt": "2025-12-03T20:35:21Z"
+    },
+    {
+      "id": "fUoY9txtxIg",
+      "title": "Renegades vs Superheroes Super 03.12.25",
+      "thumbnail": "https://i.ytimg.com/vi/fUoY9txtxIg/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2025-12-03T20:06:46Z"
     },
     {
       "id": "hDgx4MNxtNM",
