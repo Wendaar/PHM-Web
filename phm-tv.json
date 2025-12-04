@@ -1,20 +1,20 @@
 {
-  "updated": "2025-12-04T20:43:56.033Z",
+  "updated": "2025-12-04T21:15:06.962Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
-    {
-      "id": "aoq_aQsDGXo",
-      "title": "pht dragons, fotr",
-      "thumbnail": "https://i.ytimg.com/vi/aoq_aQsDGXo/mqdefault_live.jpg",
-      "isLive": true,
-      "publishedAt": "2025-12-04T20:37:05Z"
-    },
     {
       "id": "J-bkQtbO6_0",
       "title": "FLLH 2025/26 - HC Přírodověda vs Motol Pelicans 04.12.2025",
       "thumbnail": "https://i.ytimg.com/vi/J-bkQtbO6_0/mqdefault_live.jpg",
       "isLive": true,
       "publishedAt": "2025-12-04T18:45:18Z"
+    },
+    {
+      "id": "aoq_aQsDGXo",
+      "title": "pht dragons, fotr",
+      "thumbnail": "https://i.ytimg.com/vi/aoq_aQsDGXo/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2025-12-04T20:52:30Z"
     },
     {
       "id": "HxEshixZi5I",
