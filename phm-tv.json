@@ -1,7 +1,21 @@
 {
-  "updated": "2025-12-04T19:15:34.484Z",
+  "updated": "2025-12-04T19:37:59.706Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
+    {
+      "id": "HxEshixZi5I",
+      "title": "Platidlo -x dusćks stars",
+      "thumbnail": "https://i.ytimg.com/vi/HxEshixZi5I/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2025-12-04T19:35:00Z"
+    },
+    {
+      "id": "J-bkQtbO6_0",
+      "title": "FLLH 2025/26 - HC Přírodověda vs Motol Pelicans 04.12.2025",
+      "thumbnail": "https://i.ytimg.com/vi/J-bkQtbO6_0/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2025-12-04T18:45:18Z"
+    },
     {
       "id": "kFoPRu4bkg4",
       "title": "Reindeers vs Žraloci HOBBY 03.12.2025",
@@ -36,20 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/ZwJe8Y_Ucb0/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2025-12-04T08:39:00Z"
-    },
-    {
-      "id": "-QcK2zRULrE",
-      "title": "Heyoka vs Fešáci SPORT 03.12.2025",
-      "thumbnail": "https://i.ytimg.com/vi/-QcK2zRULrE/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2025-12-04T08:11:26Z"
-    },
-    {
-      "id": "Zo4NkDty7Y4",
-      "title": "Car-Back vs Ducks B KLASIK 02.12.2025",
-      "thumbnail": "https://i.ytimg.com/vi/Zo4NkDty7Y4/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2025-12-03T10:10:30Z"
     }
   ]
 }
