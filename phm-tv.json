@@ -1,13 +1,13 @@
 {
-  "updated": "2025-12-04T20:18:18.704Z",
+  "updated": "2025-12-04T20:43:56.033Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
     {
-      "id": "HxEshixZi5I",
-      "title": "Platidlo -x dusćks stars",
-      "thumbnail": "https://i.ytimg.com/vi/HxEshixZi5I/mqdefault_live.jpg",
+      "id": "aoq_aQsDGXo",
+      "title": "pht dragons, fotr",
+      "thumbnail": "https://i.ytimg.com/vi/aoq_aQsDGXo/mqdefault_live.jpg",
       "isLive": true,
-      "publishedAt": "2025-12-04T19:35:00Z"
+      "publishedAt": "2025-12-04T20:37:05Z"
     },
     {
       "id": "J-bkQtbO6_0",
@@ -15,6 +15,13 @@
       "thumbnail": "https://i.ytimg.com/vi/J-bkQtbO6_0/mqdefault_live.jpg",
       "isLive": true,
       "publishedAt": "2025-12-04T18:45:18Z"
+    },
+    {
+      "id": "HxEshixZi5I",
+      "title": "Platidlo -x dusćks stars",
+      "thumbnail": "https://i.ytimg.com/vi/HxEshixZi5I/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2025-12-04T19:35:00Z"
     },
     {
       "id": "kFoPRu4bkg4",
@@ -43,13 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/hDgx4MNxtNM/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2025-12-04T08:38:41Z"
-    },
-    {
-      "id": "ZwJe8Y_Ucb0",
-      "title": "Roosters vs Kosti SUPER 03.12.2025",
-      "thumbnail": "https://i.ytimg.com/vi/ZwJe8Y_Ucb0/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2025-12-04T08:39:00Z"
     }
   ]
 }
