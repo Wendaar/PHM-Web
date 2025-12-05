@@ -1,7 +1,14 @@
 {
-  "updated": "2025-12-04T23:38:13.387Z",
+  "updated": "2025-12-05T01:13:59.291Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
+    {
+      "id": "wdKewYtbuK8",
+      "title": "26 12 4 PUK PAK PIVO vs Soldiers",
+      "thumbnail": "https://i.ytimg.com/vi/wdKewYtbuK8/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2025-12-04T23:55:04Z"
+    },
     {
       "id": "aoq_aQsDGXo",
       "title": "Dragons vs Fotr HOBBY 04.12.2025",
@@ -43,13 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/hDgx4MNxtNM/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2025-12-04T08:38:41Z"
-    },
-    {
-      "id": "ZwJe8Y_Ucb0",
-      "title": "Roosters vs Kosti SUPER 03.12.2025",
-      "thumbnail": "https://i.ytimg.com/vi/ZwJe8Y_Ucb0/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2025-12-04T08:39:00Z"
     }
   ]
 }
