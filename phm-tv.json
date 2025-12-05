@@ -1,7 +1,21 @@
 {
-  "updated": "2025-12-05T08:21:38.626Z",
+  "updated": "2025-12-05T09:17:18.567Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
+    {
+      "id": "J-bkQtbO6_0",
+      "title": "FLLH 2025/26 - HC Přírověda vs Motol Pelicans 04.12.2025",
+      "thumbnail": "https://i.ytimg.com/vi/J-bkQtbO6_0/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2025-12-05T08:54:58Z"
+    },
+    {
+      "id": "HxEshixZi5I",
+      "title": "Stars vs PLATIDLO KLASIK 04.12.2025",
+      "thumbnail": "https://i.ytimg.com/vi/HxEshixZi5I/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2025-12-05T08:42:33Z"
+    },
     {
       "id": "wdKewYtbuK8",
       "title": "26 12 4 PUK PAK PIVO vs Soldiers",
@@ -15,13 +29,6 @@
       "thumbnail": "https://i.ytimg.com/vi/aoq_aQsDGXo/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2025-12-04T20:52:30Z"
-    },
-    {
-      "id": "HxEshixZi5I",
-      "title": "Stars vs PLATIDLO KLASIK 04.12.2025",
-      "thumbnail": "https://i.ytimg.com/vi/HxEshixZi5I/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2025-12-04T19:35:00Z"
     },
     {
       "id": "kFoPRu4bkg4",
@@ -43,13 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/fUoY9txtxIg/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2025-12-04T09:45:36Z"
-    },
-    {
-      "id": "hDgx4MNxtNM",
-      "title": "Ducks C vs Soldiers B HOBBY 03.12.2025",
-      "thumbnail": "https://i.ytimg.com/vi/hDgx4MNxtNM/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2025-12-04T08:38:41Z"
     }
   ]
 }
