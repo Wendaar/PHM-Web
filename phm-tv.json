@@ -1,7 +1,14 @@
 {
-  "updated": "2025-12-05T13:28:43.735Z",
+  "updated": "2025-12-05T13:50:02.805Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
+    {
+      "id": "fk1DXeSnCuw",
+      "title": "26 12 2 Cheza vs Voholto",
+      "thumbnail": "https://i.ytimg.com/vi/fk1DXeSnCuw/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2025-12-05T13:37:05Z"
+    },
     {
       "id": "iL4V6gYDvWw",
       "title": "26 WEEK RECAP 12 5 SPORT",
@@ -39,17 +46,10 @@
     },
     {
       "id": "wdKewYtbuK8",
-      "title": "26 12 4 PUK PAK PIVO vs Soldiers",
+      "title": "26 12 2 PUK PAK PIVO vs Soldiers",
       "thumbnail": "https://i.ytimg.com/vi/wdKewYtbuK8/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2025-12-04T23:55:04Z"
-    },
-    {
-      "id": "aoq_aQsDGXo",
-      "title": "Dragons vs Fotr HOBBY 04.12.2025",
-      "thumbnail": "https://i.ytimg.com/vi/aoq_aQsDGXo/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2025-12-04T20:52:30Z"
     }
   ]
 }
