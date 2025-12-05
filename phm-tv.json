@@ -1,14 +1,7 @@
 {
-  "updated": "2025-12-05T11:15:13.398Z",
+  "updated": "2025-12-05T11:37:59.503Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
-    {
-      "id": "J-bkQtbO6_0",
-      "title": "FLLH 2025/26 - HC Přírověda vs Motol Pelicans 04.12.2025",
-      "thumbnail": "https://i.ytimg.com/vi/J-bkQtbO6_0/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2025-12-05T08:54:58Z"
-    },
     {
       "id": "HxEshixZi5I",
       "title": "Stars vs PLATIDLO KLASIK 04.12.2025",
@@ -50,6 +43,13 @@
       "thumbnail": "https://i.ytimg.com/vi/fUoY9txtxIg/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2025-12-04T09:45:36Z"
+    },
+    {
+      "id": "hDgx4MNxtNM",
+      "title": "Ducks C vs Soldiers B HOBBY 03.12.2025",
+      "thumbnail": "https://i.ytimg.com/vi/hDgx4MNxtNM/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2025-12-04T08:38:41Z"
     }
   ]
 }
