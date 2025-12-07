@@ -1,7 +1,21 @@
 {
-  "updated": "2025-12-07T14:38:51.793Z",
+  "updated": "2025-12-07T15:13:37.487Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
+    {
+      "id": "KygNMRB_WEo",
+      "title": "HC Prague Phantoms vs HC Strašáci",
+      "thumbnail": "https://i.ytimg.com/vi/KygNMRB_WEo/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2025-12-07T14:41:24Z"
+    },
+    {
+      "id": "Q1myoDWQBs0",
+      "title": "MYQ vs Papoušci HOBBY 07.12.2025",
+      "thumbnail": "https://i.ytimg.com/vi/Q1myoDWQBs0/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2025-12-07T14:45:36Z"
+    },
     {
       "id": "fk1DXeSnCuw",
       "title": "26 12 2 Cheza vs Voholto",
@@ -36,20 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/-bI0vRFOQyg/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2025-12-05T12:05:22Z"
-    },
-    {
-      "id": "HxEshixZi5I",
-      "title": "Stars vs PLATIDLO KLASIK 04.12.2025",
-      "thumbnail": "https://i.ytimg.com/vi/HxEshixZi5I/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2025-12-05T08:42:33Z"
-    },
-    {
-      "id": "wdKewYtbuK8",
-      "title": "26 12 2 PUK PAK PIVO vs Soldiers",
-      "thumbnail": "https://i.ytimg.com/vi/wdKewYtbuK8/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2025-12-04T23:55:04Z"
     }
   ]
 }
