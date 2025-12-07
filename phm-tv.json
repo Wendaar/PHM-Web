@@ -1,19 +1,26 @@
 {
-  "updated": "2025-12-07T17:12:30.481Z",
+  "updated": "2025-12-07T17:37:06.259Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
     {
+      "id": "xTB7Qu6CQv8",
+      "title": "HC Traverzácí vs Vikings",
+      "thumbnail": "https://i.ytimg.com/vi/xTB7Qu6CQv8/mqdefault_live.jpg",
+      "isLive": false,
+      "publishedAt": "2025-12-07T17:31:31Z"
+    },
+    {
       "id": "dWrQXO64yR4",
       "title": "Žižkov vs Berkut 07.12.2025",
-      "thumbnail": "https://i.ytimg.com/vi/dWrQXO64yR4/mqdefault_live.jpg",
-      "isLive": true,
+      "thumbnail": "https://i.ytimg.com/vi/dWrQXO64yR4/mqdefault.jpg",
+      "isLive": false,
       "publishedAt": "2025-12-07T16:18:14Z"
     },
     {
       "id": "wQb3TZQd70s",
       "title": "HC Slavoj Zbraslav vs HC Domynos Praha",
-      "thumbnail": "https://i.ytimg.com/vi/wQb3TZQd70s/mqdefault_live.jpg",
-      "isLive": true,
+      "thumbnail": "https://i.ytimg.com/vi/wQb3TZQd70s/mqdefault.jpg",
+      "isLive": false,
       "publishedAt": "2025-12-07T15:59:31Z"
     },
     {
@@ -43,13 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/iL4V6gYDvWw/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2025-12-05T12:05:25Z"
-    },
-    {
-      "id": "Gg3utvGGb1s",
-      "title": "26 WEEK RECAP 12 5 SUPER",
-      "thumbnail": "https://i.ytimg.com/vi/Gg3utvGGb1s/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2025-12-05T12:05:27Z"
     }
   ]
 }
