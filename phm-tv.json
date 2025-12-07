@@ -1,20 +1,20 @@
 {
-  "updated": "2025-12-07T18:20:19.301Z",
+  "updated": "2025-12-07T18:45:32.975Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
-    {
-      "id": "xTB7Qu6CQv8",
-      "title": "HC Traverzácí vs Vikings",
-      "thumbnail": "https://i.ytimg.com/vi/xTB7Qu6CQv8/mqdefault_live.jpg",
-      "isLive": true,
-      "publishedAt": "2025-12-07T17:31:31Z"
-    },
     {
       "id": "avBmwxw8Bvo",
       "title": "Raptors vs Taste KLASIK 07.12.2025",
       "thumbnail": "https://i.ytimg.com/vi/avBmwxw8Bvo/mqdefault_live.jpg",
       "isLive": true,
       "publishedAt": "2025-12-07T17:48:01Z"
+    },
+    {
+      "id": "xTB7Qu6CQv8",
+      "title": "HC Traverzácí vs Vikings",
+      "thumbnail": "https://i.ytimg.com/vi/xTB7Qu6CQv8/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2025-12-07T17:31:31Z"
     },
     {
       "id": "dWrQXO64yR4",
@@ -31,6 +31,13 @@
       "publishedAt": "2025-12-07T15:59:31Z"
     },
     {
+      "id": "Q1myoDWQBs0",
+      "title": "MYQ vs Papoušci HOBBY 07.12.2025",
+      "thumbnail": "https://i.ytimg.com/vi/Q1myoDWQBs0/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2025-12-07T14:45:36Z"
+    },
+    {
       "id": "KygNMRB_WEo",
       "title": "HC Prague Phantoms vs HC Strašáci",
       "thumbnail": "https://i.ytimg.com/vi/KygNMRB_WEo/mqdefault.jpg",
@@ -43,13 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/fk1DXeSnCuw/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2025-12-05T13:37:05Z"
-    },
-    {
-      "id": "iL4V6gYDvWw",
-      "title": "26 WEEK RECAP 12 5 SPORT",
-      "thumbnail": "https://i.ytimg.com/vi/iL4V6gYDvWw/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2025-12-05T12:05:25Z"
     }
   ]
 }
