@@ -1,19 +1,26 @@
 {
-  "updated": "2025-12-07T15:36:05.676Z",
+  "updated": "2025-12-07T16:17:14.867Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
     {
+      "id": "wQb3TZQd70s",
+      "title": "HC Slavoj Zbraslav vs HC Domynos Praha",
+      "thumbnail": "https://i.ytimg.com/vi/wQb3TZQd70s/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2025-12-07T15:59:31Z"
+    },
+    {
       "id": "Q1myoDWQBs0",
       "title": "MYQ vs Papoušci HOBBY 07.12.2025",
-      "thumbnail": "https://i.ytimg.com/vi/Q1myoDWQBs0/mqdefault_live.jpg",
-      "isLive": true,
+      "thumbnail": "https://i.ytimg.com/vi/Q1myoDWQBs0/mqdefault.jpg",
+      "isLive": false,
       "publishedAt": "2025-12-07T14:45:36Z"
     },
     {
       "id": "KygNMRB_WEo",
       "title": "HC Prague Phantoms vs HC Strašáci",
-      "thumbnail": "https://i.ytimg.com/vi/KygNMRB_WEo/mqdefault_live.jpg",
-      "isLive": true,
+      "thumbnail": "https://i.ytimg.com/vi/KygNMRB_WEo/mqdefault.jpg",
+      "isLive": false,
       "publishedAt": "2025-12-07T14:41:24Z"
     },
     {
@@ -43,13 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/j9d9YsCQU9I/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2025-12-05T12:05:17Z"
-    },
-    {
-      "id": "-bI0vRFOQyg",
-      "title": "26 WEEK RECAP 12 5 KLASIK",
-      "thumbnail": "https://i.ytimg.com/vi/-bI0vRFOQyg/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2025-12-05T12:05:22Z"
     }
   ]
 }
