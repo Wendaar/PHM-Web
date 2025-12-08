@@ -1,7 +1,21 @@
 {
-  "updated": "2025-12-08T06:57:00.389Z",
+  "updated": "2025-12-08T07:23:39.554Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
+    {
+      "id": "avBmwxw8Bvo",
+      "title": "Raptors vs Taste KLASIK 07.12.2025",
+      "thumbnail": "https://i.ytimg.com/vi/avBmwxw8Bvo/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2025-12-08T07:15:51Z"
+    },
+    {
+      "id": "xTB7Qu6CQv8",
+      "title": "Traverzáci vs Vikings HOBBY 07.12.2025",
+      "thumbnail": "https://i.ytimg.com/vi/xTB7Qu6CQv8/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2025-12-08T07:03:19Z"
+    },
     {
       "id": "dWrQXO64yR4",
       "title": "Žižkov vs Berkut SUPER 07.12.2025",
@@ -36,20 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/cFI8e61R2AY/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2025-12-07T19:00:03Z"
-    },
-    {
-      "id": "avBmwxw8Bvo",
-      "title": "Raptors vs Taste KLASIK 07.12.2025",
-      "thumbnail": "https://i.ytimg.com/vi/avBmwxw8Bvo/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2025-12-07T17:48:01Z"
-    },
-    {
-      "id": "xTB7Qu6CQv8",
-      "title": "Traverzáci vs Vikings HOBBY 07.12.2025",
-      "thumbnail": "https://i.ytimg.com/vi/xTB7Qu6CQv8/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2025-12-07T17:31:31Z"
     }
   ]
 }
