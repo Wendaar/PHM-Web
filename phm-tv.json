@@ -1,7 +1,21 @@
 {
-  "updated": "2025-12-08T05:18:16.107Z",
+  "updated": "2025-12-08T05:44:26.773Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
+    {
+      "id": "dWrQXO64yR4",
+      "title": "Žižkov vs Berkut SUPER 07.12.2025",
+      "thumbnail": "https://i.ytimg.com/vi/dWrQXO64yR4/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2025-12-08T05:43:49Z"
+    },
+    {
+      "id": "wQb3TZQd70s",
+      "title": "Zbraslav vs Domynos SUPER 07.12.2025",
+      "thumbnail": "https://i.ytimg.com/vi/wQb3TZQd70s/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2025-12-08T05:34:40Z"
+    },
     {
       "id": "Q1myoDWQBs0",
       "title": "MyQ vs Papoušci HOBBY 07.12.2025",
@@ -36,20 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/xTB7Qu6CQv8/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2025-12-07T17:31:31Z"
-    },
-    {
-      "id": "dWrQXO64yR4",
-      "title": "Žižkov vs Berkut SUPER 07.12.2025",
-      "thumbnail": "https://i.ytimg.com/vi/dWrQXO64yR4/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2025-12-07T16:18:14Z"
-    },
-    {
-      "id": "wQb3TZQd70s",
-      "title": "Zbraslav vs Domynos SUPER 07.12.2025",
-      "thumbnail": "https://i.ytimg.com/vi/wQb3TZQd70s/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2025-12-07T15:59:31Z"
     }
   ]
 }
