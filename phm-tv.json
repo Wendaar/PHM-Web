@@ -1,14 +1,7 @@
 {
-  "updated": "2025-12-08T20:18:08.547Z",
+  "updated": "2025-12-08T20:43:11.981Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
-    {
-      "id": "4bBTKjtnd-w",
-      "title": "WLB vs CAR",
-      "thumbnail": "https://i.ytimg.com/vi/4bBTKjtnd-w/mqdefault_live.jpg",
-      "isLive": true,
-      "publishedAt": "2025-12-08T19:02:30Z"
-    },
     {
       "id": "VXp2SuOGSB4",
       "title": "Polar Bears vs Žraloci HOBBY 8.12.2025",
@@ -22,6 +15,20 @@
       "thumbnail": "https://i.ytimg.com/vi/I0GkxZGWAck/mqdefault_live.jpg",
       "isLive": true,
       "publishedAt": "2025-12-08T19:36:32Z"
+    },
+    {
+      "id": "Les-1j0k_mE",
+      "title": "LEV vs CHZ",
+      "thumbnail": "https://i.ytimg.com/vi/Les-1j0k_mE/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2025-12-08T20:34:48Z"
+    },
+    {
+      "id": "4bBTKjtnd-w",
+      "title": "WLB vs CAR",
+      "thumbnail": "https://i.ytimg.com/vi/4bBTKjtnd-w/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2025-12-08T19:02:30Z"
     },
     {
       "id": "ZCpVOQ24S0o",
@@ -43,13 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/avBmwxw8Bvo/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2025-12-08T07:15:51Z"
-    },
-    {
-      "id": "xTB7Qu6CQv8",
-      "title": "Traverzáci vs Vikings HOBBY 07.12.2025",
-      "thumbnail": "https://i.ytimg.com/vi/xTB7Qu6CQv8/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2025-12-08T07:03:19Z"
     }
   ]
 }
