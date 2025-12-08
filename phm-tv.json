@@ -1,7 +1,14 @@
 {
-  "updated": "2025-12-08T08:24:57.705Z",
+  "updated": "2025-12-08T08:52:19.920Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
+    {
+      "id": "cFI8e61R2AY",
+      "title": "Pigeons B vs Alligators KLASIK 07.12.2025",
+      "thumbnail": "https://i.ytimg.com/vi/cFI8e61R2AY/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2025-12-08T08:36:35Z"
+    },
     {
       "id": "avBmwxw8Bvo",
       "title": "Raptors vs Taste KLASIK 07.12.2025",
@@ -43,13 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/KygNMRB_WEo/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2025-12-08T04:04:47Z"
-    },
-    {
-      "id": "cFI8e61R2AY",
-      "title": "Pigeons B vs Alligators KLASIK 07.12.2025",
-      "thumbnail": "https://i.ytimg.com/vi/cFI8e61R2AY/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2025-12-07T19:00:03Z"
     }
   ]
 }
