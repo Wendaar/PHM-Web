@@ -1,27 +1,27 @@
 {
-  "updated": "2025-12-08T20:43:11.981Z",
+  "updated": "2025-12-08T21:14:00.667Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
-    {
-      "id": "VXp2SuOGSB4",
-      "title": "Polar Bears vs Žraloci HOBBY 8.12.2025",
-      "thumbnail": "https://i.ytimg.com/vi/VXp2SuOGSB4/mqdefault_live.jpg",
-      "isLive": true,
-      "publishedAt": "2025-12-08T19:57:39Z"
-    },
-    {
-      "id": "I0GkxZGWAck",
-      "title": "ATTL vs OFFICE RATS SPORT 08.12.2025",
-      "thumbnail": "https://i.ytimg.com/vi/I0GkxZGWAck/mqdefault_live.jpg",
-      "isLive": true,
-      "publishedAt": "2025-12-08T19:36:32Z"
-    },
     {
       "id": "Les-1j0k_mE",
       "title": "LEV vs CHZ",
       "thumbnail": "https://i.ytimg.com/vi/Les-1j0k_mE/mqdefault_live.jpg",
       "isLive": true,
       "publishedAt": "2025-12-08T20:34:48Z"
+    },
+    {
+      "id": "VXp2SuOGSB4",
+      "title": "Polar Bears vs Žraloci HOBBY 8.12.2025",
+      "thumbnail": "https://i.ytimg.com/vi/VXp2SuOGSB4/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2025-12-08T19:57:39Z"
+    },
+    {
+      "id": "I0GkxZGWAck",
+      "title": "ATTL vs OFFICE RATS SPORT 08.12.2025",
+      "thumbnail": "https://i.ytimg.com/vi/I0GkxZGWAck/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2025-12-08T19:36:32Z"
     },
     {
       "id": "4bBTKjtnd-w",
