@@ -1,7 +1,14 @@
 {
-  "updated": "2025-12-09T18:49:24.398Z",
+  "updated": "2025-12-09T19:12:03.339Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
+    {
+      "id": "nhhuP_NtyVU",
+      "title": "PAL vs KVE - 9.12.2025, HOBBY",
+      "thumbnail": "https://i.ytimg.com/vi/nhhuP_NtyVU/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2025-12-09T18:58:19Z"
+    },
     {
       "id": "Les-1j0k_mE",
       "title": "Fanklub Lev vs Cheza SPORT 08.12.2025",
@@ -43,13 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/cFI8e61R2AY/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2025-12-08T08:36:35Z"
-    },
-    {
-      "id": "avBmwxw8Bvo",
-      "title": "Raptors vs Taste KLASIK 07.12.2025",
-      "thumbnail": "https://i.ytimg.com/vi/avBmwxw8Bvo/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2025-12-08T07:15:51Z"
     }
   ]
 }
