@@ -1,7 +1,14 @@
 {
-  "updated": "2025-12-09T09:19:36.288Z",
+  "updated": "2025-12-09T09:43:53.856Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
+    {
+      "id": "VXp2SuOGSB4",
+      "title": "Polar Bears vs Žraloci HOBBY 08.12.2025",
+      "thumbnail": "https://i.ytimg.com/vi/VXp2SuOGSB4/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2025-12-09T09:23:27Z"
+    },
     {
       "id": "I0GkxZGWAck",
       "title": "ATTL vs Office Rats SPORT 08.12.2025",
@@ -29,13 +36,6 @@
       "thumbnail": "https://i.ytimg.com/vi/Les-1j0k_mE/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2025-12-08T20:34:48Z"
-    },
-    {
-      "id": "VXp2SuOGSB4",
-      "title": "Polar Bears vs Žraloci HOBBY 08.12.2025",
-      "thumbnail": "https://i.ytimg.com/vi/VXp2SuOGSB4/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2025-12-08T19:57:39Z"
     },
     {
       "id": "cFI8e61R2AY",
