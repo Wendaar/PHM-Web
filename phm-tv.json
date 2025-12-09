@@ -1,48 +1,41 @@
 {
-  "updated": "2025-12-09T23:15:39.419Z",
+  "updated": "2025-12-09T23:36:35.583Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
     {
       "id": "wou_TIeTVhs",
-      "title": "H.O.V.N.A. vs. Heyoka SPORT 9.12.2025",
+      "title": "HOVNA vs Heyoka SPORT 09.12.2025",
       "thumbnail": "https://i.ytimg.com/vi/wou_TIeTVhs/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2025-12-09T20:57:53Z"
     },
     {
       "id": "-18qOulIEcg",
-      "title": "BDT vs DKB 9.12.2025, KLASIK",
+      "title": "Banditos vs Ducks B KLASIK 09.12.2025",
       "thumbnail": "https://i.ytimg.com/vi/-18qOulIEcg/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2025-12-09T20:26:44Z"
     },
     {
       "id": "MHSbqVkdaF8",
-      "title": "Zbraslav VS Kosti super 09,12,2025",
+      "title": "Zbraslav vs Kosti SUPER 09.12.2025",
       "thumbnail": "https://i.ytimg.com/vi/MHSbqVkdaF8/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2025-12-09T20:00:27Z"
     },
     {
       "id": "Dd69MWnrkWs",
-      "title": "icerink HOBBY",
+      "title": "Paladins vs KV Elektro HOBBY 09.12.2025",
       "thumbnail": "https://i.ytimg.com/vi/Dd69MWnrkWs/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2025-12-09T19:27:14Z"
     },
     {
       "id": "JY1ySFaKPh0",
-      "title": "Alligators vs. PLATIDLO HOBBY 9.12.2025",
+      "title": "Alligators vs PLATIDLO KLASIK 09.12.2025",
       "thumbnail": "https://i.ytimg.com/vi/JY1ySFaKPh0/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2025-12-09T19:21:52Z"
-    },
-    {
-      "id": "nhhuP_NtyVU",
-      "title": "PAL vs KVE - 9.12.2025, HOBBY",
-      "thumbnail": "https://i.ytimg.com/vi/nhhuP_NtyVU/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2025-12-09T19:19:41Z"
     },
     {
       "id": "Les-1j0k_mE",
@@ -50,6 +43,13 @@
       "thumbnail": "https://i.ytimg.com/vi/Les-1j0k_mE/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2025-12-09T10:22:29Z"
+    },
+    {
+      "id": "VXp2SuOGSB4",
+      "title": "Polar Bears vs Žraloci HOBBY 08.12.2025",
+      "thumbnail": "https://i.ytimg.com/vi/VXp2SuOGSB4/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2025-12-09T09:23:27Z"
     }
   ]
 }
