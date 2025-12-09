@@ -1,5 +1,5 @@
 {
-  "updated": "2025-12-09T19:36:35.453Z",
+  "updated": "2025-12-09T20:16:19.467Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
     {
@@ -8,6 +8,13 @@
       "thumbnail": "https://i.ytimg.com/vi/JY1ySFaKPh0/mqdefault_live.jpg",
       "isLive": true,
       "publishedAt": "2025-12-09T19:21:52Z"
+    },
+    {
+      "id": "MHSbqVkdaF8",
+      "title": "Zbraslav VS Kosti super 09,12,2025",
+      "thumbnail": "https://i.ytimg.com/vi/MHSbqVkdaF8/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2025-12-09T20:00:27Z"
     },
     {
       "id": "Dd69MWnrkWs",
@@ -43,13 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/I0GkxZGWAck/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2025-12-09T08:54:41Z"
-    },
-    {
-      "id": "ZCpVOQ24S0o",
-      "title": "Ducks Sport vs Pigeons SPORT 08.12.2025",
-      "thumbnail": "https://i.ytimg.com/vi/ZCpVOQ24S0o/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2025-12-09T08:37:07Z"
     }
   ]
 }
