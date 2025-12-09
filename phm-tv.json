@@ -1,13 +1,13 @@
 {
-  "updated": "2025-12-09T20:16:19.467Z",
+  "updated": "2025-12-09T20:38:54.570Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
     {
-      "id": "JY1ySFaKPh0",
-      "title": "Alligators vs. PLATIDLO HOBBY 9.12.2025",
-      "thumbnail": "https://i.ytimg.com/vi/JY1ySFaKPh0/mqdefault_live.jpg",
+      "id": "-18qOulIEcg",
+      "title": "BDT vs DKB 9.12.2025, KLASIK",
+      "thumbnail": "https://i.ytimg.com/vi/-18qOulIEcg/mqdefault_live.jpg",
       "isLive": true,
-      "publishedAt": "2025-12-09T19:21:52Z"
+      "publishedAt": "2025-12-09T20:26:44Z"
     },
     {
       "id": "MHSbqVkdaF8",
@@ -17,10 +17,17 @@
       "publishedAt": "2025-12-09T20:00:27Z"
     },
     {
+      "id": "JY1ySFaKPh0",
+      "title": "Alligators vs. PLATIDLO HOBBY 9.12.2025",
+      "thumbnail": "https://i.ytimg.com/vi/JY1ySFaKPh0/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2025-12-09T19:21:52Z"
+    },
+    {
       "id": "Dd69MWnrkWs",
       "title": "icerink HOBBY",
-      "thumbnail": "https://i.ytimg.com/vi/Dd69MWnrkWs/mqdefault_live.jpg",
-      "isLive": true,
+      "thumbnail": "https://i.ytimg.com/vi/Dd69MWnrkWs/mqdefault.jpg",
+      "isLive": false,
       "publishedAt": "2025-12-09T19:27:14Z"
     },
     {
@@ -43,13 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/VXp2SuOGSB4/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2025-12-09T09:23:27Z"
-    },
-    {
-      "id": "I0GkxZGWAck",
-      "title": "ATTL vs Office Rats SPORT 08.12.2025",
-      "thumbnail": "https://i.ytimg.com/vi/I0GkxZGWAck/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2025-12-09T08:54:41Z"
     }
   ]
 }
