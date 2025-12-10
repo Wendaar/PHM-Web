@@ -1,7 +1,21 @@
 {
-  "updated": "2025-12-10T19:14:18.755Z",
+  "updated": "2025-12-10T19:37:45.570Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
+    {
+      "id": "jdqJC4ZjO9Q",
+      "title": "Fešáci vs Ice Rats SPORT 10.12.2025",
+      "thumbnail": "https://i.ytimg.com/vi/jdqJC4ZjO9Q/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2025-12-10T19:18:00Z"
+    },
+    {
+      "id": "Giql3SHrzVY",
+      "title": "Ducks C vs Papoušci HOBBY 10.12.2025",
+      "thumbnail": "https://i.ytimg.com/vi/Giql3SHrzVY/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2025-12-10T19:20:28Z"
+    },
     {
       "id": "QBBEqVFDdHA",
       "title": "Gaston Seals vs HC Raptors",
@@ -36,20 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/rCyvajdcTH0/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2025-12-10T18:48:20Z"
-    },
-    {
-      "id": "wou_TIeTVhs",
-      "title": "HOVNA vs Heyoka SPORT 09.12.2025",
-      "thumbnail": "https://i.ytimg.com/vi/wou_TIeTVhs/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2025-12-10T10:21:08Z"
-    },
-    {
-      "id": "-18qOulIEcg",
-      "title": "Banditos vs Ducks B KLASIK 09.12.2025",
-      "thumbnail": "https://i.ytimg.com/vi/-18qOulIEcg/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2025-12-10T09:52:00Z"
     }
   ]
 }
