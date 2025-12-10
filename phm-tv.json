@@ -1,13 +1,13 @@
 {
-  "updated": "2025-12-10T20:18:56.645Z",
+  "updated": "2025-12-10T20:46:05.366Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
     {
-      "id": "jdqJC4ZjO9Q",
-      "title": "Fešáci vs Ice Rats SPORT 10.12.2025",
-      "thumbnail": "https://i.ytimg.com/vi/jdqJC4ZjO9Q/mqdefault_live.jpg",
+      "id": "FPEmlQ7evkQ",
+      "title": "Dragons vs Vikings HOBBY 10.12.2025",
+      "thumbnail": "https://i.ytimg.com/vi/FPEmlQ7evkQ/mqdefault_live.jpg",
       "isLive": true,
-      "publishedAt": "2025-12-10T19:18:00Z"
+      "publishedAt": "2025-12-10T20:44:21Z"
     },
     {
       "id": "SbNqqSRjrRg",
@@ -19,9 +19,16 @@
     {
       "id": "Giql3SHrzVY",
       "title": "Ducks C vs Papoušci HOBBY 10.12.2025",
-      "thumbnail": "https://i.ytimg.com/vi/Giql3SHrzVY/mqdefault_live.jpg",
-      "isLive": true,
-      "publishedAt": "2025-12-10T19:20:28Z"
+      "thumbnail": "https://i.ytimg.com/vi/Giql3SHrzVY/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2025-12-10T20:34:04Z"
+    },
+    {
+      "id": "jdqJC4ZjO9Q",
+      "title": "Fešáci vs Ice Rats SPORT 10.12.2025",
+      "thumbnail": "https://i.ytimg.com/vi/jdqJC4ZjO9Q/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2025-12-10T19:18:00Z"
     },
     {
       "id": "vkEGVGJcQB8",
@@ -43,13 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/KWRut8XpQpk/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2025-12-10T18:50:41Z"
-    },
-    {
-      "id": "rCyvajdcTH0",
-      "title": "26 12 7 MyQ vs Papoušci",
-      "thumbnail": "https://i.ytimg.com/vi/rCyvajdcTH0/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2025-12-10T18:48:20Z"
     }
   ]
 }
