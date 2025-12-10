@@ -1,5 +1,5 @@
 {
-  "updated": "2025-12-10T21:17:34.172Z",
+  "updated": "2025-12-10T21:42:45.206Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
     {
@@ -8,13 +8,6 @@
       "thumbnail": "https://i.ytimg.com/vi/T9KGaLQUfL4/mqdefault_live.jpg",
       "isLive": true,
       "publishedAt": "2025-12-10T20:49:12Z"
-    },
-    {
-      "id": "SbNqqSRjrRg",
-      "title": "HC Strašáci vs AHA Reindeers",
-      "thumbnail": "https://i.ytimg.com/vi/SbNqqSRjrRg/mqdefault_live.jpg",
-      "isLive": true,
-      "publishedAt": "2025-12-10T20:02:38Z"
     },
     {
       "id": "FPEmlQ7evkQ",
@@ -29,6 +22,13 @@
       "thumbnail": "https://i.ytimg.com/vi/Giql3SHrzVY/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2025-12-10T20:34:04Z"
+    },
+    {
+      "id": "SbNqqSRjrRg",
+      "title": "HC Strašáci vs AHA Reindeers",
+      "thumbnail": "https://i.ytimg.com/vi/SbNqqSRjrRg/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2025-12-10T20:02:38Z"
     },
     {
       "id": "jdqJC4ZjO9Q",
