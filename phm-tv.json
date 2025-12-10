@@ -1,7 +1,28 @@
 {
-  "updated": "2025-12-10T18:24:33.122Z",
+  "updated": "2025-12-10T18:51:26.941Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
+    {
+      "id": "QBBEqVFDdHA",
+      "title": "Gaston Seals vs HC Raptors",
+      "thumbnail": "https://i.ytimg.com/vi/QBBEqVFDdHA/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2025-12-10T18:38:39Z"
+    },
+    {
+      "id": "GmKeK0M9aGo",
+      "title": "26 12 7 ZIZ BER",
+      "thumbnail": "https://i.ytimg.com/vi/GmKeK0M9aGo/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2025-12-10T18:50:30Z"
+    },
+    {
+      "id": "rCyvajdcTH0",
+      "title": "26 12 7 MYQ PAP",
+      "thumbnail": "https://i.ytimg.com/vi/rCyvajdcTH0/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2025-12-10T18:48:20Z"
+    },
     {
       "id": "wou_TIeTVhs",
       "title": "HOVNA vs Heyoka SPORT 09.12.2025",
@@ -29,27 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/JY1ySFaKPh0/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2025-12-10T09:01:45Z"
-    },
-    {
-      "id": "Dd69MWnrkWs",
-      "title": "Paladins vs KV Elektro HOBBY 09.12.2025",
-      "thumbnail": "https://i.ytimg.com/vi/Dd69MWnrkWs/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2025-12-10T08:20:44Z"
-    },
-    {
-      "id": "Les-1j0k_mE",
-      "title": "Fanklub Lev vs Cheza SPORT 08.12.2025",
-      "thumbnail": "https://i.ytimg.com/vi/Les-1j0k_mE/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2025-12-09T10:22:29Z"
-    },
-    {
-      "id": "VXp2SuOGSB4",
-      "title": "Polar Bears vs Žraloci HOBBY 08.12.2025",
-      "thumbnail": "https://i.ytimg.com/vi/VXp2SuOGSB4/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2025-12-09T09:23:27Z"
     }
   ]
 }
