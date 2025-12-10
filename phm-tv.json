@@ -1,5 +1,5 @@
 {
-  "updated": "2025-12-10T18:51:26.941Z",
+  "updated": "2025-12-10T19:14:18.755Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
     {
@@ -10,15 +10,29 @@
       "publishedAt": "2025-12-10T18:38:39Z"
     },
     {
+      "id": "vkEGVGJcQB8",
+      "title": "26 12 9 Zbraslav vs Kosti",
+      "thumbnail": "https://i.ytimg.com/vi/vkEGVGJcQB8/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2025-12-10T18:57:13Z"
+    },
+    {
       "id": "GmKeK0M9aGo",
-      "title": "26 12 7 ZIZ BER",
+      "title": "26 12 7 Žižkov vs Berkut",
       "thumbnail": "https://i.ytimg.com/vi/GmKeK0M9aGo/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2025-12-10T18:50:30Z"
     },
     {
+      "id": "KWRut8XpQpk",
+      "title": "26 12 7 Raptors vs Taste",
+      "thumbnail": "https://i.ytimg.com/vi/KWRut8XpQpk/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2025-12-10T18:50:41Z"
+    },
+    {
       "id": "rCyvajdcTH0",
-      "title": "26 12 7 MYQ PAP",
+      "title": "26 12 7 MyQ vs Papoušci",
       "thumbnail": "https://i.ytimg.com/vi/rCyvajdcTH0/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2025-12-10T18:48:20Z"
@@ -36,20 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/-18qOulIEcg/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2025-12-10T09:52:00Z"
-    },
-    {
-      "id": "MHSbqVkdaF8",
-      "title": "Zbraslav vs Kosti SUPER 09.12.2025",
-      "thumbnail": "https://i.ytimg.com/vi/MHSbqVkdaF8/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2025-12-10T09:26:01Z"
-    },
-    {
-      "id": "JY1ySFaKPh0",
-      "title": "Alligators vs PLATIDLO KLASIK 09.12.2025",
-      "thumbnail": "https://i.ytimg.com/vi/JY1ySFaKPh0/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2025-12-10T09:01:45Z"
     }
   ]
 }
