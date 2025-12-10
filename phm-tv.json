@@ -1,7 +1,14 @@
 {
-  "updated": "2025-12-10T09:19:50.968Z",
+  "updated": "2025-12-10T09:45:06.780Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
+    {
+      "id": "MHSbqVkdaF8",
+      "title": "Zbraslav vs Kosti SUPER 09.12.2025",
+      "thumbnail": "https://i.ytimg.com/vi/MHSbqVkdaF8/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2025-12-10T09:26:01Z"
+    },
     {
       "id": "JY1ySFaKPh0",
       "title": "Alligators vs PLATIDLO KLASIK 09.12.2025",
@@ -29,13 +36,6 @@
       "thumbnail": "https://i.ytimg.com/vi/-18qOulIEcg/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2025-12-09T20:26:44Z"
-    },
-    {
-      "id": "MHSbqVkdaF8",
-      "title": "Zbraslav vs Kosti SUPER 09.12.2025",
-      "thumbnail": "https://i.ytimg.com/vi/MHSbqVkdaF8/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2025-12-09T20:00:27Z"
     },
     {
       "id": "Les-1j0k_mE",
