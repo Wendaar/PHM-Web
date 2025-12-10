@@ -1,7 +1,14 @@
 {
-  "updated": "2025-12-10T07:42:11.125Z",
+  "updated": "2025-12-10T08:22:25.778Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
+    {
+      "id": "Dd69MWnrkWs",
+      "title": "Paladins vs KV Elektro HOBBY 09.12.2025",
+      "thumbnail": "https://i.ytimg.com/vi/Dd69MWnrkWs/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2025-12-10T08:20:44Z"
+    },
     {
       "id": "wou_TIeTVhs",
       "title": "HOVNA vs Heyoka SPORT 09.12.2025",
@@ -22,13 +29,6 @@
       "thumbnail": "https://i.ytimg.com/vi/MHSbqVkdaF8/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2025-12-09T20:00:27Z"
-    },
-    {
-      "id": "Dd69MWnrkWs",
-      "title": "Paladins vs KV Elektro HOBBY 09.12.2025",
-      "thumbnail": "https://i.ytimg.com/vi/Dd69MWnrkWs/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2025-12-09T19:27:14Z"
     },
     {
       "id": "JY1ySFaKPh0",
