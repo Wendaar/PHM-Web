@@ -1,13 +1,13 @@
 {
-  "updated": "2025-12-10T20:46:05.366Z",
+  "updated": "2025-12-10T21:17:34.172Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
     {
-      "id": "FPEmlQ7evkQ",
-      "title": "Dragons vs Vikings HOBBY 10.12.2025",
-      "thumbnail": "https://i.ytimg.com/vi/FPEmlQ7evkQ/mqdefault_live.jpg",
+      "id": "T9KGaLQUfL4",
+      "title": "Ice Spiders vs Soldiers B HOBBY 10.12.2025",
+      "thumbnail": "https://i.ytimg.com/vi/T9KGaLQUfL4/mqdefault_live.jpg",
       "isLive": true,
-      "publishedAt": "2025-12-10T20:44:21Z"
+      "publishedAt": "2025-12-10T20:49:12Z"
     },
     {
       "id": "SbNqqSRjrRg",
@@ -15,6 +15,13 @@
       "thumbnail": "https://i.ytimg.com/vi/SbNqqSRjrRg/mqdefault_live.jpg",
       "isLive": true,
       "publishedAt": "2025-12-10T20:02:38Z"
+    },
+    {
+      "id": "FPEmlQ7evkQ",
+      "title": "Dragons vs Vikings HOBBY 10.12.2025",
+      "thumbnail": "https://i.ytimg.com/vi/FPEmlQ7evkQ/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2025-12-10T20:44:21Z"
     },
     {
       "id": "Giql3SHrzVY",
@@ -43,13 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/GmKeK0M9aGo/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2025-12-10T18:50:30Z"
-    },
-    {
-      "id": "KWRut8XpQpk",
-      "title": "26 12 7 Raptors vs Taste",
-      "thumbnail": "https://i.ytimg.com/vi/KWRut8XpQpk/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2025-12-10T18:50:41Z"
     }
   ]
 }
