@@ -1,7 +1,14 @@
 {
-  "updated": "2025-12-11T18:53:53.698Z",
+  "updated": "2025-12-11T19:16:12.121Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
+    {
+      "id": "ENKVjiG8Kh8",
+      "title": "WLV vs RST",
+      "thumbnail": "https://i.ytimg.com/vi/ENKVjiG8Kh8/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2025-12-11T19:02:10Z"
+    },
     {
       "id": "FPEmlQ7evkQ",
       "title": "Dragons vs Vikings HOBBY 10.12.2025",
@@ -43,13 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/Giql3SHrzVY/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2025-12-10T20:34:04Z"
-    },
-    {
-      "id": "vkEGVGJcQB8",
-      "title": "26 12 9 Zbraslav vs Kosti",
-      "thumbnail": "https://i.ytimg.com/vi/vkEGVGJcQB8/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2025-12-10T18:57:13Z"
     }
   ]
 }
