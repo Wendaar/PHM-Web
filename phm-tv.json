@@ -1,7 +1,14 @@
 {
-  "updated": "2025-12-11T10:18:55.522Z",
+  "updated": "2025-12-11T10:47:30.695Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
+    {
+      "id": "FPEmlQ7evkQ",
+      "title": "Dragons vs Vikings HOBBY 10.12.2025",
+      "thumbnail": "https://i.ytimg.com/vi/FPEmlQ7evkQ/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2025-12-11T10:28:28Z"
+    },
     {
       "id": "T9KGaLQUfL4",
       "title": "Spiders vs Soldiers B HOBBY 10.12.2025",
@@ -29,13 +36,6 @@
       "thumbnail": "https://i.ytimg.com/vi/QBBEqVFDdHA/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2025-12-11T08:06:49Z"
-    },
-    {
-      "id": "FPEmlQ7evkQ",
-      "title": "Dragons vs Vikings HOBBY 10.12.2025",
-      "thumbnail": "https://i.ytimg.com/vi/FPEmlQ7evkQ/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2025-12-10T20:44:21Z"
     },
     {
       "id": "Giql3SHrzVY",
