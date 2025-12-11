@@ -1,12 +1,19 @@
 {
-  "updated": "2025-12-11T19:39:08.541Z",
+  "updated": "2025-12-11T20:19:17.519Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
     {
+      "id": "yXJUL2IPVrw",
+      "title": "VŠCHT vs. 3LF UK FLLH 11.12.2025",
+      "thumbnail": "https://i.ytimg.com/vi/yXJUL2IPVrw/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2025-12-11T19:56:02Z"
+    },
+    {
       "id": "ENKVjiG8Kh8",
       "title": "WLV vs RST",
-      "thumbnail": "https://i.ytimg.com/vi/ENKVjiG8Kh8/mqdefault_live.jpg",
-      "isLive": true,
+      "thumbnail": "https://i.ytimg.com/vi/ENKVjiG8Kh8/mqdefault.jpg",
+      "isLive": false,
       "publishedAt": "2025-12-11T19:02:10Z"
     },
     {
@@ -43,13 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/QBBEqVFDdHA/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2025-12-11T08:06:49Z"
-    },
-    {
-      "id": "Giql3SHrzVY",
-      "title": "Ducks C vs Papoušci HOBBY 10.12.2025",
-      "thumbnail": "https://i.ytimg.com/vi/Giql3SHrzVY/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2025-12-10T20:34:04Z"
     }
   ]
 }
