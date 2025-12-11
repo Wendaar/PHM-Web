@@ -1,7 +1,14 @@
 {
-  "updated": "2025-12-11T20:19:17.519Z",
+  "updated": "2025-12-11T20:41:47.728Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
+    {
+      "id": "0SeOKrrMWGI",
+      "title": "PPB vs STARs",
+      "thumbnail": "https://i.ytimg.com/vi/0SeOKrrMWGI/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2025-12-11T20:23:20Z"
+    },
     {
       "id": "yXJUL2IPVrw",
       "title": "VŠCHT vs. 3LF UK FLLH 11.12.2025",
@@ -43,13 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/jdqJC4ZjO9Q/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2025-12-11T08:44:17Z"
-    },
-    {
-      "id": "QBBEqVFDdHA",
-      "title": "Gastoni vs Raptors KLASIK 10.12.2025",
-      "thumbnail": "https://i.ytimg.com/vi/QBBEqVFDdHA/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2025-12-11T08:06:49Z"
     }
   ]
 }
