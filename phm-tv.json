@@ -1,7 +1,14 @@
 {
-  "updated": "2025-12-11T07:42:01.316Z",
+  "updated": "2025-12-11T08:23:40.753Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
+    {
+      "id": "QBBEqVFDdHA",
+      "title": "Gastoni vs Raptors KLASIK 10.12.2025",
+      "thumbnail": "https://i.ytimg.com/vi/QBBEqVFDdHA/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2025-12-11T08:06:49Z"
+    },
     {
       "id": "T9KGaLQUfL4",
       "title": "Spiders vs Soldiers B HOBBY 10.12.2025",
@@ -43,13 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/vkEGVGJcQB8/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2025-12-10T18:57:13Z"
-    },
-    {
-      "id": "GmKeK0M9aGo",
-      "title": "26 12 7 Žižkov vs Berkut",
-      "thumbnail": "https://i.ytimg.com/vi/GmKeK0M9aGo/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2025-12-10T18:50:30Z"
     }
   ]
 }
