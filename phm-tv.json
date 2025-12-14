@@ -1,20 +1,27 @@
 {
-  "updated": "2025-12-14T17:13:31.450Z",
+  "updated": "2025-12-14T17:38:31.382Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
     {
-      "id": "XuHbCRPoV-k",
-      "title": "Zbraslav vs Žižkov Super 14.12.25",
-      "thumbnail": "https://i.ytimg.com/vi/XuHbCRPoV-k/mqdefault_live.jpg",
+      "id": "cXkDOhxrSac",
+      "title": "Soldiers vs Berkut Super 14.12.25",
+      "thumbnail": "https://i.ytimg.com/vi/cXkDOhxrSac/mqdefault_live.jpg",
       "isLive": true,
-      "publishedAt": "2025-12-14T16:00:13Z"
+      "publishedAt": "2025-12-14T17:37:32Z"
     },
     {
       "id": "L2kQMDKgd4k",
       "title": "Voholto vs Heyoka SPORT 14.12.2025",
-      "thumbnail": "https://i.ytimg.com/vi/L2kQMDKgd4k/mqdefault_live.jpg",
-      "isLive": true,
+      "thumbnail": "https://i.ytimg.com/vi/L2kQMDKgd4k/mqdefault.jpg",
+      "isLive": false,
       "publishedAt": "2025-12-14T16:18:00Z"
+    },
+    {
+      "id": "XuHbCRPoV-k",
+      "title": "Zbraslav vs Žižkov Super 14.12.25",
+      "thumbnail": "https://i.ytimg.com/vi/XuHbCRPoV-k/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2025-12-14T16:00:13Z"
     },
     {
       "id": "WzmP1-B2FbY",
@@ -43,13 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/gD8gQYh6o_8/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2025-12-12T09:51:39Z"
-    },
-    {
-      "id": "3tLt8WnpGxA",
-      "title": "26 WEEK RECAP 12 11 SPORT",
-      "thumbnail": "https://i.ytimg.com/vi/3tLt8WnpGxA/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2025-12-12T09:51:45Z"
     }
   ]
 }
