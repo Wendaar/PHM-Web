@@ -1,7 +1,14 @@
 {
-  "updated": "2025-12-15T06:28:07.422Z",
+  "updated": "2025-12-15T06:57:35.250Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
+    {
+      "id": "rWp2_xUCBFc",
+      "title": "Gladiators vs Taste KLASIK 14.12.2025",
+      "thumbnail": "https://i.ytimg.com/vi/rWp2_xUCBFc/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2025-12-15T06:49:24Z"
+    },
     {
       "id": "XuHbCRPoV-k",
       "title": "Zbraslav vs Žižkov SUPER 14.12.2025",
@@ -29,13 +36,6 @@
       "thumbnail": "https://i.ytimg.com/vi/0Wb-fjyS5dI/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2025-12-14T19:09:40Z"
-    },
-    {
-      "id": "rWp2_xUCBFc",
-      "title": "Gladiators vs Taste KLASIK 14.12.2025",
-      "thumbnail": "https://i.ytimg.com/vi/rWp2_xUCBFc/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2025-12-14T17:45:39Z"
     },
     {
       "id": "cXkDOhxrSac",
