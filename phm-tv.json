@@ -1,7 +1,21 @@
 {
-  "updated": "2025-12-16T18:24:56.482Z",
+  "updated": "2025-12-16T18:53:45.275Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
+    {
+      "id": "NvnNW9yOjnY",
+      "title": "Pelicans Trimed",
+      "thumbnail": "https://i.ytimg.com/vi/NvnNW9yOjnY/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2025-12-16T18:44:58Z"
+    },
+    {
+      "id": "OqpV3P7Yt1k",
+      "title": "HOV vs FES",
+      "thumbnail": "https://i.ytimg.com/vi/OqpV3P7Yt1k/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2025-12-16T18:25:50Z"
+    },
     {
       "id": "bp8Ysvj7TzQ",
       "title": "Kaufland Team CZ vs Franklin Pierce Ravens (2nd Stream)",
@@ -36,20 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/IFlKXa43d2s/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2025-12-16T08:53:36Z"
-    },
-    {
-      "id": "KXe0_EEkru0",
-      "title": "Raptors vs Pigeons B KLASIK 15.12.2025",
-      "thumbnail": "https://i.ytimg.com/vi/KXe0_EEkru0/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2025-12-16T08:47:02Z"
-    },
-    {
-      "id": "cnk4z6uech4",
-      "title": "Ducks Sport vs Cheza SPORT 15.12.2025",
-      "thumbnail": "https://i.ytimg.com/vi/cnk4z6uech4/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2025-12-16T07:52:58Z"
     }
   ]
 }
