@@ -1,13 +1,13 @@
 {
-  "updated": "2025-12-16T18:53:45.275Z",
+  "updated": "2025-12-16T19:16:18.199Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
     {
-      "id": "NvnNW9yOjnY",
-      "title": "Pelicans Trimed",
-      "thumbnail": "https://i.ytimg.com/vi/NvnNW9yOjnY/mqdefault_live.jpg",
+      "id": "WwXuQWiMBvI",
+      "title": "Dragons vs Elektro HOBBY 16.12.2025",
+      "thumbnail": "https://i.ytimg.com/vi/WwXuQWiMBvI/mqdefault_live.jpg",
       "isLive": true,
-      "publishedAt": "2025-12-16T18:44:58Z"
+      "publishedAt": "2025-12-16T19:15:21Z"
     },
     {
       "id": "OqpV3P7Yt1k",
@@ -15,6 +15,13 @@
       "thumbnail": "https://i.ytimg.com/vi/OqpV3P7Yt1k/mqdefault_live.jpg",
       "isLive": true,
       "publishedAt": "2025-12-16T18:25:50Z"
+    },
+    {
+      "id": "NvnNW9yOjnY",
+      "title": "Pelicans Trimed",
+      "thumbnail": "https://i.ytimg.com/vi/NvnNW9yOjnY/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2025-12-16T18:44:58Z"
     },
     {
       "id": "bp8Ysvj7TzQ",
@@ -43,13 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/I4PRpGrsZr4/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2025-12-16T09:20:52Z"
-    },
-    {
-      "id": "IFlKXa43d2s",
-      "title": "Alligators vs Banditos KLASIK 15.12.2025",
-      "thumbnail": "https://i.ytimg.com/vi/IFlKXa43d2s/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2025-12-16T08:53:36Z"
     }
   ]
 }
