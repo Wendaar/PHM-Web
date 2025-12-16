@@ -1,5 +1,5 @@
 {
-  "updated": "2025-12-16T19:16:18.199Z",
+  "updated": "2025-12-16T19:37:57.300Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
     {
@@ -24,6 +24,13 @@
       "publishedAt": "2025-12-16T18:44:58Z"
     },
     {
+      "id": "8V56strF55M",
+      "title": "Car-Back vs Platidlo Klasik 16.12.25",
+      "thumbnail": "https://i.ytimg.com/vi/8V56strF55M/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2025-12-16T19:25:04Z"
+    },
+    {
       "id": "bp8Ysvj7TzQ",
       "title": "Kaufland Team CZ vs Franklin Pierce Ravens (2nd Stream)",
       "thumbnail": "https://i.ytimg.com/vi/bp8Ysvj7TzQ/mqdefault.jpg",
@@ -43,13 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/5Rcf7tJHRNo/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2025-12-16T11:49:47Z"
-    },
-    {
-      "id": "I4PRpGrsZr4",
-      "title": "Renegades vs Domynos SUPER 15.12.2025",
-      "thumbnail": "https://i.ytimg.com/vi/I4PRpGrsZr4/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2025-12-16T09:20:52Z"
     }
   ]
 }
