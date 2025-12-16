@@ -1,21 +1,7 @@
 {
-  "updated": "2025-12-16T19:37:57.300Z",
+  "updated": "2025-12-16T20:19:03.660Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
-    {
-      "id": "WwXuQWiMBvI",
-      "title": "Dragons vs Elektro HOBBY 16.12.2025",
-      "thumbnail": "https://i.ytimg.com/vi/WwXuQWiMBvI/mqdefault_live.jpg",
-      "isLive": true,
-      "publishedAt": "2025-12-16T19:15:21Z"
-    },
-    {
-      "id": "OqpV3P7Yt1k",
-      "title": "HOV vs FES",
-      "thumbnail": "https://i.ytimg.com/vi/OqpV3P7Yt1k/mqdefault_live.jpg",
-      "isLive": true,
-      "publishedAt": "2025-12-16T18:25:50Z"
-    },
     {
       "id": "NvnNW9yOjnY",
       "title": "Pelicans Trimed",
@@ -31,6 +17,27 @@
       "publishedAt": "2025-12-16T19:25:04Z"
     },
     {
+      "id": "gBFD8yS7mw8",
+      "title": "DKB vs GLA",
+      "thumbnail": "https://i.ytimg.com/vi/gBFD8yS7mw8/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2025-12-16T19:45:16Z"
+    },
+    {
+      "id": "OqpV3P7Yt1k",
+      "title": "HOV vs FES",
+      "thumbnail": "https://i.ytimg.com/vi/OqpV3P7Yt1k/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2025-12-16T19:51:03Z"
+    },
+    {
+      "id": "WwXuQWiMBvI",
+      "title": "Dragons vs Elektro HOBBY 16.12.2025",
+      "thumbnail": "https://i.ytimg.com/vi/WwXuQWiMBvI/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2025-12-16T19:15:21Z"
+    },
+    {
       "id": "bp8Ysvj7TzQ",
       "title": "Kaufland Team CZ vs Franklin Pierce Ravens (2nd Stream)",
       "thumbnail": "https://i.ytimg.com/vi/bp8Ysvj7TzQ/mqdefault.jpg",
@@ -43,13 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/7xgfgbpBGVU/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2025-12-16T11:52:11Z"
-    },
-    {
-      "id": "5Rcf7tJHRNo",
-      "title": "Kaufland Team vs Franklin Pierce Ravens",
-      "thumbnail": "https://i.ytimg.com/vi/5Rcf7tJHRNo/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2025-12-16T11:49:47Z"
     }
   ]
 }
