@@ -1,24 +1,17 @@
 {
-  "updated": "2025-12-16T21:16:50.785Z",
+  "updated": "2025-12-16T21:40:25.279Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
     {
-      "id": "gBFD8yS7mw8",
-      "title": "DKB vs GLA",
-      "thumbnail": "https://i.ytimg.com/vi/gBFD8yS7mw8/mqdefault_live.jpg",
-      "isLive": true,
-      "publishedAt": "2025-12-16T19:45:16Z"
-    },
-    {
       "id": "ChHqNyvcFqo",
-      "title": "MyQ Heroes vs Žraloci HOBBY 16.12.2025",
+      "title": "MyQ vs Žraloci HOBBY 16.12.2025",
       "thumbnail": "https://i.ytimg.com/vi/ChHqNyvcFqo/mqdefault_live.jpg",
       "isLive": true,
       "publishedAt": "2025-12-16T20:31:39Z"
     },
     {
       "id": "376AS9nakig",
-      "title": "Paladins vs Phantoms Hobby 16.12.25",
+      "title": "Paladins vs Phantoms HOBBY 16.12.2025",
       "thumbnail": "https://i.ytimg.com/vi/376AS9nakig/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2025-12-16T20:53:09Z"
@@ -31,8 +24,15 @@
       "publishedAt": "2025-12-16T19:51:03Z"
     },
     {
+      "id": "gBFD8yS7mw8",
+      "title": "Ducks B vs Gladiators KLASIK 16.12.2025",
+      "thumbnail": "https://i.ytimg.com/vi/gBFD8yS7mw8/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2025-12-16T19:45:16Z"
+    },
+    {
       "id": "8V56strF55M",
-      "title": "Car-Back vs Platidlo Klasik 16.12.25",
+      "title": "Car-Back vs PLATIDLO KLASIK 16.12.2025",
       "thumbnail": "https://i.ytimg.com/vi/8V56strF55M/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2025-12-16T19:25:04Z"
@@ -46,7 +46,7 @@
     },
     {
       "id": "NvnNW9yOjnY",
-      "title": "Pelicans Trimed",
+      "title": "Pelicans vs Trimed FLLH 16.12.2025",
       "thumbnail": "https://i.ytimg.com/vi/NvnNW9yOjnY/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2025-12-16T18:44:58Z"
