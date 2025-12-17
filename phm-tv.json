@@ -1,20 +1,27 @@
 {
-  "updated": "2025-12-17T19:16:33.314Z",
+  "updated": "2025-12-17T19:38:16.694Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
-    {
-      "id": "Gef8sXp5gQE",
-      "title": "Chiefs vs Kosti SUPER 17.12.2025",
-      "thumbnail": "https://i.ytimg.com/vi/Gef8sXp5gQE/mqdefault_live.jpg",
-      "isLive": true,
-      "publishedAt": "2025-12-17T19:11:14Z"
-    },
     {
       "id": "7D33Ldw0ijo",
       "title": "Off Ice Rats vs Voholto Sport 17.12.25",
       "thumbnail": "https://i.ytimg.com/vi/7D33Ldw0ijo/mqdefault_live.jpg",
       "isLive": true,
       "publishedAt": "2025-12-17T18:38:15Z"
+    },
+    {
+      "id": "vhj5aFvOyVk",
+      "title": "Ducks C vs Spiders HOBBY 17.12.2026",
+      "thumbnail": "https://i.ytimg.com/vi/vhj5aFvOyVk/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2025-12-17T19:16:35Z"
+    },
+    {
+      "id": "Gef8sXp5gQE",
+      "title": "Chiefs vs Kosti SUPER 17.12.2025",
+      "thumbnail": "https://i.ytimg.com/vi/Gef8sXp5gQE/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2025-12-17T19:11:14Z"
     },
     {
       "id": "ChHqNyvcFqo",
@@ -43,13 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/NvnNW9yOjnY/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2025-12-17T09:15:37Z"
-    },
-    {
-      "id": "8V56strF55M",
-      "title": "Car-Back vs PLATIDLO KLASIK 16.12.2025",
-      "thumbnail": "https://i.ytimg.com/vi/8V56strF55M/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2025-12-17T09:05:56Z"
     }
   ]
 }
