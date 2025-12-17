@@ -1,7 +1,14 @@
 {
-  "updated": "2025-12-17T20:18:58.536Z",
+  "updated": "2025-12-17T20:44:19.435Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
+    {
+      "id": "_m6Aamxz5Ew",
+      "title": "Soldiers B vs Vikings HOBBY 17.12.2025",
+      "thumbnail": "https://i.ytimg.com/vi/_m6Aamxz5Ew/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2025-12-17T20:39:11Z"
+    },
     {
       "id": "HSE5a1hB_5o",
       "title": "Traverzáci vs Reindeers Hobby 17.12.25",
@@ -12,15 +19,15 @@
     {
       "id": "vhj5aFvOyVk",
       "title": "Ducks C vs Spiders HOBBY 17.12.2026",
-      "thumbnail": "https://i.ytimg.com/vi/vhj5aFvOyVk/mqdefault_live.jpg",
-      "isLive": true,
+      "thumbnail": "https://i.ytimg.com/vi/vhj5aFvOyVk/mqdefault.jpg",
+      "isLive": false,
       "publishedAt": "2025-12-17T19:16:35Z"
     },
     {
       "id": "Gef8sXp5gQE",
       "title": "Chiefs vs Kosti SUPER 17.12.2025",
-      "thumbnail": "https://i.ytimg.com/vi/Gef8sXp5gQE/mqdefault_live.jpg",
-      "isLive": true,
+      "thumbnail": "https://i.ytimg.com/vi/Gef8sXp5gQE/mqdefault.jpg",
+      "isLive": false,
       "publishedAt": "2025-12-17T19:11:14Z"
     },
     {
@@ -43,13 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/gBFD8yS7mw8/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2025-12-17T09:24:43Z"
-    },
-    {
-      "id": "376AS9nakig",
-      "title": "Paladins vs Phantoms HOBBY 16.12.2025",
-      "thumbnail": "https://i.ytimg.com/vi/376AS9nakig/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2025-12-17T09:17:53Z"
     }
   ]
 }
