@@ -1,7 +1,14 @@
 {
-  "updated": "2025-12-18T20:40:40.349Z",
+  "updated": "2025-12-18T21:14:22.969Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
+    {
+      "id": "igc89bjrocU",
+      "title": "Wolves B vs. Rekreanti KLASIK 18.12.2025",
+      "thumbnail": "https://i.ytimg.com/vi/igc89bjrocU/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2025-12-18T20:56:26Z"
+    },
     {
       "id": "PPsNeuAPhQw",
       "title": "Soldiers vs PUK PAK PIVO SUPER 18.12.2025",
@@ -43,13 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/vhj5aFvOyVk/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2025-12-18T08:44:59Z"
-    },
-    {
-      "id": "7D33Ldw0ijo",
-      "title": "Office Rats vs Voholto SPORT 17.12.2025",
-      "thumbnail": "https://i.ytimg.com/vi/7D33Ldw0ijo/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2025-12-18T08:08:50Z"
     }
   ]
 }
