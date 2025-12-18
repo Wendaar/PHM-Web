@@ -1,7 +1,14 @@
 {
-  "updated": "2025-12-18T18:53:23.623Z",
+  "updated": "2025-12-18T19:15:00.747Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
+    {
+      "id": "xiY8WNT97oA",
+      "title": "Berkut vs Roosters 18.12.2025",
+      "thumbnail": "https://i.ytimg.com/vi/xiY8WNT97oA/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2025-12-18T19:06:51Z"
+    },
     {
       "id": "_m6Aamxz5Ew",
       "title": "Soldiers B vs Vikings HOBBY 17.12.2025",
@@ -43,13 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/FQIUJ6wlxHw/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2025-12-17T22:09:05Z"
-    },
-    {
-      "id": "ChHqNyvcFqo",
-      "title": "MyQ vs Žraloci HOBBY 16.12.2025",
-      "thumbnail": "https://i.ytimg.com/vi/ChHqNyvcFqo/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2025-12-17T09:46:43Z"
     }
   ]
 }
