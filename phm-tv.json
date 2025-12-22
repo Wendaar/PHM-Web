@@ -1,5 +1,5 @@
 {
-  "updated": "2025-12-22T10:17:56.991Z",
+  "updated": "2025-12-22T10:45:27.348Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
     {
@@ -38,18 +38,18 @@
       "publishedAt": "2025-12-19T10:25:12Z"
     },
     {
-      "id": "igc89bjrocU",
-      "title": "Wolves B vs Rekreanti KLASIK 18.12.2025",
-      "thumbnail": "https://i.ytimg.com/vi/igc89bjrocU/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2025-12-19T10:12:39Z"
-    },
-    {
       "id": "gBFD8yS7mw8",
       "title": "Ducks B vs Gladiators KLASIK 16.12.2025",
       "thumbnail": "https://i.ytimg.com/vi/gBFD8yS7mw8/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2025-12-17T09:24:43Z"
+    },
+    {
+      "id": "376AS9nakig",
+      "title": "Paladins vs Phantoms HOBBY 16.12.2025",
+      "thumbnail": "https://i.ytimg.com/vi/376AS9nakig/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2025-12-17T09:17:53Z"
     }
   ]
 }
