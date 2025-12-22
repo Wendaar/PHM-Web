@@ -1,5 +1,5 @@
 {
-  "updated": "2025-12-22T10:45:27.348Z",
+  "updated": "2025-12-22T11:14:14.215Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
     {
@@ -31,13 +31,6 @@
       "publishedAt": "2025-12-20T18:00:23Z"
     },
     {
-      "id": "PPsNeuAPhQw",
-      "title": "Soldiers vs PUK PAK PIVO SUPER 18.12.2025",
-      "thumbnail": "https://i.ytimg.com/vi/PPsNeuAPhQw/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2025-12-19T10:25:12Z"
-    },
-    {
       "id": "gBFD8yS7mw8",
       "title": "Ducks B vs Gladiators KLASIK 16.12.2025",
       "thumbnail": "https://i.ytimg.com/vi/gBFD8yS7mw8/mqdefault.jpg",
@@ -50,6 +43,13 @@
       "thumbnail": "https://i.ytimg.com/vi/376AS9nakig/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2025-12-17T09:17:53Z"
+    },
+    {
+      "id": "I4PRpGrsZr4",
+      "title": "Renegades vs Domynos SUPER 15.12.2025",
+      "thumbnail": "https://i.ytimg.com/vi/I4PRpGrsZr4/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2025-12-16T09:20:52Z"
     }
   ]
 }
