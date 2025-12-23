@@ -1,5 +1,5 @@
 {
-  "updated": "2025-12-23T18:52:51.719Z",
+  "updated": "2025-12-23T19:14:24.793Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
     {
@@ -24,13 +24,6 @@
       "publishedAt": "2025-12-20T17:59:08Z"
     },
     {
-      "id": "5JBx3ghp6lw",
-      "title": "26 WEEK RECAP 12 19 SUPER",
-      "thumbnail": "https://i.ytimg.com/vi/5JBx3ghp6lw/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2025-12-20T18:00:23Z"
-    },
-    {
       "id": "gBFD8yS7mw8",
       "title": "Ducks B vs Gladiators KLASIK 16.12.2025",
       "thumbnail": "https://i.ytimg.com/vi/gBFD8yS7mw8/mqdefault.jpg",
@@ -50,6 +43,13 @@
       "thumbnail": "https://i.ytimg.com/vi/I4PRpGrsZr4/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2025-12-16T09:20:52Z"
+    },
+    {
+      "id": "IFlKXa43d2s",
+      "title": "Alligators vs Banditos KLASIK 15.12.2025",
+      "thumbnail": "https://i.ytimg.com/vi/IFlKXa43d2s/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2025-12-16T08:53:36Z"
     }
   ]
 }
