@@ -1,14 +1,7 @@
 {
-  "updated": "2025-12-23T20:42:04.827Z",
+  "updated": "2025-12-23T21:15:06.181Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
-    {
-      "id": "g_Vwqh7PYhA",
-      "title": "26 WEEK RECAP 12 19 KLASIK",
-      "thumbnail": "https://i.ytimg.com/vi/g_Vwqh7PYhA/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2025-12-20T17:59:11Z"
-    },
     {
       "id": "32H0pZrjUbk",
       "title": "26 WEEK RECAP 12 19 SPORT",
@@ -50,6 +43,13 @@
       "thumbnail": "https://i.ytimg.com/vi/IFlKXa43d2s/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2025-12-16T08:53:36Z"
+    },
+    {
+      "id": "cnk4z6uech4",
+      "title": "Ducks Sport vs Cheza SPORT 15.12.2025",
+      "thumbnail": "https://i.ytimg.com/vi/cnk4z6uech4/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2025-12-16T07:52:58Z"
     }
   ]
 }
