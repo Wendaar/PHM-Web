@@ -1,7 +1,28 @@
 {
-  "updated": "2025-12-29T16:48:32.595Z",
+  "updated": "2025-12-29T17:14:38.888Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
+    {
+      "id": "0li7bxHhPDg",
+      "title": "26 12 18 Soldiers vs PUK PAK PIVO",
+      "thumbnail": "https://i.ytimg.com/vi/0li7bxHhPDg/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2025-12-29T17:14:00Z"
+    },
+    {
+      "id": "YSHbyc8cBHc",
+      "title": "26 12 15 Renegades vs Domynos",
+      "thumbnail": "https://i.ytimg.com/vi/YSHbyc8cBHc/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2025-12-29T17:13:25Z"
+    },
+    {
+      "id": "dyUGi9yk0aY",
+      "title": "26 12 15 Ducks Sport vs Cheza",
+      "thumbnail": "https://i.ytimg.com/vi/dyUGi9yk0aY/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2025-12-29T17:13:22Z"
+    },
     {
       "id": "O97VI0jrX2k",
       "title": "26 WEEK RECAP 12 19 HOBBY",
@@ -29,27 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/I4PRpGrsZr4/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2025-12-16T09:20:52Z"
-    },
-    {
-      "id": "IFlKXa43d2s",
-      "title": "Alligators vs Banditos KLASIK 15.12.2025",
-      "thumbnail": "https://i.ytimg.com/vi/IFlKXa43d2s/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2025-12-16T08:53:36Z"
-    },
-    {
-      "id": "cnk4z6uech4",
-      "title": "Ducks Sport vs Cheza SPORT 15.12.2025",
-      "thumbnail": "https://i.ytimg.com/vi/cnk4z6uech4/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2025-12-16T07:52:58Z"
-    },
-    {
-      "id": "0Wb-fjyS5dI",
-      "title": "Traverzáci vs Fotr HOBBY 14.12.2025",
-      "thumbnail": "https://i.ytimg.com/vi/0Wb-fjyS5dI/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2025-12-15T08:30:26Z"
     }
   ]
 }
