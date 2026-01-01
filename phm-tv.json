@@ -1,5 +1,5 @@
 {
-  "updated": "2026-01-01T16:49:15.936Z",
+  "updated": "2026-01-01T17:15:54.784Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
     {
@@ -8,13 +8,6 @@
       "thumbnail": "https://i.ytimg.com/vi/0li7bxHhPDg/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2025-12-29T17:14:00Z"
-    },
-    {
-      "id": "YSHbyc8cBHc",
-      "title": "26 12 15 Renegades vs Domynos",
-      "thumbnail": "https://i.ytimg.com/vi/YSHbyc8cBHc/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2025-12-29T17:13:25Z"
     },
     {
       "id": "dyUGi9yk0aY",
@@ -50,6 +43,13 @@
       "thumbnail": "https://i.ytimg.com/vi/I4PRpGrsZr4/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2025-12-16T09:20:52Z"
+    },
+    {
+      "id": "IFlKXa43d2s",
+      "title": "Alligators vs Banditos KLASIK 15.12.2025",
+      "thumbnail": "https://i.ytimg.com/vi/IFlKXa43d2s/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2025-12-16T08:53:36Z"
     }
   ]
 }
