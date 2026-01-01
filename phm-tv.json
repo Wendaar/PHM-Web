@@ -1,14 +1,7 @@
 {
-  "updated": "2026-01-01T17:41:36.250Z",
+  "updated": "2026-01-01T18:23:33.805Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
-    {
-      "id": "0li7bxHhPDg",
-      "title": "26 12 18 Soldiers vs PUK PAK PIVO",
-      "thumbnail": "https://i.ytimg.com/vi/0li7bxHhPDg/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2025-12-29T17:14:00Z"
-    },
     {
       "id": "O97VI0jrX2k",
       "title": "26 WEEK RECAP 12 19 HOBBY",
@@ -50,6 +43,13 @@
       "thumbnail": "https://i.ytimg.com/vi/cnk4z6uech4/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2025-12-16T07:52:58Z"
+    },
+    {
+      "id": "0Wb-fjyS5dI",
+      "title": "Traverzáci vs Fotr HOBBY 14.12.2025",
+      "thumbnail": "https://i.ytimg.com/vi/0Wb-fjyS5dI/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2025-12-15T08:30:26Z"
     }
   ]
 }
