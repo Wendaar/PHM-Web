@@ -1,5 +1,5 @@
 {
-  "updated": "2026-01-01T17:15:54.784Z",
+  "updated": "2026-01-01T17:41:36.250Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
     {
@@ -8,13 +8,6 @@
       "thumbnail": "https://i.ytimg.com/vi/0li7bxHhPDg/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2025-12-29T17:14:00Z"
-    },
-    {
-      "id": "dyUGi9yk0aY",
-      "title": "26 12 15 Ducks Sport vs Cheza",
-      "thumbnail": "https://i.ytimg.com/vi/dyUGi9yk0aY/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2025-12-29T17:13:22Z"
     },
     {
       "id": "O97VI0jrX2k",
@@ -50,6 +43,13 @@
       "thumbnail": "https://i.ytimg.com/vi/IFlKXa43d2s/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2025-12-16T08:53:36Z"
+    },
+    {
+      "id": "cnk4z6uech4",
+      "title": "Ducks Sport vs Cheza SPORT 15.12.2025",
+      "thumbnail": "https://i.ytimg.com/vi/cnk4z6uech4/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2025-12-16T07:52:58Z"
     }
   ]
 }
