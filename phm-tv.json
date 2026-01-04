@@ -1,12 +1,19 @@
 {
-  "updated": "2026-01-04T17:13:52.067Z",
+  "updated": "2026-01-04T17:39:40.620Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
     {
+      "id": "IiuqBnv3O1g",
+      "title": "Superheroes vs Roosters Super 04.01.26",
+      "thumbnail": "https://i.ytimg.com/vi/IiuqBnv3O1g/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2026-01-04T17:35:25Z"
+    },
+    {
       "id": "kZwZJPgKFLM",
       "title": "Chiefs vs Wolves Super 04.01.26",
-      "thumbnail": "https://i.ytimg.com/vi/kZwZJPgKFLM/mqdefault_live.jpg",
-      "isLive": true,
+      "thumbnail": "https://i.ytimg.com/vi/kZwZJPgKFLM/mqdefault.jpg",
+      "isLive": false,
       "publishedAt": "2026-01-04T16:01:21Z"
     },
     {
@@ -43,13 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/I4PRpGrsZr4/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2025-12-16T09:20:52Z"
-    },
-    {
-      "id": "IFlKXa43d2s",
-      "title": "Alligators vs Banditos KLASIK 15.12.2025",
-      "thumbnail": "https://i.ytimg.com/vi/IFlKXa43d2s/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2025-12-16T08:53:36Z"
     }
   ]
 }
