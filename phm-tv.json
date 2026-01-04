@@ -1,7 +1,21 @@
 {
-  "updated": "2026-01-04T14:14:15.509Z",
+  "updated": "2026-01-04T14:40:20.028Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
+    {
+      "id": "deSDx-JeDc4",
+      "title": "Berkut vs Kosti SUPER 04.01.2025",
+      "thumbnail": "https://i.ytimg.com/vi/deSDx-JeDc4/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2026-01-04T14:06:15Z"
+    },
+    {
+      "id": "zhGJglvb0c8",
+      "title": "Žraloci vs Ice Spiders Hobby 04.01.26",
+      "thumbnail": "https://i.ytimg.com/vi/zhGJglvb0c8/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2026-01-04T14:36:30Z"
+    },
     {
       "id": "O97VI0jrX2k",
       "title": "26 WEEK RECAP 12 19 HOBBY",
@@ -36,20 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/IFlKXa43d2s/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2025-12-16T08:53:36Z"
-    },
-    {
-      "id": "cnk4z6uech4",
-      "title": "Ducks Sport vs Cheza SPORT 15.12.2025",
-      "thumbnail": "https://i.ytimg.com/vi/cnk4z6uech4/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2025-12-16T07:52:58Z"
-    },
-    {
-      "id": "0Wb-fjyS5dI",
-      "title": "Traverzáci vs Fotr HOBBY 14.12.2025",
-      "thumbnail": "https://i.ytimg.com/vi/0Wb-fjyS5dI/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2025-12-15T08:30:26Z"
     }
   ]
 }
