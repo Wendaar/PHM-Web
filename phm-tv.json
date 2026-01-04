@@ -1,12 +1,19 @@
 {
-  "updated": "2026-01-04T18:49:05.606Z",
+  "updated": "2026-01-04T19:12:16.806Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
     {
+      "id": "1nTL3mgn2Rk",
+      "title": "Pigeons vs Fanklub Sport 04.01.26",
+      "thumbnail": "https://i.ytimg.com/vi/1nTL3mgn2Rk/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2026-01-04T19:07:27Z"
+    },
+    {
       "id": "IiuqBnv3O1g",
       "title": "Superheroes vs Roosters Super 04.01.26",
-      "thumbnail": "https://i.ytimg.com/vi/IiuqBnv3O1g/mqdefault_live.jpg",
-      "isLive": true,
+      "thumbnail": "https://i.ytimg.com/vi/IiuqBnv3O1g/mqdefault.jpg",
+      "isLive": false,
       "publishedAt": "2026-01-04T17:35:25Z"
     },
     {
@@ -43,13 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/376AS9nakig/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2025-12-17T09:17:53Z"
-    },
-    {
-      "id": "I4PRpGrsZr4",
-      "title": "Renegades vs Domynos SUPER 15.12.2025",
-      "thumbnail": "https://i.ytimg.com/vi/I4PRpGrsZr4/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2025-12-16T09:20:52Z"
     }
   ]
 }
