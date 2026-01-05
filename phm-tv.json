@@ -1,20 +1,20 @@
 {
-  "updated": "2026-01-05T20:20:03.950Z",
+  "updated": "2026-01-05T20:45:21.164Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
-    {
-      "id": "2dTt4xvViTQ",
-      "title": "Gastroni vs Pigenos B KLASIK 05,01,2026",
-      "thumbnail": "https://i.ytimg.com/vi/2dTt4xvViTQ/mqdefault_live.jpg",
-      "isLive": true,
-      "publishedAt": "2026-01-05T19:24:06Z"
-    },
     {
       "id": "9m2F4YZIouI",
       "title": "Voholto vs Ducks Sport SPORT 5.1.2026",
       "thumbnail": "https://i.ytimg.com/vi/9m2F4YZIouI/mqdefault_live.jpg",
       "isLive": true,
       "publishedAt": "2026-01-05T20:00:02Z"
+    },
+    {
+      "id": "2dTt4xvViTQ",
+      "title": "Gastroni vs Pigenos B KLASIK 05,01,2026",
+      "thumbnail": "https://i.ytimg.com/vi/2dTt4xvViTQ/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-01-05T19:24:06Z"
     },
     {
       "id": "x0ib97qRYDs",
