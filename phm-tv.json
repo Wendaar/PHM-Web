@@ -1,7 +1,14 @@
 {
-  "updated": "2026-01-05T10:19:58.343Z",
+  "updated": "2026-01-05T10:49:35.498Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
+    {
+      "id": "IiuqBnv3O1g",
+      "title": "Superheroes vs Roosters SUPER 04.01.2026",
+      "thumbnail": "https://i.ytimg.com/vi/IiuqBnv3O1g/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-01-05T10:24:43Z"
+    },
     {
       "id": "1nTL3mgn2Rk",
       "title": "Pigeons vs Fanklub Lev SPORT 04.01.2026",
@@ -22,13 +29,6 @@
       "thumbnail": "https://i.ytimg.com/vi/zhGJglvb0c8/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-01-05T04:37:37Z"
-    },
-    {
-      "id": "IiuqBnv3O1g",
-      "title": "Superheroes vs Roosters SUPER 04.01.2026",
-      "thumbnail": "https://i.ytimg.com/vi/IiuqBnv3O1g/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-01-04T17:35:25Z"
     },
     {
       "id": "O97VI0jrX2k",
