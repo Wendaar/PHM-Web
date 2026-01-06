@@ -1,14 +1,7 @@
 {
-  "updated": "2026-01-06T21:16:26.090Z",
+  "updated": "2026-01-06T21:41:11.497Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
-    {
-      "id": "5zGnhZUq_8k",
-      "title": "HC Wolves B vs HC Raptors KLASIK 6.1.2026",
-      "thumbnail": "https://i.ytimg.com/vi/5zGnhZUq_8k/mqdefault_live.jpg",
-      "isLive": true,
-      "publishedAt": "2026-01-06T20:23:48Z"
-    },
     {
       "id": "2iBIOWgYHkw",
       "title": "Žraloci vs Fotr Hobby 06.01.26",
@@ -50,6 +43,13 @@
       "thumbnail": "https://i.ytimg.com/vi/ZF4d_yYKCaQ/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-01-06T10:07:59Z"
+    },
+    {
+      "id": "9m2F4YZIouI",
+      "title": "Voholto vs Ducks Sport SPORT 05.01.2026",
+      "thumbnail": "https://i.ytimg.com/vi/9m2F4YZIouI/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-01-06T09:21:24Z"
     }
   ]
 }
