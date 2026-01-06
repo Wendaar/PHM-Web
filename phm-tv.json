@@ -1,5 +1,5 @@
 {
-  "updated": "2026-01-06T19:13:00.537Z",
+  "updated": "2026-01-06T19:38:01.576Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
     {
@@ -15,6 +15,20 @@
       "thumbnail": "https://i.ytimg.com/vi/D98M5frynZs/mqdefault_live.jpg",
       "isLive": true,
       "publishedAt": "2026-01-06T18:29:02Z"
+    },
+    {
+      "id": "tFrsIA27DbQ",
+      "title": "Gladiators vs Platidlo Klasik 06.01.26",
+      "thumbnail": "https://i.ytimg.com/vi/tFrsIA27DbQ/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2026-01-06T19:21:29Z"
+    },
+    {
+      "id": "_ZSZltb9eOY",
+      "title": "Gladiators vs Platidlo Klasik 06.01.26",
+      "thumbnail": "https://i.ytimg.com/vi/_ZSZltb9eOY/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-01-06T19:17:54Z"
     },
     {
       "id": "ZF4d_yYKCaQ",
@@ -36,20 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/2dTt4xvViTQ/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-01-06T08:39:04Z"
-    },
-    {
-      "id": "TUZWpQmnhEk",
-      "title": "Vikings vs Scarecrows HOBBY 05.01.2026",
-      "thumbnail": "https://i.ytimg.com/vi/TUZWpQmnhEk/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-01-06T08:18:26Z"
-    },
-    {
-      "id": "IiuqBnv3O1g",
-      "title": "Superheroes vs Roosters SUPER 04.01.2026",
-      "thumbnail": "https://i.ytimg.com/vi/IiuqBnv3O1g/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-01-05T10:24:43Z"
     }
   ]
 }
