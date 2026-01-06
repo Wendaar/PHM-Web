@@ -1,12 +1,19 @@
 {
-  "updated": "2026-01-06T21:41:11.497Z",
+  "updated": "2026-01-06T22:16:57.425Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
     {
+      "id": "_ZSZltb9eOY",
+      "title": "Gladiators vs Platidlo Klasik 06.01.26",
+      "thumbnail": "https://i.ytimg.com/vi/_ZSZltb9eOY/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-01-06T22:14:07Z"
+    },
+    {
       "id": "2iBIOWgYHkw",
       "title": "Žraloci vs Fotr Hobby 06.01.26",
-      "thumbnail": "https://i.ytimg.com/vi/2iBIOWgYHkw/mqdefault_live.jpg",
-      "isLive": true,
+      "thumbnail": "https://i.ytimg.com/vi/2iBIOWgYHkw/mqdefault.jpg",
+      "isLive": false,
       "publishedAt": "2026-01-06T20:51:54Z"
     },
     {
@@ -22,13 +29,6 @@
       "thumbnail": "https://i.ytimg.com/vi/tFrsIA27DbQ/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-01-06T19:21:29Z"
-    },
-    {
-      "id": "_ZSZltb9eOY",
-      "title": "Gladiators vs Platidlo Klasik 06.01.26",
-      "thumbnail": "https://i.ytimg.com/vi/_ZSZltb9eOY/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-01-06T19:17:54Z"
     },
     {
       "id": "D98M5frynZs",
