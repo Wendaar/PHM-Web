@@ -1,45 +1,31 @@
 {
-  "updated": "2026-01-05T23:40:13.270Z",
+  "updated": "2026-01-06T01:17:38.850Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
     {
       "id": "ZF4d_yYKCaQ",
-      "title": "Phantoms vs MyQ HOBBY 05,01,2026",
+      "title": "Phantoms vs MyQ HOBBY 05.01.2026",
       "thumbnail": "https://i.ytimg.com/vi/ZF4d_yYKCaQ/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-01-05T20:51:33Z"
     },
     {
       "id": "9m2F4YZIouI",
-      "title": "Voholto vs Ducks Sport SPORT 5.1.2026",
+      "title": "Voholto vs Ducks Sport SPORT 05.01.2026",
       "thumbnail": "https://i.ytimg.com/vi/9m2F4YZIouI/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-01-05T20:00:02Z"
     },
     {
       "id": "2dTt4xvViTQ",
-      "title": "Gastroni vs Pigenos B KLASIK 05,01,2026",
+      "title": "Gastoni vs Pigeons B KLASIK 05.01.2026",
       "thumbnail": "https://i.ytimg.com/vi/2dTt4xvViTQ/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-01-05T19:24:06Z"
     },
     {
-      "id": "x0ib97qRYDs",
-      "title": "rex vs zizkov",
-      "thumbnail": "https://i.ytimg.com/vi/x0ib97qRYDs/mqdefault_live.jpg",
-      "isLive": false,
-      "publishedAt": "2026-01-05T19:22:55Z"
-    },
-    {
-      "id": "ipKHqH76Me0",
-      "title": "Vikings vs Scarecrows HOBBY 5.1.2026",
-      "thumbnail": "https://i.ytimg.com/vi/ipKHqH76Me0/mqdefault_live.jpg",
-      "isLive": false,
-      "publishedAt": "2026-01-05T18:27:06Z"
-    },
-    {
       "id": "TUZWpQmnhEk",
-      "title": "Vikings vs Scarecrows HOBBY 5.1.2026",
+      "title": "Vikings vs Scarecrows HOBBY 05.01.2026",
       "thumbnail": "https://i.ytimg.com/vi/TUZWpQmnhEk/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-01-05T18:27:12Z"
@@ -50,6 +36,20 @@
       "thumbnail": "https://i.ytimg.com/vi/IiuqBnv3O1g/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-01-05T10:24:43Z"
+    },
+    {
+      "id": "1nTL3mgn2Rk",
+      "title": "Pigeons vs Fanklub Lev SPORT 04.01.2026",
+      "thumbnail": "https://i.ytimg.com/vi/1nTL3mgn2Rk/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-01-05T08:51:58Z"
+    },
+    {
+      "id": "kZwZJPgKFLM",
+      "title": "Chiefs vs Wolves SUPER 04.01.2026",
+      "thumbnail": "https://i.ytimg.com/vi/kZwZJPgKFLM/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-01-05T07:27:58Z"
     }
   ]
 }
