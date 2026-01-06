@@ -1,5 +1,5 @@
 {
-  "updated": "2026-01-06T20:44:07.470Z",
+  "updated": "2026-01-06T21:16:26.090Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
     {
@@ -10,10 +10,17 @@
       "publishedAt": "2026-01-06T20:23:48Z"
     },
     {
+      "id": "2iBIOWgYHkw",
+      "title": "Žraloci vs Fotr Hobby 06.01.26",
+      "thumbnail": "https://i.ytimg.com/vi/2iBIOWgYHkw/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2026-01-06T20:51:54Z"
+    },
+    {
       "id": "C7triN5jO8U",
       "title": "Ducks B vs Rekreanti KLASIK 6.1.2026",
-      "thumbnail": "https://i.ytimg.com/vi/C7triN5jO8U/mqdefault_live.jpg",
-      "isLive": true,
+      "thumbnail": "https://i.ytimg.com/vi/C7triN5jO8U/mqdefault.jpg",
+      "isLive": false,
       "publishedAt": "2026-01-06T20:01:27Z"
     },
     {
@@ -43,13 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/ZF4d_yYKCaQ/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-01-06T10:07:59Z"
-    },
-    {
-      "id": "9m2F4YZIouI",
-      "title": "Voholto vs Ducks Sport SPORT 05.01.2026",
-      "thumbnail": "https://i.ytimg.com/vi/9m2F4YZIouI/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-01-06T09:21:24Z"
     }
   ]
 }
