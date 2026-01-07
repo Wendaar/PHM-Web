@@ -1,7 +1,14 @@
 {
-  "updated": "2026-01-07T23:16:23.973Z",
+  "updated": "2026-01-07T23:40:04.884Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
+    {
+      "id": "C7triN5jO8U",
+      "title": "Ducks B vs Rekreanti KLASIK 06.01.2026",
+      "thumbnail": "https://i.ytimg.com/vi/C7triN5jO8U/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-01-07T23:27:42Z"
+    },
     {
       "id": "D98M5frynZs",
       "title": "Soldiers vs Domynos SUPER 06.01.2026",
@@ -43,13 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/2iBIOWgYHkw/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-01-06T20:51:54Z"
-    },
-    {
-      "id": "C7triN5jO8U",
-      "title": "Ducks B vs Rekreanti KLASIK 06.01.2026",
-      "thumbnail": "https://i.ytimg.com/vi/C7triN5jO8U/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-01-06T20:01:27Z"
     }
   ]
 }
