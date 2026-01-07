@@ -1,5 +1,5 @@
 {
-  "updated": "2026-01-07T19:39:52.071Z",
+  "updated": "2026-01-07T20:19:33.727Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
     {
@@ -10,10 +10,17 @@
       "publishedAt": "2026-01-07T19:15:54Z"
     },
     {
+      "id": "_KXOk98P61M",
+      "title": "PDG vs PAP",
+      "thumbnail": "https://i.ytimg.com/vi/_KXOk98P61M/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2026-01-07T19:53:48Z"
+    },
+    {
       "id": "HMAic5w2IeA",
       "title": "KOS vs CHI",
-      "thumbnail": "https://i.ytimg.com/vi/HMAic5w2IeA/mqdefault_live.jpg",
-      "isLive": true,
+      "thumbnail": "https://i.ytimg.com/vi/HMAic5w2IeA/mqdefault.jpg",
+      "isLive": false,
       "publishedAt": "2026-01-07T18:38:34Z"
     },
     {
@@ -43,13 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/D98M5frynZs/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-01-06T18:29:02Z"
-    },
-    {
-      "id": "ZF4d_yYKCaQ",
-      "title": "Phantoms vs MyQ HOBBY 05.01.2026",
-      "thumbnail": "https://i.ytimg.com/vi/ZF4d_yYKCaQ/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-01-06T10:07:59Z"
     }
   ]
 }
