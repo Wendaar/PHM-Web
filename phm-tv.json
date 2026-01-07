@@ -1,5 +1,5 @@
 {
-  "updated": "2026-01-07T21:15:46.839Z",
+  "updated": "2026-01-07T21:40:50.750Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
     {
@@ -10,18 +10,18 @@
       "publishedAt": "2026-01-07T20:43:54Z"
     },
     {
-      "id": "_KXOk98P61M",
-      "title": "PDG vs PAP",
-      "thumbnail": "https://i.ytimg.com/vi/_KXOk98P61M/mqdefault_live.jpg",
-      "isLive": true,
-      "publishedAt": "2026-01-07T19:53:48Z"
-    },
-    {
       "id": "D98M5frynZs",
       "title": "Soldiers vs Domynos SUPER 06.01.2026",
       "thumbnail": "https://i.ytimg.com/vi/D98M5frynZs/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-01-07T21:07:43Z"
+    },
+    {
+      "id": "_KXOk98P61M",
+      "title": "PDG vs PAP",
+      "thumbnail": "https://i.ytimg.com/vi/_KXOk98P61M/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-01-07T19:53:48Z"
     },
     {
       "id": "UpKZ-re_894",
