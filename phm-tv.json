@@ -1,14 +1,7 @@
 {
-  "updated": "2026-01-07T15:19:45.294Z",
+  "updated": "2026-01-07T15:47:42.491Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
-    {
-      "id": "_ZSZltb9eOY",
-      "title": "Gladiators vs Platidlo Klasik 06.01.26",
-      "thumbnail": "https://i.ytimg.com/vi/_ZSZltb9eOY/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-01-06T22:14:07Z"
-    },
     {
       "id": "2iBIOWgYHkw",
       "title": "Žraloci vs Fotr HOBBY 06.01.2026",
@@ -50,6 +43,13 @@
       "thumbnail": "https://i.ytimg.com/vi/9m2F4YZIouI/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-01-06T09:21:24Z"
+    },
+    {
+      "id": "2dTt4xvViTQ",
+      "title": "Gastoni vs Pigeons B KLASIK 05.01.2026",
+      "thumbnail": "https://i.ytimg.com/vi/2dTt4xvViTQ/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-01-06T08:39:04Z"
     }
   ]
 }
