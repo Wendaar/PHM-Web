@@ -1,7 +1,35 @@
 {
-  "updated": "2026-01-08T23:14:43.660Z",
+  "updated": "2026-01-08T23:37:53.057Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
+    {
+      "id": "L6UHk9lZg9s",
+      "title": "26 WEEK RECAP 01 08 KLASIK",
+      "thumbnail": "https://i.ytimg.com/vi/L6UHk9lZg9s/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-01-08T23:30:02Z"
+    },
+    {
+      "id": "cvJpxvPp2qA",
+      "title": "26 WEEK RECAP 01 08 SPORT",
+      "thumbnail": "https://i.ytimg.com/vi/cvJpxvPp2qA/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-01-08T23:30:05Z"
+    },
+    {
+      "id": "63BDoDiyNaY",
+      "title": "26 WEEK RECAP 01 08 SUPER",
+      "thumbnail": "https://i.ytimg.com/vi/63BDoDiyNaY/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-01-08T23:30:08Z"
+    },
+    {
+      "id": "f2nyeLNGnZA",
+      "title": "26 WEEK RECAP 01 08 HOBBY",
+      "thumbnail": "https://i.ytimg.com/vi/f2nyeLNGnZA/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-01-08T23:29:59Z"
+    },
     {
       "id": "AKs0qafvrMQ",
       "title": "Heyoka vs HOVNA SPORT 08.01.2026",
@@ -22,34 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/YN6wZhGHmpc/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-01-08T19:20:24Z"
-    },
-    {
-      "id": "dTuud-o0FHU",
-      "title": "Renegades vs Roosters SUPER 08.01.2026",
-      "thumbnail": "https://i.ytimg.com/vi/dTuud-o0FHU/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-01-08T19:04:25Z"
-    },
-    {
-      "id": "GpJqnUN1yIw",
-      "title": "Office Rats vs Fanklub Lev SPORT 07.01.2026",
-      "thumbnail": "https://i.ytimg.com/vi/GpJqnUN1yIw/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-01-08T11:28:41Z"
-    },
-    {
-      "id": "HMAic5w2IeA",
-      "title": "Kosti vs Chiefs SUPER 07.01.2026",
-      "thumbnail": "https://i.ytimg.com/vi/HMAic5w2IeA/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-01-08T08:08:09Z"
-    },
-    {
-      "id": "tFrsIA27DbQ",
-      "title": "Gladiators vs PLATIDLO KLASIK 06.01.2026",
-      "thumbnail": "https://i.ytimg.com/vi/tFrsIA27DbQ/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-01-08T06:31:09Z"
     }
   ]
 }
