@@ -1,13 +1,27 @@
 {
-  "updated": "2026-01-08T20:19:34.303Z",
+  "updated": "2026-01-08T20:44:57.071Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
+    {
+      "id": "s05FOU57ofk",
+      "title": "MyQ vs. Traverzáci HOBBY 8.1.2026",
+      "thumbnail": "https://i.ytimg.com/vi/s05FOU57ofk/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2026-01-08T20:27:19Z"
+    },
     {
       "id": "YN6wZhGHmpc",
       "title": "Reindeers vs Fotr Hobby 08.01.26",
       "thumbnail": "https://i.ytimg.com/vi/YN6wZhGHmpc/mqdefault_live.jpg",
       "isLive": true,
       "publishedAt": "2026-01-08T19:20:24Z"
+    },
+    {
+      "id": "6bF-IBUCixU",
+      "title": "MyQ vs. Traverzáci HOBBY 8.1.2026",
+      "thumbnail": "https://i.ytimg.com/vi/6bF-IBUCixU/mqdefault_live.jpg",
+      "isLive": false,
+      "publishedAt": "2026-01-08T20:27:09Z"
     },
     {
       "id": "dTuud-o0FHU",
@@ -36,20 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/tFrsIA27DbQ/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-01-08T06:31:09Z"
-    },
-    {
-      "id": "2iBIOWgYHkw",
-      "title": "Žraloci vs Fotr HOBBY 06.01.2026",
-      "thumbnail": "https://i.ytimg.com/vi/2iBIOWgYHkw/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-01-07T23:50:23Z"
-    },
-    {
-      "id": "C7triN5jO8U",
-      "title": "Ducks B vs Rekreanti KLASIK 06.01.2026",
-      "thumbnail": "https://i.ytimg.com/vi/C7triN5jO8U/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-01-07T23:27:42Z"
     }
   ]
 }
