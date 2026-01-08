@@ -1,7 +1,14 @@
 {
-  "updated": "2026-01-08T20:44:57.071Z",
+  "updated": "2026-01-08T21:16:31.441Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
+    {
+      "id": "AKs0qafvrMQ",
+      "title": "Heyoka vs HOVNA Sport 08.01.26",
+      "thumbnail": "https://i.ytimg.com/vi/AKs0qafvrMQ/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2026-01-08T20:55:36Z"
+    },
     {
       "id": "s05FOU57ofk",
       "title": "MyQ vs. Traverzáci HOBBY 8.1.2026",
@@ -10,18 +17,18 @@
       "publishedAt": "2026-01-08T20:27:19Z"
     },
     {
-      "id": "YN6wZhGHmpc",
-      "title": "Reindeers vs Fotr Hobby 08.01.26",
-      "thumbnail": "https://i.ytimg.com/vi/YN6wZhGHmpc/mqdefault_live.jpg",
-      "isLive": true,
-      "publishedAt": "2026-01-08T19:20:24Z"
-    },
-    {
       "id": "6bF-IBUCixU",
       "title": "MyQ vs. Traverzáci HOBBY 8.1.2026",
       "thumbnail": "https://i.ytimg.com/vi/6bF-IBUCixU/mqdefault_live.jpg",
       "isLive": false,
       "publishedAt": "2026-01-08T20:27:09Z"
+    },
+    {
+      "id": "YN6wZhGHmpc",
+      "title": "Reindeers vs Fotr Hobby 08.01.26",
+      "thumbnail": "https://i.ytimg.com/vi/YN6wZhGHmpc/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-01-08T19:20:24Z"
     },
     {
       "id": "dTuud-o0FHU",
@@ -43,13 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/HMAic5w2IeA/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-01-08T08:08:09Z"
-    },
-    {
-      "id": "tFrsIA27DbQ",
-      "title": "Gladiators vs PLATIDLO KLASIK 06.01.2026",
-      "thumbnail": "https://i.ytimg.com/vi/tFrsIA27DbQ/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-01-08T06:31:09Z"
     }
   ]
 }
