@@ -1,5 +1,5 @@
 {
-  "updated": "2026-01-08T19:16:08.638Z",
+  "updated": "2026-01-08T19:39:01.305Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
     {
@@ -8,6 +8,13 @@
       "thumbnail": "https://i.ytimg.com/vi/dTuud-o0FHU/mqdefault_live.jpg",
       "isLive": true,
       "publishedAt": "2026-01-08T19:04:25Z"
+    },
+    {
+      "id": "YN6wZhGHmpc",
+      "title": "Reindeers vs Fotr Hobby 08.01.26",
+      "thumbnail": "https://i.ytimg.com/vi/YN6wZhGHmpc/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2026-01-08T19:20:24Z"
     },
     {
       "id": "GpJqnUN1yIw",
@@ -43,13 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/C7triN5jO8U/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-01-07T23:27:42Z"
-    },
-    {
-      "id": "D98M5frynZs",
-      "title": "Soldiers vs Domynos SUPER 06.01.2026",
-      "thumbnail": "https://i.ytimg.com/vi/D98M5frynZs/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-01-07T21:07:43Z"
     }
   ]
 }
