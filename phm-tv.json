@@ -1,7 +1,14 @@
 {
-  "updated": "2026-01-07T23:40:04.884Z",
+  "updated": "2026-01-08T01:18:23.343Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
+    {
+      "id": "2iBIOWgYHkw",
+      "title": "Žraloci vs Fotr HOBBY 06.01.2026",
+      "thumbnail": "https://i.ytimg.com/vi/2iBIOWgYHkw/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-01-07T23:50:23Z"
+    },
     {
       "id": "C7triN5jO8U",
       "title": "Ducks B vs Rekreanti KLASIK 06.01.2026",
@@ -43,13 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/HMAic5w2IeA/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-01-07T18:38:34Z"
-    },
-    {
-      "id": "2iBIOWgYHkw",
-      "title": "Žraloci vs Fotr HOBBY 06.01.2026",
-      "thumbnail": "https://i.ytimg.com/vi/2iBIOWgYHkw/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-01-06T20:51:54Z"
     }
   ]
 }
