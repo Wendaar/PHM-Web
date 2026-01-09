@@ -1,7 +1,14 @@
 {
-  "updated": "2026-01-09T14:48:12.063Z",
+  "updated": "2026-01-09T15:18:28.239Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
+    {
+      "id": "_KXOk98P61M",
+      "title": "Dragons vs Papoušci HOBBY 07.01.2026",
+      "thumbnail": "https://i.ytimg.com/vi/_KXOk98P61M/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-01-09T14:55:44Z"
+    },
     {
       "id": "L6UHk9lZg9s",
       "title": "26 WEEK RECAP 01 08 KLASIK",
@@ -43,13 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/s05FOU57ofk/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-01-08T20:27:19Z"
-    },
-    {
-      "id": "YN6wZhGHmpc",
-      "title": "Reindeers vs Fotr HOBBY 08.01.2026",
-      "thumbnail": "https://i.ytimg.com/vi/YN6wZhGHmpc/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-01-08T19:20:24Z"
     }
   ]
 }
