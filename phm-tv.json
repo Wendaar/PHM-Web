@@ -1,7 +1,14 @@
 {
-  "updated": "2026-01-09T19:38:54.398Z",
+  "updated": "2026-01-09T20:19:20.061Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
+    {
+      "id": "dTuud-o0FHU",
+      "title": "Renegades vs Roosters SUPER 08.01.2026",
+      "thumbnail": "https://i.ytimg.com/vi/dTuud-o0FHU/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-01-09T20:10:20Z"
+    },
     {
       "id": "AKs0qafvrMQ",
       "title": "Heyoka vs HOVNA SPORT 08.01.2026",
@@ -43,13 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/63BDoDiyNaY/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-01-08T23:30:08Z"
-    },
-    {
-      "id": "f2nyeLNGnZA",
-      "title": "26 WEEK RECAP 01 08 HOBBY",
-      "thumbnail": "https://i.ytimg.com/vi/f2nyeLNGnZA/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-01-08T23:29:59Z"
     }
   ]
 }
