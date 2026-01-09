@@ -1,7 +1,14 @@
 {
-  "updated": "2026-01-09T17:45:32.738Z",
+  "updated": "2026-01-09T18:25:21.058Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
+    {
+      "id": "AKs0qafvrMQ",
+      "title": "Heyoka vs HOVNA SPORT 08.01.2026",
+      "thumbnail": "https://i.ytimg.com/vi/AKs0qafvrMQ/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-01-09T18:08:08Z"
+    },
     {
       "id": "UpKZ-re_894",
       "title": "Fešáci vs Ducks Sport SPORT 07.01.2026",
@@ -43,13 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/f2nyeLNGnZA/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-01-08T23:29:59Z"
-    },
-    {
-      "id": "AKs0qafvrMQ",
-      "title": "Heyoka vs HOVNA SPORT 08.01.2026",
-      "thumbnail": "https://i.ytimg.com/vi/AKs0qafvrMQ/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-01-08T20:55:36Z"
     }
   ]
 }
