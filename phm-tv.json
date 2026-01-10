@@ -1,7 +1,21 @@
 {
-  "updated": "2026-01-09T23:40:20.978Z",
+  "updated": "2026-01-10T01:15:44.211Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
+    {
+      "id": "s05FOU57ofk",
+      "title": "MyQ vs Traverzáci HOBBY 08.01.2026",
+      "thumbnail": "https://i.ytimg.com/vi/s05FOU57ofk/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-01-10T00:10:47Z"
+    },
+    {
+      "id": "YN6wZhGHmpc",
+      "title": "Reindeers vs Fotr HOBBY 08.01.2026",
+      "thumbnail": "https://i.ytimg.com/vi/YN6wZhGHmpc/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-01-10T00:03:53Z"
+    },
     {
       "id": "dTuud-o0FHU",
       "title": "Renegades vs Roosters SUPER 08.01.2026",
@@ -36,20 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/L6UHk9lZg9s/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-01-08T23:30:02Z"
-    },
-    {
-      "id": "cvJpxvPp2qA",
-      "title": "26 WEEK RECAP 01 08 SPORT",
-      "thumbnail": "https://i.ytimg.com/vi/cvJpxvPp2qA/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-01-08T23:30:05Z"
-    },
-    {
-      "id": "63BDoDiyNaY",
-      "title": "26 WEEK RECAP 01 08 SUPER",
-      "thumbnail": "https://i.ytimg.com/vi/63BDoDiyNaY/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-01-08T23:30:08Z"
     }
   ]
 }
