@@ -1,20 +1,34 @@
 {
-  "updated": "2026-01-11T15:39:27.675Z",
+  "updated": "2026-01-11T16:18:27.588Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
     {
-      "id": "sFn8yEv0JFY",
-      "title": "POB vs ICE",
-      "thumbnail": "https://i.ytimg.com/vi/sFn8yEv0JFY/mqdefault_live.jpg",
+      "id": "bCHKYVadAec",
+      "title": "AHA Reindeers vs Ducks C HOBBY 11.1.2026",
+      "thumbnail": "https://i.ytimg.com/vi/bCHKYVadAec/mqdefault_live.jpg",
       "isLive": true,
-      "publishedAt": "2026-01-11T14:36:06Z"
+      "publishedAt": "2026-01-11T16:10:42Z"
+    },
+    {
+      "id": "e9xgIp_LLJY",
+      "title": "SLZ vs PPP",
+      "thumbnail": "https://i.ytimg.com/vi/e9xgIp_LLJY/mqdefault_live.jpg",
+      "isLive": false,
+      "publishedAt": "2026-01-11T15:54:37Z"
     },
     {
       "id": "pMJQky4TBDE",
       "title": "Fanklub Lev vs Fešáci SPORT 11.1.2026",
-      "thumbnail": "https://i.ytimg.com/vi/pMJQky4TBDE/mqdefault_live.jpg",
-      "isLive": true,
+      "thumbnail": "https://i.ytimg.com/vi/pMJQky4TBDE/mqdefault.jpg",
+      "isLive": false,
       "publishedAt": "2026-01-11T14:43:05Z"
+    },
+    {
+      "id": "sFn8yEv0JFY",
+      "title": "POB vs ICE",
+      "thumbnail": "https://i.ytimg.com/vi/sFn8yEv0JFY/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-01-11T14:36:06Z"
     },
     {
       "id": "s05FOU57ofk",
@@ -36,20 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/dTuud-o0FHU/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-01-09T20:10:20Z"
-    },
-    {
-      "id": "AKs0qafvrMQ",
-      "title": "Heyoka vs HOVNA SPORT 08.01.2026",
-      "thumbnail": "https://i.ytimg.com/vi/AKs0qafvrMQ/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-01-09T18:08:08Z"
-    },
-    {
-      "id": "UpKZ-re_894",
-      "title": "Fešáci vs Ducks Sport SPORT 07.01.2026",
-      "thumbnail": "https://i.ytimg.com/vi/UpKZ-re_894/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-01-09T17:25:56Z"
     }
   ]
 }
