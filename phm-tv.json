@@ -1,13 +1,20 @@
 {
-  "updated": "2026-01-11T17:39:51.180Z",
+  "updated": "2026-01-11T18:22:19.332Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
     {
-      "id": "e9xgIp_LLJY",
-      "title": "SLZ vs PPP",
-      "thumbnail": "https://i.ytimg.com/vi/e9xgIp_LLJY/mqdefault_live.jpg",
+      "id": "PIC2StnwJio",
+      "title": "Ducks Stars vs Taste KLASIK 11.1.2026",
+      "thumbnail": "https://i.ytimg.com/vi/PIC2StnwJio/mqdefault_live.jpg",
       "isLive": true,
-      "publishedAt": "2026-01-11T15:54:37Z"
+      "publishedAt": "2026-01-11T17:43:31Z"
+    },
+    {
+      "id": "Dy_xPcEat8U",
+      "title": "CHE vs HEY",
+      "thumbnail": "https://i.ytimg.com/vi/Dy_xPcEat8U/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2026-01-11T17:46:37Z"
     },
     {
       "id": "bCHKYVadAec",
@@ -15,6 +22,13 @@
       "thumbnail": "https://i.ytimg.com/vi/bCHKYVadAec/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-01-11T16:10:42Z"
+    },
+    {
+      "id": "e9xgIp_LLJY",
+      "title": "SLZ vs PPP",
+      "thumbnail": "https://i.ytimg.com/vi/e9xgIp_LLJY/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-01-11T15:54:37Z"
     },
     {
       "id": "pMJQky4TBDE",
@@ -36,20 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/s05FOU57ofk/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-01-10T00:10:47Z"
-    },
-    {
-      "id": "YN6wZhGHmpc",
-      "title": "Reindeers vs Fotr HOBBY 08.01.2026",
-      "thumbnail": "https://i.ytimg.com/vi/YN6wZhGHmpc/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-01-10T00:03:53Z"
-    },
-    {
-      "id": "dTuud-o0FHU",
-      "title": "Renegades vs Roosters SUPER 08.01.2026",
-      "thumbnail": "https://i.ytimg.com/vi/dTuud-o0FHU/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-01-09T20:10:20Z"
     }
   ]
 }
