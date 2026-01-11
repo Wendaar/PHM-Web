@@ -1,13 +1,20 @@
 {
-  "updated": "2026-01-11T14:41:22.999Z",
+  "updated": "2026-01-11T15:15:29.297Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
     {
       "id": "sFn8yEv0JFY",
       "title": "POB vs ICE",
       "thumbnail": "https://i.ytimg.com/vi/sFn8yEv0JFY/mqdefault_live.jpg",
-      "isLive": false,
+      "isLive": true,
       "publishedAt": "2026-01-11T14:36:06Z"
+    },
+    {
+      "id": "pMJQky4TBDE",
+      "title": "Fanklub Lev vs Fešáci SPORT 11.1.2026",
+      "thumbnail": "https://i.ytimg.com/vi/pMJQky4TBDE/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2026-01-11T14:43:05Z"
     },
     {
       "id": "s05FOU57ofk",
@@ -43,13 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/UpKZ-re_894/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-01-09T17:25:56Z"
-    },
-    {
-      "id": "_KXOk98P61M",
-      "title": "Dragons vs Papoušci HOBBY 07.01.2026",
-      "thumbnail": "https://i.ytimg.com/vi/_KXOk98P61M/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-01-09T14:55:44Z"
     }
   ]
 }
