@@ -1,12 +1,12 @@
 {
-  "updated": "2026-01-11T20:18:12.474Z",
+  "updated": "2026-01-11T20:42:25.656Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
     {
       "id": "Y4p4Rg3Shos",
       "title": "PPG vs ATT",
-      "thumbnail": "https://i.ytimg.com/vi/Y4p4Rg3Shos/mqdefault_live.jpg",
-      "isLive": true,
+      "thumbnail": "https://i.ytimg.com/vi/Y4p4Rg3Shos/mqdefault.jpg",
+      "isLive": false,
       "publishedAt": "2026-01-11T19:03:22Z"
     },
     {
