@@ -1,13 +1,13 @@
 {
-  "updated": "2026-01-12T19:39:55.854Z",
+  "updated": "2026-01-12T20:19:48.987Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
     {
-      "id": "diUa837d8xA",
-      "title": "Alligators vs Gastoni KLASIK 12,01,2026",
-      "thumbnail": "https://i.ytimg.com/vi/diUa837d8xA/mqdefault_live.jpg",
+      "id": "wSDrC8GSFsg",
+      "title": "H.O.V.N.A vs. Ducks Sport",
+      "thumbnail": "https://i.ytimg.com/vi/wSDrC8GSFsg/mqdefault_live.jpg",
       "isLive": true,
-      "publishedAt": "2026-01-12T19:25:15Z"
+      "publishedAt": "2026-01-12T20:06:45Z"
     },
     {
       "id": "QDz4xK-MpM0",
@@ -17,10 +17,17 @@
       "publishedAt": "2026-01-12T19:30:34Z"
     },
     {
+      "id": "diUa837d8xA",
+      "title": "Alligators vs Gastoni KLASIK 12,01,2026",
+      "thumbnail": "https://i.ytimg.com/vi/diUa837d8xA/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2026-01-12T19:25:15Z"
+    },
+    {
       "id": "H7wkZiNjJQA",
       "title": "Traverzáci vs. Phantoms HOBBY 12.1.2026",
-      "thumbnail": "https://i.ytimg.com/vi/H7wkZiNjJQA/mqdefault_live.jpg",
-      "isLive": true,
+      "thumbnail": "https://i.ytimg.com/vi/H7wkZiNjJQA/mqdefault.jpg",
+      "isLive": false,
       "publishedAt": "2026-01-12T18:25:24Z"
     },
     {
@@ -43,13 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/PIC2StnwJio/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-01-12T07:18:26Z"
-    },
-    {
-      "id": "e9xgIp_LLJY",
-      "title": "Zbraslav vs PUK PAK PIVO SUPER 11.01.2026",
-      "thumbnail": "https://i.ytimg.com/vi/e9xgIp_LLJY/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-01-12T05:55:11Z"
     }
   ]
 }
