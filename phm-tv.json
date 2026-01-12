@@ -1,7 +1,21 @@
 {
-  "updated": "2026-01-12T07:01:32.290Z",
+  "updated": "2026-01-12T07:46:13.579Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
+    {
+      "id": "Dy_xPcEat8U",
+      "title": "Cheza vs Heyoka SPORT 11.01.2026",
+      "thumbnail": "https://i.ytimg.com/vi/Dy_xPcEat8U/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-01-12T07:26:08Z"
+    },
+    {
+      "id": "PIC2StnwJio",
+      "title": "Stars vs Taste KLASIK 11.01.2026",
+      "thumbnail": "https://i.ytimg.com/vi/PIC2StnwJio/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-01-12T07:18:26Z"
+    },
     {
       "id": "e9xgIp_LLJY",
       "title": "Zbraslav vs PUK PAK PIVO SUPER 11.01.2026",
@@ -36,20 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/Y4p4Rg3Shos/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-01-11T19:03:22Z"
-    },
-    {
-      "id": "Dy_xPcEat8U",
-      "title": "Cheza vs Heyoka SPORT 11.01.2026",
-      "thumbnail": "https://i.ytimg.com/vi/Dy_xPcEat8U/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-01-11T17:46:37Z"
-    },
-    {
-      "id": "PIC2StnwJio",
-      "title": "Stars vs Taste KLASIK 11.01.2026",
-      "thumbnail": "https://i.ytimg.com/vi/PIC2StnwJio/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-01-11T17:43:31Z"
     }
   ]
 }
