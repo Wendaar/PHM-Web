@@ -1,7 +1,14 @@
 {
-  "updated": "2026-01-12T17:43:39.628Z",
+  "updated": "2026-01-12T18:26:09.364Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
+    {
+      "id": "H7wkZiNjJQA",
+      "title": "Traverzáci vs. Phantoms HOBBY 12.1.2026",
+      "thumbnail": "https://i.ytimg.com/vi/H7wkZiNjJQA/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2026-01-12T18:25:24Z"
+    },
     {
       "id": "Y4p4Rg3Shos",
       "title": "Pigeons vs ATTL SPORT 11.01.2026",
@@ -43,13 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/sFn8yEv0JFY/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-01-12T04:17:01Z"
-    },
-    {
-      "id": "pMJQky4TBDE",
-      "title": "Fanklub Lev vs Fešáci SPORT 11.01.2026",
-      "thumbnail": "https://i.ytimg.com/vi/pMJQky4TBDE/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-01-12T04:10:22Z"
     }
   ]
 }
