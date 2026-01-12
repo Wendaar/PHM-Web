@@ -1,7 +1,21 @@
 {
-  "updated": "2026-01-12T19:18:20.334Z",
+  "updated": "2026-01-12T19:39:55.854Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
+    {
+      "id": "diUa837d8xA",
+      "title": "Alligators vs Gastoni KLASIK 12,01,2026",
+      "thumbnail": "https://i.ytimg.com/vi/diUa837d8xA/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2026-01-12T19:25:15Z"
+    },
+    {
+      "id": "QDz4xK-MpM0",
+      "title": "Rekreanti vs Wolves B KLASIK 12.01.2026",
+      "thumbnail": "https://i.ytimg.com/vi/QDz4xK-MpM0/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2026-01-12T19:30:34Z"
+    },
     {
       "id": "H7wkZiNjJQA",
       "title": "Traverzáci vs. Phantoms HOBBY 12.1.2026",
@@ -36,20 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/e9xgIp_LLJY/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-01-12T05:55:11Z"
-    },
-    {
-      "id": "bCHKYVadAec",
-      "title": "Reindeers vs Ducks C HOBBY 11.01.2026",
-      "thumbnail": "https://i.ytimg.com/vi/bCHKYVadAec/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-01-12T05:38:30Z"
-    },
-    {
-      "id": "sFn8yEv0JFY",
-      "title": "Polar Bears vs Spiders HOBBY 11.01.2026",
-      "thumbnail": "https://i.ytimg.com/vi/sFn8yEv0JFY/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-01-12T04:17:01Z"
     }
   ]
 }
