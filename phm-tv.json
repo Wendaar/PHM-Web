@@ -1,20 +1,27 @@
 {
-  "updated": "2026-01-13T20:45:33.221Z",
+  "updated": "2026-01-13T21:16:45.397Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
-    {
-      "id": "juFjDXL1M4w",
-      "title": "Prague Elite Chiefs  vs HC Domynos Praha, SUPER, 13.01.2026",
-      "thumbnail": "https://i.ytimg.com/vi/juFjDXL1M4w/mqdefault_live.jpg",
-      "isLive": true,
-      "publishedAt": "2026-01-13T19:41:34Z"
-    },
     {
       "id": "Si02kY71ovg",
       "title": "Gladiators vs Ducks B KLASIK 13.01.2026",
       "thumbnail": "https://i.ytimg.com/vi/Si02kY71ovg/mqdefault_live.jpg",
       "isLive": true,
       "publishedAt": "2026-01-13T20:26:00Z"
+    },
+    {
+      "id": "uWWe1LXAJ_c",
+      "title": "Reindeers vs Dragons Hobby 13.01.26",
+      "thumbnail": "https://i.ytimg.com/vi/uWWe1LXAJ_c/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2026-01-13T20:53:54Z"
+    },
+    {
+      "id": "juFjDXL1M4w",
+      "title": "Prague Elite Chiefs  vs HC Domynos Praha, SUPER, 13.01.2026",
+      "thumbnail": "https://i.ytimg.com/vi/juFjDXL1M4w/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-01-13T19:41:34Z"
     },
     {
       "id": "WaMuW8qjFVI",
@@ -43,13 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/wSDrC8GSFsg/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-01-13T09:36:52Z"
-    },
-    {
-      "id": "diUa837d8xA",
-      "title": "Alligators vs Gastoni KLASIK 12.01.2026",
-      "thumbnail": "https://i.ytimg.com/vi/diUa837d8xA/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-01-13T09:01:04Z"
     }
   ]
 }
