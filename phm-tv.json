@@ -1,5 +1,5 @@
 {
-  "updated": "2026-01-13T19:38:07.581Z",
+  "updated": "2026-01-13T20:19:20.719Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
     {
@@ -10,18 +10,25 @@
       "publishedAt": "2026-01-13T19:23:49Z"
     },
     {
-      "id": "Aw5AuyC0J_U",
-      "title": "HC Slavoj Zbraslav Střely vs HC REX BOHEMIA, SUPER, 13.01.2026",
-      "thumbnail": "https://i.ytimg.com/vi/Aw5AuyC0J_U/mqdefault_live.jpg",
+      "id": "juFjDXL1M4w",
+      "title": "Prague Elite Chiefs  vs HC Domynos Praha, SUPER, 13.01.2026",
+      "thumbnail": "https://i.ytimg.com/vi/juFjDXL1M4w/mqdefault_live.jpg",
       "isLive": true,
-      "publishedAt": "2026-01-13T18:14:08Z"
+      "publishedAt": "2026-01-13T19:41:34Z"
     },
     {
       "id": "7u3bKn8AkaE",
       "title": "Fotr vs KV Elektro HOBBY 13.01.2026",
-      "thumbnail": "https://i.ytimg.com/vi/7u3bKn8AkaE/mqdefault_live.jpg",
-      "isLive": true,
+      "thumbnail": "https://i.ytimg.com/vi/7u3bKn8AkaE/mqdefault.jpg",
+      "isLive": false,
       "publishedAt": "2026-01-13T18:57:08Z"
+    },
+    {
+      "id": "Aw5AuyC0J_U",
+      "title": "HC Slavoj Zbraslav Střely vs HC REX BOHEMIA, SUPER, 13.01.2026",
+      "thumbnail": "https://i.ytimg.com/vi/Aw5AuyC0J_U/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-01-13T18:14:08Z"
     },
     {
       "id": "wSDrC8GSFsg",
@@ -43,13 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/QDz4xK-MpM0/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-01-13T08:56:48Z"
-    },
-    {
-      "id": "H7wkZiNjJQA",
-      "title": "Traverzáci vs Phantoms HOBBY 12.01.2026",
-      "thumbnail": "https://i.ytimg.com/vi/H7wkZiNjJQA/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-01-13T07:54:00Z"
     }
   ]
 }
