@@ -1,7 +1,14 @@
 {
-  "updated": "2026-01-13T07:44:29.751Z",
+  "updated": "2026-01-13T08:24:30.121Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
+    {
+      "id": "H7wkZiNjJQA",
+      "title": "Traverzáci vs Phantoms HOBBY 12.01.2026",
+      "thumbnail": "https://i.ytimg.com/vi/H7wkZiNjJQA/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-01-13T07:54:00Z"
+    },
     {
       "id": "wSDrC8GSFsg",
       "title": "HOVNA vs Ducks Sport SPORT 12.01.2026",
@@ -22,13 +29,6 @@
       "thumbnail": "https://i.ytimg.com/vi/diUa837d8xA/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-01-12T19:25:15Z"
-    },
-    {
-      "id": "H7wkZiNjJQA",
-      "title": "Traverzáci vs Phantoms HOBBY 12.01.2026",
-      "thumbnail": "https://i.ytimg.com/vi/H7wkZiNjJQA/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-01-12T18:25:24Z"
     },
     {
       "id": "Y4p4Rg3Shos",
