@@ -1,20 +1,27 @@
 {
-  "updated": "2026-01-13T20:19:20.719Z",
+  "updated": "2026-01-13T20:45:33.221Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
-    {
-      "id": "WaMuW8qjFVI",
-      "title": "Platidlo vs Raptors Klasik 13.01.26",
-      "thumbnail": "https://i.ytimg.com/vi/WaMuW8qjFVI/mqdefault_live.jpg",
-      "isLive": true,
-      "publishedAt": "2026-01-13T19:23:49Z"
-    },
     {
       "id": "juFjDXL1M4w",
       "title": "Prague Elite Chiefs  vs HC Domynos Praha, SUPER, 13.01.2026",
       "thumbnail": "https://i.ytimg.com/vi/juFjDXL1M4w/mqdefault_live.jpg",
       "isLive": true,
       "publishedAt": "2026-01-13T19:41:34Z"
+    },
+    {
+      "id": "Si02kY71ovg",
+      "title": "Gladiators vs Ducks B KLASIK 13.01.2026",
+      "thumbnail": "https://i.ytimg.com/vi/Si02kY71ovg/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2026-01-13T20:26:00Z"
+    },
+    {
+      "id": "WaMuW8qjFVI",
+      "title": "Platidlo vs Raptors Klasik 13.01.26",
+      "thumbnail": "https://i.ytimg.com/vi/WaMuW8qjFVI/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-01-13T19:23:49Z"
     },
     {
       "id": "7u3bKn8AkaE",
@@ -43,13 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/diUa837d8xA/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-01-13T09:01:04Z"
-    },
-    {
-      "id": "QDz4xK-MpM0",
-      "title": "Rekreanti vs Wolves B KLASIK 12.01.2026",
-      "thumbnail": "https://i.ytimg.com/vi/QDz4xK-MpM0/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-01-13T08:56:48Z"
     }
   ]
 }
