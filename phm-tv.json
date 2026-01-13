@@ -1,7 +1,14 @@
 {
-  "updated": "2026-01-13T09:23:50.607Z",
+  "updated": "2026-01-13T09:49:13.525Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
+    {
+      "id": "wSDrC8GSFsg",
+      "title": "HOVNA vs Ducks Sport SPORT 12.01.2026",
+      "thumbnail": "https://i.ytimg.com/vi/wSDrC8GSFsg/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-01-13T09:36:52Z"
+    },
     {
       "id": "diUa837d8xA",
       "title": "Alligators vs Gastoni KLASIK 12.01.2026",
@@ -22,13 +29,6 @@
       "thumbnail": "https://i.ytimg.com/vi/H7wkZiNjJQA/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-01-13T07:54:00Z"
-    },
-    {
-      "id": "wSDrC8GSFsg",
-      "title": "HOVNA vs Ducks Sport SPORT 12.01.2026",
-      "thumbnail": "https://i.ytimg.com/vi/wSDrC8GSFsg/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-01-12T20:06:45Z"
     },
     {
       "id": "Y4p4Rg3Shos",
