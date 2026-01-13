@@ -1,7 +1,14 @@
 {
-  "updated": "2026-01-13T19:17:13.281Z",
+  "updated": "2026-01-13T19:38:07.581Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
+    {
+      "id": "WaMuW8qjFVI",
+      "title": "Platidlo vs Raptors Klasik 13.01.26",
+      "thumbnail": "https://i.ytimg.com/vi/WaMuW8qjFVI/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2026-01-13T19:23:49Z"
+    },
     {
       "id": "Aw5AuyC0J_U",
       "title": "HC Slavoj Zbraslav Střely vs HC REX BOHEMIA, SUPER, 13.01.2026",
@@ -43,13 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/H7wkZiNjJQA/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-01-13T07:54:00Z"
-    },
-    {
-      "id": "Y4p4Rg3Shos",
-      "title": "Pigeons vs ATTL SPORT 11.01.2026",
-      "thumbnail": "https://i.ytimg.com/vi/Y4p4Rg3Shos/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-01-12T08:37:47Z"
     }
   ]
 }
