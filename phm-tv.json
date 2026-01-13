@@ -1,7 +1,14 @@
 {
-  "updated": "2026-01-13T17:50:35.156Z",
+  "updated": "2026-01-13T18:26:03.922Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
+    {
+      "id": "Aw5AuyC0J_U",
+      "title": "HC Slavoj Zbraslav Střely vs HC REX BOHEMIA, SUPER, 13.01.2026",
+      "thumbnail": "https://i.ytimg.com/vi/Aw5AuyC0J_U/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2026-01-13T18:14:08Z"
+    },
     {
       "id": "wSDrC8GSFsg",
       "title": "HOVNA vs Ducks Sport SPORT 12.01.2026",
@@ -43,13 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/Dy_xPcEat8U/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-01-12T07:26:08Z"
-    },
-    {
-      "id": "PIC2StnwJio",
-      "title": "Stars vs Taste KLASIK 11.01.2026",
-      "thumbnail": "https://i.ytimg.com/vi/PIC2StnwJio/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-01-12T07:18:26Z"
     }
   ]
 }
