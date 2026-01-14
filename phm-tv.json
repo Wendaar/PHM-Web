@@ -1,21 +1,7 @@
 {
-  "updated": "2026-01-14T21:17:04.727Z",
+  "updated": "2026-01-14T21:42:40.315Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
-    {
-      "id": "HhJiIHU5vrA",
-      "title": "Papoušci vs. Soldiers B HOBBY 14.1.2026",
-      "thumbnail": "https://i.ytimg.com/vi/HhJiIHU5vrA/mqdefault_live.jpg",
-      "isLive": true,
-      "publishedAt": "2026-01-14T20:37:26Z"
-    },
-    {
-      "id": "EoBWutnV3M0",
-      "title": "ICE vs DKC",
-      "thumbnail": "https://i.ytimg.com/vi/EoBWutnV3M0/mqdefault_live.jpg",
-      "isLive": true,
-      "publishedAt": "2026-01-14T19:49:05Z"
-    },
     {
       "id": "HbLDn1fyH6w",
       "title": "Kosti vs PUK PAK PIVO SUPER 14,01,2026",
@@ -24,11 +10,25 @@
       "publishedAt": "2026-01-14T20:50:48Z"
     },
     {
+      "id": "HhJiIHU5vrA",
+      "title": "Papoušci vs. Soldiers B HOBBY 14.1.2026",
+      "thumbnail": "https://i.ytimg.com/vi/HhJiIHU5vrA/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2026-01-14T20:37:26Z"
+    },
+    {
       "id": "s8ZwD93c14g",
       "title": "Paladins vs Polar Bears HOBBY 14,01,2026",
       "thumbnail": "https://i.ytimg.com/vi/s8ZwD93c14g/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-01-14T20:30:25Z"
+    },
+    {
+      "id": "EoBWutnV3M0",
+      "title": "ICE vs DKC",
+      "thumbnail": "https://i.ytimg.com/vi/EoBWutnV3M0/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-01-14T19:49:05Z"
     },
     {
       "id": "72UzInLyDu8",
