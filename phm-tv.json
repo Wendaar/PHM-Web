@@ -1,14 +1,7 @@
 {
-  "updated": "2026-01-14T19:39:10.127Z",
+  "updated": "2026-01-14T20:16:50.491Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
-    {
-      "id": "72UzInLyDu8",
-      "title": "Vikings vs. MYQ HOBBY 14.1.2026",
-      "thumbnail": "https://i.ytimg.com/vi/72UzInLyDu8/mqdefault_live.jpg",
-      "isLive": true,
-      "publishedAt": "2026-01-14T19:21:25Z"
-    },
     {
       "id": "s8ZwD93c14g",
       "title": "Paladins vs Polar Bears HOBBY 14,01,2026",
@@ -17,10 +10,24 @@
       "publishedAt": "2026-01-14T19:20:39Z"
     },
     {
+      "id": "72UzInLyDu8",
+      "title": "Vikings vs. MYQ HOBBY 14.1.2026",
+      "thumbnail": "https://i.ytimg.com/vi/72UzInLyDu8/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2026-01-14T19:21:25Z"
+    },
+    {
+      "id": "EoBWutnV3M0",
+      "title": "ICE vs DKC",
+      "thumbnail": "https://i.ytimg.com/vi/EoBWutnV3M0/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2026-01-14T19:49:05Z"
+    },
+    {
       "id": "t3oRCxliJKw",
       "title": "VHT vs FES",
-      "thumbnail": "https://i.ytimg.com/vi/t3oRCxliJKw/mqdefault_live.jpg",
-      "isLive": true,
+      "thumbnail": "https://i.ytimg.com/vi/t3oRCxliJKw/mqdefault.jpg",
+      "isLive": false,
       "publishedAt": "2026-01-14T18:27:55Z"
     },
     {
@@ -43,13 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/juFjDXL1M4w/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-01-14T09:20:04Z"
-    },
-    {
-      "id": "WaMuW8qjFVI",
-      "title": "PLATIDLO vs Raptors KLASIK 13.01.2026",
-      "thumbnail": "https://i.ytimg.com/vi/WaMuW8qjFVI/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-01-14T08:43:24Z"
     }
   ]
 }
