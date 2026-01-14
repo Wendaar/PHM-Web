@@ -1,20 +1,13 @@
 {
-  "updated": "2026-01-14T20:16:50.491Z",
+  "updated": "2026-01-14T20:42:55.758Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
     {
-      "id": "s8ZwD93c14g",
-      "title": "Paladins vs Polar Bears HOBBY 14,01,2026",
-      "thumbnail": "https://i.ytimg.com/vi/s8ZwD93c14g/mqdefault_live.jpg",
+      "id": "HhJiIHU5vrA",
+      "title": "Papoušci vs. Soldiers B HOBBY 14.1.2026",
+      "thumbnail": "https://i.ytimg.com/vi/HhJiIHU5vrA/mqdefault_live.jpg",
       "isLive": true,
-      "publishedAt": "2026-01-14T19:20:39Z"
-    },
-    {
-      "id": "72UzInLyDu8",
-      "title": "Vikings vs. MYQ HOBBY 14.1.2026",
-      "thumbnail": "https://i.ytimg.com/vi/72UzInLyDu8/mqdefault_live.jpg",
-      "isLive": true,
-      "publishedAt": "2026-01-14T19:21:25Z"
+      "publishedAt": "2026-01-14T20:37:26Z"
     },
     {
       "id": "EoBWutnV3M0",
@@ -22,6 +15,20 @@
       "thumbnail": "https://i.ytimg.com/vi/EoBWutnV3M0/mqdefault_live.jpg",
       "isLive": true,
       "publishedAt": "2026-01-14T19:49:05Z"
+    },
+    {
+      "id": "s8ZwD93c14g",
+      "title": "Paladins vs Polar Bears HOBBY 14,01,2026",
+      "thumbnail": "https://i.ytimg.com/vi/s8ZwD93c14g/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-01-14T20:30:25Z"
+    },
+    {
+      "id": "72UzInLyDu8",
+      "title": "Vikings vs. MYQ HOBBY 14.1.2026",
+      "thumbnail": "https://i.ytimg.com/vi/72UzInLyDu8/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-01-14T19:21:25Z"
     },
     {
       "id": "t3oRCxliJKw",
@@ -43,13 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/uWWe1LXAJ_c/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-01-14T10:09:05Z"
-    },
-    {
-      "id": "juFjDXL1M4w",
-      "title": "Chiefs vs Domynos SUPER 13.01.2026",
-      "thumbnail": "https://i.ytimg.com/vi/juFjDXL1M4w/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-01-14T09:20:04Z"
     }
   ]
 }
