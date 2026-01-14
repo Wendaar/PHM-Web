@@ -1,7 +1,14 @@
 {
-  "updated": "2026-01-14T08:52:55.973Z",
+  "updated": "2026-01-14T09:24:47.155Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
+    {
+      "id": "juFjDXL1M4w",
+      "title": "Chiefs vs Domynos SUPER 13.01.2026",
+      "thumbnail": "https://i.ytimg.com/vi/juFjDXL1M4w/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-01-14T09:20:04Z"
+    },
     {
       "id": "WaMuW8qjFVI",
       "title": "PLATIDLO vs Raptors KLASIK 13.01.2026",
@@ -36,13 +43,6 @@
       "thumbnail": "https://i.ytimg.com/vi/Si02kY71ovg/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-01-13T20:26:00Z"
-    },
-    {
-      "id": "juFjDXL1M4w",
-      "title": "Chiefs vs Domynos SUPER 13.01.2026",
-      "thumbnail": "https://i.ytimg.com/vi/juFjDXL1M4w/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-01-13T19:41:34Z"
     },
     {
       "id": "wSDrC8GSFsg",
