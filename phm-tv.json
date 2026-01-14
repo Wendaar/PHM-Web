@@ -1,7 +1,14 @@
 {
-  "updated": "2026-01-14T08:23:43.014Z",
+  "updated": "2026-01-14T08:52:55.973Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
+    {
+      "id": "WaMuW8qjFVI",
+      "title": "PLATIDLO vs Raptors KLASIK 13.01.2026",
+      "thumbnail": "https://i.ytimg.com/vi/WaMuW8qjFVI/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-01-14T08:43:24Z"
+    },
     {
       "id": "7u3bKn8AkaE",
       "title": "Fotr vs KV Elektro HOBBY 13.01.2026",
@@ -36,13 +43,6 @@
       "thumbnail": "https://i.ytimg.com/vi/juFjDXL1M4w/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-01-13T19:41:34Z"
-    },
-    {
-      "id": "WaMuW8qjFVI",
-      "title": "PLATIDLO vs Raptors KLASIK 13.01.2026",
-      "thumbnail": "https://i.ytimg.com/vi/WaMuW8qjFVI/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-01-13T19:23:49Z"
     },
     {
       "id": "wSDrC8GSFsg",
