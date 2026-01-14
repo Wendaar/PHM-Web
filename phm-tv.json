@@ -1,7 +1,21 @@
 {
-  "updated": "2026-01-14T19:17:43.835Z",
+  "updated": "2026-01-14T19:39:10.127Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
+    {
+      "id": "72UzInLyDu8",
+      "title": "Vikings vs. MYQ HOBBY 14.1.2026",
+      "thumbnail": "https://i.ytimg.com/vi/72UzInLyDu8/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2026-01-14T19:21:25Z"
+    },
+    {
+      "id": "s8ZwD93c14g",
+      "title": "Paladins vs Polar Bears HOBBY 14,01,2026",
+      "thumbnail": "https://i.ytimg.com/vi/s8ZwD93c14g/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2026-01-14T19:20:39Z"
+    },
     {
       "id": "t3oRCxliJKw",
       "title": "VHT vs FES",
@@ -36,20 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/WaMuW8qjFVI/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-01-14T08:43:24Z"
-    },
-    {
-      "id": "7u3bKn8AkaE",
-      "title": "Fotr vs KV Elektro HOBBY 13.01.2026",
-      "thumbnail": "https://i.ytimg.com/vi/7u3bKn8AkaE/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-01-14T08:21:29Z"
-    },
-    {
-      "id": "Aw5AuyC0J_U",
-      "title": "Zbraslav vs REX SUPER 13.01.2026",
-      "thumbnail": "https://i.ytimg.com/vi/Aw5AuyC0J_U/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-01-14T07:52:48Z"
     }
   ]
 }
