@@ -1,7 +1,21 @@
 {
-  "updated": "2026-01-15T18:32:42.753Z",
+  "updated": "2026-01-15T19:20:37.859Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
+    {
+      "id": "ELtRiNxDPCA",
+      "title": "Žraloci vs Strašáci Hobby 15.01.26",
+      "thumbnail": "https://i.ytimg.com/vi/ELtRiNxDPCA/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2026-01-15T19:19:10Z"
+    },
+    {
+      "id": "W-WOuQReQl0",
+      "title": "KBS vs RST",
+      "thumbnail": "https://i.ytimg.com/vi/W-WOuQReQl0/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2026-01-15T18:52:44Z"
+    },
     {
       "id": "HhJiIHU5vrA",
       "title": "Papoušci vs Soldiers B HOBBY 14.01.2026",
@@ -36,20 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/HbLDn1fyH6w/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-01-14T22:00:44Z"
-    },
-    {
-      "id": "s8ZwD93c14g",
-      "title": "Paladins vs Polar Bears HOBBY 14.01.2026",
-      "thumbnail": "https://i.ytimg.com/vi/s8ZwD93c14g/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-01-14T20:30:25Z"
-    },
-    {
-      "id": "Si02kY71ovg",
-      "title": "Gladiators vs Ducks B KLASIK 13.01.2026",
-      "thumbnail": "https://i.ytimg.com/vi/Si02kY71ovg/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-01-14T10:10:37Z"
     }
   ]
 }
