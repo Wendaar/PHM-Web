@@ -1,7 +1,14 @@
 {
-  "updated": "2026-01-16T09:47:00.258Z",
+  "updated": "2026-01-16T10:18:40.950Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
+    {
+      "id": "1Z3Zdz4P5ik",
+      "title": "Žižkov vs Wolves SUPER 15.01.2026",
+      "thumbnail": "https://i.ytimg.com/vi/1Z3Zdz4P5ik/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-01-16T10:14:23Z"
+    },
     {
       "id": "AuPNedvp-Es",
       "title": "Gastoni vs Stars KLASIK 15.01.2026",
@@ -22,13 +29,6 @@
       "thumbnail": "https://i.ytimg.com/vi/W-WOuQReQl0/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-01-16T08:55:51Z"
-    },
-    {
-      "id": "1Z3Zdz4P5ik",
-      "title": "Žižkov vs Wolves SUPER 15.01.2026",
-      "thumbnail": "https://i.ytimg.com/vi/1Z3Zdz4P5ik/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-01-15T20:45:16Z"
     },
     {
       "id": "HhJiIHU5vrA",
