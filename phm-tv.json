@@ -1,7 +1,21 @@
 {
-  "updated": "2026-01-16T22:44:01.069Z",
+  "updated": "2026-01-16T23:16:16.343Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
+    {
+      "id": "Au5WI7uDswI",
+      "title": "26 01 12 Alligators vs Gaston Seals",
+      "thumbnail": "https://i.ytimg.com/vi/Au5WI7uDswI/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-01-16T23:10:48Z"
+    },
+    {
+      "id": "_pwGGSqR3Qk",
+      "title": "26 01 14 Profinit Paladins vs Polar Bears",
+      "thumbnail": "https://i.ytimg.com/vi/_pwGGSqR3Qk/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-01-16T23:10:51Z"
+    },
     {
       "id": "hQKqXr5S_f8",
       "title": "26 WEEK RECAP 01 16 SPORT",
@@ -36,20 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/1Z3Zdz4P5ik/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-01-16T10:14:23Z"
-    },
-    {
-      "id": "AuPNedvp-Es",
-      "title": "Gastoni vs Stars KLASIK 15.01.2026",
-      "thumbnail": "https://i.ytimg.com/vi/AuPNedvp-Es/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-01-16T09:42:17Z"
-    },
-    {
-      "id": "ELtRiNxDPCA",
-      "title": "Žraloci vs Scarecrows HOBBY 15.01.2026",
-      "thumbnail": "https://i.ytimg.com/vi/ELtRiNxDPCA/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-01-16T09:05:19Z"
     }
   ]
 }
