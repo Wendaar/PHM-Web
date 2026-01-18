@@ -1,7 +1,14 @@
 {
-  "updated": "2026-01-18T14:40:18.313Z",
+  "updated": "2026-01-18T15:15:05.422Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
+    {
+      "id": "32KOPP2WYms",
+      "title": "DOM vs SKŽ",
+      "thumbnail": "https://i.ytimg.com/vi/32KOPP2WYms/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2026-01-18T14:56:03Z"
+    },
     {
       "id": "PRrDeD9o4Io",
       "title": "Soldiers B vs Ducks C Hobby 18.01.26",
@@ -43,13 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/_GCG7SIv5Hc/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-01-16T16:41:52Z"
-    },
-    {
-      "id": "lQz_NHO1m_k",
-      "title": "26 WEEK RECAP 01 16 KLASIK",
-      "thumbnail": "https://i.ytimg.com/vi/lQz_NHO1m_k/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-01-16T16:41:55Z"
     }
   ]
 }
