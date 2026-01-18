@@ -1,20 +1,20 @@
 {
-  "updated": "2026-01-18T18:21:28.044Z",
+  "updated": "2026-01-18T18:48:07.619Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
-    {
-      "id": "Npbsr1aGMDQ",
-      "title": "Rekreanti vs Banditos Klasik 18.01.26",
-      "thumbnail": "https://i.ytimg.com/vi/Npbsr1aGMDQ/mqdefault_live.jpg",
-      "isLive": true,
-      "publishedAt": "2026-01-18T17:40:59Z"
-    },
     {
       "id": "gm0rR_5BQEQ",
       "title": "TAS vs CAR",
       "thumbnail": "https://i.ytimg.com/vi/gm0rR_5BQEQ/mqdefault_live.jpg",
       "isLive": true,
       "publishedAt": "2026-01-18T17:40:34Z"
+    },
+    {
+      "id": "Npbsr1aGMDQ",
+      "title": "Rekreanti vs Banditos Klasik 18.01.26",
+      "thumbnail": "https://i.ytimg.com/vi/Npbsr1aGMDQ/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2026-01-18T17:40:59Z"
     },
     {
       "id": "-4nzIDH8vUc",
