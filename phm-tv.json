@@ -1,7 +1,14 @@
 {
-  "updated": "2026-01-18T14:14:08.943Z",
+  "updated": "2026-01-18T14:40:18.313Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
+    {
+      "id": "PRrDeD9o4Io",
+      "title": "Soldiers B vs Ducks C Hobby 18.01.26",
+      "thumbnail": "https://i.ytimg.com/vi/PRrDeD9o4Io/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2026-01-18T14:36:53Z"
+    },
     {
       "id": "j7Hv6AKeiBM",
       "title": "26 01 14 Kosti vs PUK PAK PIVO",
@@ -43,13 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/lQz_NHO1m_k/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-01-16T16:41:55Z"
-    },
-    {
-      "id": "tvx3vNfHyX0",
-      "title": "26 WEEK RECAP 01 16 SUPER",
-      "thumbnail": "https://i.ytimg.com/vi/tvx3vNfHyX0/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-01-16T16:42:00Z"
     }
   ]
 }
