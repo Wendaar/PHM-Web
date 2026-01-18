@@ -1,19 +1,33 @@
 {
-  "updated": "2026-01-18T15:39:01.548Z",
+  "updated": "2026-01-18T16:18:46.900Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
     {
+      "id": "HK-fyfQeJXA",
+      "title": "Cheza vs Strojaři Sport 18.01.26",
+      "thumbnail": "https://i.ytimg.com/vi/HK-fyfQeJXA/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2026-01-18T16:07:03Z"
+    },
+    {
+      "id": "-4nzIDH8vUc",
+      "title": "LEV vs HEY",
+      "thumbnail": "https://i.ytimg.com/vi/-4nzIDH8vUc/mqdefault_live.jpg",
+      "isLive": false,
+      "publishedAt": "2026-01-18T16:11:17Z"
+    },
+    {
       "id": "32KOPP2WYms",
       "title": "DOM vs SKŽ",
-      "thumbnail": "https://i.ytimg.com/vi/32KOPP2WYms/mqdefault_live.jpg",
-      "isLive": true,
+      "thumbnail": "https://i.ytimg.com/vi/32KOPP2WYms/mqdefault.jpg",
+      "isLive": false,
       "publishedAt": "2026-01-18T14:56:03Z"
     },
     {
       "id": "PRrDeD9o4Io",
       "title": "Soldiers B vs Ducks C Hobby 18.01.26",
-      "thumbnail": "https://i.ytimg.com/vi/PRrDeD9o4Io/mqdefault_live.jpg",
-      "isLive": true,
+      "thumbnail": "https://i.ytimg.com/vi/PRrDeD9o4Io/mqdefault.jpg",
+      "isLive": false,
       "publishedAt": "2026-01-18T14:36:53Z"
     },
     {
@@ -36,20 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/_pwGGSqR3Qk/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-01-16T23:10:51Z"
-    },
-    {
-      "id": "hQKqXr5S_f8",
-      "title": "26 WEEK RECAP 01 16 SPORT",
-      "thumbnail": "https://i.ytimg.com/vi/hQKqXr5S_f8/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-01-16T16:41:58Z"
-    },
-    {
-      "id": "_GCG7SIv5Hc",
-      "title": "26 WEEK RECAP 01 16 HOBBY",
-      "thumbnail": "https://i.ytimg.com/vi/_GCG7SIv5Hc/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-01-16T16:41:52Z"
     }
   ]
 }
