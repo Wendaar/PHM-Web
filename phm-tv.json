@@ -1,14 +1,7 @@
 {
-  "updated": "2026-01-19T19:16:31.047Z",
+  "updated": "2026-01-19T19:38:36.643Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
-    {
-      "id": "BiKxE42aIC8",
-      "title": "19.1.2026 - GLA vs RAP",
-      "thumbnail": "https://i.ytimg.com/vi/BiKxE42aIC8/mqdefault_live.jpg",
-      "isLive": true,
-      "publishedAt": "2026-01-19T18:27:29Z"
-    },
     {
       "id": "wjZYv0dUfDU",
       "title": "MyQ Heroes vs Ice Spiders, HOBBY - 19. 01. 2026",
@@ -20,8 +13,15 @@
       "id": "aLL0aCL4BJk",
       "title": "Paladins vs Scarecrows HOBBY 19.1.2026",
       "thumbnail": "https://i.ytimg.com/vi/aLL0aCL4BJk/mqdefault_live.jpg",
-      "isLive": false,
+      "isLive": true,
       "publishedAt": "2026-01-19T19:16:22Z"
+    },
+    {
+      "id": "BiKxE42aIC8",
+      "title": "19.1.2026 - GLA vs RAP",
+      "thumbnail": "https://i.ytimg.com/vi/BiKxE42aIC8/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2026-01-19T18:27:29Z"
     },
     {
       "id": "7_yfFU1Ckls",
