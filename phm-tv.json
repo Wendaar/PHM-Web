@@ -1,7 +1,14 @@
 {
-  "updated": "2026-01-19T18:25:02.457Z",
+  "updated": "2026-01-19T18:54:27.615Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
+    {
+      "id": "BiKxE42aIC8",
+      "title": "19.1.2026 - GLA vs RAP",
+      "thumbnail": "https://i.ytimg.com/vi/BiKxE42aIC8/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2026-01-19T18:27:29Z"
+    },
     {
       "id": "7_yfFU1Ckls",
       "title": "26 Subotica Meet the team",
@@ -43,13 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/HK-fyfQeJXA/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-01-19T06:04:46Z"
-    },
-    {
-      "id": "PRrDeD9o4Io",
-      "title": "Soldiers B vs Ducks C HOBBY 18.01.2026",
-      "thumbnail": "https://i.ytimg.com/vi/PRrDeD9o4Io/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-01-19T04:22:23Z"
     }
   ]
 }
