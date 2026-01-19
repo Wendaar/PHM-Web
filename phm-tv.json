@@ -1,5 +1,5 @@
 {
-  "updated": "2026-01-19T18:54:27.615Z",
+  "updated": "2026-01-19T19:16:31.047Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
     {
@@ -8,6 +8,20 @@
       "thumbnail": "https://i.ytimg.com/vi/BiKxE42aIC8/mqdefault_live.jpg",
       "isLive": true,
       "publishedAt": "2026-01-19T18:27:29Z"
+    },
+    {
+      "id": "wjZYv0dUfDU",
+      "title": "MyQ Heroes vs Ice Spiders, HOBBY - 19. 01. 2026",
+      "thumbnail": "https://i.ytimg.com/vi/wjZYv0dUfDU/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2026-01-19T19:13:31Z"
+    },
+    {
+      "id": "aLL0aCL4BJk",
+      "title": "Paladins vs Scarecrows HOBBY 19.1.2026",
+      "thumbnail": "https://i.ytimg.com/vi/aLL0aCL4BJk/mqdefault_live.jpg",
+      "isLive": false,
+      "publishedAt": "2026-01-19T19:16:22Z"
     },
     {
       "id": "7_yfFU1Ckls",
@@ -36,20 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/gm0rR_5BQEQ/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-01-19T07:35:25Z"
-    },
-    {
-      "id": "-4nzIDH8vUc",
-      "title": "Fanklub Lev vs Heyoka SPORT 18.01.2026",
-      "thumbnail": "https://i.ytimg.com/vi/-4nzIDH8vUc/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-01-19T06:14:37Z"
-    },
-    {
-      "id": "HK-fyfQeJXA",
-      "title": "Cheza vs ATTL SPORT 18.01.2026",
-      "thumbnail": "https://i.ytimg.com/vi/HK-fyfQeJXA/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-01-19T06:04:46Z"
     }
   ]
 }
