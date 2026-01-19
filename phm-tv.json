@@ -1,5 +1,5 @@
 {
-  "updated": "2026-01-19T19:38:36.643Z",
+  "updated": "2026-01-19T20:18:54.777Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
     {
@@ -17,10 +17,17 @@
       "publishedAt": "2026-01-19T19:16:22Z"
     },
     {
+      "id": "Mm6EWgHA1RM",
+      "title": "19.1.2026 HOV vs DSS",
+      "thumbnail": "https://i.ytimg.com/vi/Mm6EWgHA1RM/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2026-01-19T19:55:41Z"
+    },
+    {
       "id": "BiKxE42aIC8",
       "title": "19.1.2026 - GLA vs RAP",
-      "thumbnail": "https://i.ytimg.com/vi/BiKxE42aIC8/mqdefault_live.jpg",
-      "isLive": true,
+      "thumbnail": "https://i.ytimg.com/vi/BiKxE42aIC8/mqdefault.jpg",
+      "isLive": false,
       "publishedAt": "2026-01-19T18:27:29Z"
     },
     {
@@ -43,13 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/Npbsr1aGMDQ/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-01-19T08:25:23Z"
-    },
-    {
-      "id": "gm0rR_5BQEQ",
-      "title": "Taste vs Car-Back KLASIK 18.01.2026",
-      "thumbnail": "https://i.ytimg.com/vi/gm0rR_5BQEQ/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-01-19T07:35:25Z"
     }
   ]
 }
