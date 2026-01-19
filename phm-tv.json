@@ -1,7 +1,14 @@
 {
-  "updated": "2026-01-19T17:19:59.637Z",
+  "updated": "2026-01-19T17:46:24.443Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
+    {
+      "id": "7_yfFU1Ckls",
+      "title": "26 Subotica Meet the team",
+      "thumbnail": "https://i.ytimg.com/vi/7_yfFU1Ckls/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-01-19T17:41:09Z"
+    },
     {
       "id": "_Ulap7nZA1w",
       "title": "Pigeons vs Office Rats SPORT 18.01.2026",
@@ -43,13 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/PRrDeD9o4Io/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-01-19T04:22:23Z"
-    },
-    {
-      "id": "32KOPP2WYms",
-      "title": "Domynos vs Žižkov SUPER 18.01.2026",
-      "thumbnail": "https://i.ytimg.com/vi/32KOPP2WYms/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-01-19T04:20:10Z"
     }
   ]
 }
