@@ -1,5 +1,5 @@
 {
-  "updated": "2026-01-19T20:18:54.777Z",
+  "updated": "2026-01-19T20:44:00.665Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
     {
@@ -10,18 +10,18 @@
       "publishedAt": "2026-01-19T19:13:31Z"
     },
     {
-      "id": "aLL0aCL4BJk",
-      "title": "Paladins vs Scarecrows HOBBY 19.1.2026",
-      "thumbnail": "https://i.ytimg.com/vi/aLL0aCL4BJk/mqdefault_live.jpg",
-      "isLive": true,
-      "publishedAt": "2026-01-19T19:16:22Z"
-    },
-    {
       "id": "Mm6EWgHA1RM",
       "title": "19.1.2026 HOV vs DSS",
       "thumbnail": "https://i.ytimg.com/vi/Mm6EWgHA1RM/mqdefault_live.jpg",
       "isLive": true,
       "publishedAt": "2026-01-19T19:55:41Z"
+    },
+    {
+      "id": "aLL0aCL4BJk",
+      "title": "Paladins vs Scarecrows HOBBY 19.1.2026",
+      "thumbnail": "https://i.ytimg.com/vi/aLL0aCL4BJk/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-01-19T19:16:22Z"
     },
     {
       "id": "BiKxE42aIC8",
