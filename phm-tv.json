@@ -1,13 +1,13 @@
 {
-  "updated": "2026-01-19T20:44:00.665Z",
+  "updated": "2026-01-19T21:15:14.610Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
     {
-      "id": "wjZYv0dUfDU",
-      "title": "MyQ Heroes vs Ice Spiders, HOBBY - 19. 01. 2026",
-      "thumbnail": "https://i.ytimg.com/vi/wjZYv0dUfDU/mqdefault_live.jpg",
+      "id": "1h9zzbxY7dE",
+      "title": "Zbraslav vs Wolves SUPER 19.1.2026",
+      "thumbnail": "https://i.ytimg.com/vi/1h9zzbxY7dE/mqdefault_live.jpg",
       "isLive": true,
-      "publishedAt": "2026-01-19T19:13:31Z"
+      "publishedAt": "2026-01-19T20:47:12Z"
     },
     {
       "id": "Mm6EWgHA1RM",
@@ -22,6 +22,13 @@
       "thumbnail": "https://i.ytimg.com/vi/aLL0aCL4BJk/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-01-19T19:16:22Z"
+    },
+    {
+      "id": "wjZYv0dUfDU",
+      "title": "MyQ Heroes vs Ice Spiders, HOBBY - 19. 01. 2026",
+      "thumbnail": "https://i.ytimg.com/vi/wjZYv0dUfDU/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-01-19T19:13:31Z"
     },
     {
       "id": "BiKxE42aIC8",
@@ -43,13 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/_Ulap7nZA1w/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-01-19T08:44:24Z"
-    },
-    {
-      "id": "Npbsr1aGMDQ",
-      "title": "Rekreanti vs Banditos KLASIK 18.01.2026",
-      "thumbnail": "https://i.ytimg.com/vi/Npbsr1aGMDQ/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-01-19T08:25:23Z"
     }
   ]
 }
