@@ -1,13 +1,27 @@
 {
-  "updated": "2026-01-20T18:28:37.899Z",
+  "updated": "2026-01-20T19:44:12.887Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
+    {
+      "id": "JIy13mA9xPg",
+      "title": "KV Elektro vs Ducks C HOBBY 20.01.2026",
+      "thumbnail": "https://i.ytimg.com/vi/JIy13mA9xPg/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2026-01-20T18:55:31Z"
+    },
     {
       "id": "qoRKLU5KVCE",
       "title": "VHT vs LEV",
       "thumbnail": "https://i.ytimg.com/vi/qoRKLU5KVCE/mqdefault_live.jpg",
       "isLive": true,
       "publishedAt": "2026-01-20T18:20:11Z"
+    },
+    {
+      "id": "xtJH0V4w_nE",
+      "title": "HC Prague Wolves B  vs PLATIDLO.COM, KLASIK, 10.01.2026",
+      "thumbnail": "https://i.ytimg.com/vi/xtJH0V4w_nE/mqdefault_live.jpg",
+      "isLive": false,
+      "publishedAt": "2026-01-20T19:19:20Z"
     },
     {
       "id": "wjZYv0dUfDU",
@@ -36,20 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/aLL0aCL4BJk/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-01-20T08:49:33Z"
-    },
-    {
-      "id": "BiKxE42aIC8",
-      "title": "Gladiators vs Raptors KLASIK 19.01.2026",
-      "thumbnail": "https://i.ytimg.com/vi/BiKxE42aIC8/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-01-20T08:37:49Z"
-    },
-    {
-      "id": "7_yfFU1Ckls",
-      "title": "26 Subotica Meet the team",
-      "thumbnail": "https://i.ytimg.com/vi/7_yfFU1Ckls/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-01-19T17:41:09Z"
     }
   ]
 }
