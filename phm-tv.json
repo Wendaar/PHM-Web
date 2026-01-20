@@ -1,20 +1,13 @@
 {
-  "updated": "2026-01-20T20:40:06.809Z",
+  "updated": "2026-01-20T21:16:17.241Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
     {
-      "id": "xtJH0V4w_nE",
-      "title": "HC Prague Wolves B  vs PLATIDLO.COM, KLASIK, 10.01.2026",
-      "thumbnail": "https://i.ytimg.com/vi/xtJH0V4w_nE/mqdefault_live.jpg",
+      "id": "YzRSMUY26dc",
+      "title": "Heyoka vs Pigeons, SPORT, 20.01.2026",
+      "thumbnail": "https://i.ytimg.com/vi/YzRSMUY26dc/mqdefault_live.jpg",
       "isLive": true,
-      "publishedAt": "2026-01-20T19:19:20Z"
-    },
-    {
-      "id": "Zp2LNE8NRrg",
-      "title": "DKB vs BDT",
-      "thumbnail": "https://i.ytimg.com/vi/Zp2LNE8NRrg/mqdefault_live.jpg",
-      "isLive": true,
-      "publishedAt": "2026-01-20T20:30:53Z"
+      "publishedAt": "2026-01-20T20:45:38Z"
     },
     {
       "id": "ecPeAF0BOLM",
@@ -22,6 +15,20 @@
       "thumbnail": "https://i.ytimg.com/vi/ecPeAF0BOLM/mqdefault_live.jpg",
       "isLive": true,
       "publishedAt": "2026-01-20T20:29:56Z"
+    },
+    {
+      "id": "Zp2LNE8NRrg",
+      "title": "DKB vs BDT",
+      "thumbnail": "https://i.ytimg.com/vi/Zp2LNE8NRrg/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-01-20T20:30:53Z"
+    },
+    {
+      "id": "xtJH0V4w_nE",
+      "title": "HC Prague Wolves B  vs PLATIDLO.COM, KLASIK, 10.01.2026",
+      "thumbnail": "https://i.ytimg.com/vi/xtJH0V4w_nE/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-01-20T19:19:20Z"
     },
     {
       "id": "JIy13mA9xPg",
@@ -43,13 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/wjZYv0dUfDU/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-01-20T10:14:41Z"
-    },
-    {
-      "id": "1h9zzbxY7dE",
-      "title": "Zbraslav vs Wolves SUPER 19.01.2026",
-      "thumbnail": "https://i.ytimg.com/vi/1h9zzbxY7dE/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-01-20T10:09:23Z"
     }
   ]
 }
