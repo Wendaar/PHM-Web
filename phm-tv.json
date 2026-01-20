@@ -1,5 +1,5 @@
 {
-  "updated": "2026-01-20T21:41:48.390Z",
+  "updated": "2026-01-20T22:18:45.497Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
     {
@@ -10,18 +10,18 @@
       "publishedAt": "2026-01-20T20:45:38Z"
     },
     {
-      "id": "ecPeAF0BOLM",
-      "title": "Vikings vs Papoušci HOBBY 20.01.2026",
-      "thumbnail": "https://i.ytimg.com/vi/ecPeAF0BOLM/mqdefault_live.jpg",
-      "isLive": true,
-      "publishedAt": "2026-01-20T20:29:56Z"
-    },
-    {
       "id": "Zp2LNE8NRrg",
       "title": "DKB vs BDT",
       "thumbnail": "https://i.ytimg.com/vi/Zp2LNE8NRrg/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-01-20T20:30:53Z"
+    },
+    {
+      "id": "ecPeAF0BOLM",
+      "title": "Vikings vs Papoušci HOBBY 20.01.2026",
+      "thumbnail": "https://i.ytimg.com/vi/ecPeAF0BOLM/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-01-20T20:29:56Z"
     },
     {
       "id": "xtJH0V4w_nE",
