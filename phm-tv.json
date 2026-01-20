@@ -1,27 +1,41 @@
 {
-  "updated": "2026-01-20T19:44:12.887Z",
+  "updated": "2026-01-20T20:40:06.809Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
     {
+      "id": "xtJH0V4w_nE",
+      "title": "HC Prague Wolves B  vs PLATIDLO.COM, KLASIK, 10.01.2026",
+      "thumbnail": "https://i.ytimg.com/vi/xtJH0V4w_nE/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2026-01-20T19:19:20Z"
+    },
+    {
+      "id": "Zp2LNE8NRrg",
+      "title": "DKB vs BDT",
+      "thumbnail": "https://i.ytimg.com/vi/Zp2LNE8NRrg/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2026-01-20T20:30:53Z"
+    },
+    {
+      "id": "ecPeAF0BOLM",
+      "title": "Vikings vs Papoušci HOBBY 20.01.2026",
+      "thumbnail": "https://i.ytimg.com/vi/ecPeAF0BOLM/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2026-01-20T20:29:56Z"
+    },
+    {
       "id": "JIy13mA9xPg",
       "title": "KV Elektro vs Ducks C HOBBY 20.01.2026",
-      "thumbnail": "https://i.ytimg.com/vi/JIy13mA9xPg/mqdefault_live.jpg",
-      "isLive": true,
+      "thumbnail": "https://i.ytimg.com/vi/JIy13mA9xPg/mqdefault.jpg",
+      "isLive": false,
       "publishedAt": "2026-01-20T18:55:31Z"
     },
     {
       "id": "qoRKLU5KVCE",
       "title": "VHT vs LEV",
-      "thumbnail": "https://i.ytimg.com/vi/qoRKLU5KVCE/mqdefault_live.jpg",
-      "isLive": true,
-      "publishedAt": "2026-01-20T18:20:11Z"
-    },
-    {
-      "id": "xtJH0V4w_nE",
-      "title": "HC Prague Wolves B  vs PLATIDLO.COM, KLASIK, 10.01.2026",
-      "thumbnail": "https://i.ytimg.com/vi/xtJH0V4w_nE/mqdefault_live.jpg",
+      "thumbnail": "https://i.ytimg.com/vi/qoRKLU5KVCE/mqdefault.jpg",
       "isLive": false,
-      "publishedAt": "2026-01-20T19:19:20Z"
+      "publishedAt": "2026-01-20T18:20:11Z"
     },
     {
       "id": "wjZYv0dUfDU",
@@ -36,20 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/1h9zzbxY7dE/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-01-20T10:09:23Z"
-    },
-    {
-      "id": "Mm6EWgHA1RM",
-      "title": "HOVNA vs Ducks Sport SPORT 19.01.2026",
-      "thumbnail": "https://i.ytimg.com/vi/Mm6EWgHA1RM/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-01-20T09:31:51Z"
-    },
-    {
-      "id": "aLL0aCL4BJk",
-      "title": "Paladins vs Scarecrows HOBBY 19.01.2026",
-      "thumbnail": "https://i.ytimg.com/vi/aLL0aCL4BJk/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-01-20T08:49:33Z"
     }
   ]
 }
