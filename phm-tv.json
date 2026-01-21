@@ -1,20 +1,27 @@
 {
-  "updated": "2026-01-21T20:54:53.027Z",
+  "updated": "2026-01-21T21:24:11.465Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
-    {
-      "id": "O-Uue2Eufdg",
-      "title": "DOM vs SHS",
-      "thumbnail": "https://i.ytimg.com/vi/O-Uue2Eufdg/mqdefault_live.jpg",
-      "isLive": true,
-      "publishedAt": "2026-01-21T19:56:59Z"
-    },
     {
       "id": "7Q9jQXTp9IE",
       "title": "REK vs ALI, KLASIK, 21.01.2026",
       "thumbnail": "https://i.ytimg.com/vi/7Q9jQXTp9IE/mqdefault_live.jpg",
       "isLive": true,
       "publishedAt": "2026-01-21T20:29:31Z"
+    },
+    {
+      "id": "75fcomRDNK4",
+      "title": "Soldiers B vs. Phantoms HOBBY 21.1.2026",
+      "thumbnail": "https://i.ytimg.com/vi/75fcomRDNK4/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2026-01-21T21:21:20Z"
+    },
+    {
+      "id": "O-Uue2Eufdg",
+      "title": "DOM vs SHS",
+      "thumbnail": "https://i.ytimg.com/vi/O-Uue2Eufdg/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-01-21T19:56:59Z"
     },
     {
       "id": "CDXzLuDE48g",
@@ -43,13 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/YzRSMUY26dc/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-01-21T10:37:50Z"
-    },
-    {
-      "id": "ecPeAF0BOLM",
-      "title": "Vikings vs Papoušci HOBBY 20.01.2026",
-      "thumbnail": "https://i.ytimg.com/vi/ecPeAF0BOLM/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-01-21T09:59:40Z"
     }
   ]
 }
