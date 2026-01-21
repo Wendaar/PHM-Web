@@ -1,7 +1,14 @@
 {
-  "updated": "2026-01-21T17:50:06.832Z",
+  "updated": "2026-01-21T18:36:04.959Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
+    {
+      "id": "_GJ0guP_1rw",
+      "title": "CHI vs PPP",
+      "thumbnail": "https://i.ytimg.com/vi/_GJ0guP_1rw/mqdefault_live.jpg",
+      "isLive": false,
+      "publishedAt": "2026-01-21T18:24:24Z"
+    },
     {
       "id": "YzRSMUY26dc",
       "title": "Heyoka vs Pigeons SPORT 20.01.2026",
@@ -43,13 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/qoRKLU5KVCE/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-01-21T08:20:01Z"
-    },
-    {
-      "id": "wjZYv0dUfDU",
-      "title": "MyQ vs Spiders HOBBY 19.01.2026",
-      "thumbnail": "https://i.ytimg.com/vi/wjZYv0dUfDU/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-01-20T10:14:41Z"
     }
   ]
 }
