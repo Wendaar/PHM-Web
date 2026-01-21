@@ -1,5 +1,5 @@
 {
-  "updated": "2026-01-21T19:48:45.364Z",
+  "updated": "2026-01-21T20:25:21.998Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
     {
@@ -10,18 +10,25 @@
       "publishedAt": "2026-01-21T18:53:48Z"
     },
     {
-      "id": "_GJ0guP_1rw",
-      "title": "CHI vs PPP",
-      "thumbnail": "https://i.ytimg.com/vi/_GJ0guP_1rw/mqdefault_live.jpg",
-      "isLive": true,
-      "publishedAt": "2026-01-21T18:24:24Z"
-    },
-    {
       "id": "CDXzLuDE48g",
       "title": "Žižkov vs. REX SUPER 21.1.2026",
       "thumbnail": "https://i.ytimg.com/vi/CDXzLuDE48g/mqdefault_live.jpg",
       "isLive": true,
       "publishedAt": "2026-01-21T19:42:16Z"
+    },
+    {
+      "id": "O-Uue2Eufdg",
+      "title": "DOM vs SHS",
+      "thumbnail": "https://i.ytimg.com/vi/O-Uue2Eufdg/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2026-01-21T19:56:59Z"
+    },
+    {
+      "id": "_GJ0guP_1rw",
+      "title": "CHI vs PPP",
+      "thumbnail": "https://i.ytimg.com/vi/_GJ0guP_1rw/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-01-21T18:24:24Z"
     },
     {
       "id": "YzRSMUY26dc",
@@ -43,13 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/xtJH0V4w_nE/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-01-21T09:10:21Z"
-    },
-    {
-      "id": "Zp2LNE8NRrg",
-      "title": "Ducks B vs Banditos KLASIK 20.01.2026",
-      "thumbnail": "https://i.ytimg.com/vi/Zp2LNE8NRrg/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-01-21T09:10:16Z"
     }
   ]
 }
