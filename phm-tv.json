@@ -1,20 +1,20 @@
 {
-  "updated": "2026-01-21T21:50:16.294Z",
+  "updated": "2026-01-21T22:19:55.269Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
     {
-      "id": "7Q9jQXTp9IE",
-      "title": "REK vs ALI, KLASIK, 21.01.2026",
-      "thumbnail": "https://i.ytimg.com/vi/7Q9jQXTp9IE/mqdefault_live.jpg",
-      "isLive": true,
-      "publishedAt": "2026-01-21T20:29:31Z"
-    },
-    {
       "id": "75fcomRDNK4",
       "title": "Soldiers B vs. Phantoms HOBBY 21.1.2026",
-      "thumbnail": "https://i.ytimg.com/vi/75fcomRDNK4/mqdefault_live.jpg",
-      "isLive": true,
+      "thumbnail": "https://i.ytimg.com/vi/75fcomRDNK4/mqdefault.jpg",
+      "isLive": false,
       "publishedAt": "2026-01-21T21:21:20Z"
+    },
+    {
+      "id": "7Q9jQXTp9IE",
+      "title": "REK vs ALI, KLASIK, 21.01.2026",
+      "thumbnail": "https://i.ytimg.com/vi/7Q9jQXTp9IE/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-01-21T20:29:31Z"
     },
     {
       "id": "O-Uue2Eufdg",
