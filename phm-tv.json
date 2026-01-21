@@ -1,5 +1,5 @@
 {
-  "updated": "2026-01-21T19:22:21.906Z",
+  "updated": "2026-01-21T19:48:45.364Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
     {
@@ -15,6 +15,13 @@
       "thumbnail": "https://i.ytimg.com/vi/_GJ0guP_1rw/mqdefault_live.jpg",
       "isLive": true,
       "publishedAt": "2026-01-21T18:24:24Z"
+    },
+    {
+      "id": "CDXzLuDE48g",
+      "title": "Žižkov vs. REX SUPER 21.1.2026",
+      "thumbnail": "https://i.ytimg.com/vi/CDXzLuDE48g/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2026-01-21T19:42:16Z"
     },
     {
       "id": "YzRSMUY26dc",
@@ -43,13 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/Zp2LNE8NRrg/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-01-21T09:10:16Z"
-    },
-    {
-      "id": "JIy13mA9xPg",
-      "title": "KV Elektro vs Ducks C HOBBY 20.01.2026",
-      "thumbnail": "https://i.ytimg.com/vi/JIy13mA9xPg/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-01-21T08:41:50Z"
     }
   ]
 }
