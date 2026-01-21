@@ -1,12 +1,19 @@
 {
-  "updated": "2026-01-21T18:36:04.959Z",
+  "updated": "2026-01-21T19:22:21.906Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
+    {
+      "id": "f1XlZZsrvKE",
+      "title": "FES vs ATT, SPORT, 21. 01. 2026",
+      "thumbnail": "https://i.ytimg.com/vi/f1XlZZsrvKE/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2026-01-21T18:53:48Z"
+    },
     {
       "id": "_GJ0guP_1rw",
       "title": "CHI vs PPP",
       "thumbnail": "https://i.ytimg.com/vi/_GJ0guP_1rw/mqdefault_live.jpg",
-      "isLive": false,
+      "isLive": true,
       "publishedAt": "2026-01-21T18:24:24Z"
     },
     {
@@ -43,13 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/JIy13mA9xPg/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-01-21T08:41:50Z"
-    },
-    {
-      "id": "qoRKLU5KVCE",
-      "title": "Voholto vs Fanklub Lev SPORT 20.01.2026",
-      "thumbnail": "https://i.ytimg.com/vi/qoRKLU5KVCE/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-01-21T08:20:01Z"
     }
   ]
 }
