@@ -1,12 +1,19 @@
 {
-  "updated": "2026-01-22T20:20:46.657Z",
+  "updated": "2026-01-22T20:48:28.179Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
     {
+      "id": "THM7zjLM34s",
+      "title": "Taste vs Stars KLASIK 22.1.2026",
+      "thumbnail": "https://i.ytimg.com/vi/THM7zjLM34s/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2026-01-22T20:24:42Z"
+    },
+    {
       "id": "dmsc1Yb0lXw",
       "title": "POB a ?, HOBBY",
-      "thumbnail": "https://i.ytimg.com/vi/dmsc1Yb0lXw/mqdefault_live.jpg",
-      "isLive": true,
+      "thumbnail": "https://i.ytimg.com/vi/dmsc1Yb0lXw/mqdefault.jpg",
+      "isLive": false,
       "publishedAt": "2026-01-22T19:33:31Z"
     },
     {
@@ -43,13 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/CDXzLuDE48g/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-01-22T08:39:09Z"
-    },
-    {
-      "id": "_GJ0guP_1rw",
-      "title": "Chiefs vs PUK PAK PIVO SUPER 21.01.2026",
-      "thumbnail": "https://i.ytimg.com/vi/_GJ0guP_1rw/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-01-22T08:09:45Z"
     }
   ]
 }
