@@ -1,7 +1,14 @@
 {
-  "updated": "2026-01-22T18:58:27.480Z",
+  "updated": "2026-01-22T19:28:03.175Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
+    {
+      "id": "wjw4G_XsUsc",
+      "title": "Raptors vs PLATIDLO KLASIK 22.1.2026",
+      "thumbnail": "https://i.ytimg.com/vi/wjw4G_XsUsc/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2026-01-22T18:59:44Z"
+    },
     {
       "id": "75fcomRDNK4",
       "title": "Soldiers B vs Phantoms HOBBY 21.01.2026",
@@ -43,13 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/f1XlZZsrvKE/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-01-21T18:53:48Z"
-    },
-    {
-      "id": "YzRSMUY26dc",
-      "title": "Heyoka vs Pigeons SPORT 20.01.2026",
-      "thumbnail": "https://i.ytimg.com/vi/YzRSMUY26dc/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-01-21T10:37:50Z"
     }
   ]
 }
