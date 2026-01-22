@@ -1,7 +1,14 @@
 {
-  "updated": "2026-01-22T08:25:04.999Z",
+  "updated": "2026-01-22T08:57:05.392Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
+    {
+      "id": "CDXzLuDE48g",
+      "title": "Žižkov vs REX SUPER 21.01.2026",
+      "thumbnail": "https://i.ytimg.com/vi/CDXzLuDE48g/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-01-22T08:39:09Z"
+    },
     {
       "id": "_GJ0guP_1rw",
       "title": "Chiefs vs PUK PAK PIVO SUPER 21.01.2026",
@@ -29,13 +36,6 @@
       "thumbnail": "https://i.ytimg.com/vi/O-Uue2Eufdg/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-01-21T19:56:59Z"
-    },
-    {
-      "id": "CDXzLuDE48g",
-      "title": "Žižkov vs REX SUPER 21.01.2026",
-      "thumbnail": "https://i.ytimg.com/vi/CDXzLuDE48g/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-01-21T19:42:16Z"
     },
     {
       "id": "f1XlZZsrvKE",
