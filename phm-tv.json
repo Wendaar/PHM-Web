@@ -1,7 +1,14 @@
 {
-  "updated": "2026-01-23T09:51:06.886Z",
+  "updated": "2026-01-23T10:19:38.639Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
+    {
+      "id": "THM7zjLM34s",
+      "title": "Taste vs Stars KLASIK 22.01.2026",
+      "thumbnail": "https://i.ytimg.com/vi/THM7zjLM34s/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-01-23T09:53:42Z"
+    },
     {
       "id": "dmsc1Yb0lXw",
       "title": "Reindeers vs Polar Bears HOBBY 22.01.2026",
@@ -22,13 +29,6 @@
       "thumbnail": "https://i.ytimg.com/vi/fwcvN7f5ySU/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-01-22T20:48:47Z"
-    },
-    {
-      "id": "THM7zjLM34s",
-      "title": "Taste vs Stars KLASIK 22.01.2026",
-      "thumbnail": "https://i.ytimg.com/vi/THM7zjLM34s/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-01-22T20:24:42Z"
     },
     {
       "id": "75fcomRDNK4",
