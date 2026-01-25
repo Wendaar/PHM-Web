@@ -1,20 +1,27 @@
 {
-  "updated": "2026-01-25T18:51:15.601Z",
+  "updated": "2026-01-25T19:13:19.043Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
     {
-      "id": "v3ZYlDNV_b0",
-      "title": "PPH vs DKC, HOBBY, 2026",
-      "thumbnail": "https://i.ytimg.com/vi/v3ZYlDNV_b0/mqdefault_live.jpg",
+      "id": "hsIuoVS9170",
+      "title": "Pigeons B vs Car-Back KLASIK 25.01.2026",
+      "thumbnail": "https://i.ytimg.com/vi/hsIuoVS9170/mqdefault_live.jpg",
       "isLive": true,
-      "publishedAt": "2026-01-25T17:43:33Z"
+      "publishedAt": "2026-01-25T19:11:54Z"
     },
     {
       "id": "itMmruRwQJ0",
       "title": "PLATIDLO vs Banditos KLASIK 25.01.2026",
-      "thumbnail": "https://i.ytimg.com/vi/itMmruRwQJ0/mqdefault_live.jpg",
-      "isLive": true,
+      "thumbnail": "https://i.ytimg.com/vi/itMmruRwQJ0/mqdefault.jpg",
+      "isLive": false,
       "publishedAt": "2026-01-25T17:44:12Z"
+    },
+    {
+      "id": "v3ZYlDNV_b0",
+      "title": "PPH vs DKC, HOBBY, 2026",
+      "thumbnail": "https://i.ytimg.com/vi/v3ZYlDNV_b0/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-01-25T17:43:33Z"
     },
     {
       "id": "i09f6hxS7q4",
@@ -43,13 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/vEXDRM4JQhc/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-01-25T14:41:53Z"
-    },
-    {
-      "id": "1NTa3uzhqOY",
-      "title": "26 WEEK RECAP 01 23 SUPER",
-      "thumbnail": "https://i.ytimg.com/vi/1NTa3uzhqOY/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-01-23T18:41:25Z"
     }
   ]
 }
