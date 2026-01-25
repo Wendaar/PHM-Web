@@ -1,20 +1,20 @@
 {
-  "updated": "2026-01-25T16:47:55.045Z",
+  "updated": "2026-01-25T17:13:53.216Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
-    {
-      "id": "i09f6hxS7q4",
-      "title": "Kosti vs Berkut, SUPER, 25.01.2026",
-      "thumbnail": "https://i.ytimg.com/vi/i09f6hxS7q4/mqdefault_live.jpg",
-      "isLive": true,
-      "publishedAt": "2026-01-25T16:15:40Z"
-    },
     {
       "id": "e0Np1_9ipMM",
       "title": "Traverzáci vs Žraloci HOBBY 25.01.2026",
       "thumbnail": "https://i.ytimg.com/vi/e0Np1_9ipMM/mqdefault_live.jpg",
       "isLive": true,
       "publishedAt": "2026-01-25T16:13:40Z"
+    },
+    {
+      "id": "i09f6hxS7q4",
+      "title": "Kosti vs Berkut, SUPER, 25.01.2026",
+      "thumbnail": "https://i.ytimg.com/vi/i09f6hxS7q4/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-01-25T16:15:40Z"
     },
     {
       "id": "bqCiV4TOERM",
