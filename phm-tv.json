@@ -1,19 +1,33 @@
 {
-  "updated": "2026-01-25T15:40:39.693Z",
+  "updated": "2026-01-25T16:19:39.962Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
     {
+      "id": "i09f6hxS7q4",
+      "title": "Kosti vs Berkut, SUPER, 25.01.2026",
+      "thumbnail": "https://i.ytimg.com/vi/i09f6hxS7q4/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2026-01-25T16:15:40Z"
+    },
+    {
+      "id": "e0Np1_9ipMM",
+      "title": "Traverzáci vs Žraloci HOBBY 25.01.2026",
+      "thumbnail": "https://i.ytimg.com/vi/e0Np1_9ipMM/mqdefault_live.jpg",
+      "isLive": false,
+      "publishedAt": "2026-01-25T16:13:40Z"
+    },
+    {
       "id": "bqCiV4TOERM",
       "title": "OIR vs HEY, SPORT, 25.01.2026",
-      "thumbnail": "https://i.ytimg.com/vi/bqCiV4TOERM/mqdefault_live.jpg",
-      "isLive": true,
+      "thumbnail": "https://i.ytimg.com/vi/bqCiV4TOERM/mqdefault.jpg",
+      "isLive": false,
       "publishedAt": "2026-01-25T14:41:52Z"
     },
     {
       "id": "vEXDRM4JQhc",
       "title": "Fotr vs Dragons HOBBY 25.01.2026",
-      "thumbnail": "https://i.ytimg.com/vi/vEXDRM4JQhc/mqdefault_live.jpg",
-      "isLive": true,
+      "thumbnail": "https://i.ytimg.com/vi/vEXDRM4JQhc/mqdefault.jpg",
+      "isLive": false,
       "publishedAt": "2026-01-25T14:41:53Z"
     },
     {
@@ -36,20 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/XWiOcw-JOUQ/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-01-23T18:40:30Z"
-    },
-    {
-      "id": "_I8iy4WC1qY",
-      "title": "26 WEEK RECAP 01 23 HOBBY",
-      "thumbnail": "https://i.ytimg.com/vi/_I8iy4WC1qY/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-01-23T18:40:24Z"
-    },
-    {
-      "id": "fwcvN7f5ySU",
-      "title": "Paladins vs Papoušci HOBBY 22.01.2026",
-      "thumbnail": "https://i.ytimg.com/vi/fwcvN7f5ySU/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-01-23T10:22:16Z"
     }
   ]
 }
