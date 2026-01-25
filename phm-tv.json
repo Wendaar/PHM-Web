@@ -1,7 +1,21 @@
 {
-  "updated": "2026-01-25T17:40:53.333Z",
+  "updated": "2026-01-25T18:23:23.395Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
+    {
+      "id": "v3ZYlDNV_b0",
+      "title": "PPH vs DKC, HOBBY, 2026",
+      "thumbnail": "https://i.ytimg.com/vi/v3ZYlDNV_b0/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2026-01-25T17:43:33Z"
+    },
+    {
+      "id": "itMmruRwQJ0",
+      "title": "PLATIDLO vs Banditos KLASIK 25.01.2026",
+      "thumbnail": "https://i.ytimg.com/vi/itMmruRwQJ0/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2026-01-25T17:44:12Z"
+    },
     {
       "id": "i09f6hxS7q4",
       "title": "Kosti vs Berkut, SUPER, 25.01.2026",
@@ -36,20 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/1NTa3uzhqOY/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-01-23T18:41:25Z"
-    },
-    {
-      "id": "H6YZF4ee3vY",
-      "title": "26 WEEK RECAP 01 23 KLASIK",
-      "thumbnail": "https://i.ytimg.com/vi/H6YZF4ee3vY/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-01-23T18:40:27Z"
-    },
-    {
-      "id": "XWiOcw-JOUQ",
-      "title": "26 WEEK RECAP 01 23 SPORT",
-      "thumbnail": "https://i.ytimg.com/vi/XWiOcw-JOUQ/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-01-23T18:40:30Z"
     }
   ]
 }
