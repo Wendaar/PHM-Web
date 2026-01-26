@@ -1,17 +1,17 @@
 {
-  "updated": "2026-01-26T21:44:38.527Z",
+  "updated": "2026-01-26T22:17:15.398Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
     {
       "id": "PGuw1C-8UGw",
-      "title": "HEY vs ATT, SPORT, 26. 01. 2026",
-      "thumbnail": "https://i.ytimg.com/vi/PGuw1C-8UGw/mqdefault_live.jpg",
-      "isLive": true,
+      "title": "Heyoka vs ATTL SPORT 26.01.2026",
+      "thumbnail": "https://i.ytimg.com/vi/PGuw1C-8UGw/mqdefault.jpg",
+      "isLive": false,
       "publishedAt": "2026-01-26T20:44:46Z"
     },
     {
       "id": "4MEXDp6MMd4",
-      "title": "CHZ vs DSS",
+      "title": "Cheza vs Ducks Sport SPORT 26.01.2026",
       "thumbnail": "https://i.ytimg.com/vi/4MEXDp6MMd4/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-01-26T19:40:41Z"
@@ -25,14 +25,14 @@
     },
     {
       "id": "AMGI3qsSoTs",
-      "title": "RND vs SCR, HOBBY, 26. 01. 2026",
+      "title": "Reindeers vs Scarecrows HOBBY 26.01.2026",
       "thumbnail": "https://i.ytimg.com/vi/AMGI3qsSoTs/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-01-26T19:02:29Z"
     },
     {
       "id": "bcjjAxrUr_w",
-      "title": "RST vs DOM",
+      "title": "Roosters vs Domynos SUPER 26.01.2026",
       "thumbnail": "https://i.ytimg.com/vi/bcjjAxrUr_w/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-01-26T18:12:16Z"
