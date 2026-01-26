@@ -1,12 +1,12 @@
 {
-  "updated": "2026-01-26T18:28:06.884Z",
+  "updated": "2026-01-26T19:00:49.499Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
     {
       "id": "bcjjAxrUr_w",
       "title": "RST vs DOM",
       "thumbnail": "https://i.ytimg.com/vi/bcjjAxrUr_w/mqdefault_live.jpg",
-      "isLive": false,
+      "isLive": true,
       "publishedAt": "2026-01-26T18:12:16Z"
     },
     {
