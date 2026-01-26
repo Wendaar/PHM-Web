@@ -1,7 +1,14 @@
 {
-  "updated": "2026-01-26T17:51:41.764Z",
+  "updated": "2026-01-26T18:28:06.884Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
+    {
+      "id": "bcjjAxrUr_w",
+      "title": "RST vs DOM",
+      "thumbnail": "https://i.ytimg.com/vi/bcjjAxrUr_w/mqdefault_live.jpg",
+      "isLive": false,
+      "publishedAt": "2026-01-26T18:12:16Z"
+    },
     {
       "id": "v3ZYlDNV_b0",
       "title": "Phantoms vs Ducks C HOBBY 25.01.2026",
@@ -43,13 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/e0Np1_9ipMM/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-01-26T05:38:25Z"
-    },
-    {
-      "id": "bqCiV4TOERM",
-      "title": "Office Rats vs Heyoka SPORT 25.01.2026",
-      "thumbnail": "https://i.ytimg.com/vi/bqCiV4TOERM/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-01-26T04:51:17Z"
     }
   ]
 }
