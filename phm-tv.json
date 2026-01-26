@@ -1,12 +1,33 @@
 {
-  "updated": "2026-01-26T19:00:49.499Z",
+  "updated": "2026-01-26T19:43:02.468Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
     {
+      "id": "AMGI3qsSoTs",
+      "title": "RND vs SCR, HOBBY, 26. 01. 2026",
+      "thumbnail": "https://i.ytimg.com/vi/AMGI3qsSoTs/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2026-01-26T19:02:29Z"
+    },
+    {
+      "id": "Z20_mwJp4lk",
+      "title": "Soldiers vs Žižkov SUPER 26.01.2026",
+      "thumbnail": "https://i.ytimg.com/vi/Z20_mwJp4lk/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2026-01-26T19:27:28Z"
+    },
+    {
+      "id": "4MEXDp6MMd4",
+      "title": "CHZ vs DSS",
+      "thumbnail": "https://i.ytimg.com/vi/4MEXDp6MMd4/mqdefault_live.jpg",
+      "isLive": false,
+      "publishedAt": "2026-01-26T19:40:41Z"
+    },
+    {
       "id": "bcjjAxrUr_w",
       "title": "RST vs DOM",
-      "thumbnail": "https://i.ytimg.com/vi/bcjjAxrUr_w/mqdefault_live.jpg",
-      "isLive": true,
+      "thumbnail": "https://i.ytimg.com/vi/bcjjAxrUr_w/mqdefault.jpg",
+      "isLive": false,
       "publishedAt": "2026-01-26T18:12:16Z"
     },
     {
@@ -29,27 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/itMmruRwQJ0/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-01-26T07:37:51Z"
-    },
-    {
-      "id": "i09f6hxS7q4",
-      "title": "Kosti vs Berkut SUPER 25.01.2026",
-      "thumbnail": "https://i.ytimg.com/vi/i09f6hxS7q4/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-01-26T05:58:05Z"
-    },
-    {
-      "id": "vEXDRM4JQhc",
-      "title": "Fotr vs Dragons HOBBY 25.01.2026",
-      "thumbnail": "https://i.ytimg.com/vi/vEXDRM4JQhc/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-01-26T05:45:16Z"
-    },
-    {
-      "id": "e0Np1_9ipMM",
-      "title": "Traverzáci vs Žraloci HOBBY 25.01.2026",
-      "thumbnail": "https://i.ytimg.com/vi/e0Np1_9ipMM/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-01-26T05:38:25Z"
     }
   ]
 }
