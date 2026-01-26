@@ -1,7 +1,14 @@
 {
-  "updated": "2026-01-26T07:23:26.597Z",
+  "updated": "2026-01-26T07:46:27.673Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
+    {
+      "id": "itMmruRwQJ0",
+      "title": "PLATIDLO vs Banditos KLASIK 25.01.2026",
+      "thumbnail": "https://i.ytimg.com/vi/itMmruRwQJ0/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-01-26T07:37:51Z"
+    },
     {
       "id": "i09f6hxS7q4",
       "title": "Kosti vs Berkut SUPER 25.01.2026",
@@ -36,13 +43,6 @@
       "thumbnail": "https://i.ytimg.com/vi/hsIuoVS9170/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-01-25T19:11:54Z"
-    },
-    {
-      "id": "itMmruRwQJ0",
-      "title": "PLATIDLO vs Banditos KLASIK 25.01.2026",
-      "thumbnail": "https://i.ytimg.com/vi/itMmruRwQJ0/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-01-25T17:44:12Z"
     },
     {
       "id": "v3ZYlDNV_b0",
