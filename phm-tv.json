@@ -1,7 +1,14 @@
 {
-  "updated": "2026-01-26T20:21:14.576Z",
+  "updated": "2026-01-26T20:48:35.619Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
+    {
+      "id": "PGuw1C-8UGw",
+      "title": "HEY vs ATT, SPORT, 26. 01. 2026",
+      "thumbnail": "https://i.ytimg.com/vi/PGuw1C-8UGw/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2026-01-26T20:44:46Z"
+    },
     {
       "id": "4MEXDp6MMd4",
       "title": "CHZ vs DSS",
@@ -10,18 +17,18 @@
       "publishedAt": "2026-01-26T19:40:41Z"
     },
     {
-      "id": "AMGI3qsSoTs",
-      "title": "RND vs SCR, HOBBY, 26. 01. 2026",
-      "thumbnail": "https://i.ytimg.com/vi/AMGI3qsSoTs/mqdefault_live.jpg",
-      "isLive": true,
-      "publishedAt": "2026-01-26T19:02:29Z"
-    },
-    {
       "id": "Z20_mwJp4lk",
       "title": "Soldiers vs Žižkov SUPER 26.01.2026",
-      "thumbnail": "https://i.ytimg.com/vi/Z20_mwJp4lk/mqdefault_live.jpg",
-      "isLive": true,
+      "thumbnail": "https://i.ytimg.com/vi/Z20_mwJp4lk/mqdefault.jpg",
+      "isLive": false,
       "publishedAt": "2026-01-26T19:27:28Z"
+    },
+    {
+      "id": "AMGI3qsSoTs",
+      "title": "RND vs SCR, HOBBY, 26. 01. 2026",
+      "thumbnail": "https://i.ytimg.com/vi/AMGI3qsSoTs/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-01-26T19:02:29Z"
     },
     {
       "id": "bcjjAxrUr_w",
@@ -43,13 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/hsIuoVS9170/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-01-26T09:07:07Z"
-    },
-    {
-      "id": "itMmruRwQJ0",
-      "title": "PLATIDLO vs Banditos KLASIK 25.01.2026",
-      "thumbnail": "https://i.ytimg.com/vi/itMmruRwQJ0/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-01-26T07:37:51Z"
     }
   ]
 }
