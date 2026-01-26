@@ -1,7 +1,21 @@
 {
-  "updated": "2026-01-26T08:57:21.246Z",
+  "updated": "2026-01-26T09:35:24.069Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
+    {
+      "id": "v3ZYlDNV_b0",
+      "title": "Phantoms vs Ducks C HOBBY 25.01.2026",
+      "thumbnail": "https://i.ytimg.com/vi/v3ZYlDNV_b0/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-01-26T09:11:39Z"
+    },
+    {
+      "id": "hsIuoVS9170",
+      "title": "Pigeons B vs Car-Back KLASIK 25.01.2026",
+      "thumbnail": "https://i.ytimg.com/vi/hsIuoVS9170/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-01-26T09:07:07Z"
+    },
     {
       "id": "itMmruRwQJ0",
       "title": "PLATIDLO vs Banditos KLASIK 25.01.2026",
@@ -36,20 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/bqCiV4TOERM/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-01-26T04:51:17Z"
-    },
-    {
-      "id": "hsIuoVS9170",
-      "title": "Pigeons B vs Car-Back KLASIK 25.01.2026",
-      "thumbnail": "https://i.ytimg.com/vi/hsIuoVS9170/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-01-25T19:11:54Z"
-    },
-    {
-      "id": "v3ZYlDNV_b0",
-      "title": "Phantoms vs Ducks C HOBBY 25.01.2026",
-      "thumbnail": "https://i.ytimg.com/vi/v3ZYlDNV_b0/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-01-25T17:43:33Z"
     }
   ]
 }
