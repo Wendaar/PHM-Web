@@ -1,14 +1,7 @@
 {
-  "updated": "2026-01-27T21:14:02.612Z",
+  "updated": "2026-01-27T21:40:38.801Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
-    {
-      "id": "sKSuTf1WGsU",
-      "title": "Traverzáci vs Polar Bears HOBBY 27.01.2026",
-      "thumbnail": "https://i.ytimg.com/vi/sKSuTf1WGsU/mqdefault_live.jpg",
-      "isLive": true,
-      "publishedAt": "2026-01-27T19:58:31Z"
-    },
     {
       "id": "81YbMBXJaGE",
       "title": "REN vs REX, SUPER, 27.01.2026",
@@ -19,9 +12,16 @@
     {
       "id": "_V-WZY_FFkw",
       "title": "WLB vs GLA",
-      "thumbnail": "https://i.ytimg.com/vi/_V-WZY_FFkw/mqdefault_live.jpg",
-      "isLive": true,
+      "thumbnail": "https://i.ytimg.com/vi/_V-WZY_FFkw/mqdefault.jpg",
+      "isLive": false,
       "publishedAt": "2026-01-27T20:06:33Z"
+    },
+    {
+      "id": "sKSuTf1WGsU",
+      "title": "Traverzáci vs Polar Bears HOBBY 27.01.2026",
+      "thumbnail": "https://i.ytimg.com/vi/sKSuTf1WGsU/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-01-27T19:58:31Z"
     },
     {
       "id": "v5l-71_PUEQ",
