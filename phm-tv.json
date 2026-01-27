@@ -1,7 +1,14 @@
 {
-  "updated": "2026-01-27T07:47:28.355Z",
+  "updated": "2026-01-27T08:26:46.200Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
+    {
+      "id": "bcjjAxrUr_w",
+      "title": "Roosters vs Domynos SUPER 26.01.2026",
+      "thumbnail": "https://i.ytimg.com/vi/bcjjAxrUr_w/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-01-27T08:03:16Z"
+    },
     {
       "id": "PGuw1C-8UGw",
       "title": "Heyoka vs ATTL SPORT 26.01.2026",
@@ -29,13 +36,6 @@
       "thumbnail": "https://i.ytimg.com/vi/AMGI3qsSoTs/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-01-26T19:02:29Z"
-    },
-    {
-      "id": "bcjjAxrUr_w",
-      "title": "Roosters vs Domynos SUPER 26.01.2026",
-      "thumbnail": "https://i.ytimg.com/vi/bcjjAxrUr_w/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-01-26T18:12:16Z"
     },
     {
       "id": "v3ZYlDNV_b0",
