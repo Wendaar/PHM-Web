@@ -1,13 +1,13 @@
 {
-  "updated": "2026-01-27T19:46:23.131Z",
+  "updated": "2026-01-27T20:18:10.243Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
     {
-      "id": "jOhdMvV4_bA",
-      "title": "KVE vs PAL",
-      "thumbnail": "https://i.ytimg.com/vi/jOhdMvV4_bA/mqdefault_live.jpg",
+      "id": "sKSuTf1WGsU",
+      "title": "Traverzáci vs Polar Bears HOBBY 27.01.2026",
+      "thumbnail": "https://i.ytimg.com/vi/sKSuTf1WGsU/mqdefault_live.jpg",
       "isLive": true,
-      "publishedAt": "2026-01-27T18:48:51Z"
+      "publishedAt": "2026-01-27T19:58:31Z"
     },
     {
       "id": "v5l-71_PUEQ",
@@ -17,10 +17,24 @@
       "publishedAt": "2026-01-27T19:23:51Z"
     },
     {
+      "id": "_V-WZY_FFkw",
+      "title": "WLB vs GLA",
+      "thumbnail": "https://i.ytimg.com/vi/_V-WZY_FFkw/mqdefault_live.jpg",
+      "isLive": false,
+      "publishedAt": "2026-01-27T20:06:33Z"
+    },
+    {
+      "id": "jOhdMvV4_bA",
+      "title": "KVE vs PAL",
+      "thumbnail": "https://i.ytimg.com/vi/jOhdMvV4_bA/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-01-27T18:48:51Z"
+    },
+    {
       "id": "JlrhYG0yPwA",
       "title": "Vikings vs Dragons HOBBY 27.01.2026",
-      "thumbnail": "https://i.ytimg.com/vi/JlrhYG0yPwA/mqdefault_live.jpg",
-      "isLive": true,
+      "thumbnail": "https://i.ytimg.com/vi/JlrhYG0yPwA/mqdefault.jpg",
+      "isLive": false,
       "publishedAt": "2026-01-27T18:27:25Z"
     },
     {
@@ -36,20 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/PGuw1C-8UGw/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-01-27T10:07:56Z"
-    },
-    {
-      "id": "4MEXDp6MMd4",
-      "title": "Cheza vs Ducks Sport SPORT 26.01.2026",
-      "thumbnail": "https://i.ytimg.com/vi/4MEXDp6MMd4/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-01-27T09:37:18Z"
-    },
-    {
-      "id": "Z20_mwJp4lk",
-      "title": "Soldiers vs Žižkov SUPER 26.01.2026",
-      "thumbnail": "https://i.ytimg.com/vi/Z20_mwJp4lk/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-01-27T08:55:35Z"
     }
   ]
 }
