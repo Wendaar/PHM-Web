@@ -1,7 +1,14 @@
 {
-  "updated": "2026-01-27T15:29:30.143Z",
+  "updated": "2026-01-27T15:52:02.847Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
+    {
+      "id": "o0baK4htalk",
+      "title": "Winter Classics Subotica 26 PHM vs NORTH",
+      "thumbnail": "https://i.ytimg.com/vi/o0baK4htalk/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-01-27T15:33:19Z"
+    },
     {
       "id": "PGuw1C-8UGw",
       "title": "Heyoka vs ATTL SPORT 26.01.2026",
@@ -43,13 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/v3ZYlDNV_b0/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-01-26T09:11:39Z"
-    },
-    {
-      "id": "hsIuoVS9170",
-      "title": "Pigeons B vs Car-Back KLASIK 25.01.2026",
-      "thumbnail": "https://i.ytimg.com/vi/hsIuoVS9170/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-01-26T09:07:07Z"
     }
   ]
 }
