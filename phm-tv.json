@@ -1,20 +1,27 @@
 {
-  "updated": "2026-01-27T19:22:23.451Z",
+  "updated": "2026-01-27T19:46:23.131Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
-    {
-      "id": "JlrhYG0yPwA",
-      "title": "Vikings vs Dragons HOBBY 27.01.2026",
-      "thumbnail": "https://i.ytimg.com/vi/JlrhYG0yPwA/mqdefault_live.jpg",
-      "isLive": true,
-      "publishedAt": "2026-01-27T18:27:25Z"
-    },
     {
       "id": "jOhdMvV4_bA",
       "title": "KVE vs PAL",
       "thumbnail": "https://i.ytimg.com/vi/jOhdMvV4_bA/mqdefault_live.jpg",
       "isLive": true,
       "publishedAt": "2026-01-27T18:48:51Z"
+    },
+    {
+      "id": "v5l-71_PUEQ",
+      "title": "PLA vs PPB, KLASIK, 27.01.2026",
+      "thumbnail": "https://i.ytimg.com/vi/v5l-71_PUEQ/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2026-01-27T19:23:51Z"
+    },
+    {
+      "id": "JlrhYG0yPwA",
+      "title": "Vikings vs Dragons HOBBY 27.01.2026",
+      "thumbnail": "https://i.ytimg.com/vi/JlrhYG0yPwA/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2026-01-27T18:27:25Z"
     },
     {
       "id": "o0baK4htalk",
@@ -43,13 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/Z20_mwJp4lk/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-01-27T08:55:35Z"
-    },
-    {
-      "id": "AMGI3qsSoTs",
-      "title": "Reindeers vs Scarecrows HOBBY 26.01.2026",
-      "thumbnail": "https://i.ytimg.com/vi/AMGI3qsSoTs/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-01-27T08:38:19Z"
     }
   ]
 }
