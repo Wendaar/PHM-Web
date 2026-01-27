@@ -1,5 +1,5 @@
 {
-  "updated": "2026-01-27T20:45:36.010Z",
+  "updated": "2026-01-27T21:14:02.612Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
     {
@@ -10,11 +10,11 @@
       "publishedAt": "2026-01-27T19:58:31Z"
     },
     {
-      "id": "v5l-71_PUEQ",
-      "title": "PLA vs PPB, KLASIK, 27.01.2026",
-      "thumbnail": "https://i.ytimg.com/vi/v5l-71_PUEQ/mqdefault_live.jpg",
+      "id": "81YbMBXJaGE",
+      "title": "REN vs REX, SUPER, 27.01.2026",
+      "thumbnail": "https://i.ytimg.com/vi/81YbMBXJaGE/mqdefault_live.jpg",
       "isLive": true,
-      "publishedAt": "2026-01-27T19:23:51Z"
+      "publishedAt": "2026-01-27T20:49:35Z"
     },
     {
       "id": "_V-WZY_FFkw",
@@ -22,6 +22,13 @@
       "thumbnail": "https://i.ytimg.com/vi/_V-WZY_FFkw/mqdefault_live.jpg",
       "isLive": true,
       "publishedAt": "2026-01-27T20:06:33Z"
+    },
+    {
+      "id": "v5l-71_PUEQ",
+      "title": "PLA vs PPB, KLASIK, 27.01.2026",
+      "thumbnail": "https://i.ytimg.com/vi/v5l-71_PUEQ/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-01-27T19:23:51Z"
     },
     {
       "id": "jOhdMvV4_bA",
@@ -43,13 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/o0baK4htalk/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-01-27T15:33:19Z"
-    },
-    {
-      "id": "PGuw1C-8UGw",
-      "title": "Heyoka vs ATTL SPORT 26.01.2026",
-      "thumbnail": "https://i.ytimg.com/vi/PGuw1C-8UGw/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-01-27T10:07:56Z"
     }
   ]
 }
