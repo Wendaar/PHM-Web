@@ -1,20 +1,34 @@
 {
-  "updated": "2026-01-28T20:24:17.425Z",
+  "updated": "2026-01-28T20:55:25.664Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
-    {
-      "id": "Jwd35yry3z0",
-      "title": "Ducks C vs Strašáci HOBBY 28.1.2026",
-      "thumbnail": "https://i.ytimg.com/vi/Jwd35yry3z0/mqdefault_live.jpg",
-      "isLive": true,
-      "publishedAt": "2026-01-28T19:18:48Z"
-    },
     {
       "id": "7a3h8oj5J6M",
       "title": "REK vs GAS, KLASIK",
       "thumbnail": "https://i.ytimg.com/vi/7a3h8oj5J6M/mqdefault_live.jpg",
       "isLive": true,
       "publishedAt": "2026-01-28T19:29:29Z"
+    },
+    {
+      "id": "HyQmNl3exkY",
+      "title": "Office Rats vs Fešáci SPORT 28.1.2026",
+      "thumbnail": "https://i.ytimg.com/vi/HyQmNl3exkY/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2026-01-28T20:47:40Z"
+    },
+    {
+      "id": "s2uQPj927Q8",
+      "title": "Ice Spiders vs Papoušci Hobby 28.01.26",
+      "thumbnail": "https://i.ytimg.com/vi/s2uQPj927Q8/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2026-01-28T20:24:51Z"
+    },
+    {
+      "id": "Jwd35yry3z0",
+      "title": "Ducks C vs Strašáci HOBBY 28.1.2026",
+      "thumbnail": "https://i.ytimg.com/vi/Jwd35yry3z0/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-01-28T19:18:48Z"
     },
     {
       "id": "qjJe3NkGqOs",
@@ -36,20 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/81YbMBXJaGE/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-01-28T10:28:28Z"
-    },
-    {
-      "id": "_V-WZY_FFkw",
-      "title": "Wolves B vs Gladiators KLASIK 27.01.2026",
-      "thumbnail": "https://i.ytimg.com/vi/_V-WZY_FFkw/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-01-28T10:15:08Z"
-    },
-    {
-      "id": "sKSuTf1WGsU",
-      "title": "Traverzáci vs Polar Bears HOBBY 27.01.2026",
-      "thumbnail": "https://i.ytimg.com/vi/sKSuTf1WGsU/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-01-28T09:35:23Z"
     }
   ]
 }
