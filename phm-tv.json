@@ -1,7 +1,14 @@
 {
-  "updated": "2026-01-28T07:46:09.498Z",
+  "updated": "2026-01-28T08:25:26.167Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
+    {
+      "id": "JlrhYG0yPwA",
+      "title": "Vikings vs Dragons HOBBY 27.01.2026",
+      "thumbnail": "https://i.ytimg.com/vi/JlrhYG0yPwA/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-01-28T07:50:25Z"
+    },
     {
       "id": "81YbMBXJaGE",
       "title": "Renegades vs REX SUPER 27.01.2026",
@@ -36,13 +43,6 @@
       "thumbnail": "https://i.ytimg.com/vi/jOhdMvV4_bA/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-01-27T18:48:51Z"
-    },
-    {
-      "id": "JlrhYG0yPwA",
-      "title": "Vikings vs Dragons HOBBY 27.01.2026",
-      "thumbnail": "https://i.ytimg.com/vi/JlrhYG0yPwA/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-01-27T18:27:25Z"
     },
     {
       "id": "o0baK4htalk",
