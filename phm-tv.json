@@ -1,7 +1,14 @@
 {
-  "updated": "2026-01-29T07:58:28.436Z",
+  "updated": "2026-01-29T08:46:59.478Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
+    {
+      "id": "qjJe3NkGqOs",
+      "title": "Domynos vs Zbraslav SUPER 28.01.2026",
+      "thumbnail": "https://i.ytimg.com/vi/qjJe3NkGqOs/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-01-29T08:24:13Z"
+    },
     {
       "id": "AaRN6oH28-Q",
       "title": "Roosters vs Wolves SUPER 28.01.2026",
@@ -36,13 +43,6 @@
       "thumbnail": "https://i.ytimg.com/vi/Jwd35yry3z0/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-01-28T19:18:48Z"
-    },
-    {
-      "id": "qjJe3NkGqOs",
-      "title": "Domynos vs Zbraslav SUPER 28.01.2026",
-      "thumbnail": "https://i.ytimg.com/vi/qjJe3NkGqOs/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-01-28T18:48:15Z"
     },
     {
       "id": "81YbMBXJaGE",
