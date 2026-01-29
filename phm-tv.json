@@ -1,7 +1,14 @@
 {
-  "updated": "2026-01-29T07:11:46.344Z",
+  "updated": "2026-01-29T07:58:28.436Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
+    {
+      "id": "AaRN6oH28-Q",
+      "title": "Roosters vs Wolves SUPER 28.01.2026",
+      "thumbnail": "https://i.ytimg.com/vi/AaRN6oH28-Q/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-01-29T07:43:12Z"
+    },
     {
       "id": "HyQmNl3exkY",
       "title": "Office Rats vs Fešáci SPORT 28.01.2026",
@@ -36,13 +43,6 @@
       "thumbnail": "https://i.ytimg.com/vi/qjJe3NkGqOs/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-01-28T18:48:15Z"
-    },
-    {
-      "id": "AaRN6oH28-Q",
-      "title": "Roosters vs Wolves SUPER 28.01.2026",
-      "thumbnail": "https://i.ytimg.com/vi/AaRN6oH28-Q/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-01-28T18:07:56Z"
     },
     {
       "id": "81YbMBXJaGE",
