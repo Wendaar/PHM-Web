@@ -1,12 +1,12 @@
 {
-  "updated": "2026-01-29T21:49:52.495Z",
+  "updated": "2026-01-29T22:22:27.545Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
     {
       "id": "i3pR6vl73dA",
       "title": "KOS vs KBS",
-      "thumbnail": "https://i.ytimg.com/vi/i3pR6vl73dA/mqdefault_live.jpg",
-      "isLive": true,
+      "thumbnail": "https://i.ytimg.com/vi/i3pR6vl73dA/mqdefault.jpg",
+      "isLive": false,
       "publishedAt": "2026-01-29T21:00:02Z"
     },
     {
