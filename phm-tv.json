@@ -1,7 +1,14 @@
 {
-  "updated": "2026-01-29T15:30:38.202Z",
+  "updated": "2026-01-29T16:37:22.518Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
+    {
+      "id": "8Z3-Yl3CskA",
+      "title": "26 Subotica Highlights Video",
+      "thumbnail": "https://i.ytimg.com/vi/8Z3-Yl3CskA/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-01-29T16:21:46Z"
+    },
     {
       "id": "HyQmNl3exkY",
       "title": "Office Rats vs Fešáci SPORT 28.01.2026",
@@ -43,13 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/AaRN6oH28-Q/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-01-29T07:43:12Z"
-    },
-    {
-      "id": "81YbMBXJaGE",
-      "title": "Renegades vs REX SUPER 27.01.2026",
-      "thumbnail": "https://i.ytimg.com/vi/81YbMBXJaGE/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-01-28T10:28:28Z"
     }
   ]
 }
