@@ -1,7 +1,28 @@
 {
-  "updated": "2026-01-30T16:51:12.613Z",
+  "updated": "2026-01-30T17:29:02.231Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
+    {
+      "id": "Bu_ScnH2vgg",
+      "title": "26 WEEK RECAP 01 30 SUPER",
+      "thumbnail": "https://i.ytimg.com/vi/Bu_ScnH2vgg/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-01-30T17:04:27Z"
+    },
+    {
+      "id": "fviQSDpRCdM",
+      "title": "26 WEEK RECAP 01 30 KLASIK",
+      "thumbnail": "https://i.ytimg.com/vi/fviQSDpRCdM/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-01-30T17:04:24Z"
+    },
+    {
+      "id": "n6l7GhtSU8k",
+      "title": "26 WEEK RECAP 01 30 HOBBY",
+      "thumbnail": "https://i.ytimg.com/vi/n6l7GhtSU8k/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-01-30T17:04:22Z"
+    },
     {
       "id": "xog1q_16bJQ",
       "title": "ATTL vs Voholto SPORT 29.01.2026",
@@ -29,27 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/HyQmNl3exkY/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-01-29T10:00:33Z"
-    },
-    {
-      "id": "s2uQPj927Q8",
-      "title": "Spiders vs Papoušci HOBBY 28.01.2026",
-      "thumbnail": "https://i.ytimg.com/vi/s2uQPj927Q8/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-01-29T09:55:09Z"
-    },
-    {
-      "id": "Jwd35yry3z0",
-      "title": "Ducks C vs Scarecrows HOBBY 28.01.2026",
-      "thumbnail": "https://i.ytimg.com/vi/Jwd35yry3z0/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-01-29T09:06:53Z"
-    },
-    {
-      "id": "7a3h8oj5J6M",
-      "title": "Rekreanti vs Gastoni KLASIK 28.01.2026",
-      "thumbnail": "https://i.ytimg.com/vi/7a3h8oj5J6M/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-01-29T09:02:32Z"
     }
   ]
 }
