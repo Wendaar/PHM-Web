@@ -1,7 +1,21 @@
 {
-  "updated": "2026-02-01T14:21:03.519Z",
+  "updated": "2026-02-01T14:51:00.602Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
+    {
+      "id": "dA0Xlh5Zivk",
+      "title": "POB vs PAP, HOBBY, 1.2.2026",
+      "thumbnail": "https://i.ytimg.com/vi/dA0Xlh5Zivk/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2026-02-01T14:35:14Z"
+    },
+    {
+      "id": "qKk8IEGtwqM",
+      "title": "Fotr vs Soldiers B Hobby 01.02.2026",
+      "thumbnail": "https://i.ytimg.com/vi/qKk8IEGtwqM/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2026-02-01T14:40:07Z"
+    },
     {
       "id": "zq8caqGWYww",
       "title": "26 WEEK RECAP 01 30 SPORT",
@@ -36,20 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/xog1q_16bJQ/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-01-30T10:21:21Z"
-    },
-    {
-      "id": "i3pR6vl73dA",
-      "title": "Kosti vs Soldiers SUPER 29.01.2026",
-      "thumbnail": "https://i.ytimg.com/vi/i3pR6vl73dA/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-01-30T10:20:53Z"
-    },
-    {
-      "id": "8Z3-Yl3CskA",
-      "title": "26 Subotica Highlights Video",
-      "thumbnail": "https://i.ytimg.com/vi/8Z3-Yl3CskA/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-01-29T16:21:46Z"
     }
   ]
 }
