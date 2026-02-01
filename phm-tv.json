@@ -1,20 +1,34 @@
 {
-  "updated": "2026-02-01T15:47:00.231Z",
+  "updated": "2026-02-01T16:22:45.834Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
     {
-      "id": "dA0Xlh5Zivk",
-      "title": "POB vs PAP, HOBBY, 1.2.2026",
-      "thumbnail": "https://i.ytimg.com/vi/dA0Xlh5Zivk/mqdefault_live.jpg",
+      "id": "rEhnTgqTYFk",
+      "title": "MyQ vs Phantoms Hobby 01.02.2026",
+      "thumbnail": "https://i.ytimg.com/vi/rEhnTgqTYFk/mqdefault_live.jpg",
       "isLive": true,
-      "publishedAt": "2026-02-01T14:35:14Z"
+      "publishedAt": "2026-02-01T16:09:08Z"
+    },
+    {
+      "id": "L8nzi7QUoG8",
+      "title": "RAP vs ALI, KLASIK, 01.02.2026",
+      "thumbnail": "https://i.ytimg.com/vi/L8nzi7QUoG8/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2026-02-01T15:59:34Z"
     },
     {
       "id": "qKk8IEGtwqM",
       "title": "Fotr vs Soldiers B Hobby 01.02.2026",
-      "thumbnail": "https://i.ytimg.com/vi/qKk8IEGtwqM/mqdefault_live.jpg",
-      "isLive": true,
+      "thumbnail": "https://i.ytimg.com/vi/qKk8IEGtwqM/mqdefault.jpg",
+      "isLive": false,
       "publishedAt": "2026-02-01T14:40:07Z"
+    },
+    {
+      "id": "dA0Xlh5Zivk",
+      "title": "POB vs PAP, HOBBY, 1.2.2026",
+      "thumbnail": "https://i.ytimg.com/vi/dA0Xlh5Zivk/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-02-01T14:35:14Z"
     },
     {
       "id": "zq8caqGWYww",
@@ -36,20 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/fviQSDpRCdM/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-01-30T17:04:24Z"
-    },
-    {
-      "id": "n6l7GhtSU8k",
-      "title": "26 WEEK RECAP 01 30 HOBBY",
-      "thumbnail": "https://i.ytimg.com/vi/n6l7GhtSU8k/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-01-30T17:04:22Z"
-    },
-    {
-      "id": "xog1q_16bJQ",
-      "title": "ATTL vs Voholto SPORT 29.01.2026",
-      "thumbnail": "https://i.ytimg.com/vi/xog1q_16bJQ/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-01-30T10:21:21Z"
     }
   ]
 }
