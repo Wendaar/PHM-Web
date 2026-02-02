@@ -1,12 +1,33 @@
 {
-  "updated": "2026-02-02T18:36:06.487Z",
+  "updated": "2026-02-02T23:22:56.251Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
     {
+      "id": "v3kU2oMlyVM",
+      "title": "Fanklub Lev Praha vs HC Ducks Praha Sport",
+      "thumbnail": "https://i.ytimg.com/vi/v3kU2oMlyVM/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-02-02T19:46:36Z"
+    },
+    {
+      "id": "-CNhgqnwXmA",
+      "title": "VIK vs ICE",
+      "thumbnail": "https://i.ytimg.com/vi/-CNhgqnwXmA/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-02-02T19:30:39Z"
+    },
+    {
+      "id": "8ZYpYWwyJBU",
+      "title": "Rats vs Attl SPORT 2.2.2026",
+      "thumbnail": "https://i.ytimg.com/vi/8ZYpYWwyJBU/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-02-02T19:17:06Z"
+    },
+    {
       "id": "KEe2fhV5qHc",
       "title": "SK Žižkov Praha vs PUK PAK PIVO",
-      "thumbnail": "https://i.ytimg.com/vi/KEe2fhV5qHc/mqdefault_live.jpg",
-      "isLive": true,
+      "thumbnail": "https://i.ytimg.com/vi/KEe2fhV5qHc/mqdefault.jpg",
+      "isLive": false,
       "publishedAt": "2026-02-02T18:24:38Z"
     },
     {
@@ -29,27 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/-D2fsg_crGk/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-02-02T07:07:32Z"
-    },
-    {
-      "id": "rEhnTgqTYFk",
-      "title": "MyQ vs Phantoms HOBBY 01.02.2026",
-      "thumbnail": "https://i.ytimg.com/vi/rEhnTgqTYFk/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-02-02T05:45:30Z"
-    },
-    {
-      "id": "L8nzi7QUoG8",
-      "title": "Raptors vs Alligators KLASIK 01.02.2026",
-      "thumbnail": "https://i.ytimg.com/vi/L8nzi7QUoG8/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-02-02T05:37:17Z"
-    },
-    {
-      "id": "qKk8IEGtwqM",
-      "title": "Fotr vs Soldiers B HOBBY 01.02.2026",
-      "thumbnail": "https://i.ytimg.com/vi/qKk8IEGtwqM/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-02-02T04:23:09Z"
     }
   ]
 }
