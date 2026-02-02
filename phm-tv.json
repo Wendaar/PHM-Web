@@ -1,7 +1,14 @@
 {
-  "updated": "2026-02-02T17:34:01.082Z",
+  "updated": "2026-02-02T18:36:06.487Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
+    {
+      "id": "KEe2fhV5qHc",
+      "title": "SK Žižkov Praha vs PUK PAK PIVO",
+      "thumbnail": "https://i.ytimg.com/vi/KEe2fhV5qHc/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2026-02-02T18:24:38Z"
+    },
     {
       "id": "6cLQ0EZiS2M",
       "title": "Pigeons vs HOVNA SPORT 01.02.2026",
@@ -43,13 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/qKk8IEGtwqM/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-02-02T04:23:09Z"
-    },
-    {
-      "id": "dA0Xlh5Zivk",
-      "title": "Polar Bears vs Papoušci HOBBY 01.02.2026",
-      "thumbnail": "https://i.ytimg.com/vi/dA0Xlh5Zivk/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-02-02T04:14:51Z"
     }
   ]
 }
