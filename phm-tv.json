@@ -1,7 +1,21 @@
 {
-  "updated": "2026-02-03T18:11:00.203Z",
+  "updated": "2026-02-03T19:24:54.680Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
+    {
+      "id": "LTP5U3U-ms4",
+      "title": "GAS vs PLA, KLASIK, 3.2,2026",
+      "thumbnail": "https://i.ytimg.com/vi/LTP5U3U-ms4/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2026-02-03T19:14:22Z"
+    },
+    {
+      "id": "hxftBSVAjwU",
+      "title": "KV Elektro vs Traverzáci HOBBY 03.02.2026",
+      "thumbnail": "https://i.ytimg.com/vi/hxftBSVAjwU/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2026-02-03T19:00:08Z"
+    },
     {
       "id": "v3kU2oMlyVM",
       "title": "Fanklub Lev vs Ducks Sport SPORT 02.02.2026",
@@ -36,20 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/6cLQ0EZiS2M/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-02-02T08:36:42Z"
-    },
-    {
-      "id": "k55KUqwsZfI",
-      "title": "Superheroes vs PUK PAK PIVO SUPER 01.02.2026",
-      "thumbnail": "https://i.ytimg.com/vi/k55KUqwsZfI/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-02-02T07:14:13Z"
-    },
-    {
-      "id": "-D2fsg_crGk",
-      "title": "Ducks B vs Taste KLASIK 01.02.2026",
-      "thumbnail": "https://i.ytimg.com/vi/-D2fsg_crGk/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-02-02T07:07:32Z"
     }
   ]
 }
