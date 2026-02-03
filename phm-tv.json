@@ -1,7 +1,14 @@
 {
-  "updated": "2026-02-03T20:38:58.882Z",
+  "updated": "2026-02-03T21:29:00.832Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
+    {
+      "id": "kuMy3e7-B-M",
+      "title": "ALI PPB",
+      "thumbnail": "https://i.ytimg.com/vi/kuMy3e7-B-M/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2026-02-03T20:58:49Z"
+    },
     {
       "id": "BbXxqA2CKsg",
       "title": "Wolves B vs Ducks B KLASIK  03.02.2026",
@@ -12,8 +19,8 @@
     {
       "id": "LTP5U3U-ms4",
       "title": "GAS vs PLA, KLASIK, 3.2,2026",
-      "thumbnail": "https://i.ytimg.com/vi/LTP5U3U-ms4/mqdefault_live.jpg",
-      "isLive": true,
+      "thumbnail": "https://i.ytimg.com/vi/LTP5U3U-ms4/mqdefault.jpg",
+      "isLive": false,
       "publishedAt": "2026-02-03T19:14:22Z"
     },
     {
@@ -43,13 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/8ZYpYWwyJBU/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-02-03T08:41:07Z"
-    },
-    {
-      "id": "KEe2fhV5qHc",
-      "title": "Žižkov vs PUK PAK PIVO SUPER 02.02.2026",
-      "thumbnail": "https://i.ytimg.com/vi/KEe2fhV5qHc/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-02-03T07:53:53Z"
     }
   ]
 }
