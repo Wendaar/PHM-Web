@@ -1,14 +1,7 @@
 {
-  "updated": "2026-02-04T19:35:53.352Z",
+  "updated": "2026-02-04T20:28:37.533Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
-    {
-      "id": "hvpDMfbtDIs",
-      "title": "RST vs SLZ",
-      "thumbnail": "https://i.ytimg.com/vi/hvpDMfbtDIs/mqdefault_live.jpg",
-      "isLive": true,
-      "publishedAt": "2026-02-04T19:00:45Z"
-    },
     {
       "id": "1_Xx3t3r70I",
       "title": "DKC vs FOT",
@@ -17,11 +10,25 @@
       "publishedAt": "2026-02-04T19:18:44Z"
     },
     {
-      "id": "eBlwcRwpY2w",
-      "title": "MyQ vs Polar Bears 4.2.2026",
-      "thumbnail": "https://i.ytimg.com/vi/eBlwcRwpY2w/mqdefault_live.jpg",
+      "id": "09m_ZN9-53o",
+      "title": "Berkut vs Superheroes SUPER 04.02.2026",
+      "thumbnail": "https://i.ytimg.com/vi/09m_ZN9-53o/mqdefault_live.jpg",
       "isLive": true,
-      "publishedAt": "2026-02-04T18:41:29Z"
+      "publishedAt": "2026-02-04T20:12:36Z"
+    },
+    {
+      "id": "aB019NSyCdM",
+      "title": "VHT vs HEY",
+      "thumbnail": "https://i.ytimg.com/vi/aB019NSyCdM/mqdefault_live.jpg",
+      "isLive": false,
+      "publishedAt": "2026-02-04T20:27:07Z"
+    },
+    {
+      "id": "hvpDMfbtDIs",
+      "title": "RST vs SLZ",
+      "thumbnail": "https://i.ytimg.com/vi/hvpDMfbtDIs/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-02-04T19:00:45Z"
     },
     {
       "id": "MshjvvO7Z_0",
@@ -31,25 +38,18 @@
       "publishedAt": "2026-02-04T18:43:20Z"
     },
     {
+      "id": "eBlwcRwpY2w",
+      "title": "MyQ vs Polar Bears 4.2.2026",
+      "thumbnail": "https://i.ytimg.com/vi/eBlwcRwpY2w/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-02-04T18:41:29Z"
+    },
+    {
       "id": "kuMy3e7-B-M",
       "title": "Alligators vs Pigeons B KLASIK 03.02.2026",
       "thumbnail": "https://i.ytimg.com/vi/kuMy3e7-B-M/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-02-04T10:27:32Z"
-    },
-    {
-      "id": "BbXxqA2CKsg",
-      "title": "Wolves B vs Ducks B KLASIK 03.02.2026",
-      "thumbnail": "https://i.ytimg.com/vi/BbXxqA2CKsg/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-02-04T09:49:48Z"
-    },
-    {
-      "id": "LTP5U3U-ms4",
-      "title": "Gastoni vs PLATIDLO KLASIK 03.02.2026",
-      "thumbnail": "https://i.ytimg.com/vi/LTP5U3U-ms4/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-02-04T09:04:49Z"
     }
   ]
 }
