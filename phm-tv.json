@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-04T21:00:49.635Z",
+  "updated": "2026-02-04T21:51:51.552Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
     {
@@ -10,18 +10,18 @@
       "publishedAt": "2026-02-04T20:46:06Z"
     },
     {
-      "id": "09m_ZN9-53o",
-      "title": "Berkut vs Superheroes SUPER 04.02.2026",
-      "thumbnail": "https://i.ytimg.com/vi/09m_ZN9-53o/mqdefault_live.jpg",
-      "isLive": true,
-      "publishedAt": "2026-02-04T20:12:36Z"
-    },
-    {
       "id": "aB019NSyCdM",
       "title": "VHT vs HEY",
-      "thumbnail": "https://i.ytimg.com/vi/aB019NSyCdM/mqdefault_live.jpg",
-      "isLive": true,
+      "thumbnail": "https://i.ytimg.com/vi/aB019NSyCdM/mqdefault.jpg",
+      "isLive": false,
       "publishedAt": "2026-02-04T20:27:07Z"
+    },
+    {
+      "id": "09m_ZN9-53o",
+      "title": "Berkut vs Superheroes SUPER 04.02.2026",
+      "thumbnail": "https://i.ytimg.com/vi/09m_ZN9-53o/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-02-04T20:12:36Z"
     },
     {
       "id": "1_Xx3t3r70I",
