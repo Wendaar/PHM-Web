@@ -1,7 +1,14 @@
 {
-  "updated": "2026-02-04T09:06:08.791Z",
+  "updated": "2026-02-04T10:06:52.267Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
+    {
+      "id": "BbXxqA2CKsg",
+      "title": "Wolves B vs Ducks B KLASIK 03.02.2026",
+      "thumbnail": "https://i.ytimg.com/vi/BbXxqA2CKsg/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-02-04T09:49:48Z"
+    },
     {
       "id": "LTP5U3U-ms4",
       "title": "Gastoni vs PLATIDLO KLASIK 03.02.2026",
@@ -22,13 +29,6 @@
       "thumbnail": "https://i.ytimg.com/vi/kuMy3e7-B-M/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-02-03T20:58:49Z"
-    },
-    {
-      "id": "BbXxqA2CKsg",
-      "title": "Wolves B vs Ducks B KLASIK 03.02.2026",
-      "thumbnail": "https://i.ytimg.com/vi/BbXxqA2CKsg/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-02-03T20:35:50Z"
     },
     {
       "id": "v3kU2oMlyVM",
