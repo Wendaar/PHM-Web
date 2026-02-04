@@ -1,13 +1,13 @@
 {
-  "updated": "2026-02-04T20:28:37.533Z",
+  "updated": "2026-02-04T21:00:49.635Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
     {
-      "id": "1_Xx3t3r70I",
-      "title": "DKC vs FOT",
-      "thumbnail": "https://i.ytimg.com/vi/1_Xx3t3r70I/mqdefault_live.jpg",
+      "id": "mOvEvqpNk1Y",
+      "title": "CHeza VS H.O.V.N.A",
+      "thumbnail": "https://i.ytimg.com/vi/mOvEvqpNk1Y/mqdefault_live.jpg",
       "isLive": true,
-      "publishedAt": "2026-02-04T19:18:44Z"
+      "publishedAt": "2026-02-04T20:46:06Z"
     },
     {
       "id": "09m_ZN9-53o",
@@ -20,8 +20,15 @@
       "id": "aB019NSyCdM",
       "title": "VHT vs HEY",
       "thumbnail": "https://i.ytimg.com/vi/aB019NSyCdM/mqdefault_live.jpg",
-      "isLive": false,
+      "isLive": true,
       "publishedAt": "2026-02-04T20:27:07Z"
+    },
+    {
+      "id": "1_Xx3t3r70I",
+      "title": "DKC vs FOT",
+      "thumbnail": "https://i.ytimg.com/vi/1_Xx3t3r70I/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-02-04T19:18:44Z"
     },
     {
       "id": "hvpDMfbtDIs",
@@ -43,13 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/eBlwcRwpY2w/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-02-04T18:41:29Z"
-    },
-    {
-      "id": "kuMy3e7-B-M",
-      "title": "Alligators vs Pigeons B KLASIK 03.02.2026",
-      "thumbnail": "https://i.ytimg.com/vi/kuMy3e7-B-M/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-02-04T10:27:32Z"
     }
   ]
 }
