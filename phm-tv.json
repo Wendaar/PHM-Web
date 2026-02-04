@@ -1,13 +1,34 @@
 {
-  "updated": "2026-02-04T18:41:28.016Z",
+  "updated": "2026-02-04T19:35:53.352Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
     {
+      "id": "hvpDMfbtDIs",
+      "title": "RST vs SLZ",
+      "thumbnail": "https://i.ytimg.com/vi/hvpDMfbtDIs/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2026-02-04T19:00:45Z"
+    },
+    {
+      "id": "1_Xx3t3r70I",
+      "title": "DKC vs FOT",
+      "thumbnail": "https://i.ytimg.com/vi/1_Xx3t3r70I/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2026-02-04T19:18:44Z"
+    },
+    {
+      "id": "eBlwcRwpY2w",
+      "title": "MyQ vs Polar Bears 4.2.2026",
+      "thumbnail": "https://i.ytimg.com/vi/eBlwcRwpY2w/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2026-02-04T18:41:29Z"
+    },
+    {
       "id": "MshjvvO7Z_0",
       "title": "MyQ vs Polar Bears HOBBY 4.2.2026",
-      "thumbnail": "https://i.ytimg.com/vi/MshjvvO7Z_0/mqdefault_live.jpg",
-      "isLive": true,
-      "publishedAt": "2026-02-04T18:39:41Z"
+      "thumbnail": "https://i.ytimg.com/vi/MshjvvO7Z_0/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-02-04T18:43:20Z"
     },
     {
       "id": "kuMy3e7-B-M",
@@ -29,27 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/LTP5U3U-ms4/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-02-04T09:04:49Z"
-    },
-    {
-      "id": "hxftBSVAjwU",
-      "title": "KV Elektro vs Traverzáci HOBBY 03.02.2026",
-      "thumbnail": "https://i.ytimg.com/vi/hxftBSVAjwU/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-02-04T08:13:53Z"
-    },
-    {
-      "id": "v3kU2oMlyVM",
-      "title": "Fanklub Lev vs Ducks Sport SPORT 02.02.2026",
-      "thumbnail": "https://i.ytimg.com/vi/v3kU2oMlyVM/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-02-03T09:26:51Z"
-    },
-    {
-      "id": "-CNhgqnwXmA",
-      "title": "Vikings vs Spiders HOBBY 02.02.2026",
-      "thumbnail": "https://i.ytimg.com/vi/-CNhgqnwXmA/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-02-03T08:51:43Z"
     }
   ]
 }
