@@ -1,7 +1,14 @@
 {
-  "updated": "2026-02-05T07:46:21.074Z",
+  "updated": "2026-02-05T08:36:41.216Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
+    {
+      "id": "hvpDMfbtDIs",
+      "title": "Roosters vs Zbraslav SUPER 04.02.2026",
+      "thumbnail": "https://i.ytimg.com/vi/hvpDMfbtDIs/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-02-05T08:32:49Z"
+    },
     {
       "id": "mOvEvqpNk1Y",
       "title": "Cheza vs HOVNA SPORT 04.02.2026",
@@ -31,13 +38,6 @@
       "publishedAt": "2026-02-04T19:18:44Z"
     },
     {
-      "id": "hvpDMfbtDIs",
-      "title": "Roosters vs Zbraslav SUPER 04.02.2026",
-      "thumbnail": "https://i.ytimg.com/vi/hvpDMfbtDIs/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-02-04T19:00:45Z"
-    },
-    {
       "id": "MshjvvO7Z_0",
       "title": "MyQ vs Polar Bears HOBBY 4.2.2026",
       "thumbnail": "https://i.ytimg.com/vi/MshjvvO7Z_0/mqdefault.jpg",
@@ -45,11 +45,11 @@
       "publishedAt": "2026-02-04T18:43:20Z"
     },
     {
-      "id": "eBlwcRwpY2w",
-      "title": "MyQ vs Polar Bears HOBBY 04.02.2026",
-      "thumbnail": "https://i.ytimg.com/vi/eBlwcRwpY2w/mqdefault.jpg",
+      "id": "kuMy3e7-B-M",
+      "title": "Alligators vs Pigeons B KLASIK 03.02.2026",
+      "thumbnail": "https://i.ytimg.com/vi/kuMy3e7-B-M/mqdefault.jpg",
       "isLive": false,
-      "publishedAt": "2026-02-04T18:41:29Z"
+      "publishedAt": "2026-02-04T10:27:32Z"
     }
   ]
 }
