@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-05T17:14:08.697Z",
+  "updated": "2026-02-05T18:08:35.921Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
     {
@@ -38,18 +38,18 @@
       "publishedAt": "2026-02-05T08:32:49Z"
     },
     {
-      "id": "MshjvvO7Z_0",
-      "title": "MyQ vs Polar Bears HOBBY 4.2.2026",
-      "thumbnail": "https://i.ytimg.com/vi/MshjvvO7Z_0/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-02-04T18:43:20Z"
-    },
-    {
       "id": "kuMy3e7-B-M",
       "title": "Alligators vs Pigeons B KLASIK 03.02.2026",
       "thumbnail": "https://i.ytimg.com/vi/kuMy3e7-B-M/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-02-04T10:27:32Z"
+    },
+    {
+      "id": "BbXxqA2CKsg",
+      "title": "Wolves B vs Ducks B KLASIK 03.02.2026",
+      "thumbnail": "https://i.ytimg.com/vi/BbXxqA2CKsg/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-02-04T09:49:48Z"
     }
   ]
 }
