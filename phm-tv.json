@@ -1,7 +1,14 @@
 {
-  "updated": "2026-02-05T20:59:50.633Z",
+  "updated": "2026-02-05T21:37:28.841Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
+    {
+      "id": "Ddg1svB6Qf0",
+      "title": "Rekreanti vs. Gladiators KLASIK 5.2.2026",
+      "thumbnail": "https://i.ytimg.com/vi/Ddg1svB6Qf0/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2026-02-05T21:00:36Z"
+    },
     {
       "id": "nAdxBhxesFA",
       "title": "Papoušci vs. Strašáci HOBBY 5.2.2026",
@@ -43,13 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/hvpDMfbtDIs/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-02-05T08:32:49Z"
-    },
-    {
-      "id": "kuMy3e7-B-M",
-      "title": "Alligators vs Pigeons B KLASIK 03.02.2026",
-      "thumbnail": "https://i.ytimg.com/vi/kuMy3e7-B-M/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-02-04T10:27:32Z"
     }
   ]
 }
