@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-06T20:27:36.706Z",
+  "updated": "2026-02-06T20:58:57.880Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
     {
@@ -31,6 +31,13 @@
       "publishedAt": "2026-02-06T13:45:28Z"
     },
     {
+      "id": "Ddg1svB6Qf0",
+      "title": "Rekreanti vs Gladiators KLASIK 05.02.2026",
+      "thumbnail": "https://i.ytimg.com/vi/Ddg1svB6Qf0/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-02-06T10:22:20Z"
+    },
+    {
       "id": "nAdxBhxesFA",
       "title": "Papoušci vs Scarecrows HOBBY 05.02.2026",
       "thumbnail": "https://i.ytimg.com/vi/nAdxBhxesFA/mqdefault.jpg",
@@ -43,13 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/mOvEvqpNk1Y/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-02-05T10:11:27Z"
-    },
-    {
-      "id": "aB019NSyCdM",
-      "title": "Voholto vs Heyoka SPORT 04.02.2026",
-      "thumbnail": "https://i.ytimg.com/vi/aB019NSyCdM/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-02-05T10:01:29Z"
     }
   ]
 }
