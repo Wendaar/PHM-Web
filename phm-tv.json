@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-06T09:37:09.677Z",
+  "updated": "2026-02-06T10:34:12.377Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
     {
@@ -8,13 +8,6 @@
       "thumbnail": "https://i.ytimg.com/vi/nAdxBhxesFA/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-02-06T09:17:59Z"
-    },
-    {
-      "id": "Ddg1svB6Qf0",
-      "title": "Rekreanti vs Gladiators KLASIK 05.02.2026",
-      "thumbnail": "https://i.ytimg.com/vi/Ddg1svB6Qf0/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-02-05T21:00:36Z"
     },
     {
       "id": "mOvEvqpNk1Y",
@@ -50,6 +43,13 @@
       "thumbnail": "https://i.ytimg.com/vi/hvpDMfbtDIs/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-02-05T08:32:49Z"
+    },
+    {
+      "id": "kuMy3e7-B-M",
+      "title": "Alligators vs Pigeons B KLASIK 03.02.2026",
+      "thumbnail": "https://i.ytimg.com/vi/kuMy3e7-B-M/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-02-04T10:27:32Z"
     }
   ]
 }
