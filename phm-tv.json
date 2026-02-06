@@ -1,7 +1,35 @@
 {
-  "updated": "2026-02-06T12:54:14.186Z",
+  "updated": "2026-02-06T13:58:39.519Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
+    {
+      "id": "YhQgUZ-__28",
+      "title": "26 WEEK RECAP 02 06 SUPER",
+      "thumbnail": "https://i.ytimg.com/vi/YhQgUZ-__28/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-02-06T13:45:36Z"
+    },
+    {
+      "id": "5Y7lXfBOXXI",
+      "title": "26 WEEK RECAP 02 06 SPORT",
+      "thumbnail": "https://i.ytimg.com/vi/5Y7lXfBOXXI/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-02-06T13:45:34Z"
+    },
+    {
+      "id": "jyEAw4pqex4",
+      "title": "26 WEEK RECAP 02 06 KLASIK",
+      "thumbnail": "https://i.ytimg.com/vi/jyEAw4pqex4/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-02-06T13:45:31Z"
+    },
+    {
+      "id": "ItV1xbHHi0o",
+      "title": "26 WEEK RECAP 02 06 HOBBY",
+      "thumbnail": "https://i.ytimg.com/vi/ItV1xbHHi0o/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-02-06T13:45:28Z"
+    },
     {
       "id": "nAdxBhxesFA",
       "title": "Papoušci vs Scarecrows HOBBY 05.02.2026",
@@ -22,34 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/aB019NSyCdM/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-02-05T10:01:29Z"
-    },
-    {
-      "id": "09m_ZN9-53o",
-      "title": "Berkut vs Superheroes SUPER 04.02.2026",
-      "thumbnail": "https://i.ytimg.com/vi/09m_ZN9-53o/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-02-05T09:50:49Z"
-    },
-    {
-      "id": "1_Xx3t3r70I",
-      "title": "Ducks C vs Fotr HOBBY 04.02.2026",
-      "thumbnail": "https://i.ytimg.com/vi/1_Xx3t3r70I/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-02-05T08:36:58Z"
-    },
-    {
-      "id": "hvpDMfbtDIs",
-      "title": "Roosters vs Zbraslav SUPER 04.02.2026",
-      "thumbnail": "https://i.ytimg.com/vi/hvpDMfbtDIs/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-02-05T08:32:49Z"
-    },
-    {
-      "id": "kuMy3e7-B-M",
-      "title": "Alligators vs Pigeons B KLASIK 03.02.2026",
-      "thumbnail": "https://i.ytimg.com/vi/kuMy3e7-B-M/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-02-04T10:27:32Z"
     }
   ]
 }
