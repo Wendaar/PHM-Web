@@ -1,7 +1,28 @@
 {
-  "updated": "2026-02-07T13:40:01.376Z",
+  "updated": "2026-02-07T14:20:55.002Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
+    {
+      "id": "nclOt4Gs7HQ",
+      "title": "WC Subotica 26 Match Slashing Pumpkins vs Rainman Allstars",
+      "thumbnail": "https://i.ytimg.com/vi/nclOt4Gs7HQ/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-02-07T14:16:00Z"
+    },
+    {
+      "id": "z5_5ghZkTXE",
+      "title": "WC Subotica 26 Match Old Boys SK vs Drvene Nogice",
+      "thumbnail": "https://i.ytimg.com/vi/z5_5ghZkTXE/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-02-07T14:15:01Z"
+    },
+    {
+      "id": "TBGjfq-Y7lI",
+      "title": "WC Subotica 26 Match Kol and Vazhe vs HK Vojvodina",
+      "thumbnail": "https://i.ytimg.com/vi/TBGjfq-Y7lI/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-02-07T14:02:32Z"
+    },
     {
       "id": "EAGZzlOpynQ",
       "title": "26 Subotica PHM Highlights video",
@@ -29,27 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/jyEAw4pqex4/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-02-06T13:45:31Z"
-    },
-    {
-      "id": "ItV1xbHHi0o",
-      "title": "26 WEEK RECAP 02 06 HOBBY",
-      "thumbnail": "https://i.ytimg.com/vi/ItV1xbHHi0o/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-02-06T13:45:28Z"
-    },
-    {
-      "id": "Ddg1svB6Qf0",
-      "title": "Rekreanti vs Gladiators KLASIK 05.02.2026",
-      "thumbnail": "https://i.ytimg.com/vi/Ddg1svB6Qf0/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-02-06T10:22:20Z"
-    },
-    {
-      "id": "nAdxBhxesFA",
-      "title": "Papoušci vs Scarecrows HOBBY 05.02.2026",
-      "thumbnail": "https://i.ytimg.com/vi/nAdxBhxesFA/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-02-06T09:17:59Z"
     }
   ]
 }
