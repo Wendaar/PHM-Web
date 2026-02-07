@@ -1,7 +1,14 @@
 {
-  "updated": "2026-02-07T11:42:53.294Z",
+  "updated": "2026-02-07T12:36:39.085Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
+    {
+      "id": "EAGZzlOpynQ",
+      "title": "26 Subotica PHM Highlights video",
+      "thumbnail": "https://i.ytimg.com/vi/EAGZzlOpynQ/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-02-07T12:28:58Z"
+    },
     {
       "id": "YhQgUZ-__28",
       "title": "26 WEEK RECAP 02 06 SUPER",
@@ -43,13 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/nAdxBhxesFA/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-02-06T09:17:59Z"
-    },
-    {
-      "id": "mOvEvqpNk1Y",
-      "title": "Cheza vs HOVNA SPORT 04.02.2026",
-      "thumbnail": "https://i.ytimg.com/vi/mOvEvqpNk1Y/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-02-05T10:11:27Z"
     }
   ]
 }
