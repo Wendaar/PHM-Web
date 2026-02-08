@@ -1,7 +1,14 @@
 {
-  "updated": "2026-02-08T11:44:21.768Z",
+  "updated": "2026-02-08T12:37:57.338Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
+    {
+      "id": "OETtGX9GLHo",
+      "title": "Ukraine Women vs HC 2001 KLADNO, 8.02.2026, ICERINK",
+      "thumbnail": "https://i.ytimg.com/vi/OETtGX9GLHo/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2026-02-08T12:36:58Z"
+    },
     {
       "id": "nclOt4Gs7HQ",
       "title": "WC Subotica 26 Match Slashing Pumpkins vs Rainman Allstars",
@@ -43,13 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/5Y7lXfBOXXI/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-02-06T13:45:34Z"
-    },
-    {
-      "id": "jyEAw4pqex4",
-      "title": "26 WEEK RECAP 02 06 KLASIK",
-      "thumbnail": "https://i.ytimg.com/vi/jyEAw4pqex4/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-02-06T13:45:31Z"
     }
   ]
 }
