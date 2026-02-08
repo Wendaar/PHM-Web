@@ -1,20 +1,34 @@
 {
-  "updated": "2026-02-08T15:48:21.399Z",
+  "updated": "2026-02-08T16:23:50.755Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
     {
-      "id": "VnXb98SEgV0",
-      "title": "Dragons vs Polar Bears HOBBY 08.02.2026",
-      "thumbnail": "https://i.ytimg.com/vi/VnXb98SEgV0/mqdefault_live.jpg",
+      "id": "_oGqaHN9dkg",
+      "title": "Reindeers vs Phantoms HOBBY 08.02.2026",
+      "thumbnail": "https://i.ytimg.com/vi/_oGqaHN9dkg/mqdefault_live.jpg",
       "isLive": true,
-      "publishedAt": "2026-02-08T14:44:52Z"
+      "publishedAt": "2026-02-08T16:12:33Z"
+    },
+    {
+      "id": "ETvSg948vy8",
+      "title": "PAL vs FOT, HOBBY, 8.2.26",
+      "thumbnail": "https://i.ytimg.com/vi/ETvSg948vy8/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2026-02-08T16:14:04Z"
     },
     {
       "id": "qgaBtRH-l90",
       "title": "GRH vs PPG, SPORT, 8.2.2026",
-      "thumbnail": "https://i.ytimg.com/vi/qgaBtRH-l90/mqdefault_live.jpg",
-      "isLive": true,
+      "thumbnail": "https://i.ytimg.com/vi/qgaBtRH-l90/mqdefault.jpg",
+      "isLive": false,
       "publishedAt": "2026-02-08T14:49:47Z"
+    },
+    {
+      "id": "VnXb98SEgV0",
+      "title": "Dragons vs Polar Bears HOBBY 08.02.2026",
+      "thumbnail": "https://i.ytimg.com/vi/VnXb98SEgV0/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-02-08T14:44:52Z"
     },
     {
       "id": "OETtGX9GLHo",
@@ -36,20 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/nclOt4Gs7HQ/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-02-07T14:16:00Z"
-    },
-    {
-      "id": "z5_5ghZkTXE",
-      "title": "WC Subotica 26 Match Old Boys SK vs Drvene Nogice",
-      "thumbnail": "https://i.ytimg.com/vi/z5_5ghZkTXE/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-02-07T14:15:01Z"
-    },
-    {
-      "id": "TBGjfq-Y7lI",
-      "title": "WC Subotica 26 Match Kol and Vazhe vs HK Vojvodina",
-      "thumbnail": "https://i.ytimg.com/vi/TBGjfq-Y7lI/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-02-07T14:02:32Z"
     }
   ]
 }
