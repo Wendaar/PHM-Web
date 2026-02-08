@@ -1,13 +1,20 @@
 {
-  "updated": "2026-02-08T14:22:34.569Z",
+  "updated": "2026-02-08T14:52:29.324Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
     {
-      "id": "rpNZ1Hcb6J0",
-      "title": "UA vs KLAD Referee cam",
-      "thumbnail": "https://i.ytimg.com/vi/rpNZ1Hcb6J0/mqdefault_live.jpg",
+      "id": "VnXb98SEgV0",
+      "title": "Dragons vs Polar Bears HOBBY 08.02.2026",
+      "thumbnail": "https://i.ytimg.com/vi/VnXb98SEgV0/mqdefault_live.jpg",
       "isLive": true,
-      "publishedAt": "2026-02-08T12:46:28Z"
+      "publishedAt": "2026-02-08T14:44:52Z"
+    },
+    {
+      "id": "qgaBtRH-l90",
+      "title": "GRH vs PPG, SPORT, 8.2.2026",
+      "thumbnail": "https://i.ytimg.com/vi/qgaBtRH-l90/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2026-02-08T14:49:47Z"
     },
     {
       "id": "OETtGX9GLHo",
@@ -15,6 +22,13 @@
       "thumbnail": "https://i.ytimg.com/vi/OETtGX9GLHo/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-02-08T12:54:50Z"
+    },
+    {
+      "id": "rpNZ1Hcb6J0",
+      "title": "UA vs KLAD Referee cam",
+      "thumbnail": "https://i.ytimg.com/vi/rpNZ1Hcb6J0/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-02-08T12:46:28Z"
     },
     {
       "id": "nclOt4Gs7HQ",
@@ -36,20 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/TBGjfq-Y7lI/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-02-07T14:02:32Z"
-    },
-    {
-      "id": "EAGZzlOpynQ",
-      "title": "26 Subotica PHM Highlights video",
-      "thumbnail": "https://i.ytimg.com/vi/EAGZzlOpynQ/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-02-07T12:28:58Z"
-    },
-    {
-      "id": "YhQgUZ-__28",
-      "title": "26 WEEK RECAP 02 06 SUPER",
-      "thumbnail": "https://i.ytimg.com/vi/YhQgUZ-__28/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-02-06T13:45:36Z"
     }
   ]
 }
