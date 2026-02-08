@@ -1,7 +1,14 @@
 {
-  "updated": "2026-02-08T19:02:44.516Z",
+  "updated": "2026-02-08T19:44:13.516Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
+    {
+      "id": "-5YqOxcxIRE",
+      "title": "Kosti vs Renegades SUPER 08.02.2026",
+      "thumbnail": "https://i.ytimg.com/vi/-5YqOxcxIRE/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2026-02-08T19:11:45Z"
+    },
     {
       "id": "-lEY12D-1TA",
       "title": "Soldiers B vs Žraloci HOBBY 08.02.2026",
@@ -43,13 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/VnXb98SEgV0/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-02-08T14:44:52Z"
-    },
-    {
-      "id": "OETtGX9GLHo",
-      "title": "Ukraine Women vs HC 2001 KLADNO, 8.02.2026, ICERINK",
-      "thumbnail": "https://i.ytimg.com/vi/OETtGX9GLHo/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-02-08T12:54:50Z"
     }
   ]
 }
