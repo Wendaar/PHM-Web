@@ -1,7 +1,14 @@
 {
-  "updated": "2026-02-09T07:59:17.408Z",
+  "updated": "2026-02-09T09:01:16.174Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
+    {
+      "id": "-5YqOxcxIRE",
+      "title": "Kosti vs Renegades SUPER 08.02.2026",
+      "thumbnail": "https://i.ytimg.com/vi/-5YqOxcxIRE/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-02-09T08:51:51Z"
+    },
     {
       "id": "-PXeDWYz9-M",
       "title": "PLATIDLO vs Taste KLASIK 08.02.2026",
@@ -43,13 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/rpNZ1Hcb6J0/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-02-09T03:09:29Z"
-    },
-    {
-      "id": "-5YqOxcxIRE",
-      "title": "Kosti vs Renegades SUPER 08.02.2026",
-      "thumbnail": "https://i.ytimg.com/vi/-5YqOxcxIRE/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-02-08T19:11:45Z"
     }
   ]
 }
