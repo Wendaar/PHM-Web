@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-09T19:59:47.853Z",
+  "updated": "2026-02-09T20:52:11.826Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
     {
@@ -17,10 +17,17 @@
       "publishedAt": "2026-02-09T19:49:04Z"
     },
     {
+      "id": "ChdEnbCQu0U",
+      "title": "PAP vs ICE, HOBBY, 9.2.2026",
+      "thumbnail": "https://i.ytimg.com/vi/ChdEnbCQu0U/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2026-02-09T20:41:40Z"
+    },
+    {
       "id": "1nr6ROsKONE",
       "title": "HEY vs LEV, SPORT, 9.02.2026",
-      "thumbnail": "https://i.ytimg.com/vi/1nr6ROsKONE/mqdefault_live.jpg",
-      "isLive": true,
+      "thumbnail": "https://i.ytimg.com/vi/1nr6ROsKONE/mqdefault.jpg",
+      "isLive": false,
       "publishedAt": "2026-02-09T19:15:30Z"
     },
     {
@@ -43,13 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/-PXeDWYz9-M/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-02-09T07:46:40Z"
-    },
-    {
-      "id": "-lEY12D-1TA",
-      "title": "Soldiers B vs Žraloci HOBBY 08.02.2026",
-      "thumbnail": "https://i.ytimg.com/vi/-lEY12D-1TA/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-02-09T07:08:31Z"
     }
   ]
 }
