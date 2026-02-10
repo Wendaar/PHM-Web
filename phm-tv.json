@@ -1,13 +1,20 @@
 {
-  "updated": "2026-02-10T20:01:50.707Z",
+  "updated": "2026-02-10T21:06:54.447Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
     {
+      "id": "DdUgesAZBFY",
+      "title": "Renegades vs SK Žižkov  SUPER 10.02.2026",
+      "thumbnail": "https://i.ytimg.com/vi/DdUgesAZBFY/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2026-02-10T20:21:13Z"
+    },
+    {
       "id": "3qi6PM-3DU0",
       "title": "KV Elektro vs Fotr",
-      "thumbnail": "https://i.ytimg.com/vi/3qi6PM-3DU0/mqdefault_live.jpg",
-      "isLive": true,
-      "publishedAt": "2026-02-10T19:18:45Z"
+      "thumbnail": "https://i.ytimg.com/vi/3qi6PM-3DU0/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-02-10T20:08:55Z"
     },
     {
       "id": "ChdEnbCQu0U",
@@ -43,13 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/pIM47CiXKj0/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-02-10T07:54:40Z"
-    },
-    {
-      "id": "-5YqOxcxIRE",
-      "title": "Kosti vs Renegades SUPER 08.02.2026",
-      "thumbnail": "https://i.ytimg.com/vi/-5YqOxcxIRE/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-02-09T08:51:51Z"
     }
   ]
 }
