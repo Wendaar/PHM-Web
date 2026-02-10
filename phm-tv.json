@@ -1,7 +1,14 @@
 {
-  "updated": "2026-02-10T07:36:54.513Z",
+  "updated": "2026-02-10T08:43:56.257Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
+    {
+      "id": "pIM47CiXKj0",
+      "title": "Ducks Sport vs Fešáci SPORT 09.02.2026",
+      "thumbnail": "https://i.ytimg.com/vi/pIM47CiXKj0/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-02-10T07:54:40Z"
+    },
     {
       "id": "ChdEnbCQu0U",
       "title": "Papoušci vs Spiders HOBBY 09.02.2026",
@@ -29,13 +36,6 @@
       "thumbnail": "https://i.ytimg.com/vi/G4Wa15TtGVw/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-02-09T19:05:52Z"
-    },
-    {
-      "id": "pIM47CiXKj0",
-      "title": "Ducks Sport vs Fešáci SPORT 09.02.2026",
-      "thumbnail": "https://i.ytimg.com/vi/pIM47CiXKj0/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-02-09T18:31:11Z"
     },
     {
       "id": "-5YqOxcxIRE",
