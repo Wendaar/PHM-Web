@@ -1,20 +1,27 @@
 {
-  "updated": "2026-02-11T20:33:34.847Z",
+  "updated": "2026-02-11T21:29:10.309Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
     {
-      "id": "eYfptv0HoVA",
-      "title": "Scarecrows vs Traverzáci HOBBY 11.2.2026",
-      "thumbnail": "https://i.ytimg.com/vi/eYfptv0HoVA/mqdefault_live.jpg",
+      "id": "qhHcTnHwdo4",
+      "title": "ALI vs GLA",
+      "thumbnail": "https://i.ytimg.com/vi/qhHcTnHwdo4/mqdefault_live.jpg",
       "isLive": true,
-      "publishedAt": "2026-02-11T20:17:46Z"
+      "publishedAt": "2026-02-11T20:47:26Z"
     },
     {
-      "id": "lUnjRXohcXU",
-      "title": "PHT vs PAL HOBBY 11.2.2026",
-      "thumbnail": "https://i.ytimg.com/vi/lUnjRXohcXU/mqdefault_live.jpg",
-      "isLive": true,
-      "publishedAt": "2026-02-11T18:49:26Z"
+      "id": "B68Dabr6cpg",
+      "title": "PUK PIVO vs Wolves SUPER 11.2.26",
+      "thumbnail": "https://i.ytimg.com/vi/B68Dabr6cpg/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-02-11T20:39:44Z"
+    },
+    {
+      "id": "eYfptv0HoVA",
+      "title": "Scarecrows vs Traverzáci HOBBY 11.2.2026",
+      "thumbnail": "https://i.ytimg.com/vi/eYfptv0HoVA/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-02-11T20:17:46Z"
     },
     {
       "id": "L7XK9HM-dqc",
@@ -22,6 +29,13 @@
       "thumbnail": "https://i.ytimg.com/vi/L7XK9HM-dqc/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-02-11T19:18:21Z"
+    },
+    {
+      "id": "lUnjRXohcXU",
+      "title": "PHT vs PAL HOBBY 11.2.2026",
+      "thumbnail": "https://i.ytimg.com/vi/lUnjRXohcXU/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-02-11T18:49:26Z"
     },
     {
       "id": "a4jNvNZ3W18",
@@ -36,20 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/J8lWmQJkQ14/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-02-11T16:27:05Z"
-    },
-    {
-      "id": "4i5iksptuvQ",
-      "title": "26 02 08 Platidlo vs Taste",
-      "thumbnail": "https://i.ytimg.com/vi/4i5iksptuvQ/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-02-11T16:26:37Z"
-    },
-    {
-      "id": "5bx4FJIJRLw",
-      "title": "26 02 08 Paladins vs Fotr",
-      "thumbnail": "https://i.ytimg.com/vi/5bx4FJIJRLw/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-02-11T16:26:28Z"
     }
   ]
 }
