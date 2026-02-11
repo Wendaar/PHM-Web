@@ -1,7 +1,21 @@
 {
-  "updated": "2026-02-11T12:57:52.701Z",
+  "updated": "2026-02-11T14:16:14.533Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
+    {
+      "id": "ASHEgnwK7es",
+      "title": "26 01 28 Ducks C vs Strašáci",
+      "thumbnail": "https://i.ytimg.com/vi/ASHEgnwK7es/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-02-11T13:34:05Z"
+    },
+    {
+      "id": "LLjm9OkJbEU",
+      "title": "26 01 28 Fešáci vs Off Ice Rats",
+      "thumbnail": "https://i.ytimg.com/vi/LLjm9OkJbEU/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-02-11T13:34:11Z"
+    },
     {
       "id": "DdUgesAZBFY",
       "title": "Renegades vs Žižkov SUPER 10.02.2026",
@@ -36,20 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/G4Wa15TtGVw/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-02-10T09:07:29Z"
-    },
-    {
-      "id": "1nr6ROsKONE",
-      "title": "Heyoka vs Fanklub Lev SPORT 09.02.2026",
-      "thumbnail": "https://i.ytimg.com/vi/1nr6ROsKONE/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-02-10T08:50:43Z"
-    },
-    {
-      "id": "pIM47CiXKj0",
-      "title": "Ducks Sport vs Fešáci SPORT 09.02.2026",
-      "thumbnail": "https://i.ytimg.com/vi/pIM47CiXKj0/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-02-10T07:54:40Z"
     }
   ]
 }
