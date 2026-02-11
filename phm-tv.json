@@ -1,7 +1,28 @@
 {
-  "updated": "2026-02-11T18:02:54.876Z",
+  "updated": "2026-02-11T19:32:08.567Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
+    {
+      "id": "L7XK9HM-dqc",
+      "title": "VIK vs PPH",
+      "thumbnail": "https://i.ytimg.com/vi/L7XK9HM-dqc/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2026-02-11T19:18:21Z"
+    },
+    {
+      "id": "a4jNvNZ3W18",
+      "title": "Domynos vs Berkut 11.2.2026 SUPER",
+      "thumbnail": "https://i.ytimg.com/vi/a4jNvNZ3W18/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2026-02-11T18:47:05Z"
+    },
+    {
+      "id": "lUnjRXohcXU",
+      "title": "PHT vs PAL HOBBY 11.2.2026",
+      "thumbnail": "https://i.ytimg.com/vi/lUnjRXohcXU/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2026-02-11T18:49:26Z"
+    },
     {
       "id": "J8lWmQJkQ14",
       "title": "26 02 08 Ukraine Women vs HC 2001 Kladno",
@@ -29,27 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/mUt8FVm-Llw/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-02-11T16:26:31Z"
-    },
-    {
-      "id": "ASHEgnwK7es",
-      "title": "26 01 28 Ducks C vs Strašáci",
-      "thumbnail": "https://i.ytimg.com/vi/ASHEgnwK7es/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-02-11T13:34:05Z"
-    },
-    {
-      "id": "LLjm9OkJbEU",
-      "title": "26 01 28 Fešáci vs Off Ice Rats",
-      "thumbnail": "https://i.ytimg.com/vi/LLjm9OkJbEU/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-02-11T13:34:11Z"
-    },
-    {
-      "id": "DdUgesAZBFY",
-      "title": "Renegades vs Žižkov SUPER 10.02.2026",
-      "thumbnail": "https://i.ytimg.com/vi/DdUgesAZBFY/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-02-10T21:45:49Z"
     }
   ]
 }
