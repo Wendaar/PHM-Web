@@ -1,20 +1,13 @@
 {
-  "updated": "2026-02-11T19:32:08.567Z",
+  "updated": "2026-02-11T20:33:34.847Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
     {
-      "id": "L7XK9HM-dqc",
-      "title": "VIK vs PPH",
-      "thumbnail": "https://i.ytimg.com/vi/L7XK9HM-dqc/mqdefault_live.jpg",
+      "id": "eYfptv0HoVA",
+      "title": "Scarecrows vs Traverzáci HOBBY 11.2.2026",
+      "thumbnail": "https://i.ytimg.com/vi/eYfptv0HoVA/mqdefault_live.jpg",
       "isLive": true,
-      "publishedAt": "2026-02-11T19:18:21Z"
-    },
-    {
-      "id": "a4jNvNZ3W18",
-      "title": "Domynos vs Berkut 11.2.2026 SUPER",
-      "thumbnail": "https://i.ytimg.com/vi/a4jNvNZ3W18/mqdefault_live.jpg",
-      "isLive": true,
-      "publishedAt": "2026-02-11T18:47:05Z"
+      "publishedAt": "2026-02-11T20:17:46Z"
     },
     {
       "id": "lUnjRXohcXU",
@@ -22,6 +15,20 @@
       "thumbnail": "https://i.ytimg.com/vi/lUnjRXohcXU/mqdefault_live.jpg",
       "isLive": true,
       "publishedAt": "2026-02-11T18:49:26Z"
+    },
+    {
+      "id": "L7XK9HM-dqc",
+      "title": "VIK vs PPH",
+      "thumbnail": "https://i.ytimg.com/vi/L7XK9HM-dqc/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-02-11T19:18:21Z"
+    },
+    {
+      "id": "a4jNvNZ3W18",
+      "title": "Domynos vs Berkut 11.2.2026 SUPER",
+      "thumbnail": "https://i.ytimg.com/vi/a4jNvNZ3W18/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-02-11T18:47:05Z"
     },
     {
       "id": "J8lWmQJkQ14",
@@ -43,13 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/5bx4FJIJRLw/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-02-11T16:26:28Z"
-    },
-    {
-      "id": "mUt8FVm-Llw",
-      "title": "26 02 08 Voholto vs Pigeons",
-      "thumbnail": "https://i.ytimg.com/vi/mUt8FVm-Llw/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-02-11T16:26:31Z"
     }
   ]
 }
