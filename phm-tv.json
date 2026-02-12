@@ -1,7 +1,28 @@
 {
-  "updated": "2026-02-12T08:39:10.234Z",
+  "updated": "2026-02-12T09:42:24.685Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
+    {
+      "id": "eYfptv0HoVA",
+      "title": "Scarecrows vs Traverzáci HOBBY 11.02.2026",
+      "thumbnail": "https://i.ytimg.com/vi/eYfptv0HoVA/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-02-12T09:38:21Z"
+    },
+    {
+      "id": "lUnjRXohcXU",
+      "title": "Dragons vs Paladins HOBBY 11.02.2026",
+      "thumbnail": "https://i.ytimg.com/vi/lUnjRXohcXU/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-02-12T09:10:06Z"
+    },
+    {
+      "id": "L7XK9HM-dqc",
+      "title": "Vikings vs Phantoms HOBBY 11.02.2026",
+      "thumbnail": "https://i.ytimg.com/vi/L7XK9HM-dqc/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-02-12T08:45:57Z"
+    },
     {
       "id": "a4jNvNZ3W18",
       "title": "Domynos vs Berkut SUPER 11.02.2026",
@@ -29,27 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/B68Dabr6cpg/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-02-11T20:39:44Z"
-    },
-    {
-      "id": "eYfptv0HoVA",
-      "title": "Scarecrows vs Traverzáci HOBBY 11.02.2026",
-      "thumbnail": "https://i.ytimg.com/vi/eYfptv0HoVA/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-02-11T20:17:46Z"
-    },
-    {
-      "id": "L7XK9HM-dqc",
-      "title": "Vikings vs Phantoms HOBBY 11.02.2026",
-      "thumbnail": "https://i.ytimg.com/vi/L7XK9HM-dqc/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-02-11T19:18:21Z"
-    },
-    {
-      "id": "lUnjRXohcXU",
-      "title": "Dragons vs Paladins HOBBY 11.02.2026",
-      "thumbnail": "https://i.ytimg.com/vi/lUnjRXohcXU/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-02-11T18:49:26Z"
     }
   ]
 }
