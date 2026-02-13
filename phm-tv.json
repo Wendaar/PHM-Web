@@ -1,7 +1,14 @@
 {
-  "updated": "2026-02-13T19:39:08.758Z",
+  "updated": "2026-02-13T20:31:51.034Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
+    {
+      "id": "AF7NuV8kDdk",
+      "title": "26 02 11 Strašáci vs Traverzáci",
+      "thumbnail": "https://i.ytimg.com/vi/AF7NuV8kDdk/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-02-13T20:12:46Z"
+    },
     {
       "id": "Ysbgfmu69GE",
       "title": "26 02 11 Domynos vs Berkut",
@@ -43,13 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/_DK6eU6ktLs/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-02-12T21:52:58Z"
-    },
-    {
-      "id": "kymiQb1VhD0",
-      "title": "PUK PAK PIVO vs Wolves SUPER 11.02.2026 - DRUHÁ ČÁST",
-      "thumbnail": "https://i.ytimg.com/vi/kymiQb1VhD0/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-02-12T10:08:05Z"
     }
   ]
 }
