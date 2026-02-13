@@ -1,7 +1,42 @@
 {
-  "updated": "2026-02-13T18:39:50.271Z",
+  "updated": "2026-02-13T19:39:08.758Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
+    {
+      "id": "Ysbgfmu69GE",
+      "title": "26 02 11 Domynos vs Berkut",
+      "thumbnail": "https://i.ytimg.com/vi/Ysbgfmu69GE/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-02-13T19:05:49Z"
+    },
+    {
+      "id": "6TE_N9H6YGY",
+      "title": "26 WEEK RECAP 02 13 SPORT",
+      "thumbnail": "https://i.ytimg.com/vi/6TE_N9H6YGY/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-02-13T18:57:03Z"
+    },
+    {
+      "id": "aKsV8VJQw-4",
+      "title": "26 WEEK RECAP 02 13 SUPER",
+      "thumbnail": "https://i.ytimg.com/vi/aKsV8VJQw-4/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-02-13T18:57:29Z"
+    },
+    {
+      "id": "2wK6lvfVwIQ",
+      "title": "26 WEEK RECAP 02 13 KLASIK",
+      "thumbnail": "https://i.ytimg.com/vi/2wK6lvfVwIQ/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-02-13T18:56:59Z"
+    },
+    {
+      "id": "5pUZmC2s8mw",
+      "title": "26 WEEK RECAP 02 13 HOBBY",
+      "thumbnail": "https://i.ytimg.com/vi/5pUZmC2s8mw/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-02-13T18:56:56Z"
+    },
     {
       "id": "_DK6eU6ktLs",
       "title": "Rekreanti vs Stars KLASIK 12.02.2026",
@@ -15,41 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/kymiQb1VhD0/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-02-12T10:08:05Z"
-    },
-    {
-      "id": "qhHcTnHwdo4",
-      "title": "Alligators vs Gladiators KLASIK 11.02.2026",
-      "thumbnail": "https://i.ytimg.com/vi/qhHcTnHwdo4/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-02-12T09:54:57Z"
-    },
-    {
-      "id": "B68Dabr6cpg",
-      "title": "PUK PAK PIVO vs Wolves SUPER 11.02.2026",
-      "thumbnail": "https://i.ytimg.com/vi/B68Dabr6cpg/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-02-12T09:46:00Z"
-    },
-    {
-      "id": "eYfptv0HoVA",
-      "title": "Scarecrows vs Traverzáci HOBBY 11.02.2026",
-      "thumbnail": "https://i.ytimg.com/vi/eYfptv0HoVA/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-02-12T09:38:21Z"
-    },
-    {
-      "id": "lUnjRXohcXU",
-      "title": "Dragons vs Paladins HOBBY 11.02.2026",
-      "thumbnail": "https://i.ytimg.com/vi/lUnjRXohcXU/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-02-12T09:10:06Z"
-    },
-    {
-      "id": "L7XK9HM-dqc",
-      "title": "Vikings vs Phantoms HOBBY 11.02.2026",
-      "thumbnail": "https://i.ytimg.com/vi/L7XK9HM-dqc/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-02-12T08:45:57Z"
     }
   ]
 }
