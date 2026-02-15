@@ -1,20 +1,34 @@
 {
-  "updated": "2026-02-15T15:46:50.577Z",
+  "updated": "2026-02-15T16:22:56.070Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
     {
-      "id": "KwVAnr15yAE",
-      "title": "Cheza vs Pigeons Sport 15.02.2026",
-      "thumbnail": "https://i.ytimg.com/vi/KwVAnr15yAE/mqdefault_live.jpg",
+      "id": "X4xTSZHjxn8",
+      "title": "Strašáci vs Žraloci Hobby 15.02.2026",
+      "thumbnail": "https://i.ytimg.com/vi/X4xTSZHjxn8/mqdefault_live.jpg",
       "isLive": true,
-      "publishedAt": "2026-02-15T14:49:46Z"
+      "publishedAt": "2026-02-15T16:16:24Z"
+    },
+    {
+      "id": "5uux4nfguEQ",
+      "title": "Soldiers B vs Paladins Hobby 15.02.2026",
+      "thumbnail": "https://i.ytimg.com/vi/5uux4nfguEQ/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2026-02-15T16:03:58Z"
     },
     {
       "id": "T1hHXhtFfU0",
       "title": "Polar Bears vs Ducks C Hobby 15.02.2026",
-      "thumbnail": "https://i.ytimg.com/vi/T1hHXhtFfU0/mqdefault_live.jpg",
-      "isLive": true,
+      "thumbnail": "https://i.ytimg.com/vi/T1hHXhtFfU0/mqdefault.jpg",
+      "isLive": false,
       "publishedAt": "2026-02-15T14:49:21Z"
+    },
+    {
+      "id": "KwVAnr15yAE",
+      "title": "Cheza vs Pigeons Sport 15.02.2026",
+      "thumbnail": "https://i.ytimg.com/vi/KwVAnr15yAE/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-02-15T14:49:46Z"
     },
     {
       "id": "AF7NuV8kDdk",
@@ -36,20 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/6TE_N9H6YGY/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-02-13T18:57:03Z"
-    },
-    {
-      "id": "aKsV8VJQw-4",
-      "title": "26 WEEK RECAP 02 13 SUPER",
-      "thumbnail": "https://i.ytimg.com/vi/aKsV8VJQw-4/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-02-13T18:57:29Z"
-    },
-    {
-      "id": "2wK6lvfVwIQ",
-      "title": "26 WEEK RECAP 02 13 KLASIK",
-      "thumbnail": "https://i.ytimg.com/vi/2wK6lvfVwIQ/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-02-13T18:56:59Z"
     }
   ]
 }
