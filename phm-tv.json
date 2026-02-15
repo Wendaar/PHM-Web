@@ -1,20 +1,20 @@
 {
-  "updated": "2026-02-15T16:55:12.098Z",
+  "updated": "2026-02-15T17:21:19.866Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
-    {
-      "id": "X4xTSZHjxn8",
-      "title": "Strašáci vs Žraloci Hobby 15.02.2026",
-      "thumbnail": "https://i.ytimg.com/vi/X4xTSZHjxn8/mqdefault_live.jpg",
-      "isLive": true,
-      "publishedAt": "2026-02-15T16:16:24Z"
-    },
     {
       "id": "5uux4nfguEQ",
       "title": "Soldiers B vs Paladins Hobby 15.02.2026",
       "thumbnail": "https://i.ytimg.com/vi/5uux4nfguEQ/mqdefault_live.jpg",
       "isLive": true,
       "publishedAt": "2026-02-15T16:03:58Z"
+    },
+    {
+      "id": "X4xTSZHjxn8",
+      "title": "Strašáci vs Žraloci Hobby 15.02.2026",
+      "thumbnail": "https://i.ytimg.com/vi/X4xTSZHjxn8/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2026-02-15T16:16:24Z"
     },
     {
       "id": "T1hHXhtFfU0",
