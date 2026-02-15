@@ -1,20 +1,34 @@
 {
-  "updated": "2026-02-15T17:21:19.866Z",
+  "updated": "2026-02-15T17:50:01.566Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
     {
-      "id": "5uux4nfguEQ",
-      "title": "Soldiers B vs Paladins Hobby 15.02.2026",
-      "thumbnail": "https://i.ytimg.com/vi/5uux4nfguEQ/mqdefault_live.jpg",
+      "id": "PNQcVg4kxC0",
+      "title": "Taste vs Ducks B Klasik 15.02.2026",
+      "thumbnail": "https://i.ytimg.com/vi/PNQcVg4kxC0/mqdefault_live.jpg",
       "isLive": true,
-      "publishedAt": "2026-02-15T16:03:58Z"
+      "publishedAt": "2026-02-15T17:41:32Z"
+    },
+    {
+      "id": "nuU-UquSanU",
+      "title": "Zbraslav vs Soldiers Super 15.02.2026",
+      "thumbnail": "https://i.ytimg.com/vi/nuU-UquSanU/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2026-02-15T17:45:20Z"
     },
     {
       "id": "X4xTSZHjxn8",
       "title": "Strašáci vs Žraloci Hobby 15.02.2026",
-      "thumbnail": "https://i.ytimg.com/vi/X4xTSZHjxn8/mqdefault_live.jpg",
-      "isLive": true,
+      "thumbnail": "https://i.ytimg.com/vi/X4xTSZHjxn8/mqdefault.jpg",
+      "isLive": false,
       "publishedAt": "2026-02-15T16:16:24Z"
+    },
+    {
+      "id": "5uux4nfguEQ",
+      "title": "Soldiers B vs Paladins Hobby 15.02.2026",
+      "thumbnail": "https://i.ytimg.com/vi/5uux4nfguEQ/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-02-15T16:03:58Z"
     },
     {
       "id": "T1hHXhtFfU0",
@@ -36,20 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/AF7NuV8kDdk/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-02-13T20:12:46Z"
-    },
-    {
-      "id": "Ysbgfmu69GE",
-      "title": "26 02 11 Domynos vs Berkut",
-      "thumbnail": "https://i.ytimg.com/vi/Ysbgfmu69GE/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-02-13T19:05:49Z"
-    },
-    {
-      "id": "6TE_N9H6YGY",
-      "title": "26 WEEK RECAP 02 13 SPORT",
-      "thumbnail": "https://i.ytimg.com/vi/6TE_N9H6YGY/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-02-13T18:57:03Z"
     }
   ]
 }
