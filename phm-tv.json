@@ -1,20 +1,27 @@
 {
-  "updated": "2026-02-15T19:02:09.089Z",
+  "updated": "2026-02-15T19:44:27.273Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
     {
-      "id": "PNQcVg4kxC0",
-      "title": "Taste vs Ducks B Klasik 15.02.2026",
-      "thumbnail": "https://i.ytimg.com/vi/PNQcVg4kxC0/mqdefault_live.jpg",
+      "id": "EfFdSrtd0hI",
+      "title": "Pigeons B vs Gastoni Klasik 15.02.2026",
+      "thumbnail": "https://i.ytimg.com/vi/EfFdSrtd0hI/mqdefault_live.jpg",
       "isLive": true,
-      "publishedAt": "2026-02-15T17:41:32Z"
+      "publishedAt": "2026-02-15T19:22:02Z"
     },
     {
       "id": "nuU-UquSanU",
       "title": "Zbraslav vs Soldiers Super 15.02.2026",
-      "thumbnail": "https://i.ytimg.com/vi/nuU-UquSanU/mqdefault_live.jpg",
-      "isLive": true,
+      "thumbnail": "https://i.ytimg.com/vi/nuU-UquSanU/mqdefault.jpg",
+      "isLive": false,
       "publishedAt": "2026-02-15T17:45:20Z"
+    },
+    {
+      "id": "PNQcVg4kxC0",
+      "title": "Taste vs Ducks B Klasik 15.02.2026",
+      "thumbnail": "https://i.ytimg.com/vi/PNQcVg4kxC0/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-02-15T17:41:32Z"
     },
     {
       "id": "X4xTSZHjxn8",
@@ -43,13 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/KwVAnr15yAE/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-02-15T14:49:46Z"
-    },
-    {
-      "id": "AF7NuV8kDdk",
-      "title": "26 02 11 Strašáci vs Traverzáci",
-      "thumbnail": "https://i.ytimg.com/vi/AF7NuV8kDdk/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-02-13T20:12:46Z"
     }
   ]
 }
