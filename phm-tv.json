@@ -1,13 +1,13 @@
 {
-  "updated": "2026-02-16T20:24:38.381Z",
+  "updated": "2026-02-16T20:54:33.645Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
     {
-      "id": "GxN4Yn59nBw",
-      "title": "Papoušci vs Reindeers HOBBY 16.02.2026",
-      "thumbnail": "https://i.ytimg.com/vi/GxN4Yn59nBw/mqdefault_live.jpg",
+      "id": "RHVDVLl5D0w",
+      "title": "HOVNA vs Voholto SPORT 16.02.2026",
+      "thumbnail": "https://i.ytimg.com/vi/RHVDVLl5D0w/mqdefault_live.jpg",
       "isLive": true,
-      "publishedAt": "2026-02-16T19:09:59Z"
+      "publishedAt": "2026-02-16T20:44:37Z"
     },
     {
       "id": "Mel1h-I6sY8",
@@ -19,9 +19,16 @@
     {
       "id": "xdOeCasQ7nw",
       "title": "Chiefs vs. REX SUPER 16.2.2026",
-      "thumbnail": "https://i.ytimg.com/vi/xdOeCasQ7nw/mqdefault_live.jpg",
-      "isLive": true,
+      "thumbnail": "https://i.ytimg.com/vi/xdOeCasQ7nw/mqdefault.jpg",
+      "isLive": false,
       "publishedAt": "2026-02-16T19:27:43Z"
+    },
+    {
+      "id": "GxN4Yn59nBw",
+      "title": "Papoušci vs Reindeers HOBBY 16.02.2026",
+      "thumbnail": "https://i.ytimg.com/vi/GxN4Yn59nBw/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-02-16T19:09:59Z"
     },
     {
       "id": "5Q5FZVFMJZo",
@@ -43,13 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/nuU-UquSanU/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-02-16T07:15:31Z"
-    },
-    {
-      "id": "PNQcVg4kxC0",
-      "title": "Taste vs Ducks B KLASIK 15.02.2026",
-      "thumbnail": "https://i.ytimg.com/vi/PNQcVg4kxC0/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-02-16T07:08:15Z"
     }
   ]
 }
