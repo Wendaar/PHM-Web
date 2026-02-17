@@ -1,19 +1,33 @@
 {
-  "updated": "2026-02-17T20:31:06.146Z",
+  "updated": "2026-02-17T21:30:15.369Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
     {
+      "id": "DF30tLLsQcA",
+      "title": "LEV vs PPG, sport, 17.02.2026",
+      "thumbnail": "https://i.ytimg.com/vi/DF30tLLsQcA/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2026-02-17T21:06:50Z"
+    },
+    {
+      "id": "m8TJ0Jna8YI",
+      "title": "Zra trz",
+      "thumbnail": "https://i.ytimg.com/vi/m8TJ0Jna8YI/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2026-02-17T20:39:23Z"
+    },
+    {
       "id": "GgKrk1HpiCE",
       "title": "PLA vs GAS, KLASIK, 17.02.2026",
-      "thumbnail": "https://i.ytimg.com/vi/GgKrk1HpiCE/mqdefault_live.jpg",
-      "isLive": true,
+      "thumbnail": "https://i.ytimg.com/vi/GgKrk1HpiCE/mqdefault.jpg",
+      "isLive": false,
       "publishedAt": "2026-02-17T19:21:59Z"
     },
     {
       "id": "zoSJdjW2ca4",
       "title": "KV Elektro vs Vikings HOBBY 17.02.2026",
-      "thumbnail": "https://i.ytimg.com/vi/zoSJdjW2ca4/mqdefault_live.jpg",
-      "isLive": true,
+      "thumbnail": "https://i.ytimg.com/vi/zoSJdjW2ca4/mqdefault.jpg",
+      "isLive": false,
       "publishedAt": "2026-02-17T18:51:55Z"
     },
     {
@@ -36,20 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/xdOeCasQ7nw/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-02-17T09:08:14Z"
-    },
-    {
-      "id": "5Q5FZVFMJZo",
-      "title": "Berkut vs Žižkov SUPER 16.02.2026",
-      "thumbnail": "https://i.ytimg.com/vi/5Q5FZVFMJZo/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-02-17T08:00:37Z"
-    },
-    {
-      "id": "EfFdSrtd0hI",
-      "title": "Pigeons B vs Gastoni KLASIK 15.02.2026",
-      "thumbnail": "https://i.ytimg.com/vi/EfFdSrtd0hI/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-02-16T08:45:04Z"
     }
   ]
 }
