@@ -1,7 +1,14 @@
 {
-  "updated": "2026-02-17T07:46:57.416Z",
+  "updated": "2026-02-17T08:38:28.732Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
+    {
+      "id": "5Q5FZVFMJZo",
+      "title": "Berkut vs Žižkov SUPER 16.02.2026",
+      "thumbnail": "https://i.ytimg.com/vi/5Q5FZVFMJZo/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-02-17T08:00:37Z"
+    },
     {
       "id": "RHVDVLl5D0w",
       "title": "HOVNA vs Voholto SPORT 16.02.2026",
@@ -29,13 +36,6 @@
       "thumbnail": "https://i.ytimg.com/vi/GxN4Yn59nBw/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-02-16T19:09:59Z"
-    },
-    {
-      "id": "5Q5FZVFMJZo",
-      "title": "Berkut vs Žižkov SUPER 16.02.2026",
-      "thumbnail": "https://i.ytimg.com/vi/5Q5FZVFMJZo/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-02-16T18:22:52Z"
     },
     {
       "id": "EfFdSrtd0hI",
