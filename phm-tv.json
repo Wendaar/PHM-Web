@@ -1,7 +1,21 @@
 {
-  "updated": "2026-02-17T18:50:42.812Z",
+  "updated": "2026-02-17T19:43:07.655Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
+    {
+      "id": "zoSJdjW2ca4",
+      "title": "KV Elektro vs Vikings HOBBY 17.02.2026",
+      "thumbnail": "https://i.ytimg.com/vi/zoSJdjW2ca4/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2026-02-17T18:51:55Z"
+    },
+    {
+      "id": "GgKrk1HpiCE",
+      "title": "PLA vs GAS, KLASIK, 17.02.2026",
+      "thumbnail": "https://i.ytimg.com/vi/GgKrk1HpiCE/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2026-02-17T19:21:59Z"
+    },
     {
       "id": "RHVDVLl5D0w",
       "title": "HOVNA vs Voholto SPORT 16.02.2026",
@@ -36,20 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/EfFdSrtd0hI/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-02-16T08:45:04Z"
-    },
-    {
-      "id": "nuU-UquSanU",
-      "title": "Zbraslav vs Soldiers SUPER 15.02.2026",
-      "thumbnail": "https://i.ytimg.com/vi/nuU-UquSanU/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-02-16T07:15:31Z"
-    },
-    {
-      "id": "PNQcVg4kxC0",
-      "title": "Taste vs Ducks B KLASIK 15.02.2026",
-      "thumbnail": "https://i.ytimg.com/vi/PNQcVg4kxC0/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-02-16T07:08:15Z"
     }
   ]
 }
