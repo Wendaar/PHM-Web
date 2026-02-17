@@ -1,24 +1,24 @@
 {
-  "updated": "2026-02-17T21:30:15.369Z",
+  "updated": "2026-02-17T22:25:30.875Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
     {
       "id": "DF30tLLsQcA",
-      "title": "LEV vs PPG, sport, 17.02.2026",
-      "thumbnail": "https://i.ytimg.com/vi/DF30tLLsQcA/mqdefault_live.jpg",
-      "isLive": true,
+      "title": "Fanklub Lev vs Pigeons SPORT 17.02.2026",
+      "thumbnail": "https://i.ytimg.com/vi/DF30tLLsQcA/mqdefault.jpg",
+      "isLive": false,
       "publishedAt": "2026-02-17T21:06:50Z"
     },
     {
       "id": "m8TJ0Jna8YI",
-      "title": "Zra trz",
-      "thumbnail": "https://i.ytimg.com/vi/m8TJ0Jna8YI/mqdefault_live.jpg",
-      "isLive": true,
+      "title": "Žraloci vs Traverzáci HOBBY 17.02.2026",
+      "thumbnail": "https://i.ytimg.com/vi/m8TJ0Jna8YI/mqdefault.jpg",
+      "isLive": false,
       "publishedAt": "2026-02-17T20:39:23Z"
     },
     {
       "id": "GgKrk1HpiCE",
-      "title": "PLA vs GAS, KLASIK, 17.02.2026",
+      "title": "PLATIDLO vs Gastoni KLASIK 17.02.2026",
       "thumbnail": "https://i.ytimg.com/vi/GgKrk1HpiCE/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-02-17T19:21:59Z"
