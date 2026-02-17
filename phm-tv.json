@@ -1,7 +1,21 @@
 {
-  "updated": "2026-02-17T08:38:28.732Z",
+  "updated": "2026-02-17T09:41:51.786Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
+    {
+      "id": "Mel1h-I6sY8",
+      "title": "Office Rats vs Ducks Sport SPORT 16.02.2026",
+      "thumbnail": "https://i.ytimg.com/vi/Mel1h-I6sY8/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-02-17T09:23:57Z"
+    },
+    {
+      "id": "xdOeCasQ7nw",
+      "title": "Chiefs vs REX SUPER 16.02.2026",
+      "thumbnail": "https://i.ytimg.com/vi/xdOeCasQ7nw/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-02-17T09:08:14Z"
+    },
     {
       "id": "5Q5FZVFMJZo",
       "title": "Berkut vs Žižkov SUPER 16.02.2026",
@@ -17,27 +31,6 @@
       "publishedAt": "2026-02-16T20:44:37Z"
     },
     {
-      "id": "Mel1h-I6sY8",
-      "title": "Office Rats vs Ducks Sport SPORT 16.02.2026",
-      "thumbnail": "https://i.ytimg.com/vi/Mel1h-I6sY8/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-02-16T20:01:32Z"
-    },
-    {
-      "id": "xdOeCasQ7nw",
-      "title": "Chiefs vs REX SUPER 16.02.2026",
-      "thumbnail": "https://i.ytimg.com/vi/xdOeCasQ7nw/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-02-16T19:27:43Z"
-    },
-    {
-      "id": "GxN4Yn59nBw",
-      "title": "Papoušci vs Reindeers HOBBY 16.02.2026",
-      "thumbnail": "https://i.ytimg.com/vi/GxN4Yn59nBw/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-02-16T19:09:59Z"
-    },
-    {
       "id": "EfFdSrtd0hI",
       "title": "Pigeons B vs Gastoni KLASIK 15.02.2026",
       "thumbnail": "https://i.ytimg.com/vi/EfFdSrtd0hI/mqdefault.jpg",
@@ -50,6 +43,13 @@
       "thumbnail": "https://i.ytimg.com/vi/nuU-UquSanU/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-02-16T07:15:31Z"
+    },
+    {
+      "id": "PNQcVg4kxC0",
+      "title": "Taste vs Ducks B KLASIK 15.02.2026",
+      "thumbnail": "https://i.ytimg.com/vi/PNQcVg4kxC0/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-02-16T07:08:15Z"
     }
   ]
 }
