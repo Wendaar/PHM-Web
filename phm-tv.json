@@ -1,27 +1,27 @@
 {
-  "updated": "2026-02-18T21:30:24.847Z",
+  "updated": "2026-02-18T22:27:12.279Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
     {
-      "id": "VHv9_47IFkI",
-      "title": "Roosters vs Superheroes SUPER 18.02.2026",
-      "thumbnail": "https://i.ytimg.com/vi/VHv9_47IFkI/mqdefault_live.jpg",
-      "isLive": true,
-      "publishedAt": "2026-02-18T20:16:42Z"
-    },
-    {
       "id": "vHM-kLfANGI",
-      "title": "FOT vs MYQ, HOBBY, 18.02.2026",
-      "thumbnail": "https://i.ytimg.com/vi/vHM-kLfANGI/mqdefault_live.jpg",
-      "isLive": true,
-      "publishedAt": "2026-02-18T20:42:40Z"
+      "title": "Fotr vs MyQ HOBBY 18.02.2026",
+      "thumbnail": "https://i.ytimg.com/vi/vHM-kLfANGI/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-02-18T22:02:48Z"
     },
     {
       "id": "kuhaSA9hg1M",
-      "title": "PPG vs REX, SUPER, 18.02-2026",
+      "title": "PUK PAK PIVO vs REX SUPER 18.02.2026",
       "thumbnail": "https://i.ytimg.com/vi/kuhaSA9hg1M/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-02-18T20:33:10Z"
+    },
+    {
+      "id": "VHv9_47IFkI",
+      "title": "Roosters vs Superheroes SUPER 18.02.2026",
+      "thumbnail": "https://i.ytimg.com/vi/VHv9_47IFkI/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-02-18T20:16:42Z"
     },
     {
       "id": "khJEwgljQwA",
