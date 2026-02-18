@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-18T20:33:11.027Z",
+  "updated": "2026-02-18T21:30:24.847Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
     {
@@ -10,11 +10,18 @@
       "publishedAt": "2026-02-18T20:16:42Z"
     },
     {
+      "id": "vHM-kLfANGI",
+      "title": "FOT vs MYQ, HOBBY, 18.02.2026",
+      "thumbnail": "https://i.ytimg.com/vi/vHM-kLfANGI/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2026-02-18T20:42:40Z"
+    },
+    {
       "id": "kuhaSA9hg1M",
       "title": "PPG vs REX, SUPER, 18.02-2026",
       "thumbnail": "https://i.ytimg.com/vi/kuhaSA9hg1M/mqdefault.jpg",
       "isLive": false,
-      "publishedAt": "2026-02-18T19:18:45Z"
+      "publishedAt": "2026-02-18T20:33:10Z"
     },
     {
       "id": "khJEwgljQwA",
@@ -43,13 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/zoSJdjW2ca4/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-02-18T09:04:26Z"
-    },
-    {
-      "id": "GgKrk1HpiCE",
-      "title": "PLATIDLO vs Gastoni KLASIK 17.02.2026",
-      "thumbnail": "https://i.ytimg.com/vi/GgKrk1HpiCE/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-02-18T08:50:42Z"
     }
   ]
 }
