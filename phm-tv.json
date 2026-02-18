@@ -1,19 +1,26 @@
 {
-  "updated": "2026-02-18T19:43:38.463Z",
+  "updated": "2026-02-18T20:33:11.027Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
     {
+      "id": "VHv9_47IFkI",
+      "title": "Roosters vs Superheroes SUPER 18.02.2026",
+      "thumbnail": "https://i.ytimg.com/vi/VHv9_47IFkI/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2026-02-18T20:16:42Z"
+    },
+    {
       "id": "kuhaSA9hg1M",
       "title": "PPG vs REX, SUPER, 18.02-2026",
-      "thumbnail": "https://i.ytimg.com/vi/kuhaSA9hg1M/mqdefault_live.jpg",
-      "isLive": true,
+      "thumbnail": "https://i.ytimg.com/vi/kuhaSA9hg1M/mqdefault.jpg",
+      "isLive": false,
       "publishedAt": "2026-02-18T19:18:45Z"
     },
     {
       "id": "khJEwgljQwA",
       "title": "Wolves vs Chiefs SUPER 18.02.2026",
-      "thumbnail": "https://i.ytimg.com/vi/khJEwgljQwA/mqdefault_live.jpg",
-      "isLive": true,
+      "thumbnail": "https://i.ytimg.com/vi/khJEwgljQwA/mqdefault.jpg",
+      "isLive": false,
       "publishedAt": "2026-02-18T18:45:41Z"
     },
     {
@@ -43,13 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/GgKrk1HpiCE/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-02-18T08:50:42Z"
-    },
-    {
-      "id": "RHVDVLl5D0w",
-      "title": "HOVNA vs Voholto SPORT 16.02.2026",
-      "thumbnail": "https://i.ytimg.com/vi/RHVDVLl5D0w/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-02-17T10:19:23Z"
     }
   ]
 }
