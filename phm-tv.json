@@ -1,7 +1,21 @@
 {
-  "updated": "2026-02-19T16:10:00.150Z",
+  "updated": "2026-02-19T17:27:24.254Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
+    {
+      "id": "85dIkfKqtgQ",
+      "title": "26 02 15 Strašáci vs Žraloci",
+      "thumbnail": "https://i.ytimg.com/vi/85dIkfKqtgQ/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-02-19T17:09:20Z"
+    },
+    {
+      "id": "IwLVNozT-1E",
+      "title": "26 02 15 Pigeons vs Cheza",
+      "thumbnail": "https://i.ytimg.com/vi/IwLVNozT-1E/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-02-19T17:09:17Z"
+    },
     {
       "id": "VHv9_47IFkI",
       "title": "Roosters vs Superheroes SUPER 18.02.2026",
@@ -36,20 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/DF30tLLsQcA/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-02-18T10:26:50Z"
-    },
-    {
-      "id": "m8TJ0Jna8YI",
-      "title": "Žraloci vs Traverzáci HOBBY 17.02.2026",
-      "thumbnail": "https://i.ytimg.com/vi/m8TJ0Jna8YI/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-02-18T10:23:12Z"
-    },
-    {
-      "id": "zoSJdjW2ca4",
-      "title": "KV Elektro vs Vikings HOBBY 17.02.2026",
-      "thumbnail": "https://i.ytimg.com/vi/zoSJdjW2ca4/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-02-18T09:04:26Z"
     }
   ]
 }
