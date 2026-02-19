@@ -1,14 +1,7 @@
 {
-  "updated": "2026-02-19T20:57:44.052Z",
+  "updated": "2026-02-19T21:34:52.347Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
-    {
-      "id": "W-sNE7ggzxw",
-      "title": "Phantoms vs Spiders HOBBY 19.02.2026",
-      "thumbnail": "https://i.ytimg.com/vi/W-sNE7ggzxw/mqdefault_live.jpg",
-      "isLive": true,
-      "publishedAt": "2026-02-19T18:52:18Z"
-    },
     {
       "id": "9Plkmd0kwVI",
       "title": "vlci vs. semtamtuk BNHLH 19.2.2026",
@@ -22,6 +15,13 @@
       "thumbnail": "https://i.ytimg.com/vi/C6U8iHddvNo/mqdefault_live.jpg",
       "isLive": true,
       "publishedAt": "2026-02-19T20:25:14Z"
+    },
+    {
+      "id": "W-sNE7ggzxw",
+      "title": "Phantoms vs Spiders HOBBY 19.02.2026",
+      "thumbnail": "https://i.ytimg.com/vi/W-sNE7ggzxw/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-02-19T18:52:18Z"
     },
     {
       "id": "85dIkfKqtgQ",
