@@ -1,7 +1,21 @@
 {
-  "updated": "2026-02-19T19:54:40.974Z",
+  "updated": "2026-02-19T20:26:26.053Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
+    {
+      "id": "9Plkmd0kwVI",
+      "title": "vlci vs. semtamtuk BNHLH 19.2.2026",
+      "thumbnail": "https://i.ytimg.com/vi/9Plkmd0kwVI/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2026-02-19T19:57:16Z"
+    },
+    {
+      "id": "C6U8iHddvNo",
+      "title": "DKS vs DKS",
+      "thumbnail": "https://i.ytimg.com/vi/C6U8iHddvNo/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2026-02-19T20:25:14Z"
+    },
     {
       "id": "W-sNE7ggzxw",
       "title": "PPH vs ICE HOBBY 19.2.2026",
@@ -36,20 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/khJEwgljQwA/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-02-19T08:15:24Z"
-    },
-    {
-      "id": "vHM-kLfANGI",
-      "title": "Fotr vs MyQ HOBBY 18.02.2026",
-      "thumbnail": "https://i.ytimg.com/vi/vHM-kLfANGI/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-02-18T22:02:48Z"
-    },
-    {
-      "id": "kuhaSA9hg1M",
-      "title": "PUK PAK PIVO vs REX SUPER 18.02.2026",
-      "thumbnail": "https://i.ytimg.com/vi/kuhaSA9hg1M/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-02-18T20:33:10Z"
     }
   ]
 }
