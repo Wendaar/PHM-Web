@@ -1,19 +1,33 @@
 {
-  "updated": "2026-02-22T17:21:09.241Z",
+  "updated": "2026-02-22T17:49:50.201Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
     {
+      "id": "pQAuXwMzp_0",
+      "title": "Soldiers B vs Ice Spiders Hobby 22.02.2026",
+      "thumbnail": "https://i.ytimg.com/vi/pQAuXwMzp_0/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2026-02-22T17:35:22Z"
+    },
+    {
+      "id": "BeqoXX9L3Vc",
+      "title": "wlb tst",
+      "thumbnail": "https://i.ytimg.com/vi/BeqoXX9L3Vc/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2026-02-22T17:40:17Z"
+    },
+    {
       "id": "mINH1LMqroo",
       "title": "DOM RNG 22.2.2026 SUPER",
-      "thumbnail": "https://i.ytimg.com/vi/mINH1LMqroo/mqdefault_live.jpg",
-      "isLive": true,
+      "thumbnail": "https://i.ytimg.com/vi/mINH1LMqroo/mqdefault.jpg",
+      "isLive": false,
       "publishedAt": "2026-02-22T16:06:55Z"
     },
     {
       "id": "IXAc2Cg-SrY",
       "title": "Polar Bears vs Dragons Hobby 22.02.2026",
-      "thumbnail": "https://i.ytimg.com/vi/IXAc2Cg-SrY/mqdefault_live.jpg",
-      "isLive": true,
+      "thumbnail": "https://i.ytimg.com/vi/IXAc2Cg-SrY/mqdefault.jpg",
+      "isLive": false,
       "publishedAt": "2026-02-22T15:56:34Z"
     },
     {
@@ -36,20 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/XWeHU3eLCfo/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-02-20T17:59:06Z"
-    },
-    {
-      "id": "CAKHOin3-mY",
-      "title": "26 WEEK RECAP 02 19 SUPER",
-      "thumbnail": "https://i.ytimg.com/vi/CAKHOin3-mY/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-02-20T17:59:11Z"
-    },
-    {
-      "id": "xt7rFs4d7gk",
-      "title": "26 WEEK RECAP 02 19 HOBBY",
-      "thumbnail": "https://i.ytimg.com/vi/xt7rFs4d7gk/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-02-20T17:59:03Z"
     }
   ]
 }
