@@ -1,12 +1,26 @@
 {
-  "updated": "2026-02-22T19:01:40.979Z",
+  "updated": "2026-02-22T19:43:51.853Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
     {
+      "id": "_5tFaVR83GM",
+      "title": "Pigeons B vs Banditos Klasik 22.02.2026",
+      "thumbnail": "https://i.ytimg.com/vi/_5tFaVR83GM/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2026-02-22T19:05:12Z"
+    },
+    {
+      "id": "norMpDK4YEs",
+      "title": "HEY CHE",
+      "thumbnail": "https://i.ytimg.com/vi/norMpDK4YEs/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2026-02-22T19:23:56Z"
+    },
+    {
       "id": "BeqoXX9L3Vc",
       "title": "wlb tst",
-      "thumbnail": "https://i.ytimg.com/vi/BeqoXX9L3Vc/mqdefault_live.jpg",
-      "isLive": true,
+      "thumbnail": "https://i.ytimg.com/vi/BeqoXX9L3Vc/mqdefault.jpg",
+      "isLive": false,
       "publishedAt": "2026-02-22T17:40:17Z"
     },
     {
@@ -36,20 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/SBnbwrB0mtw/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-02-22T14:33:49Z"
-    },
-    {
-      "id": "PD0XnU0OtiY",
-      "title": "PPH VS PAL HOBBY 22.2.2026",
-      "thumbnail": "https://i.ytimg.com/vi/PD0XnU0OtiY/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-02-22T14:32:44Z"
-    },
-    {
-      "id": "XWeHU3eLCfo",
-      "title": "26 WEEK RECAP 02 19 KLASIK",
-      "thumbnail": "https://i.ytimg.com/vi/XWeHU3eLCfo/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-02-20T17:59:06Z"
     }
   ]
 }
