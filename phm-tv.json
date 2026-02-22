@@ -1,20 +1,34 @@
 {
-  "updated": "2026-02-22T15:46:46.848Z",
+  "updated": "2026-02-22T16:22:44.700Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
     {
-      "id": "PD0XnU0OtiY",
-      "title": "PPH VS PAL HOBBY 22.2.2026",
-      "thumbnail": "https://i.ytimg.com/vi/PD0XnU0OtiY/mqdefault_live.jpg",
+      "id": "mINH1LMqroo",
+      "title": "DOM RNG 22.2.2026 SUPER",
+      "thumbnail": "https://i.ytimg.com/vi/mINH1LMqroo/mqdefault_live.jpg",
       "isLive": true,
-      "publishedAt": "2026-02-22T14:32:44Z"
+      "publishedAt": "2026-02-22T16:06:55Z"
+    },
+    {
+      "id": "IXAc2Cg-SrY",
+      "title": "Polar Bears vs Dragons Hobby 22.02.2026",
+      "thumbnail": "https://i.ytimg.com/vi/IXAc2Cg-SrY/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2026-02-22T15:56:34Z"
     },
     {
       "id": "SBnbwrB0mtw",
       "title": "MyQ vs Strašáci Hobby 22.02.2026",
-      "thumbnail": "https://i.ytimg.com/vi/SBnbwrB0mtw/mqdefault_live.jpg",
-      "isLive": true,
+      "thumbnail": "https://i.ytimg.com/vi/SBnbwrB0mtw/mqdefault.jpg",
+      "isLive": false,
       "publishedAt": "2026-02-22T14:33:49Z"
+    },
+    {
+      "id": "PD0XnU0OtiY",
+      "title": "PPH VS PAL HOBBY 22.2.2026",
+      "thumbnail": "https://i.ytimg.com/vi/PD0XnU0OtiY/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-02-22T14:32:44Z"
     },
     {
       "id": "XWeHU3eLCfo",
@@ -36,20 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/xt7rFs4d7gk/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-02-20T17:59:03Z"
-    },
-    {
-      "id": "AWzONRWLyKo",
-      "title": "26 WEEK RECAP 02 19 SPORT",
-      "thumbnail": "https://i.ytimg.com/vi/AWzONRWLyKo/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-02-20T17:59:08Z"
-    },
-    {
-      "id": "W-sNE7ggzxw",
-      "title": "Phantoms vs Spiders HOBBY 19.02.2026",
-      "thumbnail": "https://i.ytimg.com/vi/W-sNE7ggzxw/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-02-20T10:30:36Z"
     }
   ]
 }
