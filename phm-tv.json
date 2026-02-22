@@ -1,20 +1,20 @@
 {
-  "updated": "2026-02-22T20:20:20.883Z",
+  "updated": "2026-02-22T20:49:04.423Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
     {
-      "id": "_5tFaVR83GM",
-      "title": "Pigeons B vs Banditos Klasik 22.02.2026",
-      "thumbnail": "https://i.ytimg.com/vi/_5tFaVR83GM/mqdefault_live.jpg",
-      "isLive": true,
-      "publishedAt": "2026-02-22T19:05:12Z"
-    },
-    {
       "id": "norMpDK4YEs",
       "title": "HEY CHE",
-      "thumbnail": "https://i.ytimg.com/vi/norMpDK4YEs/mqdefault_live.jpg",
-      "isLive": true,
+      "thumbnail": "https://i.ytimg.com/vi/norMpDK4YEs/mqdefault.jpg",
+      "isLive": false,
       "publishedAt": "2026-02-22T19:23:56Z"
+    },
+    {
+      "id": "_5tFaVR83GM",
+      "title": "Pigeons B vs Banditos Klasik 22.02.2026",
+      "thumbnail": "https://i.ytimg.com/vi/_5tFaVR83GM/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-02-22T19:05:12Z"
     },
     {
       "id": "BeqoXX9L3Vc",
