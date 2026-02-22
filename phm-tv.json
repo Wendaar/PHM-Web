@@ -1,20 +1,20 @@
 {
-  "updated": "2026-02-22T18:28:25.133Z",
+  "updated": "2026-02-22T19:01:40.979Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
-    {
-      "id": "pQAuXwMzp_0",
-      "title": "Soldiers B vs Ice Spiders Hobby 22.02.2026",
-      "thumbnail": "https://i.ytimg.com/vi/pQAuXwMzp_0/mqdefault_live.jpg",
-      "isLive": true,
-      "publishedAt": "2026-02-22T17:35:22Z"
-    },
     {
       "id": "BeqoXX9L3Vc",
       "title": "wlb tst",
       "thumbnail": "https://i.ytimg.com/vi/BeqoXX9L3Vc/mqdefault_live.jpg",
       "isLive": true,
       "publishedAt": "2026-02-22T17:40:17Z"
+    },
+    {
+      "id": "pQAuXwMzp_0",
+      "title": "Soldiers B vs Ice Spiders Hobby 22.02.2026",
+      "thumbnail": "https://i.ytimg.com/vi/pQAuXwMzp_0/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-02-22T17:35:22Z"
     },
     {
       "id": "mINH1LMqroo",
