@@ -1,7 +1,21 @@
 {
-  "updated": "2026-02-23T01:46:47.171Z",
+  "updated": "2026-02-23T04:20:16.044Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
+    {
+      "id": "SBnbwrB0mtw",
+      "title": "MyQ vs Scarecrows HOBBY 22.02.2026",
+      "thumbnail": "https://i.ytimg.com/vi/SBnbwrB0mtw/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-02-23T04:17:57Z"
+    },
+    {
+      "id": "PD0XnU0OtiY",
+      "title": "Phantoms vs Paladins HOBBY 22.02.2026",
+      "thumbnail": "https://i.ytimg.com/vi/PD0XnU0OtiY/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-02-23T04:07:02Z"
+    },
     {
       "id": "norMpDK4YEs",
       "title": "Heyoka vs Cheza SPORT 22.02.2026",
@@ -36,20 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/mINH1LMqroo/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-02-22T16:06:55Z"
-    },
-    {
-      "id": "IXAc2Cg-SrY",
-      "title": "Polar Bears vs Dragons HOBBY 22.02.2026",
-      "thumbnail": "https://i.ytimg.com/vi/IXAc2Cg-SrY/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-02-22T15:56:34Z"
-    },
-    {
-      "id": "SBnbwrB0mtw",
-      "title": "MyQ vs Scarecrows HOBBY 22.02.2026",
-      "thumbnail": "https://i.ytimg.com/vi/SBnbwrB0mtw/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-02-22T14:33:49Z"
     }
   ]
 }
