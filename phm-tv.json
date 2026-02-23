@@ -1,13 +1,13 @@
 {
-  "updated": "2026-02-23T19:54:37.923Z",
+  "updated": "2026-02-23T20:38:59.537Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
     {
-      "id": "ZlTpZeVpzWI",
-      "title": "WLV vs SLZ",
-      "thumbnail": "https://i.ytimg.com/vi/ZlTpZeVpzWI/mqdefault_live.jpg",
+      "id": "KAHxN-pPdT0",
+      "title": "H.O.V.N.A. vs Fanklub Lev Praha",
+      "thumbnail": "https://i.ytimg.com/vi/KAHxN-pPdT0/mqdefault_live.jpg",
       "isLive": true,
-      "publishedAt": "2026-02-23T19:03:54Z"
+      "publishedAt": "2026-02-23T19:37:40Z"
     },
     {
       "id": "ro5JkD6tjSM",
@@ -17,11 +17,18 @@
       "publishedAt": "2026-02-23T19:30:00Z"
     },
     {
-      "id": "KAHxN-pPdT0",
-      "title": "H.O.V.N.A. vs Fanklub Lev Praha",
-      "thumbnail": "https://i.ytimg.com/vi/KAHxN-pPdT0/mqdefault_live.jpg",
-      "isLive": true,
-      "publishedAt": "2026-02-23T19:37:40Z"
+      "id": "Qu7GUpUr35M",
+      "title": "PAP vs TRZ",
+      "thumbnail": "https://i.ytimg.com/vi/Qu7GUpUr35M/mqdefault_live.jpg",
+      "isLive": false,
+      "publishedAt": "2026-02-23T20:28:05Z"
+    },
+    {
+      "id": "ZlTpZeVpzWI",
+      "title": "WLV vs SLZ",
+      "thumbnail": "https://i.ytimg.com/vi/ZlTpZeVpzWI/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-02-23T19:03:54Z"
     },
     {
       "id": "pQAuXwMzp_0",
@@ -43,13 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/BeqoXX9L3Vc/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-02-23T07:14:58Z"
-    },
-    {
-      "id": "mINH1LMqroo",
-      "title": "Domynos vs Renegades SUPER 22.02.2026",
-      "thumbnail": "https://i.ytimg.com/vi/mINH1LMqroo/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-02-23T05:57:15Z"
     }
   ]
 }
