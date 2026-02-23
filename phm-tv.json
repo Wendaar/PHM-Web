@@ -1,17 +1,17 @@
 {
-  "updated": "2026-02-23T21:39:15.075Z",
+  "updated": "2026-02-23T22:35:42.445Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
     {
       "id": "Qu7GUpUr35M",
-      "title": "PAP vs TRZ",
-      "thumbnail": "https://i.ytimg.com/vi/Qu7GUpUr35M/mqdefault_live.jpg",
-      "isLive": true,
+      "title": "Papoušci vs Traverzáci HOBBY 23.02.2026",
+      "thumbnail": "https://i.ytimg.com/vi/Qu7GUpUr35M/mqdefault.jpg",
+      "isLive": false,
       "publishedAt": "2026-02-23T20:28:05Z"
     },
     {
       "id": "KAHxN-pPdT0",
-      "title": "H.O.V.N.A. vs Fanklub Lev Praha",
+      "title": "HOVNA vs Fanklub Lev SPORT 23.02.2026",
       "thumbnail": "https://i.ytimg.com/vi/KAHxN-pPdT0/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-02-23T19:37:40Z"
@@ -25,7 +25,7 @@
     },
     {
       "id": "ZlTpZeVpzWI",
-      "title": "WLV vs SLZ",
+      "title": "Wolves vs Zbraslav SUPER 23.02.2026",
       "thumbnail": "https://i.ytimg.com/vi/ZlTpZeVpzWI/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-02-23T19:03:54Z"
