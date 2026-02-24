@@ -1,7 +1,14 @@
 {
-  "updated": "2026-02-24T09:45:35.398Z",
+  "updated": "2026-02-24T10:42:17.856Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
+    {
+      "id": "Qu7GUpUr35M",
+      "title": "Papoušci vs Traverzáci HOBBY 23.02.2026",
+      "thumbnail": "https://i.ytimg.com/vi/Qu7GUpUr35M/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-02-24T10:00:52Z"
+    },
     {
       "id": "KAHxN-pPdT0",
       "title": "HOVNA vs Fanklub Lev SPORT 23.02.2026",
@@ -22,13 +29,6 @@
       "thumbnail": "https://i.ytimg.com/vi/ZlTpZeVpzWI/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-02-24T08:34:45Z"
-    },
-    {
-      "id": "Qu7GUpUr35M",
-      "title": "Papoušci vs Traverzáci HOBBY 23.02.2026",
-      "thumbnail": "https://i.ytimg.com/vi/Qu7GUpUr35M/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-02-23T20:28:05Z"
     },
     {
       "id": "pQAuXwMzp_0",
