@@ -1,7 +1,21 @@
 {
-  "updated": "2026-02-24T18:54:45.990Z",
+  "updated": "2026-02-24T19:46:24.463Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
+    {
+      "id": "Fp719_vybCE",
+      "title": "ICE KVE Hobby 24.2.2026",
+      "thumbnail": "https://i.ytimg.com/vi/Fp719_vybCE/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2026-02-24T18:55:51Z"
+    },
+    {
+      "id": "kRb1MQLZjeU",
+      "title": "Polar Bears vs Soldiers B HOBBY 24.2.2026",
+      "thumbnail": "https://i.ytimg.com/vi/kRb1MQLZjeU/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2026-02-24T19:17:48Z"
+    },
     {
       "id": "Qu7GUpUr35M",
       "title": "Papoušci vs Traverzáci HOBBY 23.02.2026",
@@ -36,20 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/pQAuXwMzp_0/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-02-23T10:10:43Z"
-    },
-    {
-      "id": "_5tFaVR83GM",
-      "title": "Pigeons B vs Banditos KLASIK 22.02.2026",
-      "thumbnail": "https://i.ytimg.com/vi/_5tFaVR83GM/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-02-23T09:04:04Z"
-    },
-    {
-      "id": "BeqoXX9L3Vc",
-      "title": "Wolves B vs Taste KLASIK 22.02.2026",
-      "thumbnail": "https://i.ytimg.com/vi/BeqoXX9L3Vc/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-02-23T07:14:58Z"
     }
   ]
 }
