@@ -1,13 +1,13 @@
 {
-  "updated": "2026-02-26T20:30:58.953Z",
+  "updated": "2026-02-26T21:27:41.167Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
     {
-      "id": "9y5d6XEvtn8",
-      "title": "Vikings vs. Traverzáci HOBBY 26.2.2026",
-      "thumbnail": "https://i.ytimg.com/vi/9y5d6XEvtn8/mqdefault_live.jpg",
+      "id": "rV8rUEqMSGg",
+      "title": "Dragons vs. Soldiers B",
+      "thumbnail": "https://i.ytimg.com/vi/rV8rUEqMSGg/mqdefault_live.jpg",
       "isLive": true,
-      "publishedAt": "2026-02-26T19:44:34Z"
+      "publishedAt": "2026-02-26T21:03:24Z"
     },
     {
       "id": "Zttggf_EFJY",
@@ -15,6 +15,13 @@
       "thumbnail": "https://i.ytimg.com/vi/Zttggf_EFJY/mqdefault_live.jpg",
       "isLive": true,
       "publishedAt": "2026-02-26T20:27:45Z"
+    },
+    {
+      "id": "9y5d6XEvtn8",
+      "title": "Vikings vs. Traverzáci HOBBY 26.2.2026",
+      "thumbnail": "https://i.ytimg.com/vi/9y5d6XEvtn8/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-02-26T19:44:34Z"
     },
     {
       "id": "TH1qv9vTN9o",
@@ -43,13 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/_fOiKIvYv5g/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-02-26T08:36:47Z"
-    },
-    {
-      "id": "5KzO9hBvdOo",
-      "title": "Fešáci vs Fanklub Lev SPORT 25.02.2026",
-      "thumbnail": "https://i.ytimg.com/vi/5KzO9hBvdOo/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-02-26T08:30:08Z"
     }
   ]
 }
