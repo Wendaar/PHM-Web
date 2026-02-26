@@ -1,12 +1,26 @@
 {
-  "updated": "2026-02-26T19:39:55.040Z",
+  "updated": "2026-02-26T20:30:58.953Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
     {
+      "id": "9y5d6XEvtn8",
+      "title": "Vikings vs. Traverzáci HOBBY 26.2.2026",
+      "thumbnail": "https://i.ytimg.com/vi/9y5d6XEvtn8/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2026-02-26T19:44:34Z"
+    },
+    {
+      "id": "Zttggf_EFJY",
+      "title": "Fotr vs Phantoms HOBBY 26.02.2026",
+      "thumbnail": "https://i.ytimg.com/vi/Zttggf_EFJY/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2026-02-26T20:27:45Z"
+    },
+    {
       "id": "TH1qv9vTN9o",
       "title": "Stars vs Alligators KLASIK 26.02.2026",
-      "thumbnail": "https://i.ytimg.com/vi/TH1qv9vTN9o/mqdefault_live.jpg",
-      "isLive": true,
+      "thumbnail": "https://i.ytimg.com/vi/TH1qv9vTN9o/mqdefault.jpg",
+      "isLive": false,
       "publishedAt": "2026-02-26T18:57:51Z"
     },
     {
@@ -36,20 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/5KzO9hBvdOo/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-02-26T08:30:08Z"
-    },
-    {
-      "id": "uarfwF2XaZg",
-      "title": "REX vs Domynos SUPER 25.02.2026",
-      "thumbnail": "https://i.ytimg.com/vi/uarfwF2XaZg/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-02-26T08:08:00Z"
-    },
-    {
-      "id": "LRZcOtmnhBY",
-      "title": "55 Girls Hockey vs Icerink W Prague 25.02.2026",
-      "thumbnail": "https://i.ytimg.com/vi/LRZcOtmnhBY/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-02-26T00:13:36Z"
     }
   ]
 }
