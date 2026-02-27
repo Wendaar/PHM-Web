@@ -1,7 +1,28 @@
 {
-  "updated": "2026-02-27T11:53:34.444Z",
+  "updated": "2026-02-27T12:45:52.978Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
+    {
+      "id": "n6efUyRKpqw",
+      "title": "26 WEEK RECAP 02 27 SPORT",
+      "thumbnail": "https://i.ytimg.com/vi/n6efUyRKpqw/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-02-27T12:42:50Z"
+    },
+    {
+      "id": "wlHw7V3bkW4",
+      "title": "26 WEEK RECAP 02 27 KLASIK",
+      "thumbnail": "https://i.ytimg.com/vi/wlHw7V3bkW4/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-02-27T12:41:50Z"
+    },
+    {
+      "id": "QBRkBbTvBYc",
+      "title": "26 WEEK RECAP 02 27 HOBBY",
+      "thumbnail": "https://i.ytimg.com/vi/QBRkBbTvBYc/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-02-27T12:41:44Z"
+    },
     {
       "id": "rV8rUEqMSGg",
       "title": "Dragons vs Soldiers B HOBBY 26.02.2026",
@@ -29,27 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/TH1qv9vTN9o/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-02-27T08:17:40Z"
-    },
-    {
-      "id": "ETwHbV0LI-g",
-      "title": "55 Girls Hockey vs Icerink W Prague 26.02.2026",
-      "thumbnail": "https://i.ytimg.com/vi/ETwHbV0LI-g/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-02-27T01:30:29Z"
-    },
-    {
-      "id": "EMzn4chNHtE",
-      "title": "Žraloci vs Paladins HOBBY 25.02.2026",
-      "thumbnail": "https://i.ytimg.com/vi/EMzn4chNHtE/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-02-26T09:57:02Z"
-    },
-    {
-      "id": "_fOiKIvYv5g",
-      "title": "Ducks C vs MyQ HOBBY 25.02.2026",
-      "thumbnail": "https://i.ytimg.com/vi/_fOiKIvYv5g/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-02-26T08:36:47Z"
     }
   ]
 }
