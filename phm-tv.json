@@ -1,7 +1,14 @@
 {
-  "updated": "2026-02-27T12:45:52.978Z",
+  "updated": "2026-02-27T13:56:26.579Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
+    {
+      "id": "1jYTyM6xExM",
+      "title": "26 WEEK RECAP 02 27 SUPER",
+      "thumbnail": "https://i.ytimg.com/vi/1jYTyM6xExM/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-02-27T12:49:32Z"
+    },
     {
       "id": "n6efUyRKpqw",
       "title": "26 WEEK RECAP 02 27 SPORT",
@@ -43,13 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/9y5d6XEvtn8/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-02-27T09:03:47Z"
-    },
-    {
-      "id": "TH1qv9vTN9o",
-      "title": "Stars vs Alligators KLASIK 26.02.2026",
-      "thumbnail": "https://i.ytimg.com/vi/TH1qv9vTN9o/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-02-27T08:17:40Z"
     }
   ]
 }
