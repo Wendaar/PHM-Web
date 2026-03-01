@@ -1,19 +1,33 @@
 {
-  "updated": "2026-03-01T15:43:58.364Z",
+  "updated": "2026-03-01T16:21:07.256Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
     {
+      "id": "X5TcRFns11M",
+      "title": "Gladiators vs Banditos Klasik 01.03.2026",
+      "thumbnail": "https://i.ytimg.com/vi/X5TcRFns11M/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2026-03-01T16:03:50Z"
+    },
+    {
+      "id": "RD4OWqXT2dg",
+      "title": "PUK PAK PIVO vs Chiefs SUPER 1.3.2026",
+      "thumbnail": "https://i.ytimg.com/vi/RD4OWqXT2dg/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2026-03-01T16:17:20Z"
+    },
+    {
       "id": "WaR65ZTTeAQ",
       "title": "Raptors vs Wolves B Klasik 1.3.2026",
-      "thumbnail": "https://i.ytimg.com/vi/WaR65ZTTeAQ/mqdefault_live.jpg",
-      "isLive": true,
+      "thumbnail": "https://i.ytimg.com/vi/WaR65ZTTeAQ/mqdefault.jpg",
+      "isLive": false,
       "publishedAt": "2026-03-01T14:48:54Z"
     },
     {
       "id": "nmoWt1Glhjw",
       "title": "Žraloci vs Reindeers Hobby 01.03.2026",
-      "thumbnail": "https://i.ytimg.com/vi/nmoWt1Glhjw/mqdefault_live.jpg",
-      "isLive": true,
+      "thumbnail": "https://i.ytimg.com/vi/nmoWt1Glhjw/mqdefault.jpg",
+      "isLive": false,
       "publishedAt": "2026-03-01T14:32:01Z"
     },
     {
@@ -36,20 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/n6efUyRKpqw/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-02-27T12:42:50Z"
-    },
-    {
-      "id": "wlHw7V3bkW4",
-      "title": "26 WEEK RECAP 02 27 KLASIK",
-      "thumbnail": "https://i.ytimg.com/vi/wlHw7V3bkW4/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-02-27T12:41:50Z"
-    },
-    {
-      "id": "QBRkBbTvBYc",
-      "title": "26 WEEK RECAP 02 27 HOBBY",
-      "thumbnail": "https://i.ytimg.com/vi/QBRkBbTvBYc/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-02-27T12:41:44Z"
     }
   ]
 }
