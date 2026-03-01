@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-01T14:19:46.930Z",
+  "updated": "2026-03-01T14:47:24.594Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
     {
@@ -8,6 +8,13 @@
       "thumbnail": "https://i.ytimg.com/vi/EDwSWLUvzxQ/mqdefault_live.jpg",
       "isLive": true,
       "publishedAt": "2026-03-01T13:49:04Z"
+    },
+    {
+      "id": "nmoWt1Glhjw",
+      "title": "Žraloci vs Reindeers Hobby 01.03.2026",
+      "thumbnail": "https://i.ytimg.com/vi/nmoWt1Glhjw/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2026-03-01T14:32:01Z"
     },
     {
       "id": "1jYTyM6xExM",
@@ -43,13 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/rV8rUEqMSGg/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-02-27T10:30:31Z"
-    },
-    {
-      "id": "Zttggf_EFJY",
-      "title": "Fotr vs Phantoms HOBBY 26.02.2026",
-      "thumbnail": "https://i.ytimg.com/vi/Zttggf_EFJY/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-02-27T09:51:30Z"
     }
   ]
 }
