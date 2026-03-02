@@ -1,13 +1,20 @@
 {
-  "updated": "2026-03-02T19:32:57.878Z",
+  "updated": "2026-03-02T20:31:13.035Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
     {
-      "id": "p-YKkLD1rgs",
-      "title": "DSS vs HOV 2.3.2026",
-      "thumbnail": "https://i.ytimg.com/vi/p-YKkLD1rgs/mqdefault_live.jpg",
+      "id": "TASKjM7Pjxg",
+      "title": "Scarecrows vs Fotr HOBBY 02.03.2026",
+      "thumbnail": "https://i.ytimg.com/vi/TASKjM7Pjxg/mqdefault_live.jpg",
       "isLive": true,
-      "publishedAt": "2026-03-02T18:31:13Z"
+      "publishedAt": "2026-03-02T19:35:16Z"
+    },
+    {
+      "id": "WC4Q3-opN8k",
+      "title": "2.3.2026 Fanklub Lev  -  ATTL",
+      "thumbnail": "https://i.ytimg.com/vi/WC4Q3-opN8k/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2026-03-02T19:55:38Z"
     },
     {
       "id": "jAdDXittmjU",
@@ -15,6 +22,13 @@
       "thumbnail": "https://i.ytimg.com/vi/jAdDXittmjU/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-03-02T19:30:11Z"
+    },
+    {
+      "id": "p-YKkLD1rgs",
+      "title": "DSS vs HOV 2.3.2026",
+      "thumbnail": "https://i.ytimg.com/vi/p-YKkLD1rgs/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-03-02T18:31:13Z"
     },
     {
       "id": "4e1GU0kUXe4",
@@ -36,20 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/MWIL80lL-NE/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-03-02T07:40:37Z"
-    },
-    {
-      "id": "X5TcRFns11M",
-      "title": "Gladiators vs Banditos KLASIK 01.03.2026",
-      "thumbnail": "https://i.ytimg.com/vi/X5TcRFns11M/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-03-02T05:44:38Z"
-    },
-    {
-      "id": "RD4OWqXT2dg",
-      "title": "PUK PAK PIVO vs Chiefs SUPER 01.03.2026",
-      "thumbnail": "https://i.ytimg.com/vi/RD4OWqXT2dg/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-03-02T05:33:14Z"
     }
   ]
 }
