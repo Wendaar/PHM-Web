@@ -1,7 +1,14 @@
 {
-  "updated": "2026-03-02T06:50:55.358Z",
+  "updated": "2026-03-02T07:45:18.111Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
+    {
+      "id": "MWIL80lL-NE",
+      "title": "Superheroes vs Soldiers SUPER 01.03.2026",
+      "thumbnail": "https://i.ytimg.com/vi/MWIL80lL-NE/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-03-02T07:40:37Z"
+    },
     {
       "id": "X5TcRFns11M",
       "title": "Gladiators vs Banditos KLASIK 01.03.2026",
@@ -43,13 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/4e1GU0kUXe4/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-03-01T19:17:56Z"
-    },
-    {
-      "id": "MWIL80lL-NE",
-      "title": "Superheroes vs Soldiers SUPER 01.03.2026",
-      "thumbnail": "https://i.ytimg.com/vi/MWIL80lL-NE/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-03-01T17:48:03Z"
     }
   ]
 }
