@@ -1,17 +1,17 @@
 {
-  "updated": "2026-03-02T22:26:39.721Z",
+  "updated": "2026-03-02T22:54:09.824Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
     {
       "id": "rFTU1tfU_8k",
-      "title": "PDG vs TRZ",
+      "title": "Dragons vs Traverzáci HOBBY 02.03.2026",
       "thumbnail": "https://i.ytimg.com/vi/rFTU1tfU_8k/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-03-02T20:33:27Z"
     },
     {
       "id": "WC4Q3-opN8k",
-      "title": "2.3.2026 Fanklub Lev  -  ATTL",
+      "title": "Fanklub Lev vs ATTL SPORT 02.03.2026",
       "thumbnail": "https://i.ytimg.com/vi/WC4Q3-opN8k/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-03-02T19:55:38Z"
@@ -24,15 +24,8 @@
       "publishedAt": "2026-03-02T19:35:16Z"
     },
     {
-      "id": "jAdDXittmjU",
-      "title": "Scarecrows vs Fotr HOBBY 02.03.2026",
-      "thumbnail": "https://i.ytimg.com/vi/jAdDXittmjU/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-03-02T19:30:11Z"
-    },
-    {
       "id": "p-YKkLD1rgs",
-      "title": "DSS vs HOV 2.3.2026",
+      "title": "Ducks Sport vs HOVNA SPORT 02.03.2026",
       "thumbnail": "https://i.ytimg.com/vi/p-YKkLD1rgs/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-03-02T18:31:13Z"
@@ -50,6 +43,13 @@
       "thumbnail": "https://i.ytimg.com/vi/1kJuM5yoG6c/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-03-02T07:48:25Z"
+    },
+    {
+      "id": "MWIL80lL-NE",
+      "title": "Superheroes vs Soldiers SUPER 01.03.2026",
+      "thumbnail": "https://i.ytimg.com/vi/MWIL80lL-NE/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-03-02T07:40:37Z"
     }
   ]
 }
