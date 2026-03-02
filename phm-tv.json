@@ -1,7 +1,14 @@
 {
-  "updated": "2026-03-02T07:45:18.111Z",
+  "updated": "2026-03-02T08:37:51.720Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
+    {
+      "id": "1kJuM5yoG6c",
+      "title": "Taste vs Pigeons B KLASIK 01.03.2026",
+      "thumbnail": "https://i.ytimg.com/vi/1kJuM5yoG6c/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-03-02T07:48:25Z"
+    },
     {
       "id": "MWIL80lL-NE",
       "title": "Superheroes vs Soldiers SUPER 01.03.2026",
@@ -43,13 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/EDwSWLUvzxQ/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-03-02T03:27:41Z"
-    },
-    {
-      "id": "4e1GU0kUXe4",
-      "title": "Pigeons vs Cheza SPORT 01.03.2026",
-      "thumbnail": "https://i.ytimg.com/vi/4e1GU0kUXe4/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-03-01T19:17:56Z"
     }
   ]
 }
