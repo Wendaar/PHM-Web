@@ -1,12 +1,12 @@
 {
-  "updated": "2026-03-02T21:27:59.983Z",
+  "updated": "2026-03-02T21:57:09.409Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
     {
       "id": "rFTU1tfU_8k",
       "title": "PDG vs TRZ",
-      "thumbnail": "https://i.ytimg.com/vi/rFTU1tfU_8k/mqdefault_live.jpg",
-      "isLive": true,
+      "thumbnail": "https://i.ytimg.com/vi/rFTU1tfU_8k/mqdefault.jpg",
+      "isLive": false,
       "publishedAt": "2026-03-02T20:33:27Z"
     },
     {
