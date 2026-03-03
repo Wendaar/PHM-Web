@@ -1,7 +1,21 @@
 {
-  "updated": "2026-03-03T18:40:26.387Z",
+  "updated": "2026-03-03T19:35:55.088Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
+    {
+      "id": "-azq3VFYnkM",
+      "title": "Rekreanti vs Platidlo Klasik 03.03.2026",
+      "thumbnail": "https://i.ytimg.com/vi/-azq3VFYnkM/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2026-03-03T19:16:44Z"
+    },
+    {
+      "id": "HKTlCf_e1ls",
+      "title": "POB vs KVE, HOBBY0, 3. 53. 2026",
+      "thumbnail": "https://i.ytimg.com/vi/HKTlCf_e1ls/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2026-03-03T18:54:51Z"
+    },
     {
       "id": "rFTU1tfU_8k",
       "title": "Dragons vs Traverzáci HOBBY 02.03.2026",
@@ -36,20 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/4e1GU0kUXe4/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-03-02T08:39:57Z"
-    },
-    {
-      "id": "1kJuM5yoG6c",
-      "title": "Taste vs Pigeons B KLASIK 01.03.2026",
-      "thumbnail": "https://i.ytimg.com/vi/1kJuM5yoG6c/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-03-02T07:48:25Z"
-    },
-    {
-      "id": "MWIL80lL-NE",
-      "title": "Superheroes vs Soldiers SUPER 01.03.2026",
-      "thumbnail": "https://i.ytimg.com/vi/MWIL80lL-NE/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-03-02T07:40:37Z"
     }
   ]
 }
