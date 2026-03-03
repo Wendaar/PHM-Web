@@ -1,7 +1,14 @@
 {
-  "updated": "2026-03-03T07:38:26.207Z",
+  "updated": "2026-03-03T08:34:27.498Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
+    {
+      "id": "p-YKkLD1rgs",
+      "title": "Ducks Sport vs HOVNA SPORT 02.03.2026",
+      "thumbnail": "https://i.ytimg.com/vi/p-YKkLD1rgs/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-03-03T08:09:53Z"
+    },
     {
       "id": "rFTU1tfU_8k",
       "title": "Dragons vs Traverzáci HOBBY 02.03.2026",
@@ -22,13 +29,6 @@
       "thumbnail": "https://i.ytimg.com/vi/TASKjM7Pjxg/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-03-02T19:35:16Z"
-    },
-    {
-      "id": "p-YKkLD1rgs",
-      "title": "Ducks Sport vs HOVNA SPORT 02.03.2026",
-      "thumbnail": "https://i.ytimg.com/vi/p-YKkLD1rgs/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-03-02T18:31:13Z"
     },
     {
       "id": "4e1GU0kUXe4",
