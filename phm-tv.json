@@ -1,14 +1,7 @@
 {
-  "updated": "2026-03-04T19:34:15.700Z",
+  "updated": "2026-03-04T20:27:07.557Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
-    {
-      "id": "Uk-KS5oXUBg",
-      "title": "Voholto vs Fešáci Sport 04.03.2026",
-      "thumbnail": "https://i.ytimg.com/vi/Uk-KS5oXUBg/mqdefault_live.jpg",
-      "isLive": true,
-      "publishedAt": "2026-03-04T18:37:40Z"
-    },
     {
       "id": "qkL0C20vn-w",
       "title": "Papoušci vs Vikings HOBBY 04.03.2026",
@@ -24,6 +17,20 @@
       "publishedAt": "2026-03-04T16:36:58Z"
     },
     {
+      "id": "UMRO6iKYgRs",
+      "title": "Dragons vs Žraloci Hobby 04.03.2026",
+      "thumbnail": "https://i.ytimg.com/vi/UMRO6iKYgRs/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2026-03-04T20:06:02Z"
+    },
+    {
+      "id": "Uk-KS5oXUBg",
+      "title": "Voholto vs Fešáci Sport 04.03.2026",
+      "thumbnail": "https://i.ytimg.com/vi/Uk-KS5oXUBg/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-03-04T18:37:40Z"
+    },
+    {
       "id": "j6aez-wD_GI",
       "title": "Phantoms vs Reindeers HOBBY 03.03.2026",
       "thumbnail": "https://i.ytimg.com/vi/j6aez-wD_GI/mqdefault.jpg",
@@ -31,25 +38,18 @@
       "publishedAt": "2026-03-04T10:32:50Z"
     },
     {
+      "id": "_VOXhg4YRqc",
+      "title": "Ducks B vs Car-Back KLASIK 03.03.2026",
+      "thumbnail": "https://i.ytimg.com/vi/_VOXhg4YRqc/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-03-04T09:50:56Z"
+    },
+    {
       "id": "-azq3VFYnkM",
       "title": "Rekreanti vs PLATIDLO KLASIK 03.03.2026",
       "thumbnail": "https://i.ytimg.com/vi/-azq3VFYnkM/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-03-04T08:53:07Z"
-    },
-    {
-      "id": "HKTlCf_e1ls",
-      "title": "Polar Bears vs KV Elektro HOBBY 03.03.2026",
-      "thumbnail": "https://i.ytimg.com/vi/HKTlCf_e1ls/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-03-04T08:11:16Z"
-    },
-    {
-      "id": "rFTU1tfU_8k",
-      "title": "Dragons vs Traverzáci HOBBY 02.03.2026",
-      "thumbnail": "https://i.ytimg.com/vi/rFTU1tfU_8k/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-03-03T10:13:20Z"
     }
   ]
 }
