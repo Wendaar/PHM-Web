@@ -1,20 +1,27 @@
 {
-  "updated": "2026-03-05T21:28:55.549Z",
+  "updated": "2026-03-05T21:58:16.055Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
     {
-      "id": "NRDwSzJEHxI",
-      "title": "Heyoka vs Office Rats SPORT 05.03.2026",
-      "thumbnail": "https://i.ytimg.com/vi/NRDwSzJEHxI/mqdefault_live.jpg",
-      "isLive": true,
-      "publishedAt": "2026-03-05T20:28:04Z"
-    },
-    {
       "id": "iX0xyqVyjXA",
-      "title": "REX vs. Kosti SUPER 5.3.2026",
+      "title": "REX vs Kosti SUPER 05.03.2026",
       "thumbnail": "https://i.ytimg.com/vi/iX0xyqVyjXA/mqdefault_live.jpg",
       "isLive": true,
       "publishedAt": "2026-03-05T20:56:19Z"
+    },
+    {
+      "id": "NRDwSzJEHxI",
+      "title": "Heyoka vs Office Rats SPORT 05.03.2026",
+      "thumbnail": "https://i.ytimg.com/vi/NRDwSzJEHxI/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-03-05T20:28:04Z"
+    },
+    {
+      "id": "oTcSYAjIklQ",
+      "title": "SK Chemie vs Motol Pelicans FLLH 05.03.2026",
+      "thumbnail": "https://i.ytimg.com/vi/oTcSYAjIklQ/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-03-05T19:29:18Z"
     },
     {
       "id": "1dhV1fXym7c",
@@ -43,13 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/UMRO6iKYgRs/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-03-05T09:39:12Z"
-    },
-    {
-      "id": "_HvGvTzPwDw",
-      "title": "Roosters vs Renegades SUPER 04.03.2026",
-      "thumbnail": "https://i.ytimg.com/vi/_HvGvTzPwDw/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-03-05T08:38:12Z"
     }
   ]
 }
