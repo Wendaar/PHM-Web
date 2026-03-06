@@ -1,7 +1,35 @@
 {
-  "updated": "2026-03-06T14:33:31.950Z",
+  "updated": "2026-03-06T15:32:25.493Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
+    {
+      "id": "49Y-fwPbyiA",
+      "title": "26 WEEK RECAP 03 06 SUPER",
+      "thumbnail": "https://i.ytimg.com/vi/49Y-fwPbyiA/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-03-06T15:02:32Z"
+    },
+    {
+      "id": "o_QaS1EZEQU",
+      "title": "26 WEEK RECAP 03 06 HOBBY",
+      "thumbnail": "https://i.ytimg.com/vi/o_QaS1EZEQU/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-03-06T15:00:55Z"
+    },
+    {
+      "id": "8ygJzqWLVYE",
+      "title": "26 WEEK RECAP 03 06 KLASIK",
+      "thumbnail": "https://i.ytimg.com/vi/8ygJzqWLVYE/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-03-06T15:01:00Z"
+    },
+    {
+      "id": "BWEbdY2S2ww",
+      "title": "26 WEEK RECAP 03 06 SPORT",
+      "thumbnail": "https://i.ytimg.com/vi/BWEbdY2S2ww/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-03-06T15:01:06Z"
+    },
     {
       "id": "iX0xyqVyjXA",
       "title": "REX vs Kosti SUPER 05.03.2026",
@@ -22,34 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/oTcSYAjIklQ/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-03-06T09:32:47Z"
-    },
-    {
-      "id": "1dhV1fXym7c",
-      "title": "Soldiers vs Wolves SUPER 05.03.2026",
-      "thumbnail": "https://i.ytimg.com/vi/1dhV1fXym7c/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-03-06T08:29:43Z"
-    },
-    {
-      "id": "sPOddDw1RHw",
-      "title": "Spiders vs Traverzáci HOBBY 04.03.2026",
-      "thumbnail": "https://i.ytimg.com/vi/sPOddDw1RHw/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-03-05T10:01:52Z"
-    },
-    {
-      "id": "O8Ek6EHjVC4",
-      "title": "Domynos vs PUK PAK PIVO SUPER 04.03.2026",
-      "thumbnail": "https://i.ytimg.com/vi/O8Ek6EHjVC4/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-03-05T09:58:18Z"
-    },
-    {
-      "id": "UMRO6iKYgRs",
-      "title": "Dragons vs Žraloci HOBBY 04.03.2026",
-      "thumbnail": "https://i.ytimg.com/vi/UMRO6iKYgRs/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-03-05T09:39:12Z"
     }
   ]
 }
