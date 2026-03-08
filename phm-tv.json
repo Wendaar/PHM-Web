@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-08T18:26:32.006Z",
+  "updated": "2026-03-08T18:57:10.488Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
     {
@@ -10,10 +10,17 @@
       "publishedAt": "2026-03-08T17:40:02Z"
     },
     {
+      "id": "TGir6zK44ZM",
+      "title": "GAS vs WLB, KLASIK, 8.3.2026",
+      "thumbnail": "https://i.ytimg.com/vi/TGir6zK44ZM/mqdefault_live.jpg",
+      "isLive": false,
+      "publishedAt": "2026-03-08T18:51:57Z"
+    },
+    {
       "id": "jFwEei_cHWM",
       "title": "CAR vs RAP, KLASIK, 8.3.2026",
-      "thumbnail": "https://i.ytimg.com/vi/jFwEei_cHWM/mqdefault_live.jpg",
-      "isLive": true,
+      "thumbnail": "https://i.ytimg.com/vi/jFwEei_cHWM/mqdefault.jpg",
+      "isLive": false,
       "publishedAt": "2026-03-08T17:27:46Z"
     },
     {
@@ -43,13 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/IllriSydE_I/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-03-08T14:50:31Z"
-    },
-    {
-      "id": "7F4szoS_vOc",
-      "title": "Soldiers B vs Papoušci HOBBY 8.3.2026",
-      "thumbnail": "https://i.ytimg.com/vi/7F4szoS_vOc/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-03-08T14:43:29Z"
     }
   ]
 }
