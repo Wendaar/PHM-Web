@@ -1,12 +1,26 @@
 {
-  "updated": "2026-03-08T14:20:16.103Z",
+  "updated": "2026-03-08T14:48:30.034Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
     {
+      "id": "IllriSydE_I",
+      "title": "Vikings vs Ducks C Hobby 08.03.2026",
+      "thumbnail": "https://i.ytimg.com/vi/IllriSydE_I/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2026-03-08T14:40:57Z"
+    },
+    {
+      "id": "7F4szoS_vOc",
+      "title": "Soldiers B vs Papoušci HOBBY 8.3.2026",
+      "thumbnail": "https://i.ytimg.com/vi/7F4szoS_vOc/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2026-03-08T14:43:29Z"
+    },
+    {
       "id": "xn4Z9BGFFUk",
       "title": "Fanklub vs H.O.V.N.A. Sport 08.03.2026",
-      "thumbnail": "https://i.ytimg.com/vi/xn4Z9BGFFUk/mqdefault_live.jpg",
-      "isLive": true,
+      "thumbnail": "https://i.ytimg.com/vi/xn4Z9BGFFUk/mqdefault.jpg",
+      "isLive": false,
       "publishedAt": "2026-03-08T13:06:07Z"
     },
     {
@@ -36,20 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/o_QaS1EZEQU/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-03-06T15:00:55Z"
-    },
-    {
-      "id": "8ygJzqWLVYE",
-      "title": "26 WEEK RECAP 03 06 KLASIK",
-      "thumbnail": "https://i.ytimg.com/vi/8ygJzqWLVYE/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-03-06T15:01:00Z"
-    },
-    {
-      "id": "BWEbdY2S2ww",
-      "title": "26 WEEK RECAP 03 06 SPORT",
-      "thumbnail": "https://i.ytimg.com/vi/BWEbdY2S2ww/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-03-06T15:01:06Z"
     }
   ]
 }
