@@ -1,19 +1,26 @@
 {
-  "updated": "2026-03-08T15:44:14.213Z",
+  "updated": "2026-03-08T16:21:21.793Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
     {
-      "id": "7F4szoS_vOc",
-      "title": "Soldiers B vs Papoušci HOBBY 8.3.2026",
-      "thumbnail": "https://i.ytimg.com/vi/7F4szoS_vOc/mqdefault_live.jpg",
+      "id": "2b3fCidFKNg",
+      "title": "Cheza vs Rats SPORT 8.3.2026",
+      "thumbnail": "https://i.ytimg.com/vi/2b3fCidFKNg/mqdefault_live.jpg",
       "isLive": true,
-      "publishedAt": "2026-03-08T14:43:29Z"
+      "publishedAt": "2026-03-08T16:15:30Z"
+    },
+    {
+      "id": "ab4q_eRle7E",
+      "title": "SLZ vs CHI, KLASIK, 08.03.2026",
+      "thumbnail": "https://i.ytimg.com/vi/ab4q_eRle7E/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2026-03-08T16:07:54Z"
     },
     {
       "id": "cqZm0jGvbNA",
       "title": "Vikings vs Ducks C Hobby 08.03.2026",
-      "thumbnail": "https://i.ytimg.com/vi/cqZm0jGvbNA/mqdefault_live.jpg",
-      "isLive": true,
+      "thumbnail": "https://i.ytimg.com/vi/cqZm0jGvbNA/mqdefault.jpg",
+      "isLive": false,
       "publishedAt": "2026-03-08T14:53:45Z"
     },
     {
@@ -22,6 +29,13 @@
       "thumbnail": "https://i.ytimg.com/vi/IllriSydE_I/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-03-08T14:50:31Z"
+    },
+    {
+      "id": "7F4szoS_vOc",
+      "title": "Soldiers B vs Papoušci HOBBY 8.3.2026",
+      "thumbnail": "https://i.ytimg.com/vi/7F4szoS_vOc/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-03-08T14:43:29Z"
     },
     {
       "id": "xn4Z9BGFFUk",
@@ -36,20 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/XYapzUi7g0A/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-03-08T02:05:16Z"
-    },
-    {
-      "id": "Mgc3SvOtK4A",
-      "title": "Ducks B vs Alligators KLASIK 07.03.2026",
-      "thumbnail": "https://i.ytimg.com/vi/Mgc3SvOtK4A/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-03-07T23:50:34Z"
-    },
-    {
-      "id": "49Y-fwPbyiA",
-      "title": "26 WEEK RECAP 03 06 SUPER",
-      "thumbnail": "https://i.ytimg.com/vi/49Y-fwPbyiA/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-03-06T15:02:32Z"
     }
   ]
 }
