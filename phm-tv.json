@@ -1,20 +1,20 @@
 {
-  "updated": "2026-03-08T18:57:10.488Z",
+  "updated": "2026-03-08T19:23:09.568Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
-    {
-      "id": "WaA6_SvZ8Uk",
-      "title": "Taste vs Gladiators KLASIK 8.3.2026",
-      "thumbnail": "https://i.ytimg.com/vi/WaA6_SvZ8Uk/mqdefault_live.jpg",
-      "isLive": true,
-      "publishedAt": "2026-03-08T17:40:02Z"
-    },
     {
       "id": "TGir6zK44ZM",
       "title": "GAS vs WLB, KLASIK, 8.3.2026",
       "thumbnail": "https://i.ytimg.com/vi/TGir6zK44ZM/mqdefault_live.jpg",
-      "isLive": false,
+      "isLive": true,
       "publishedAt": "2026-03-08T18:51:57Z"
+    },
+    {
+      "id": "WaA6_SvZ8Uk",
+      "title": "Taste vs Gladiators KLASIK 8.3.2026",
+      "thumbnail": "https://i.ytimg.com/vi/WaA6_SvZ8Uk/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-03-08T17:40:02Z"
     },
     {
       "id": "jFwEei_cHWM",
