@@ -1,7 +1,14 @@
 {
-  "updated": "2026-03-08T12:37:29.655Z",
+  "updated": "2026-03-08T13:36:21.376Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
+    {
+      "id": "xn4Z9BGFFUk",
+      "title": "Fanklub vs H.O.V.N.A. Sport 08.03.2026",
+      "thumbnail": "https://i.ytimg.com/vi/xn4Z9BGFFUk/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2026-03-08T13:06:07Z"
+    },
     {
       "id": "XYapzUi7g0A",
       "title": "Reindeers vs MyQ HOBBY 07.03.2026",
@@ -43,13 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/BWEbdY2S2ww/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-03-06T15:01:06Z"
-    },
-    {
-      "id": "iX0xyqVyjXA",
-      "title": "REX vs Kosti SUPER 05.03.2026",
-      "thumbnail": "https://i.ytimg.com/vi/iX0xyqVyjXA/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-03-06T10:32:01Z"
     }
   ]
 }
