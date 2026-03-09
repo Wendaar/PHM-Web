@@ -1,14 +1,7 @@
 {
-  "updated": "2026-03-09T20:59:19.285Z",
+  "updated": "2026-03-09T21:38:33.255Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
-    {
-      "id": "ZSg98DxzR7g",
-      "title": "PUK PAK PIVO vs Žižkov SUPER 09.03.2026",
-      "thumbnail": "https://i.ytimg.com/vi/ZSg98DxzR7g/mqdefault_live.jpg",
-      "isLive": true,
-      "publishedAt": "2026-03-09T19:58:00Z"
-    },
     {
       "id": "PGo2IW48SEc",
       "title": "Soldiers vs Renegades SUPER 9.3.2026",
@@ -22,6 +15,13 @@
       "thumbnail": "https://i.ytimg.com/vi/o_pdOSpW1NU/mqdefault_live.jpg",
       "isLive": false,
       "publishedAt": "2026-03-09T20:43:05Z"
+    },
+    {
+      "id": "ZSg98DxzR7g",
+      "title": "PUK PAK PIVO vs Žižkov SUPER 09.03.2026",
+      "thumbnail": "https://i.ytimg.com/vi/ZSg98DxzR7g/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-03-09T19:58:00Z"
     },
     {
       "id": "oAaquwUvU_g",
