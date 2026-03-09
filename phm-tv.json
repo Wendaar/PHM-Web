@@ -1,7 +1,21 @@
 {
-  "updated": "2026-03-09T05:37:35.487Z",
+  "updated": "2026-03-09T06:55:30.108Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
+    {
+      "id": "ab4q_eRle7E",
+      "title": "Zbraslav vs Chiefs SUPER 08.03.2026",
+      "thumbnail": "https://i.ytimg.com/vi/ab4q_eRle7E/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-03-09T05:44:09Z"
+    },
+    {
+      "id": "2b3fCidFKNg",
+      "title": "Cheza vs Office Rats SPORT 08.03.2026",
+      "thumbnail": "https://i.ytimg.com/vi/2b3fCidFKNg/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-03-09T05:38:45Z"
+    },
     {
       "id": "7F4szoS_vOc",
       "title": "Soldiers B vs Papoušci HOBBY 08.03.2026",
@@ -36,20 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/WaA6_SvZ8Uk/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-03-08T17:40:02Z"
-    },
-    {
-      "id": "jFwEei_cHWM",
-      "title": "Car-Back vs Raptors KLASIK 08.03.2026",
-      "thumbnail": "https://i.ytimg.com/vi/jFwEei_cHWM/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-03-08T17:27:46Z"
-    },
-    {
-      "id": "2b3fCidFKNg",
-      "title": "Cheza vs Office Rats SPORT 08.03.2026",
-      "thumbnail": "https://i.ytimg.com/vi/2b3fCidFKNg/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-03-08T16:15:30Z"
     }
   ]
 }
