@@ -1,7 +1,14 @@
 {
-  "updated": "2026-03-09T04:12:25.549Z",
+  "updated": "2026-03-09T05:37:35.487Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
+    {
+      "id": "7F4szoS_vOc",
+      "title": "Soldiers B vs Papoušci HOBBY 08.03.2026",
+      "thumbnail": "https://i.ytimg.com/vi/7F4szoS_vOc/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-03-09T04:27:40Z"
+    },
     {
       "id": "cqZm0jGvbNA",
       "title": "Vikings vs Ducks C HOBBY 08.03.2026",
@@ -43,13 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/2b3fCidFKNg/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-03-08T16:15:30Z"
-    },
-    {
-      "id": "ab4q_eRle7E",
-      "title": "Zbraslav vs Chiefs SUPER 08.03.2026",
-      "thumbnail": "https://i.ytimg.com/vi/ab4q_eRle7E/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-03-08T16:07:54Z"
     }
   ]
 }
