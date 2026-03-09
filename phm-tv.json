@@ -1,7 +1,21 @@
 {
-  "updated": "2026-03-09T06:55:30.108Z",
+  "updated": "2026-03-09T07:47:53.047Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
+    {
+      "id": "WaA6_SvZ8Uk",
+      "title": "Taste vs Gladiators KLASIK 08.03.2026",
+      "thumbnail": "https://i.ytimg.com/vi/WaA6_SvZ8Uk/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-03-09T07:20:08Z"
+    },
+    {
+      "id": "jFwEei_cHWM",
+      "title": "Car-Back vs Raptors KLASIK 08.03.2026",
+      "thumbnail": "https://i.ytimg.com/vi/jFwEei_cHWM/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-03-09T07:08:50Z"
+    },
     {
       "id": "ab4q_eRle7E",
       "title": "Zbraslav vs Chiefs SUPER 08.03.2026",
@@ -36,20 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/xn4Z9BGFFUk/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-03-09T03:10:23Z"
-    },
-    {
-      "id": "TGir6zK44ZM",
-      "title": "Gastoni vs Wolves B KLASIK 08.03.2026",
-      "thumbnail": "https://i.ytimg.com/vi/TGir6zK44ZM/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-03-08T18:51:57Z"
-    },
-    {
-      "id": "WaA6_SvZ8Uk",
-      "title": "Taste vs Gladiators KLASIK 08.03.2026",
-      "thumbnail": "https://i.ytimg.com/vi/WaA6_SvZ8Uk/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-03-08T17:40:02Z"
     }
   ]
 }
