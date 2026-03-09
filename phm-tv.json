@@ -1,14 +1,7 @@
 {
-  "updated": "2026-03-09T19:37:00.736Z",
+  "updated": "2026-03-09T20:27:59.678Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
-    {
-      "id": "GlFqOwolsQQ",
-      "title": "Ducks Sport vs ATTL SPORT 09.03.2026",
-      "thumbnail": "https://i.ytimg.com/vi/GlFqOwolsQQ/mqdefault_live.jpg",
-      "isLive": true,
-      "publishedAt": "2026-03-09T18:25:08Z"
-    },
     {
       "id": "oAaquwUvU_g",
       "title": "ice Spiders vs Polar Bears HOBBY 8.3.2026",
@@ -17,11 +10,25 @@
       "publishedAt": "2026-03-09T19:27:31Z"
     },
     {
+      "id": "ZSg98DxzR7g",
+      "title": "PUK PAK PIVO vs Žižkov SUPER 09.03.2026",
+      "thumbnail": "https://i.ytimg.com/vi/ZSg98DxzR7g/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2026-03-09T19:58:00Z"
+    },
+    {
       "id": "6zLtzflDFFM",
       "title": "Wolves vs Berkut SUPER 9.3.2026",
       "thumbnail": "https://i.ytimg.com/vi/6zLtzflDFFM/mqdefault_live.jpg",
       "isLive": true,
       "publishedAt": "2026-03-09T19:11:33Z"
+    },
+    {
+      "id": "GlFqOwolsQQ",
+      "title": "Ducks Sport vs ATTL SPORT 09.03.2026",
+      "thumbnail": "https://i.ytimg.com/vi/GlFqOwolsQQ/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-03-09T18:25:08Z"
     },
     {
       "id": "TGir6zK44ZM",
@@ -43,13 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/jFwEei_cHWM/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-03-09T07:08:50Z"
-    },
-    {
-      "id": "ab4q_eRle7E",
-      "title": "Zbraslav vs Chiefs SUPER 08.03.2026",
-      "thumbnail": "https://i.ytimg.com/vi/ab4q_eRle7E/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-03-09T05:44:09Z"
     }
   ]
 }
