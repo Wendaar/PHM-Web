@@ -1,7 +1,21 @@
 {
-  "updated": "2026-03-09T01:45:42.130Z",
+  "updated": "2026-03-09T04:12:25.549Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
+    {
+      "id": "cqZm0jGvbNA",
+      "title": "Vikings vs Ducks C HOBBY 08.03.2026",
+      "thumbnail": "https://i.ytimg.com/vi/cqZm0jGvbNA/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-03-09T04:07:30Z"
+    },
+    {
+      "id": "xn4Z9BGFFUk",
+      "title": "Fanklub Lev vs HOVNA SPORT 08.03.2026",
+      "thumbnail": "https://i.ytimg.com/vi/xn4Z9BGFFUk/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-03-09T03:10:23Z"
+    },
     {
       "id": "TGir6zK44ZM",
       "title": "Gastoni vs Wolves B KLASIK 08.03.2026",
@@ -36,20 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/ab4q_eRle7E/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-03-08T16:07:54Z"
-    },
-    {
-      "id": "cqZm0jGvbNA",
-      "title": "Vikings vs Ducks C HOBBY 08.03.2026",
-      "thumbnail": "https://i.ytimg.com/vi/cqZm0jGvbNA/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-03-08T14:53:45Z"
-    },
-    {
-      "id": "7F4szoS_vOc",
-      "title": "Soldiers B vs Papoušci HOBBY 08.03.2026",
-      "thumbnail": "https://i.ytimg.com/vi/7F4szoS_vOc/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-03-08T14:43:29Z"
     }
   ]
 }
