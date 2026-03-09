@@ -1,7 +1,14 @@
 {
-  "updated": "2026-03-09T07:47:53.047Z",
+  "updated": "2026-03-09T08:38:01.070Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
+    {
+      "id": "TGir6zK44ZM",
+      "title": "Gastoni vs Wolves B KLASIK 08.03.2026",
+      "thumbnail": "https://i.ytimg.com/vi/TGir6zK44ZM/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-03-09T08:23:06Z"
+    },
     {
       "id": "WaA6_SvZ8Uk",
       "title": "Taste vs Gladiators KLASIK 08.03.2026",
@@ -43,13 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/cqZm0jGvbNA/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-03-09T04:07:30Z"
-    },
-    {
-      "id": "xn4Z9BGFFUk",
-      "title": "Fanklub Lev vs HOVNA SPORT 08.03.2026",
-      "thumbnail": "https://i.ytimg.com/vi/xn4Z9BGFFUk/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-03-09T03:10:23Z"
     }
   ]
 }
