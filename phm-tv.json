@@ -1,31 +1,31 @@
 {
-  "updated": "2026-03-10T21:31:26.483Z",
+  "updated": "2026-03-10T22:22:52.373Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
     {
-      "id": "1pF_vjt1cLM",
-      "title": "CHZ vs VHT",
-      "thumbnail": "https://i.ytimg.com/vi/1pF_vjt1cLM/mqdefault_live.jpg",
-      "isLive": true,
-      "publishedAt": "2026-03-10T20:21:12Z"
-    },
-    {
       "id": "v8ndDhJKXd0",
-      "title": "DOM vs CHI, SUPER 10.03.2026",
-      "thumbnail": "https://i.ytimg.com/vi/v8ndDhJKXd0/mqdefault_live.jpg",
-      "isLive": true,
+      "title": "Domynos vs Chiefs SUPER 10.03.2026",
+      "thumbnail": "https://i.ytimg.com/vi/v8ndDhJKXd0/mqdefault.jpg",
+      "isLive": false,
       "publishedAt": "2026-03-10T20:45:45Z"
     },
     {
+      "id": "1pF_vjt1cLM",
+      "title": "Cheza vs Voholto SPORT 10.03.2026",
+      "thumbnail": "https://i.ytimg.com/vi/1pF_vjt1cLM/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-03-10T20:21:12Z"
+    },
+    {
       "id": "aGwT-5-j7Tg",
-      "title": "OIR vs PPG, SPORT, 10.03.2026",
+      "title": "Office Rats vs Pigeons SPORT 10.03.2026",
       "thumbnail": "https://i.ytimg.com/vi/aGwT-5-j7Tg/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-03-10T19:18:52Z"
     },
     {
       "id": "D6DjZt2KBak",
-      "title": "KVE vs MYQ",
+      "title": "KV Elektro vs MyQ HOBBY 10.03.2026",
       "thumbnail": "https://i.ytimg.com/vi/D6DjZt2KBak/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-03-10T18:42:17Z"
