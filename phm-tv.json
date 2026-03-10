@@ -1,7 +1,21 @@
 {
-  "updated": "2026-03-10T18:40:18.798Z",
+  "updated": "2026-03-10T19:34:31.438Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
+    {
+      "id": "D6DjZt2KBak",
+      "title": "KVE vs MYQ",
+      "thumbnail": "https://i.ytimg.com/vi/D6DjZt2KBak/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2026-03-10T18:42:17Z"
+    },
+    {
+      "id": "aGwT-5-j7Tg",
+      "title": "OIR vs PPG, SPORT, 10.03.2026",
+      "thumbnail": "https://i.ytimg.com/vi/aGwT-5-j7Tg/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2026-03-10T19:18:52Z"
+    },
     {
       "id": "PGo2IW48SEc",
       "title": "Soldiers vs Renegades SUPER 09.03.2026",
@@ -36,20 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/GlFqOwolsQQ/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-03-10T08:16:44Z"
-    },
-    {
-      "id": "TGir6zK44ZM",
-      "title": "Gastoni vs Wolves B KLASIK 08.03.2026",
-      "thumbnail": "https://i.ytimg.com/vi/TGir6zK44ZM/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-03-09T08:23:06Z"
-    },
-    {
-      "id": "WaA6_SvZ8Uk",
-      "title": "Taste vs Gladiators KLASIK 08.03.2026",
-      "thumbnail": "https://i.ytimg.com/vi/WaA6_SvZ8Uk/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-03-09T07:20:08Z"
     }
   ]
 }
