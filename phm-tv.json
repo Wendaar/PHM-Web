@@ -1,20 +1,27 @@
 {
-  "updated": "2026-03-10T19:34:31.438Z",
+  "updated": "2026-03-10T20:27:48.298Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
-    {
-      "id": "D6DjZt2KBak",
-      "title": "KVE vs MYQ",
-      "thumbnail": "https://i.ytimg.com/vi/D6DjZt2KBak/mqdefault_live.jpg",
-      "isLive": true,
-      "publishedAt": "2026-03-10T18:42:17Z"
-    },
     {
       "id": "aGwT-5-j7Tg",
       "title": "OIR vs PPG, SPORT, 10.03.2026",
       "thumbnail": "https://i.ytimg.com/vi/aGwT-5-j7Tg/mqdefault_live.jpg",
       "isLive": true,
       "publishedAt": "2026-03-10T19:18:52Z"
+    },
+    {
+      "id": "1pF_vjt1cLM",
+      "title": "CHZ vs VHT",
+      "thumbnail": "https://i.ytimg.com/vi/1pF_vjt1cLM/mqdefault_live.jpg",
+      "isLive": false,
+      "publishedAt": "2026-03-10T20:21:12Z"
+    },
+    {
+      "id": "D6DjZt2KBak",
+      "title": "KVE vs MYQ",
+      "thumbnail": "https://i.ytimg.com/vi/D6DjZt2KBak/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-03-10T18:42:17Z"
     },
     {
       "id": "PGo2IW48SEc",
@@ -43,13 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/6zLtzflDFFM/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-03-10T08:41:19Z"
-    },
-    {
-      "id": "GlFqOwolsQQ",
-      "title": "Ducks Sport vs ATTL SPORT 09.03.2026",
-      "thumbnail": "https://i.ytimg.com/vi/GlFqOwolsQQ/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-03-10T08:16:44Z"
     }
   ]
 }
