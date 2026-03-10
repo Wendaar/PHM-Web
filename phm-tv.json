@@ -1,20 +1,27 @@
 {
-  "updated": "2026-03-10T20:27:48.298Z",
+  "updated": "2026-03-10T20:57:58.627Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
     {
-      "id": "aGwT-5-j7Tg",
-      "title": "OIR vs PPG, SPORT, 10.03.2026",
-      "thumbnail": "https://i.ytimg.com/vi/aGwT-5-j7Tg/mqdefault_live.jpg",
+      "id": "v8ndDhJKXd0",
+      "title": "DOM vs CHI, SUPER 10.03.2026",
+      "thumbnail": "https://i.ytimg.com/vi/v8ndDhJKXd0/mqdefault_live.jpg",
       "isLive": true,
-      "publishedAt": "2026-03-10T19:18:52Z"
+      "publishedAt": "2026-03-10T20:45:45Z"
     },
     {
       "id": "1pF_vjt1cLM",
       "title": "CHZ vs VHT",
       "thumbnail": "https://i.ytimg.com/vi/1pF_vjt1cLM/mqdefault_live.jpg",
-      "isLive": false,
+      "isLive": true,
       "publishedAt": "2026-03-10T20:21:12Z"
+    },
+    {
+      "id": "aGwT-5-j7Tg",
+      "title": "OIR vs PPG, SPORT, 10.03.2026",
+      "thumbnail": "https://i.ytimg.com/vi/aGwT-5-j7Tg/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-03-10T19:18:52Z"
     },
     {
       "id": "D6DjZt2KBak",
@@ -43,13 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/oAaquwUvU_g/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-03-10T09:06:31Z"
-    },
-    {
-      "id": "6zLtzflDFFM",
-      "title": "Wolves vs Berkut SUPER 09.03.2026",
-      "thumbnail": "https://i.ytimg.com/vi/6zLtzflDFFM/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-03-10T08:41:19Z"
     }
   ]
 }
