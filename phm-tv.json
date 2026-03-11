@@ -1,7 +1,14 @@
 {
-  "updated": "2026-03-11T18:08:04.424Z",
+  "updated": "2026-03-11T19:14:00.170Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
+    {
+      "id": "bxQnf2TprfQ",
+      "title": "Gastons vs. Gladiators KLASIK 11.3.2026",
+      "thumbnail": "https://i.ytimg.com/vi/bxQnf2TprfQ/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2026-03-11T18:41:13Z"
+    },
     {
       "id": "v8ndDhJKXd0",
       "title": "Domynos vs Chiefs SUPER 10.03.2026",
@@ -43,13 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/ZSg98DxzR7g/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-03-10T09:21:08Z"
-    },
-    {
-      "id": "oAaquwUvU_g",
-      "title": "Spiders vs Polar Bears HOBBY 09.03.2026",
-      "thumbnail": "https://i.ytimg.com/vi/oAaquwUvU_g/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-03-10T09:06:31Z"
     }
   ]
 }
