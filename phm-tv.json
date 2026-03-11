@@ -1,14 +1,7 @@
 {
-  "updated": "2026-03-11T20:30:35.651Z",
+  "updated": "2026-03-11T21:27:45.952Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
-    {
-      "id": "tkU5JHak-to",
-      "title": "Roosters vs Soldiers SUPER 11.03.2026",
-      "thumbnail": "https://i.ytimg.com/vi/tkU5JHak-to/mqdefault_live.jpg",
-      "isLive": true,
-      "publishedAt": "2026-03-11T19:19:11Z"
-    },
     {
       "id": "-bmMiRZXlPA",
       "title": "Reindeers vs. Paladins HOBBY 11.3.2026",
@@ -17,11 +10,32 @@
       "publishedAt": "2026-03-11T20:04:47Z"
     },
     {
+      "id": "6Bih8xeOh1A",
+      "title": "Dragons vs Ice Spiders HOBBY 11.03.2026",
+      "thumbnail": "https://i.ytimg.com/vi/6Bih8xeOh1A/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2026-03-11T20:50:24Z"
+    },
+    {
+      "id": "X4mrSFX_gic",
+      "title": "Banditos vs Car-Back KLASIK 11.03.2026",
+      "thumbnail": "https://i.ytimg.com/vi/X4mrSFX_gic/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2026-03-11T20:48:26Z"
+    },
+    {
       "id": "UHDwYT-S_JQ",
       "title": "Ducks C vs Phantoms HOBBY 11,03,2026",
-      "thumbnail": "https://i.ytimg.com/vi/UHDwYT-S_JQ/mqdefault_live.jpg",
-      "isLive": true,
+      "thumbnail": "https://i.ytimg.com/vi/UHDwYT-S_JQ/mqdefault.jpg",
+      "isLive": false,
       "publishedAt": "2026-03-11T19:20:36Z"
+    },
+    {
+      "id": "tkU5JHak-to",
+      "title": "Roosters vs Soldiers SUPER 11.03.2026",
+      "thumbnail": "https://i.ytimg.com/vi/tkU5JHak-to/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-03-11T19:19:11Z"
     },
     {
       "id": "bxQnf2TprfQ",
@@ -36,20 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/v8ndDhJKXd0/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-03-11T10:21:11Z"
-    },
-    {
-      "id": "1pF_vjt1cLM",
-      "title": "Cheza vs Voholto SPORT 10.03.2026",
-      "thumbnail": "https://i.ytimg.com/vi/1pF_vjt1cLM/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-03-11T09:35:50Z"
-    },
-    {
-      "id": "aGwT-5-j7Tg",
-      "title": "Office Rats vs Pigeons SPORT 10.03.2026",
-      "thumbnail": "https://i.ytimg.com/vi/aGwT-5-j7Tg/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-03-11T08:51:54Z"
     }
   ]
 }
