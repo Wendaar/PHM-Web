@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-11T19:14:00.170Z",
+  "updated": "2026-03-11T19:55:59.308Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
     {
@@ -8,6 +8,20 @@
       "thumbnail": "https://i.ytimg.com/vi/bxQnf2TprfQ/mqdefault_live.jpg",
       "isLive": true,
       "publishedAt": "2026-03-11T18:41:13Z"
+    },
+    {
+      "id": "tkU5JHak-to",
+      "title": "Roosters vs Soldiers SUPER 11.03.2026",
+      "thumbnail": "https://i.ytimg.com/vi/tkU5JHak-to/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2026-03-11T19:19:11Z"
+    },
+    {
+      "id": "UHDwYT-S_JQ",
+      "title": "Ducks C vs Phantoms HOBBY 11,03,2026",
+      "thumbnail": "https://i.ytimg.com/vi/UHDwYT-S_JQ/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2026-03-11T19:20:36Z"
     },
     {
       "id": "v8ndDhJKXd0",
@@ -36,20 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/D6DjZt2KBak/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-03-11T08:17:39Z"
-    },
-    {
-      "id": "PGo2IW48SEc",
-      "title": "Soldiers vs Renegades SUPER 09.03.2026",
-      "thumbnail": "https://i.ytimg.com/vi/PGo2IW48SEc/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-03-10T10:10:25Z"
-    },
-    {
-      "id": "ZSg98DxzR7g",
-      "title": "PUK PAK PIVO vs Žižkov SUPER 09.03.2026",
-      "thumbnail": "https://i.ytimg.com/vi/ZSg98DxzR7g/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-03-10T09:21:08Z"
     }
   ]
 }
