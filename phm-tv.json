@@ -1,14 +1,7 @@
 {
-  "updated": "2026-03-11T19:55:59.308Z",
+  "updated": "2026-03-11T20:30:35.651Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
-    {
-      "id": "bxQnf2TprfQ",
-      "title": "Gastons vs. Gladiators KLASIK 11.3.2026",
-      "thumbnail": "https://i.ytimg.com/vi/bxQnf2TprfQ/mqdefault_live.jpg",
-      "isLive": true,
-      "publishedAt": "2026-03-11T18:41:13Z"
-    },
     {
       "id": "tkU5JHak-to",
       "title": "Roosters vs Soldiers SUPER 11.03.2026",
@@ -17,11 +10,25 @@
       "publishedAt": "2026-03-11T19:19:11Z"
     },
     {
+      "id": "-bmMiRZXlPA",
+      "title": "Reindeers vs. Paladins HOBBY 11.3.2026",
+      "thumbnail": "https://i.ytimg.com/vi/-bmMiRZXlPA/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2026-03-11T20:04:47Z"
+    },
+    {
       "id": "UHDwYT-S_JQ",
       "title": "Ducks C vs Phantoms HOBBY 11,03,2026",
       "thumbnail": "https://i.ytimg.com/vi/UHDwYT-S_JQ/mqdefault_live.jpg",
       "isLive": true,
       "publishedAt": "2026-03-11T19:20:36Z"
+    },
+    {
+      "id": "bxQnf2TprfQ",
+      "title": "Gastons vs. Gladiators KLASIK 11.3.2026",
+      "thumbnail": "https://i.ytimg.com/vi/bxQnf2TprfQ/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-03-11T18:41:13Z"
     },
     {
       "id": "v8ndDhJKXd0",
@@ -43,13 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/aGwT-5-j7Tg/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-03-11T08:51:54Z"
-    },
-    {
-      "id": "D6DjZt2KBak",
-      "title": "KV Elektro vs MyQ HOBBY 10.03.2026",
-      "thumbnail": "https://i.ytimg.com/vi/D6DjZt2KBak/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-03-11T08:17:39Z"
     }
   ]
 }
