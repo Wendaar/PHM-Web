@@ -1,14 +1,7 @@
 {
-  "updated": "2026-03-11T21:27:45.952Z",
+  "updated": "2026-03-11T21:55:19.546Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
-    {
-      "id": "-bmMiRZXlPA",
-      "title": "Reindeers vs. Paladins HOBBY 11.3.2026",
-      "thumbnail": "https://i.ytimg.com/vi/-bmMiRZXlPA/mqdefault_live.jpg",
-      "isLive": true,
-      "publishedAt": "2026-03-11T20:04:47Z"
-    },
     {
       "id": "6Bih8xeOh1A",
       "title": "Dragons vs Ice Spiders HOBBY 11.03.2026",
@@ -22,6 +15,13 @@
       "thumbnail": "https://i.ytimg.com/vi/X4mrSFX_gic/mqdefault_live.jpg",
       "isLive": true,
       "publishedAt": "2026-03-11T20:48:26Z"
+    },
+    {
+      "id": "-bmMiRZXlPA",
+      "title": "Reindeers vs. Paladins HOBBY 11.3.2026",
+      "thumbnail": "https://i.ytimg.com/vi/-bmMiRZXlPA/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-03-11T20:04:47Z"
     },
     {
       "id": "UHDwYT-S_JQ",
