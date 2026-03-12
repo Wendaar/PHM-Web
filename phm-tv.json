@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-12T21:27:38.836Z",
+  "updated": "2026-03-12T21:55:13.058Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
     {
@@ -12,8 +12,8 @@
     {
       "id": "_BxOyTJghfg",
       "title": "POB vs FOT",
-      "thumbnail": "https://i.ytimg.com/vi/_BxOyTJghfg/mqdefault_live.jpg",
-      "isLive": true,
+      "thumbnail": "https://i.ytimg.com/vi/_BxOyTJghfg/mqdefault.jpg",
+      "isLive": false,
       "publishedAt": "2026-03-12T20:20:50Z"
     },
     {
