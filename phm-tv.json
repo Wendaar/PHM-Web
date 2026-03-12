@@ -1,14 +1,7 @@
 {
-  "updated": "2026-03-12T19:56:55.264Z",
+  "updated": "2026-03-12T20:35:01.847Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
-    {
-      "id": "_ux3uzW3gQQ",
-      "title": "Cheza vs Fešáci",
-      "thumbnail": "https://i.ytimg.com/vi/_ux3uzW3gQQ/mqdefault_live.jpg",
-      "isLive": true,
-      "publishedAt": "2026-03-12T19:16:08Z"
-    },
     {
       "id": "G0SZGvu4oI4",
       "title": "Trimed  Justice 12.3.2026",
@@ -17,10 +10,24 @@
       "publishedAt": "2026-03-12T19:38:33Z"
     },
     {
+      "id": "_ux3uzW3gQQ",
+      "title": "Cheza vs Fešáci",
+      "thumbnail": "https://i.ytimg.com/vi/_ux3uzW3gQQ/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2026-03-12T19:16:08Z"
+    },
+    {
+      "id": "_BxOyTJghfg",
+      "title": "POB vs FOT",
+      "thumbnail": "https://i.ytimg.com/vi/_BxOyTJghfg/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2026-03-12T20:20:50Z"
+    },
+    {
       "id": "p1VjRh-MFjQ",
       "title": "HEY vs HOV",
-      "thumbnail": "https://i.ytimg.com/vi/p1VjRh-MFjQ/mqdefault_live.jpg",
-      "isLive": true,
+      "thumbnail": "https://i.ytimg.com/vi/p1VjRh-MFjQ/mqdefault.jpg",
+      "isLive": false,
       "publishedAt": "2026-03-12T19:02:35Z"
     },
     {
@@ -43,13 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/X4mrSFX_gic/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-03-12T10:05:43Z"
-    },
-    {
-      "id": "6Bih8xeOh1A",
-      "title": "Dragons vs Spiders HOBBY 11.03.2026",
-      "thumbnail": "https://i.ytimg.com/vi/6Bih8xeOh1A/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-03-12T09:58:09Z"
     }
   ]
 }
