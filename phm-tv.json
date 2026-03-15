@@ -1,19 +1,26 @@
 {
-  "updated": "2026-03-15T18:31:38.739Z",
+  "updated": "2026-03-15T19:23:57.862Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
     {
+      "id": "Wyy57R2hZlU",
+      "title": "Pigeons B vs Platidlo Klasik 15.03.2026",
+      "thumbnail": "https://i.ytimg.com/vi/Wyy57R2hZlU/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2026-03-15T19:04:27Z"
+    },
+    {
       "id": "zEWqYJf68hE",
       "title": "Superheroes vs Rex Super 15.03.2026",
-      "thumbnail": "https://i.ytimg.com/vi/zEWqYJf68hE/mqdefault_live.jpg",
-      "isLive": true,
+      "thumbnail": "https://i.ytimg.com/vi/zEWqYJf68hE/mqdefault.jpg",
+      "isLive": false,
       "publishedAt": "2026-03-15T17:34:16Z"
     },
     {
       "id": "KdKk274iU6g",
       "title": "REK  vs TAS, KLASIK, 15.3.2026",
-      "thumbnail": "https://i.ytimg.com/vi/KdKk274iU6g/mqdefault_live.jpg",
-      "isLive": true,
+      "thumbnail": "https://i.ytimg.com/vi/KdKk274iU6g/mqdefault.jpg",
+      "isLive": false,
       "publishedAt": "2026-03-15T17:33:05Z"
     },
     {
@@ -43,13 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/NSAcb3qqN5Y/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-03-15T14:24:45Z"
-    },
-    {
-      "id": "Km_Oyrv935I",
-      "title": "26 03 11 Banditos vs Car-Back",
-      "thumbnail": "https://i.ytimg.com/vi/Km_Oyrv935I/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-03-14T12:58:27Z"
     }
   ]
 }
