@@ -1,19 +1,33 @@
 {
-  "updated": "2026-03-15T15:50:58.809Z",
+  "updated": "2026-03-15T16:26:01.351Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
     {
+      "id": "uKyXkcr6fs8",
+      "title": "Strašáci vs Papoušci Hobby 15.03.2026",
+      "thumbnail": "https://i.ytimg.com/vi/uKyXkcr6fs8/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2026-03-15T16:09:28Z"
+    },
+    {
+      "id": "p1Cc9f7Awcg",
+      "title": "VHL vs ATT, 15.3.2026, SPORT",
+      "thumbnail": "https://i.ytimg.com/vi/p1Cc9f7Awcg/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2026-03-15T15:59:46Z"
+    },
+    {
       "id": "FCJcoxgb3kg",
       "title": "KBB vs TRZ, 15.3.2026, HOBBY",
-      "thumbnail": "https://i.ytimg.com/vi/FCJcoxgb3kg/mqdefault_live.jpg",
-      "isLive": true,
+      "thumbnail": "https://i.ytimg.com/vi/FCJcoxgb3kg/mqdefault.jpg",
+      "isLive": false,
       "publishedAt": "2026-03-15T14:43:28Z"
     },
     {
       "id": "NSAcb3qqN5Y",
       "title": "Vikings vs Žraloci Hobby 15.03.2026",
-      "thumbnail": "https://i.ytimg.com/vi/NSAcb3qqN5Y/mqdefault_live.jpg",
-      "isLive": true,
+      "thumbnail": "https://i.ytimg.com/vi/NSAcb3qqN5Y/mqdefault.jpg",
+      "isLive": false,
       "publishedAt": "2026-03-15T14:24:45Z"
     },
     {
@@ -36,20 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/LQvkhKSH83c/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-03-13T20:15:40Z"
-    },
-    {
-      "id": "fNzCv5HAud8",
-      "title": "26 03 01 Raptors vs Wolves B",
-      "thumbnail": "https://i.ytimg.com/vi/fNzCv5HAud8/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-03-13T20:15:33Z"
-    },
-    {
-      "id": "b7LltGmyjlw",
-      "title": "26 03 01 Pigeons vs Cheza",
-      "thumbnail": "https://i.ytimg.com/vi/b7LltGmyjlw/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-03-13T20:15:35Z"
     }
   ]
 }
