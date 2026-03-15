@@ -1,20 +1,34 @@
 {
-  "updated": "2026-03-15T17:24:20.587Z",
+  "updated": "2026-03-15T17:52:38.122Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
     {
-      "id": "p1Cc9f7Awcg",
-      "title": "VHL vs ATT, 15.3.2026, SPORT",
-      "thumbnail": "https://i.ytimg.com/vi/p1Cc9f7Awcg/mqdefault_live.jpg",
+      "id": "KdKk274iU6g",
+      "title": "REK  vs TAS, KLASIK, 15.3.2026",
+      "thumbnail": "https://i.ytimg.com/vi/KdKk274iU6g/mqdefault_live.jpg",
       "isLive": true,
-      "publishedAt": "2026-03-15T15:59:46Z"
+      "publishedAt": "2026-03-15T17:33:05Z"
+    },
+    {
+      "id": "zEWqYJf68hE",
+      "title": "Superheroes vs Rex Super 15.03.2026",
+      "thumbnail": "https://i.ytimg.com/vi/zEWqYJf68hE/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2026-03-15T17:34:16Z"
     },
     {
       "id": "uKyXkcr6fs8",
       "title": "Strašáci vs Papoušci Hobby 15.03.2026",
-      "thumbnail": "https://i.ytimg.com/vi/uKyXkcr6fs8/mqdefault_live.jpg",
-      "isLive": true,
+      "thumbnail": "https://i.ytimg.com/vi/uKyXkcr6fs8/mqdefault.jpg",
+      "isLive": false,
       "publishedAt": "2026-03-15T16:09:28Z"
+    },
+    {
+      "id": "p1Cc9f7Awcg",
+      "title": "VHL vs ATT, 15.3.2026, SPORT",
+      "thumbnail": "https://i.ytimg.com/vi/p1Cc9f7Awcg/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-03-15T15:59:46Z"
     },
     {
       "id": "FCJcoxgb3kg",
@@ -36,20 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/Km_Oyrv935I/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-03-14T12:58:27Z"
-    },
-    {
-      "id": "14vZFWyWWUc",
-      "title": "26 03 11 Roosters vs Soldiers",
-      "thumbnail": "https://i.ytimg.com/vi/14vZFWyWWUc/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-03-14T12:57:08Z"
-    },
-    {
-      "id": "LQvkhKSH83c",
-      "title": "26 03 01 PUK PAK PIVO vs Chiefs",
-      "thumbnail": "https://i.ytimg.com/vi/LQvkhKSH83c/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-03-13T20:15:40Z"
     }
   ]
 }
