@@ -1,7 +1,21 @@
 {
-  "updated": "2026-03-16T17:55:36.261Z",
+  "updated": "2026-03-16T18:56:15.050Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
+    {
+      "id": "ZGUH9bYw-dQ",
+      "title": "DSS vs OIR 16.3.2026",
+      "thumbnail": "https://i.ytimg.com/vi/ZGUH9bYw-dQ/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2026-03-16T18:35:50Z"
+    },
+    {
+      "id": "nV2RHAx3Pa0",
+      "title": "Wolves vs Domynos, SUPER, 16.3.2026",
+      "thumbnail": "https://i.ytimg.com/vi/nV2RHAx3Pa0/mqdefault_live.jpg",
+      "isLive": false,
+      "publishedAt": "2026-03-16T18:53:28Z"
+    },
     {
       "id": "Wyy57R2hZlU",
       "title": "Pigeons B vs PLATIDLO KLASIK 15.03.2026",
@@ -36,20 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/uKyXkcr6fs8/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-03-16T05:36:00Z"
-    },
-    {
-      "id": "FCJcoxgb3kg",
-      "title": "Soldiers B vs Traverzáci HOBBY 15.03.2026",
-      "thumbnail": "https://i.ytimg.com/vi/FCJcoxgb3kg/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-03-16T04:33:07Z"
-    },
-    {
-      "id": "NSAcb3qqN5Y",
-      "title": "Vikings vs Žraloci HOBBY 15.03.2026",
-      "thumbnail": "https://i.ytimg.com/vi/NSAcb3qqN5Y/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-03-16T04:18:25Z"
     }
   ]
 }
