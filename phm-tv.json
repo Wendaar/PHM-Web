@@ -1,20 +1,13 @@
 {
-  "updated": "2026-03-16T20:32:35.508Z",
+  "updated": "2026-03-16T21:33:33.418Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
     {
-      "id": "mju4PzWKApQ",
-      "title": "LEV vs CHZ 16.3.2025",
-      "thumbnail": "https://i.ytimg.com/vi/mju4PzWKApQ/mqdefault_live.jpg",
+      "id": "LG5WSchtZUI",
+      "title": "Paladins vs Spiders HOBBY 16.03.2026",
+      "thumbnail": "https://i.ytimg.com/vi/LG5WSchtZUI/mqdefault_live.jpg",
       "isLive": true,
-      "publishedAt": "2026-03-16T19:55:28Z"
-    },
-    {
-      "id": "nV2RHAx3Pa0",
-      "title": "Wolves vs Domynos, SUPER, 16.3.2026",
-      "thumbnail": "https://i.ytimg.com/vi/nV2RHAx3Pa0/mqdefault_live.jpg",
-      "isLive": true,
-      "publishedAt": "2026-03-16T18:53:28Z"
+      "publishedAt": "2026-03-16T20:44:55Z"
     },
     {
       "id": "9VmpUr4h7l4",
@@ -24,11 +17,25 @@
       "publishedAt": "2026-03-16T20:29:24Z"
     },
     {
+      "id": "mju4PzWKApQ",
+      "title": "LEV vs CHZ 16.3.2025",
+      "thumbnail": "https://i.ytimg.com/vi/mju4PzWKApQ/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-03-16T19:55:28Z"
+    },
+    {
       "id": "Suq0MRWjybw",
       "title": "Polar Bears vs Reindeers HOBBY 16.03.2026",
       "thumbnail": "https://i.ytimg.com/vi/Suq0MRWjybw/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-03-16T19:55:26Z"
+    },
+    {
+      "id": "nV2RHAx3Pa0",
+      "title": "Wolves vs Domynos, SUPER, 16.3.2026",
+      "thumbnail": "https://i.ytimg.com/vi/nV2RHAx3Pa0/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-03-16T18:53:28Z"
     },
     {
       "id": "ZGUH9bYw-dQ",
@@ -43,13 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/Wyy57R2hZlU/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-03-16T08:54:34Z"
-    },
-    {
-      "id": "zEWqYJf68hE",
-      "title": "Superheroes vs REX SUPER 15.03.2026",
-      "thumbnail": "https://i.ytimg.com/vi/zEWqYJf68hE/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-03-16T07:12:40Z"
     }
   ]
 }
