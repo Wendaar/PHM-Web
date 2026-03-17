@@ -1,7 +1,21 @@
 {
-  "updated": "2026-03-17T18:10:47.423Z",
+  "updated": "2026-03-17T19:33:01.481Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
+    {
+      "id": "txjGo85-dgM",
+      "title": "PLA vs CAR - KLASIK, 17.3.2026",
+      "thumbnail": "https://i.ytimg.com/vi/txjGo85-dgM/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2026-03-17T19:31:30Z"
+    },
+    {
+      "id": "L-Z1gzc_4Is",
+      "title": "KV Elektro vs Žraloci HOBBY 17.03.2026",
+      "thumbnail": "https://i.ytimg.com/vi/L-Z1gzc_4Is/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2026-03-17T18:56:39Z"
+    },
     {
       "id": "mju4PzWKApQ",
       "title": "Fanklub Lev vs Cheza SPORT 16.03.2026",
@@ -36,20 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/9VmpUr4h7l4/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-03-16T20:29:24Z"
-    },
-    {
-      "id": "Suq0MRWjybw",
-      "title": "Polar Bears vs Reindeers HOBBY 16.03.2026",
-      "thumbnail": "https://i.ytimg.com/vi/Suq0MRWjybw/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-03-16T19:55:26Z"
-    },
-    {
-      "id": "Wyy57R2hZlU",
-      "title": "Pigeons B vs PLATIDLO KLASIK 15.03.2026",
-      "thumbnail": "https://i.ytimg.com/vi/Wyy57R2hZlU/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-03-16T08:54:34Z"
     }
   ]
 }
