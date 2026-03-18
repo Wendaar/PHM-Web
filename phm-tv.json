@@ -1,7 +1,14 @@
 {
-  "updated": "2026-03-18T19:50:54.563Z",
+  "updated": "2026-03-18T20:30:10.060Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
+    {
+      "id": "EQH5o6wTIyY",
+      "title": "MYQ vs DKC 18.3.2026",
+      "thumbnail": "https://i.ytimg.com/vi/EQH5o6wTIyY/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2026-03-18T20:16:05Z"
+    },
     {
       "id": "yeiwIl46etk",
       "title": "PDG vs SCR, 18.03.2026, HOBBY",
@@ -10,18 +17,18 @@
       "publishedAt": "2026-03-18T19:23:02Z"
     },
     {
-      "id": "Cb7Z7ZyxNL4",
-      "title": "SKŽ vs KOS 18.3.2026",
-      "thumbnail": "https://i.ytimg.com/vi/Cb7Z7ZyxNL4/mqdefault_live.jpg",
-      "isLive": true,
-      "publishedAt": "2026-03-18T18:48:56Z"
-    },
-    {
       "id": "BXzsThKGhC4",
       "title": "RST vs REX 18.3.2026 SUPER",
       "thumbnail": "https://i.ytimg.com/vi/BXzsThKGhC4/mqdefault_live.jpg",
       "isLive": true,
       "publishedAt": "2026-03-18T19:18:19Z"
+    },
+    {
+      "id": "Cb7Z7ZyxNL4",
+      "title": "SKŽ vs KOS 18.3.2026",
+      "thumbnail": "https://i.ytimg.com/vi/Cb7Z7ZyxNL4/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-03-18T18:48:56Z"
     },
     {
       "id": "BgTkFmMghnM",
@@ -43,13 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/L-Z1gzc_4Is/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-03-18T08:34:46Z"
-    },
-    {
-      "id": "mju4PzWKApQ",
-      "title": "Fanklub Lev vs Cheza SPORT 16.03.2026",
-      "thumbnail": "https://i.ytimg.com/vi/mju4PzWKApQ/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-03-17T09:25:45Z"
     }
   ]
 }
