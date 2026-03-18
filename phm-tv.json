@@ -1,7 +1,14 @@
 {
-  "updated": "2026-03-18T20:30:10.060Z",
+  "updated": "2026-03-18T21:05:31.501Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
+    {
+      "id": "YxxAdReeFCs",
+      "title": "RND vs TRZ, HOBBY, 18.03.2026",
+      "thumbnail": "https://i.ytimg.com/vi/YxxAdReeFCs/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2026-03-18T20:30:34Z"
+    },
     {
       "id": "EQH5o6wTIyY",
       "title": "MYQ vs DKC 18.3.2026",
@@ -10,17 +17,24 @@
       "publishedAt": "2026-03-18T20:16:05Z"
     },
     {
+      "id": "E_bsclxuZYc",
+      "title": "RENEGADES  vs BERKUT 18.03.2026 SUPER",
+      "thumbnail": "https://i.ytimg.com/vi/E_bsclxuZYc/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2026-03-18T20:45:01Z"
+    },
+    {
       "id": "yeiwIl46etk",
       "title": "PDG vs SCR, 18.03.2026, HOBBY",
-      "thumbnail": "https://i.ytimg.com/vi/yeiwIl46etk/mqdefault_live.jpg",
-      "isLive": true,
+      "thumbnail": "https://i.ytimg.com/vi/yeiwIl46etk/mqdefault.jpg",
+      "isLive": false,
       "publishedAt": "2026-03-18T19:23:02Z"
     },
     {
       "id": "BXzsThKGhC4",
       "title": "RST vs REX 18.3.2026 SUPER",
-      "thumbnail": "https://i.ytimg.com/vi/BXzsThKGhC4/mqdefault_live.jpg",
-      "isLive": true,
+      "thumbnail": "https://i.ytimg.com/vi/BXzsThKGhC4/mqdefault.jpg",
+      "isLive": false,
       "publishedAt": "2026-03-18T19:18:19Z"
     },
     {
@@ -36,20 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/BgTkFmMghnM/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-03-18T10:03:32Z"
-    },
-    {
-      "id": "txjGo85-dgM",
-      "title": "PLATIDLO vs Car-Back KLASIK 17.03.2026",
-      "thumbnail": "https://i.ytimg.com/vi/txjGo85-dgM/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-03-18T08:48:29Z"
-    },
-    {
-      "id": "L-Z1gzc_4Is",
-      "title": "KV Elektro vs Žraloci HOBBY 17.03.2026",
-      "thumbnail": "https://i.ytimg.com/vi/L-Z1gzc_4Is/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-03-18T08:34:46Z"
     }
   ]
 }
