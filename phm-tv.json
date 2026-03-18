@@ -1,27 +1,27 @@
 {
-  "updated": "2026-03-18T21:05:31.501Z",
+  "updated": "2026-03-18T21:57:02.984Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
-    {
-      "id": "YxxAdReeFCs",
-      "title": "RND vs TRZ, HOBBY, 18.03.2026",
-      "thumbnail": "https://i.ytimg.com/vi/YxxAdReeFCs/mqdefault_live.jpg",
-      "isLive": true,
-      "publishedAt": "2026-03-18T20:30:34Z"
-    },
-    {
-      "id": "EQH5o6wTIyY",
-      "title": "MYQ vs DKC 18.3.2026",
-      "thumbnail": "https://i.ytimg.com/vi/EQH5o6wTIyY/mqdefault_live.jpg",
-      "isLive": true,
-      "publishedAt": "2026-03-18T20:16:05Z"
-    },
     {
       "id": "E_bsclxuZYc",
       "title": "RENEGADES  vs BERKUT 18.03.2026 SUPER",
       "thumbnail": "https://i.ytimg.com/vi/E_bsclxuZYc/mqdefault_live.jpg",
       "isLive": true,
       "publishedAt": "2026-03-18T20:45:01Z"
+    },
+    {
+      "id": "YxxAdReeFCs",
+      "title": "RND vs TRZ, HOBBY, 18.03.2026",
+      "thumbnail": "https://i.ytimg.com/vi/YxxAdReeFCs/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-03-18T20:30:34Z"
+    },
+    {
+      "id": "EQH5o6wTIyY",
+      "title": "MYQ vs DKC 18.3.2026",
+      "thumbnail": "https://i.ytimg.com/vi/EQH5o6wTIyY/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-03-18T20:16:05Z"
     },
     {
       "id": "yeiwIl46etk",
