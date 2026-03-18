@@ -1,13 +1,27 @@
 {
-  "updated": "2026-03-18T18:58:38.194Z",
+  "updated": "2026-03-18T19:50:54.563Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
+    {
+      "id": "yeiwIl46etk",
+      "title": "PDG vs SCR, 18.03.2026, HOBBY",
+      "thumbnail": "https://i.ytimg.com/vi/yeiwIl46etk/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2026-03-18T19:23:02Z"
+    },
     {
       "id": "Cb7Z7ZyxNL4",
       "title": "SKŽ vs KOS 18.3.2026",
       "thumbnail": "https://i.ytimg.com/vi/Cb7Z7ZyxNL4/mqdefault_live.jpg",
       "isLive": true,
       "publishedAt": "2026-03-18T18:48:56Z"
+    },
+    {
+      "id": "BXzsThKGhC4",
+      "title": "RST vs REX 18.3.2026 SUPER",
+      "thumbnail": "https://i.ytimg.com/vi/BXzsThKGhC4/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2026-03-18T19:18:19Z"
     },
     {
       "id": "BgTkFmMghnM",
@@ -36,20 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/mju4PzWKApQ/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-03-17T09:25:45Z"
-    },
-    {
-      "id": "nV2RHAx3Pa0",
-      "title": "Domynos vs Wolves SUPER 16.03.2026",
-      "thumbnail": "https://i.ytimg.com/vi/nV2RHAx3Pa0/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-03-17T08:50:42Z"
-    },
-    {
-      "id": "ZGUH9bYw-dQ",
-      "title": "Ducks Sport vs Office Rats SPORT 16.03.2026",
-      "thumbnail": "https://i.ytimg.com/vi/ZGUH9bYw-dQ/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-03-17T08:07:13Z"
     }
   ]
 }
