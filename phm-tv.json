@@ -1,20 +1,27 @@
 {
-  "updated": "2026-03-19T20:31:13.613Z",
+  "updated": "2026-03-19T21:30:06.205Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
-    {
-      "id": "JVi9G2_WQk0",
-      "title": "Rekreanti vs. Pigeons B KLASIK 19.03.2026",
-      "thumbnail": "https://i.ytimg.com/vi/JVi9G2_WQk0/mqdefault_live.jpg",
-      "isLive": true,
-      "publishedAt": "2026-03-19T19:35:16Z"
-    },
     {
       "id": "W2qEz4J-TJE",
       "title": "Alligators vs Raptors KLASIK 19.03.2026",
       "thumbnail": "https://i.ytimg.com/vi/W2qEz4J-TJE/mqdefault_live.jpg",
       "isLive": true,
       "publishedAt": "2026-03-19T20:29:03Z"
+    },
+    {
+      "id": "OBg9nJjQI9E",
+      "title": "Heyoka vs. Cheza SPORT 19.3.2026",
+      "thumbnail": "https://i.ytimg.com/vi/OBg9nJjQI9E/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2026-03-19T21:00:37Z"
+    },
+    {
+      "id": "JVi9G2_WQk0",
+      "title": "Rekreanti vs. Pigeons B KLASIK 19.03.2026",
+      "thumbnail": "https://i.ytimg.com/vi/JVi9G2_WQk0/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-03-19T19:35:16Z"
     },
     {
       "id": "RnKTj6dRewI",
@@ -43,13 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/EQH5o6wTIyY/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-03-19T09:47:23Z"
-    },
-    {
-      "id": "Cb7Z7ZyxNL4",
-      "title": "Žižkov vs Kosti SUPER 18.03.2026",
-      "thumbnail": "https://i.ytimg.com/vi/Cb7Z7ZyxNL4/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-03-19T08:41:59Z"
     }
   ]
 }
