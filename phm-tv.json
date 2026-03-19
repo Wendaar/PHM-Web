@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-19T19:42:40.853Z",
+  "updated": "2026-03-19T20:31:13.613Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
     {
@@ -10,10 +10,17 @@
       "publishedAt": "2026-03-19T19:35:16Z"
     },
     {
+      "id": "W2qEz4J-TJE",
+      "title": "Alligators vs Raptors KLASIK 19.03.2026",
+      "thumbnail": "https://i.ytimg.com/vi/W2qEz4J-TJE/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2026-03-19T20:29:03Z"
+    },
+    {
       "id": "RnKTj6dRewI",
       "title": "Stars vs Wolves B KLASIK 19.03.2026",
-      "thumbnail": "https://i.ytimg.com/vi/RnKTj6dRewI/mqdefault_live.jpg",
-      "isLive": true,
+      "thumbnail": "https://i.ytimg.com/vi/RnKTj6dRewI/mqdefault.jpg",
+      "isLive": false,
       "publishedAt": "2026-03-19T19:01:33Z"
     },
     {
@@ -43,13 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/Cb7Z7ZyxNL4/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-03-19T08:41:59Z"
-    },
-    {
-      "id": "yeiwIl46etk",
-      "title": "Dragons vs Scarecrows HOBBY 18.03.2026",
-      "thumbnail": "https://i.ytimg.com/vi/yeiwIl46etk/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-03-19T08:42:18Z"
     }
   ]
 }
