@@ -1,7 +1,14 @@
 {
-  "updated": "2026-03-20T07:41:54.802Z",
+  "updated": "2026-03-20T08:34:33.321Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
+    {
+      "id": "RnKTj6dRewI",
+      "title": "Stars vs Wolves B KLASIK 19.03.2026",
+      "thumbnail": "https://i.ytimg.com/vi/RnKTj6dRewI/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-03-20T08:24:47Z"
+    },
     {
       "id": "OBg9nJjQI9E",
       "title": "Heyoka vs Cheza SPORT 19.03.2026",
@@ -22,13 +29,6 @@
       "thumbnail": "https://i.ytimg.com/vi/JVi9G2_WQk0/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-03-19T19:35:16Z"
-    },
-    {
-      "id": "RnKTj6dRewI",
-      "title": "Stars vs Wolves B KLASIK 19.03.2026",
-      "thumbnail": "https://i.ytimg.com/vi/RnKTj6dRewI/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-03-19T19:01:33Z"
     },
     {
       "id": "YxxAdReeFCs",
