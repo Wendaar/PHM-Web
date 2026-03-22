@@ -1,19 +1,40 @@
 {
-  "updated": "2026-03-22T15:46:52.906Z",
+  "updated": "2026-03-22T16:23:42.112Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
     {
+      "id": "1_GbJpEegFE",
+      "title": "22.03.2026",
+      "thumbnail": "https://i.ytimg.com/vi/1_GbJpEegFE/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2026-03-22T16:11:36Z"
+    },
+    {
+      "id": "Q7YxIxf3xv0",
+      "title": "PAL vs VIK, 22.3.2026 - HOBBY",
+      "thumbnail": "https://i.ytimg.com/vi/Q7YxIxf3xv0/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2026-03-22T16:16:37Z"
+    },
+    {
+      "id": "pDuqRtueZHY",
+      "title": "20.03.2026 KBB vs RND",
+      "thumbnail": "https://i.ytimg.com/vi/pDuqRtueZHY/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-03-22T16:15:53Z"
+    },
+    {
       "id": "JFy_LSWvl-o",
       "title": "22.03.2026 CHI vs SLZ",
-      "thumbnail": "https://i.ytimg.com/vi/JFy_LSWvl-o/mqdefault_live.jpg",
-      "isLive": true,
+      "thumbnail": "https://i.ytimg.com/vi/JFy_LSWvl-o/mqdefault.jpg",
+      "isLive": false,
       "publishedAt": "2026-03-22T14:53:35Z"
     },
     {
       "id": "ZXyqowqtSwQ",
       "title": "PAP vs POB, HOBBY, 22. 3. 2026",
-      "thumbnail": "https://i.ytimg.com/vi/ZXyqowqtSwQ/mqdefault_live.jpg",
-      "isLive": true,
+      "thumbnail": "https://i.ytimg.com/vi/ZXyqowqtSwQ/mqdefault.jpg",
+      "isLive": false,
       "publishedAt": "2026-03-22T14:31:21Z"
     },
     {
@@ -29,27 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/OBg9nJjQI9E/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-03-20T10:17:28Z"
-    },
-    {
-      "id": "W2qEz4J-TJE",
-      "title": "Alligators vs Raptors KLASIK 19.03.2026",
-      "thumbnail": "https://i.ytimg.com/vi/W2qEz4J-TJE/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-03-20T10:04:49Z"
-    },
-    {
-      "id": "JVi9G2_WQk0",
-      "title": "Rekreanti vs Pigeons B KLASIK 19.03.2026",
-      "thumbnail": "https://i.ytimg.com/vi/JVi9G2_WQk0/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-03-20T08:52:12Z"
-    },
-    {
-      "id": "RnKTj6dRewI",
-      "title": "Stars vs Wolves B KLASIK 19.03.2026",
-      "thumbnail": "https://i.ytimg.com/vi/RnKTj6dRewI/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-03-20T08:24:47Z"
     }
   ]
 }
