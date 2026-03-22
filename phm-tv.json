@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-22T10:51:59.188Z",
+  "updated": "2026-03-22T11:19:26.306Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
     {
@@ -38,18 +38,18 @@
       "publishedAt": "2026-03-20T08:24:47Z"
     },
     {
-      "id": "E_bsclxuZYc",
-      "title": "Renegades vs Berkut SUPER 18.03.2026",
-      "thumbnail": "https://i.ytimg.com/vi/E_bsclxuZYc/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-03-19T10:08:38Z"
-    },
-    {
       "id": "6Bih8xeOh1A",
       "title": "Dragons vs Spiders HOBBY 11.03.2026",
       "thumbnail": "https://i.ytimg.com/vi/6Bih8xeOh1A/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-03-12T09:58:09Z"
+    },
+    {
+      "id": "6zLtzflDFFM",
+      "title": "Wolves vs Berkut SUPER 09.03.2026",
+      "thumbnail": "https://i.ytimg.com/vi/6zLtzflDFFM/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-03-10T08:41:19Z"
     }
   ]
 }
