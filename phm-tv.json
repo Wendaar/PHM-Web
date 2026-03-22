@@ -1,20 +1,27 @@
 {
-  "updated": "2026-03-22T17:21:23.952Z",
+  "updated": "2026-03-22T17:49:14.712Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
     {
-      "id": "Q7YxIxf3xv0",
-      "title": "PAL vs VIK, 22.3.2026 - HOBBY",
-      "thumbnail": "https://i.ytimg.com/vi/Q7YxIxf3xv0/mqdefault_live.jpg",
+      "id": "6JvjKxHi59U",
+      "title": "SHS vs HTC SUPER 22.03.2026",
+      "thumbnail": "https://i.ytimg.com/vi/6JvjKxHi59U/mqdefault_live.jpg",
       "isLive": true,
-      "publishedAt": "2026-03-22T16:16:37Z"
+      "publishedAt": "2026-03-22T17:44:24Z"
     },
     {
-      "id": "1_GbJpEegFE",
-      "title": "22.03.2026",
-      "thumbnail": "https://i.ytimg.com/vi/1_GbJpEegFE/mqdefault_live.jpg",
-      "isLive": true,
-      "publishedAt": "2026-03-22T16:11:36Z"
+      "id": "qJswNmziwqg",
+      "title": "GAS vs TAS, KLASIK",
+      "thumbnail": "https://i.ytimg.com/vi/qJswNmziwqg/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-03-22T17:47:09Z"
+    },
+    {
+      "id": "Q7YxIxf3xv0",
+      "title": "PAL vs VIK, 22.3.2026 - HOBBY",
+      "thumbnail": "https://i.ytimg.com/vi/Q7YxIxf3xv0/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-03-22T16:16:37Z"
     },
     {
       "id": "pDuqRtueZHY",
@@ -22,6 +29,13 @@
       "thumbnail": "https://i.ytimg.com/vi/pDuqRtueZHY/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-03-22T16:15:53Z"
+    },
+    {
+      "id": "1_GbJpEegFE",
+      "title": "22.03.2026",
+      "thumbnail": "https://i.ytimg.com/vi/1_GbJpEegFE/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-03-22T16:11:36Z"
     },
     {
       "id": "JFy_LSWvl-o",
@@ -36,20 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/ZXyqowqtSwQ/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-03-22T14:31:21Z"
-    },
-    {
-      "id": "8FtAmrBkpR4",
-      "title": "H.O.V.N.A. vs H.O.V.N.A. Old Stars Reunion Game 2026",
-      "thumbnail": "https://i.ytimg.com/vi/8FtAmrBkpR4/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-03-22T03:53:56Z"
-    },
-    {
-      "id": "OBg9nJjQI9E",
-      "title": "Heyoka vs Cheza SPORT 19.03.2026",
-      "thumbnail": "https://i.ytimg.com/vi/OBg9nJjQI9E/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-03-20T10:17:28Z"
     }
   ]
 }
