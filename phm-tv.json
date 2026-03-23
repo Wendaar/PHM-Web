@@ -1,12 +1,19 @@
 {
-  "updated": "2026-03-23T20:33:25.383Z",
+  "updated": "2026-03-23T21:31:16.877Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
     {
+      "id": "LwP9DzReWDw",
+      "title": "Wolves B vs Pigeons B KLASIK 23.03.2026",
+      "thumbnail": "https://i.ytimg.com/vi/LwP9DzReWDw/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2026-03-23T20:43:58Z"
+    },
+    {
       "id": "yux_gyIOC_I",
       "title": "Spiders vs Strašáci HOBBY 23.3.2026",
-      "thumbnail": "https://i.ytimg.com/vi/yux_gyIOC_I/mqdefault_live.jpg",
-      "isLive": true,
+      "thumbnail": "https://i.ytimg.com/vi/yux_gyIOC_I/mqdefault.jpg",
+      "isLive": false,
       "publishedAt": "2026-03-23T19:36:05Z"
     },
     {
@@ -43,13 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/1_GbJpEegFE/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-03-23T05:42:26Z"
-    },
-    {
-      "id": "Q7YxIxf3xv0",
-      "title": "Paladins vs Vikings HOBBY 22.03.2026",
-      "thumbnail": "https://i.ytimg.com/vi/Q7YxIxf3xv0/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-03-23T05:35:54Z"
     }
   ]
 }
