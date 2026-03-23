@@ -1,12 +1,26 @@
 {
-  "updated": "2026-03-23T18:45:18.895Z",
+  "updated": "2026-03-23T19:43:41.686Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
     {
+      "id": "lG1_KQfRCB8",
+      "title": "Fanklub Lev vs Office Rats SPORT 23.03.2026",
+      "thumbnail": "https://i.ytimg.com/vi/lG1_KQfRCB8/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2026-03-23T19:16:10Z"
+    },
+    {
+      "id": "yux_gyIOC_I",
+      "title": "Spiders vs Strašáci HOBBY 23.3.2026",
+      "thumbnail": "https://i.ytimg.com/vi/yux_gyIOC_I/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2026-03-23T19:36:05Z"
+    },
+    {
       "id": "nH1M_Pv81_g",
       "title": "Banditos vs PLATIDLO Klasik 23.3.2026",
-      "thumbnail": "https://i.ytimg.com/vi/nH1M_Pv81_g/mqdefault_live.jpg",
-      "isLive": true,
+      "thumbnail": "https://i.ytimg.com/vi/nH1M_Pv81_g/mqdefault.jpg",
+      "isLive": false,
       "publishedAt": "2026-03-23T18:17:54Z"
     },
     {
@@ -36,20 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/Q7YxIxf3xv0/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-03-23T05:35:54Z"
-    },
-    {
-      "id": "JFy_LSWvl-o",
-      "title": "Chiefs vs Zbraslav SUPER 22.03.2026",
-      "thumbnail": "https://i.ytimg.com/vi/JFy_LSWvl-o/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-03-23T04:16:29Z"
-    },
-    {
-      "id": "ZXyqowqtSwQ",
-      "title": "Papoušci vs Polar Bears HOBBY 22.03.2026",
-      "thumbnail": "https://i.ytimg.com/vi/ZXyqowqtSwQ/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-03-23T04:09:37Z"
     }
   ]
 }
