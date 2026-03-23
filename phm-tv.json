@@ -1,7 +1,14 @@
 {
-  "updated": "2026-03-23T17:47:42.936Z",
+  "updated": "2026-03-23T18:45:18.895Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
+    {
+      "id": "nH1M_Pv81_g",
+      "title": "Banditos vs PLATIDLO Klasik 23.3.2026",
+      "thumbnail": "https://i.ytimg.com/vi/nH1M_Pv81_g/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2026-03-23T18:17:54Z"
+    },
     {
       "id": "C6-a6yem-yk",
       "title": "Pigeons vs Voholto SPORT 22.03.2026",
@@ -43,13 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/ZXyqowqtSwQ/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-03-23T04:09:37Z"
-    },
-    {
-      "id": "8FtAmrBkpR4",
-      "title": "H.O.V.N.A. vs H.O.V.N.A. Old Stars Reunion Game 2026",
-      "thumbnail": "https://i.ytimg.com/vi/8FtAmrBkpR4/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-03-22T03:53:56Z"
     }
   ]
 }
