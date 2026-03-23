@@ -1,7 +1,14 @@
 {
-  "updated": "2026-03-23T07:03:10.188Z",
+  "updated": "2026-03-23T08:11:24.670Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
+    {
+      "id": "6JvjKxHi59U",
+      "title": "Superheroes vs HT CZ SUPER 22.03.2026",
+      "thumbnail": "https://i.ytimg.com/vi/6JvjKxHi59U/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-03-23T07:13:20Z"
+    },
     {
       "id": "1_GbJpEegFE",
       "title": "Soldiers B vs Reindeers HOBBY 22.03.2026",
@@ -36,13 +43,6 @@
       "thumbnail": "https://i.ytimg.com/vi/C6-a6yem-yk/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-03-22T19:11:10Z"
-    },
-    {
-      "id": "6JvjKxHi59U",
-      "title": "Superheroes vs HT CZ SUPER 22.03.2026",
-      "thumbnail": "https://i.ytimg.com/vi/6JvjKxHi59U/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-03-22T17:44:24Z"
     },
     {
       "id": "8FtAmrBkpR4",
