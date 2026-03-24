@@ -1,12 +1,19 @@
 {
-  "updated": "2026-03-24T17:52:11.925Z",
+  "updated": "2026-03-24T18:55:52.112Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
     {
+      "id": "R0SVlKBNBiQ",
+      "title": "MYQ vs KBB 24.3.2026",
+      "thumbnail": "https://i.ytimg.com/vi/R0SVlKBNBiQ/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2026-03-24T18:47:55Z"
+    },
+    {
       "id": "VEsKoc0DryA",
       "title": "BKZ vs DKC 24.3.2026",
-      "thumbnail": "https://i.ytimg.com/vi/VEsKoc0DryA/mqdefault_live.jpg",
-      "isLive": true,
+      "thumbnail": "https://i.ytimg.com/vi/VEsKoc0DryA/mqdefault.jpg",
+      "isLive": false,
       "publishedAt": "2026-03-24T17:43:22Z"
     },
     {
@@ -43,13 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/C6-a6yem-yk/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-03-23T08:29:24Z"
-    },
-    {
-      "id": "6JvjKxHi59U",
-      "title": "Superheroes vs HT CZ SUPER 22.03.2026",
-      "thumbnail": "https://i.ytimg.com/vi/6JvjKxHi59U/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-03-23T07:13:20Z"
     }
   ]
 }
