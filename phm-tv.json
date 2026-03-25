@@ -1,7 +1,21 @@
 {
-  "updated": "2026-03-25T20:45:47.644Z",
+  "updated": "2026-03-25T21:33:43.742Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
+    {
+      "id": "iAcoHklVIXE",
+      "title": "REX vs Renegades SUPER 25.03.2026",
+      "thumbnail": "https://i.ytimg.com/vi/iAcoHklVIXE/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2026-03-25T20:46:54Z"
+    },
+    {
+      "id": "u5Xy74xkX6o",
+      "title": "Papoušci vs Paladins HOBBY 25.03.2026",
+      "thumbnail": "https://i.ytimg.com/vi/u5Xy74xkX6o/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2026-03-25T20:53:49Z"
+    },
     {
       "id": "C3AgGSMYW-g",
       "title": "Chiefs vs Soldiers SUPER 23.03.2026.",
@@ -36,20 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/R0SVlKBNBiQ/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-03-25T08:20:07Z"
-    },
-    {
-      "id": "dpuUzUL3AWM",
-      "title": "Phantoms vs KV Elektro HOBBY 24.03.2026",
-      "thumbnail": "https://i.ytimg.com/vi/dpuUzUL3AWM/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-03-25T08:17:49Z"
-    },
-    {
-      "id": "VEsKoc0DryA",
-      "title": "Žraloci vs Ducks C HOBBY 24.03.2026",
-      "thumbnail": "https://i.ytimg.com/vi/VEsKoc0DryA/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-03-25T06:36:19Z"
     }
   ]
 }
