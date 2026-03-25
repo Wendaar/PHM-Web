@@ -1,20 +1,20 @@
 {
-  "updated": "2026-03-25T19:59:05.382Z",
+  "updated": "2026-03-25T20:45:47.644Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
     {
-      "id": "WDlvwXLQUmw",
-      "title": "Berkut vs Wolves SUPER 25.03.2026",
-      "thumbnail": "https://i.ytimg.com/vi/WDlvwXLQUmw/mqdefault_live.jpg",
-      "isLive": true,
-      "publishedAt": "2026-03-25T19:13:28Z"
-    },
-    {
       "id": "C3AgGSMYW-g",
       "title": "Chiefs vs Soldiers SUPER 23.03.2026.",
-      "thumbnail": "https://i.ytimg.com/vi/C3AgGSMYW-g/mqdefault_live.jpg",
-      "isLive": true,
+      "thumbnail": "https://i.ytimg.com/vi/C3AgGSMYW-g/mqdefault.jpg",
+      "isLive": false,
       "publishedAt": "2026-03-25T19:23:24Z"
+    },
+    {
+      "id": "WDlvwXLQUmw",
+      "title": "Berkut vs Wolves SUPER 25.03.2026",
+      "thumbnail": "https://i.ytimg.com/vi/WDlvwXLQUmw/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-03-25T19:13:28Z"
     },
     {
       "id": "Y5XIyDituK0",
