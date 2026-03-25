@@ -1,7 +1,21 @@
 {
-  "updated": "2026-03-25T19:03:38.584Z",
+  "updated": "2026-03-25T19:59:05.382Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
+    {
+      "id": "WDlvwXLQUmw",
+      "title": "Berkut vs Wolves SUPER 25.03.2026",
+      "thumbnail": "https://i.ytimg.com/vi/WDlvwXLQUmw/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2026-03-25T19:13:28Z"
+    },
+    {
+      "id": "C3AgGSMYW-g",
+      "title": "Chiefs vs Soldiers SUPER 23.03.2026.",
+      "thumbnail": "https://i.ytimg.com/vi/C3AgGSMYW-g/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2026-03-25T19:23:24Z"
+    },
     {
       "id": "Y5XIyDituK0",
       "title": "Ducks B vs Raptors KLASIK 24.03.2026",
@@ -36,20 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/VEsKoc0DryA/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-03-25T06:36:19Z"
-    },
-    {
-      "id": "LwP9DzReWDw",
-      "title": "Wolves B vs Pigeons B KLASIK 23.03.2026",
-      "thumbnail": "https://i.ytimg.com/vi/LwP9DzReWDw/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-03-24T10:03:24Z"
-    },
-    {
-      "id": "lG1_KQfRCB8",
-      "title": "Fanklub Lev vs Office Rats SPORT 23.03.2026",
-      "thumbnail": "https://i.ytimg.com/vi/lG1_KQfRCB8/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-03-24T09:02:49Z"
     }
   ]
 }
