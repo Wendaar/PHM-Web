@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-26T19:14:34.568Z",
+  "updated": "2026-03-26T20:00:04.577Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
     {
@@ -8,6 +8,13 @@
       "thumbnail": "https://i.ytimg.com/vi/GA7UVCed38g/mqdefault_live.jpg",
       "isLive": true,
       "publishedAt": "2026-03-26T18:58:10Z"
+    },
+    {
+      "id": "JvjOv8TYYk4",
+      "title": "Raptors vs. Banditos KLASIK 26.03.2026",
+      "thumbnail": "https://i.ytimg.com/vi/JvjOv8TYYk4/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2026-03-26T19:45:40Z"
     },
     {
       "id": "SMw9vDo0e3o",
@@ -43,13 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/WDlvwXLQUmw/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-03-26T08:36:29Z"
-    },
-    {
-      "id": "Y5XIyDituK0",
-      "title": "Ducks B vs Raptors KLASIK 24.03.2026",
-      "thumbnail": "https://i.ytimg.com/vi/Y5XIyDituK0/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-03-25T09:42:26Z"
     }
   ]
 }
