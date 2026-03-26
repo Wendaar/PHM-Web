@@ -1,7 +1,14 @@
 {
-  "updated": "2026-03-26T07:59:02.371Z",
+  "updated": "2026-03-26T09:03:57.420Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
+    {
+      "id": "WDlvwXLQUmw",
+      "title": "Berkut vs Wolves SUPER 25.03.2026",
+      "thumbnail": "https://i.ytimg.com/vi/WDlvwXLQUmw/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-03-26T08:36:29Z"
+    },
     {
       "id": "u5Xy74xkX6o",
       "title": "Papoušci vs Paladins HOBBY 25.03.2026",
@@ -22,13 +29,6 @@
       "thumbnail": "https://i.ytimg.com/vi/C3AgGSMYW-g/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-03-25T19:23:24Z"
-    },
-    {
-      "id": "WDlvwXLQUmw",
-      "title": "Berkut vs Wolves SUPER 25.03.2026",
-      "thumbnail": "https://i.ytimg.com/vi/WDlvwXLQUmw/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-03-25T19:13:28Z"
     },
     {
       "id": "Y5XIyDituK0",
