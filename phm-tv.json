@@ -1,20 +1,20 @@
 {
-  "updated": "2026-03-26T20:43:48.882Z",
+  "updated": "2026-03-26T21:26:32.973Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
-    {
-      "id": "JvjOv8TYYk4",
-      "title": "Raptors vs. Banditos KLASIK 26.03.2026",
-      "thumbnail": "https://i.ytimg.com/vi/JvjOv8TYYk4/mqdefault_live.jpg",
-      "isLive": true,
-      "publishedAt": "2026-03-26T19:45:40Z"
-    },
     {
       "id": "3cYdM2Mw-Zo",
       "title": "Gladiators vs Stars",
       "thumbnail": "https://i.ytimg.com/vi/3cYdM2Mw-Zo/mqdefault_live.jpg",
       "isLive": true,
       "publishedAt": "2026-03-26T20:35:10Z"
+    },
+    {
+      "id": "JvjOv8TYYk4",
+      "title": "Raptors vs. Banditos KLASIK 26.03.2026",
+      "thumbnail": "https://i.ytimg.com/vi/JvjOv8TYYk4/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-03-26T19:45:40Z"
     },
     {
       "id": "SMw9vDo0e3o",
