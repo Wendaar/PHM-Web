@@ -1,7 +1,21 @@
 {
-  "updated": "2026-03-26T17:58:49.505Z",
+  "updated": "2026-03-26T19:14:34.568Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
+    {
+      "id": "GA7UVCed38g",
+      "title": "Voholto vs Office Rats SPORT 26.03.2026",
+      "thumbnail": "https://i.ytimg.com/vi/GA7UVCed38g/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2026-03-26T18:58:10Z"
+    },
+    {
+      "id": "SMw9vDo0e3o",
+      "title": "Žižkov vs Roosters",
+      "thumbnail": "https://i.ytimg.com/vi/SMw9vDo0e3o/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2026-03-26T19:04:09Z"
+    },
     {
       "id": "u5Xy74xkX6o",
       "title": "Papoušci vs Paladins HOBBY 25.03.2026",
@@ -36,20 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/Y5XIyDituK0/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-03-25T09:42:26Z"
-    },
-    {
-      "id": "NUu40pf1Gpg",
-      "title": "Traverzáci vs Dragons HOBBY 24.03.2026",
-      "thumbnail": "https://i.ytimg.com/vi/NUu40pf1Gpg/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-03-25T09:38:17Z"
-    },
-    {
-      "id": "R0SVlKBNBiQ",
-      "title": "MyQ vs Soldiers B HOBBY 24.03.2026",
-      "thumbnail": "https://i.ytimg.com/vi/R0SVlKBNBiQ/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-03-25T08:20:07Z"
     }
   ]
 }
