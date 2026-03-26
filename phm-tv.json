@@ -1,14 +1,7 @@
 {
-  "updated": "2026-03-26T20:00:04.577Z",
+  "updated": "2026-03-26T20:43:48.882Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
-    {
-      "id": "GA7UVCed38g",
-      "title": "Voholto vs Office Rats SPORT 26.03.2026",
-      "thumbnail": "https://i.ytimg.com/vi/GA7UVCed38g/mqdefault_live.jpg",
-      "isLive": true,
-      "publishedAt": "2026-03-26T18:58:10Z"
-    },
     {
       "id": "JvjOv8TYYk4",
       "title": "Raptors vs. Banditos KLASIK 26.03.2026",
@@ -17,11 +10,25 @@
       "publishedAt": "2026-03-26T19:45:40Z"
     },
     {
+      "id": "3cYdM2Mw-Zo",
+      "title": "Gladiators vs Stars",
+      "thumbnail": "https://i.ytimg.com/vi/3cYdM2Mw-Zo/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2026-03-26T20:35:10Z"
+    },
+    {
       "id": "SMw9vDo0e3o",
       "title": "Žižkov vs Roosters",
-      "thumbnail": "https://i.ytimg.com/vi/SMw9vDo0e3o/mqdefault_live.jpg",
-      "isLive": true,
+      "thumbnail": "https://i.ytimg.com/vi/SMw9vDo0e3o/mqdefault.jpg",
+      "isLive": false,
       "publishedAt": "2026-03-26T19:04:09Z"
+    },
+    {
+      "id": "GA7UVCed38g",
+      "title": "Voholto vs Office Rats SPORT 26.03.2026",
+      "thumbnail": "https://i.ytimg.com/vi/GA7UVCed38g/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-03-26T18:58:10Z"
     },
     {
       "id": "u5Xy74xkX6o",
@@ -43,13 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/C3AgGSMYW-g/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-03-26T09:45:36Z"
-    },
-    {
-      "id": "WDlvwXLQUmw",
-      "title": "Berkut vs Wolves SUPER 25.03.2026",
-      "thumbnail": "https://i.ytimg.com/vi/WDlvwXLQUmw/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-03-26T08:36:29Z"
     }
   ]
 }
