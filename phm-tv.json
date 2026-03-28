@@ -1,35 +1,7 @@
 {
-  "updated": "2026-03-27T23:52:16.457Z",
+  "updated": "2026-03-28T01:46:52.762Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
-    {
-      "id": "R6XhGr0leoQ",
-      "title": "26 WEEK RECAP 03 27 SPORT",
-      "thumbnail": "https://i.ytimg.com/vi/R6XhGr0leoQ/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-03-27T11:29:41Z"
-    },
-    {
-      "id": "z6ntDlWlfBk",
-      "title": "26 WEEK RECAP 03 27 KLASIK",
-      "thumbnail": "https://i.ytimg.com/vi/z6ntDlWlfBk/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-03-27T11:29:37Z"
-    },
-    {
-      "id": "PJtLVtHkgos",
-      "title": "26 WEEK RECAP 03 27 SUPER",
-      "thumbnail": "https://i.ytimg.com/vi/PJtLVtHkgos/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-03-27T11:29:44Z"
-    },
-    {
-      "id": "pxJUoXhaiAU",
-      "title": "26 WEEK RECAP 03 27 HOBBY",
-      "thumbnail": "https://i.ytimg.com/vi/pxJUoXhaiAU/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-03-27T11:29:34Z"
-    },
     {
       "id": "3cYdM2Mw-Zo",
       "title": "Gladiators vs Stars KLASIK 26.03.2026",
@@ -50,6 +22,34 @@
       "thumbnail": "https://i.ytimg.com/vi/SMw9vDo0e3o/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-03-27T08:49:18Z"
+    },
+    {
+      "id": "GA7UVCed38g",
+      "title": "Voholto vs Office Rats SPORT 26.03.2026",
+      "thumbnail": "https://i.ytimg.com/vi/GA7UVCed38g/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-03-27T08:37:19Z"
+    },
+    {
+      "id": "u5Xy74xkX6o",
+      "title": "Papoušci vs Paladins HOBBY 25.03.2026",
+      "thumbnail": "https://i.ytimg.com/vi/u5Xy74xkX6o/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-03-26T10:13:39Z"
+    },
+    {
+      "id": "iAcoHklVIXE",
+      "title": "REX vs Renegades SUPER 25.03.2026",
+      "thumbnail": "https://i.ytimg.com/vi/iAcoHklVIXE/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-03-26T10:01:43Z"
+    },
+    {
+      "id": "C3AgGSMYW-g",
+      "title": "Chiefs vs Soldiers SUPER 25.03.2026",
+      "thumbnail": "https://i.ytimg.com/vi/C3AgGSMYW-g/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-03-26T09:45:36Z"
     }
   ]
 }
