@@ -1,12 +1,26 @@
 {
-  "updated": "2026-03-29T16:29:09.397Z",
+  "updated": "2026-03-29T17:01:44.571Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
     {
+      "id": "7e8V-lZ-xO4",
+      "title": "Taste vs Alligators KLASIK 29.3.2026",
+      "thumbnail": "https://i.ytimg.com/vi/7e8V-lZ-xO4/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2026-03-29T16:46:38Z"
+    },
+    {
+      "id": "ylm6IYOKJx0",
+      "title": "Superheroes vs Zbraslav Super 29.03.2026",
+      "thumbnail": "https://i.ytimg.com/vi/ylm6IYOKJx0/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2026-03-29T16:38:31Z"
+    },
+    {
       "id": "2kC9QRgRRIM",
       "title": "Puk Pak Pivo vs Domynos Super 29.03.2026",
-      "thumbnail": "https://i.ytimg.com/vi/2kC9QRgRRIM/mqdefault_live.jpg",
-      "isLive": true,
+      "thumbnail": "https://i.ytimg.com/vi/2kC9QRgRRIM/mqdefault.jpg",
+      "isLive": false,
       "publishedAt": "2026-03-29T15:09:28Z"
     },
     {
@@ -36,20 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/2ApmL3ZPqlY/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-03-29T13:39:52Z"
-    },
-    {
-      "id": "Ar-R6cNrDig",
-      "title": "Rats vs Cheza SPORT 29.3.2026",
-      "thumbnail": "https://i.ytimg.com/vi/Ar-R6cNrDig/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-03-29T12:13:03Z"
-    },
-    {
-      "id": "R6XhGr0leoQ",
-      "title": "26 WEEK RECAP 03 27 SPORT",
-      "thumbnail": "https://i.ytimg.com/vi/R6XhGr0leoQ/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-03-27T11:29:41Z"
     }
   ]
 }
