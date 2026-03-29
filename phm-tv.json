@@ -1,20 +1,27 @@
 {
-  "updated": "2026-03-29T17:55:25.400Z",
+  "updated": "2026-03-29T18:35:19.707Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
     {
-      "id": "ylm6IYOKJx0",
-      "title": "Superheroes vs Zbraslav Super 29.03.2026",
-      "thumbnail": "https://i.ytimg.com/vi/ylm6IYOKJx0/mqdefault_live.jpg",
+      "id": "L-wEtCkhbso",
+      "title": "Pigeons vs H.O.V.N.A. Sport 29.03.2026",
+      "thumbnail": "https://i.ytimg.com/vi/L-wEtCkhbso/mqdefault_live.jpg",
       "isLive": true,
-      "publishedAt": "2026-03-29T16:38:31Z"
+      "publishedAt": "2026-03-29T18:08:21Z"
     },
     {
       "id": "7e8V-lZ-xO4",
       "title": "Taste vs Alligators KLASIK 29.03.2026",
-      "thumbnail": "https://i.ytimg.com/vi/7e8V-lZ-xO4/mqdefault_live.jpg",
-      "isLive": true,
+      "thumbnail": "https://i.ytimg.com/vi/7e8V-lZ-xO4/mqdefault.jpg",
+      "isLive": false,
       "publishedAt": "2026-03-29T16:46:38Z"
+    },
+    {
+      "id": "ylm6IYOKJx0",
+      "title": "Superheroes vs Zbraslav SUPER 29.03.2026",
+      "thumbnail": "https://i.ytimg.com/vi/ylm6IYOKJx0/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-03-29T16:38:31Z"
     },
     {
       "id": "2kC9QRgRRIM",
@@ -43,13 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/2ApmL3ZPqlY/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-03-29T13:39:52Z"
-    },
-    {
-      "id": "Ar-R6cNrDig",
-      "title": "Office Rats vs Cheza SPORT 29.03.2026",
-      "thumbnail": "https://i.ytimg.com/vi/Ar-R6cNrDig/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-03-29T12:13:03Z"
     }
   ]
 }
