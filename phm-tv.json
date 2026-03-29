@@ -1,12 +1,33 @@
 {
-  "updated": "2026-03-29T12:42:50.129Z",
+  "updated": "2026-03-29T13:49:14.938Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
     {
+      "id": "2ApmL3ZPqlY",
+      "title": "Rekreanti vs Car-Back Klasik 29.03.2026",
+      "thumbnail": "https://i.ytimg.com/vi/2ApmL3ZPqlY/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2026-03-29T13:39:52Z"
+    },
+    {
+      "id": "etSAyR01UsU",
+      "title": "Žraloci vs Papoušci HOBBY 29.3.2026",
+      "thumbnail": "https://i.ytimg.com/vi/etSAyR01UsU/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2026-03-29T13:43:47Z"
+    },
+    {
+      "id": "vkF6ywik_uI",
+      "title": "Žraloci vs Papoušci HOBBY 29.3.2026",
+      "thumbnail": "https://i.ytimg.com/vi/vkF6ywik_uI/mqdefault_live.jpg",
+      "isLive": false,
+      "publishedAt": "2026-03-29T13:43:32Z"
+    },
+    {
       "id": "Ar-R6cNrDig",
       "title": "Rats vs Cheza SPORT 29.3.2026",
-      "thumbnail": "https://i.ytimg.com/vi/Ar-R6cNrDig/mqdefault_live.jpg",
-      "isLive": true,
+      "thumbnail": "https://i.ytimg.com/vi/Ar-R6cNrDig/mqdefault.jpg",
+      "isLive": false,
       "publishedAt": "2026-03-29T12:13:03Z"
     },
     {
@@ -29,27 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/PJtLVtHkgos/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-03-27T11:29:44Z"
-    },
-    {
-      "id": "pxJUoXhaiAU",
-      "title": "26 WEEK RECAP 03 27 HOBBY",
-      "thumbnail": "https://i.ytimg.com/vi/pxJUoXhaiAU/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-03-27T11:29:34Z"
-    },
-    {
-      "id": "3cYdM2Mw-Zo",
-      "title": "Gladiators vs Stars KLASIK 26.03.2026",
-      "thumbnail": "https://i.ytimg.com/vi/3cYdM2Mw-Zo/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-03-27T10:48:46Z"
-    },
-    {
-      "id": "JvjOv8TYYk4",
-      "title": "Raptors vs Banditos KLASIK 26.03.2026",
-      "thumbnail": "https://i.ytimg.com/vi/JvjOv8TYYk4/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-03-27T09:04:37Z"
     }
   ]
 }
