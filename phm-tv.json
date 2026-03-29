@@ -1,13 +1,20 @@
 {
-  "updated": "2026-03-29T15:01:12.437Z",
+  "updated": "2026-03-29T15:52:52.364Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
     {
-      "id": "2ApmL3ZPqlY",
-      "title": "Rekreanti vs Car-Back Klasik 29.03.2026",
-      "thumbnail": "https://i.ytimg.com/vi/2ApmL3ZPqlY/mqdefault_live.jpg",
+      "id": "FjqH3tFE910",
+      "title": "Vikings vs Polar Bears HOBBY 29.3.2026",
+      "thumbnail": "https://i.ytimg.com/vi/FjqH3tFE910/mqdefault_live.jpg",
       "isLive": true,
-      "publishedAt": "2026-03-29T13:39:52Z"
+      "publishedAt": "2026-03-29T15:08:38Z"
+    },
+    {
+      "id": "2kC9QRgRRIM",
+      "title": "Puk Pak Pivo vs Domynos Super 29.03.2026",
+      "thumbnail": "https://i.ytimg.com/vi/2kC9QRgRRIM/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2026-03-29T15:09:28Z"
     },
     {
       "id": "vkF6ywik_uI",
@@ -24,6 +31,13 @@
       "publishedAt": "2026-03-29T13:43:47Z"
     },
     {
+      "id": "2ApmL3ZPqlY",
+      "title": "Rekreanti vs Car-Back Klasik 29.03.2026",
+      "thumbnail": "https://i.ytimg.com/vi/2ApmL3ZPqlY/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-03-29T13:39:52Z"
+    },
+    {
       "id": "Ar-R6cNrDig",
       "title": "Rats vs Cheza SPORT 29.3.2026",
       "thumbnail": "https://i.ytimg.com/vi/Ar-R6cNrDig/mqdefault.jpg",
@@ -36,20 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/R6XhGr0leoQ/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-03-27T11:29:41Z"
-    },
-    {
-      "id": "z6ntDlWlfBk",
-      "title": "26 WEEK RECAP 03 27 KLASIK",
-      "thumbnail": "https://i.ytimg.com/vi/z6ntDlWlfBk/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-03-27T11:29:37Z"
-    },
-    {
-      "id": "PJtLVtHkgos",
-      "title": "26 WEEK RECAP 03 27 SUPER",
-      "thumbnail": "https://i.ytimg.com/vi/PJtLVtHkgos/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-03-27T11:29:44Z"
     }
   ]
 }
