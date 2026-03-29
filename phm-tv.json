@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-29T14:29:34.852Z",
+  "updated": "2026-03-29T15:01:12.437Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
     {
@@ -10,18 +10,18 @@
       "publishedAt": "2026-03-29T13:39:52Z"
     },
     {
-      "id": "etSAyR01UsU",
-      "title": "Žraloci vs Papoušci HOBBY 29.3.2026",
-      "thumbnail": "https://i.ytimg.com/vi/etSAyR01UsU/mqdefault_live.jpg",
-      "isLive": true,
-      "publishedAt": "2026-03-29T13:43:47Z"
-    },
-    {
       "id": "vkF6ywik_uI",
       "title": "Žraloci vs Papoušci HOBBY 29.3.2026",
       "thumbnail": "https://i.ytimg.com/vi/vkF6ywik_uI/mqdefault_live.jpg",
       "isLive": false,
       "publishedAt": "2026-03-29T13:43:32Z"
+    },
+    {
+      "id": "etSAyR01UsU",
+      "title": "Žraloci vs Papoušci HOBBY 29.3.2026",
+      "thumbnail": "https://i.ytimg.com/vi/etSAyR01UsU/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-03-29T13:43:47Z"
     },
     {
       "id": "Ar-R6cNrDig",
