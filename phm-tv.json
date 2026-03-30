@@ -1,7 +1,14 @@
 {
-  "updated": "2026-03-30T06:27:55.929Z",
+  "updated": "2026-03-30T08:08:21.128Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
+    {
+      "id": "L-wEtCkhbso",
+      "title": "Pigeons vs HOVNA SPORT 29.03.2026",
+      "thumbnail": "https://i.ytimg.com/vi/L-wEtCkhbso/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-03-30T07:57:52Z"
+    },
     {
       "id": "ylm6IYOKJx0",
       "title": "Superheroes vs Zbraslav SUPER 29.03.2026",
@@ -43,13 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/etSAyR01UsU/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-03-30T03:10:59Z"
-    },
-    {
-      "id": "Ar-R6cNrDig",
-      "title": "Office Rats vs Cheza SPORT 29.03.2026",
-      "thumbnail": "https://i.ytimg.com/vi/Ar-R6cNrDig/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-03-30T01:29:10Z"
     }
   ]
 }
