@@ -1,27 +1,34 @@
 {
-  "updated": "2026-03-30T19:32:38.174Z",
+  "updated": "2026-03-30T20:39:41.811Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
     {
-      "id": "nVDaN9DUH0M",
-      "title": "MYQ vs PAL",
-      "thumbnail": "https://i.ytimg.com/vi/nVDaN9DUH0M/mqdefault_live.jpg",
+      "id": "iguHyW2mLvs",
+      "title": "ATTL vs Fešáci SPORT 30.03.2026",
+      "thumbnail": "https://i.ytimg.com/vi/iguHyW2mLvs/mqdefault_live.jpg",
       "isLive": true,
-      "publishedAt": "2026-03-30T18:11:17Z"
-    },
-    {
-      "id": "JciqL8zjrBQ",
-      "title": "Renegades vs Kosti SUPER 30.03.2026",
-      "thumbnail": "https://i.ytimg.com/vi/JciqL8zjrBQ/mqdefault_live.jpg",
-      "isLive": true,
-      "publishedAt": "2026-03-30T18:15:45Z"
+      "publishedAt": "2026-03-30T19:45:57Z"
     },
     {
       "id": "T3FxIfFTMGw",
       "title": "WLB vs BDT 30.3.2026",
-      "thumbnail": "https://i.ytimg.com/vi/T3FxIfFTMGw/mqdefault_live.jpg",
-      "isLive": true,
+      "thumbnail": "https://i.ytimg.com/vi/T3FxIfFTMGw/mqdefault.jpg",
+      "isLive": false,
       "publishedAt": "2026-03-30T19:04:55Z"
+    },
+    {
+      "id": "JciqL8zjrBQ",
+      "title": "Renegades vs Kosti SUPER 30.03.2026",
+      "thumbnail": "https://i.ytimg.com/vi/JciqL8zjrBQ/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-03-30T18:15:45Z"
+    },
+    {
+      "id": "nVDaN9DUH0M",
+      "title": "MYQ vs PAL",
+      "thumbnail": "https://i.ytimg.com/vi/nVDaN9DUH0M/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-03-30T18:11:17Z"
     },
     {
       "id": "vG0RDRpXUqk",
@@ -43,13 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/ylm6IYOKJx0/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-03-30T06:10:39Z"
-    },
-    {
-      "id": "7e8V-lZ-xO4",
-      "title": "Taste vs Alligators KLASIK 29.03.2026",
-      "thumbnail": "https://i.ytimg.com/vi/7e8V-lZ-xO4/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-03-30T06:05:25Z"
     }
   ]
 }
