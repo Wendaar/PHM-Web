@@ -1,7 +1,21 @@
 {
-  "updated": "2026-03-30T04:50:56.564Z",
+  "updated": "2026-03-30T06:27:55.929Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
+    {
+      "id": "ylm6IYOKJx0",
+      "title": "Superheroes vs Zbraslav SUPER 29.03.2026",
+      "thumbnail": "https://i.ytimg.com/vi/ylm6IYOKJx0/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-03-30T06:10:39Z"
+    },
+    {
+      "id": "7e8V-lZ-xO4",
+      "title": "Taste vs Alligators KLASIK 29.03.2026",
+      "thumbnail": "https://i.ytimg.com/vi/7e8V-lZ-xO4/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-03-30T06:05:25Z"
+    },
     {
       "id": "2kC9QRgRRIM",
       "title": "PUK PAK PIVO vs Domynos SUPER 29.03.2026",
@@ -36,20 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/Ar-R6cNrDig/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-03-30T01:29:10Z"
-    },
-    {
-      "id": "L-wEtCkhbso",
-      "title": "Pigeons vs HOVNA SPORT 29.03.2026",
-      "thumbnail": "https://i.ytimg.com/vi/L-wEtCkhbso/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-03-29T18:08:21Z"
-    },
-    {
-      "id": "7e8V-lZ-xO4",
-      "title": "Taste vs Alligators KLASIK 29.03.2026",
-      "thumbnail": "https://i.ytimg.com/vi/7e8V-lZ-xO4/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-03-29T16:46:38Z"
     }
   ]
 }
