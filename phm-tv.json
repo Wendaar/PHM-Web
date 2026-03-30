@@ -1,7 +1,21 @@
 {
-  "updated": "2026-03-30T17:26:27.700Z",
+  "updated": "2026-03-30T18:11:41.043Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
+    {
+      "id": "vG0RDRpXUqk",
+      "title": "DSS vs GRH 30.3.2026",
+      "thumbnail": "https://i.ytimg.com/vi/vG0RDRpXUqk/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2026-03-30T17:36:00Z"
+    },
+    {
+      "id": "nVDaN9DUH0M",
+      "title": "MYQ vs PAL",
+      "thumbnail": "https://i.ytimg.com/vi/nVDaN9DUH0M/mqdefault_live.jpg",
+      "isLive": false,
+      "publishedAt": "2026-03-30T18:11:17Z"
+    },
     {
       "id": "L-wEtCkhbso",
       "title": "Pigeons vs HOVNA SPORT 29.03.2026",
@@ -36,20 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/FjqH3tFE910/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-03-30T04:32:26Z"
-    },
-    {
-      "id": "2ApmL3ZPqlY",
-      "title": "Rekreanti vs Car-Back KLASIK 29.03.2026",
-      "thumbnail": "https://i.ytimg.com/vi/2ApmL3ZPqlY/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-03-30T03:21:44Z"
-    },
-    {
-      "id": "etSAyR01UsU",
-      "title": "Žraloci vs Papoušci HOBBY 29.03.2026",
-      "thumbnail": "https://i.ytimg.com/vi/etSAyR01UsU/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-03-30T03:10:59Z"
     }
   ]
 }
