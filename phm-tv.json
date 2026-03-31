@@ -1,20 +1,13 @@
 {
-  "updated": "2026-03-31T20:37:52.409Z",
+  "updated": "2026-03-31T21:34:22.784Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
     {
-      "id": "_d-QuLXMrqk",
-      "title": "Lev vs Pigeons SPORT 31.3.2026",
-      "thumbnail": "https://i.ytimg.com/vi/_d-QuLXMrqk/mqdefault_live.jpg",
-      "isLive": true,
-      "publishedAt": "2026-03-31T19:28:18Z"
-    },
-    {
       "id": "yeNuSSEyfQs",
       "title": "DKB vs PPB 31.3.2026",
-      "thumbnail": "https://i.ytimg.com/vi/yeNuSSEyfQs/mqdefault_live.jpg",
-      "isLive": true,
-      "publishedAt": "2026-03-31T20:07:35Z"
+      "thumbnail": "https://i.ytimg.com/vi/yeNuSSEyfQs/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-03-31T20:45:35Z"
     },
     {
       "id": "YiPyatkgAmg",
@@ -22,6 +15,13 @@
       "thumbnail": "https://i.ytimg.com/vi/YiPyatkgAmg/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-03-31T19:57:46Z"
+    },
+    {
+      "id": "_d-QuLXMrqk",
+      "title": "Lev vs Pigeons SPORT 31.3.2026",
+      "thumbnail": "https://i.ytimg.com/vi/_d-QuLXMrqk/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-03-31T19:28:18Z"
     },
     {
       "id": "Tuk1U0xz3FM",
