@@ -1,20 +1,20 @@
 {
-  "updated": "2026-04-01T19:35:19.283Z",
+  "updated": "2026-04-01T20:38:59.073Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
-    {
-      "id": "yKE2NB8UNuI",
-      "title": "Chiefs vs Superheroes SUPER 01.04.2026",
-      "thumbnail": "https://i.ytimg.com/vi/yKE2NB8UNuI/mqdefault_live.jpg",
-      "isLive": true,
-      "publishedAt": "2026-04-01T19:14:28Z"
-    },
     {
       "id": "2Clp8VOaojw",
       "title": "RND vs ICE",
       "thumbnail": "https://i.ytimg.com/vi/2Clp8VOaojw/mqdefault_live.jpg",
-      "isLive": false,
+      "isLive": true,
       "publishedAt": "2026-04-01T19:23:04Z"
+    },
+    {
+      "id": "yKE2NB8UNuI",
+      "title": "Chiefs vs Superheroes SUPER 01.04.2026",
+      "thumbnail": "https://i.ytimg.com/vi/yKE2NB8UNuI/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-04-01T19:14:28Z"
     },
     {
       "id": "UlYQk5Xt4Q4",
