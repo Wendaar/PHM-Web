@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-01T13:09:09.696Z",
+  "updated": "2026-04-01T14:47:43.104Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
     {
@@ -38,18 +38,18 @@
       "publishedAt": "2026-03-31T08:31:36Z"
     },
     {
-      "id": "JciqL8zjrBQ",
-      "title": "Renegades vs Kosti SUPER 30.03.2026",
-      "thumbnail": "https://i.ytimg.com/vi/JciqL8zjrBQ/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-03-31T07:48:12Z"
-    },
-    {
       "id": "nVDaN9DUH0M",
       "title": "MyQ vs Paladins HOBBY 30.03.2026",
       "thumbnail": "https://i.ytimg.com/vi/nVDaN9DUH0M/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-03-31T07:40:49Z"
+    },
+    {
+      "id": "vG0RDRpXUqk",
+      "title": "Ducks Sport vs Voholto SPORT 30.03.2026",
+      "thumbnail": "https://i.ytimg.com/vi/vG0RDRpXUqk/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-03-31T06:53:06Z"
     }
   ]
 }
