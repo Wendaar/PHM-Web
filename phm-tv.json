@@ -1,7 +1,21 @@
 {
-  "updated": "2026-04-02T17:45:12.696Z",
+  "updated": "2026-04-02T18:50:22.009Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
+    {
+      "id": "9bwSSszXAiA",
+      "title": "Ducks vs Gaston KLASIK 02.04.2026",
+      "thumbnail": "https://i.ytimg.com/vi/9bwSSszXAiA/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2026-04-02T18:03:49Z"
+    },
+    {
+      "id": "JEUkbjkG0ys",
+      "title": "Raptors vs Rekreanti Klasik 02.04.2026",
+      "thumbnail": "https://i.ytimg.com/vi/JEUkbjkG0ys/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2026-04-02T18:20:49Z"
+    },
     {
       "id": "2Clp8VOaojw",
       "title": "Reindeers vs Spiders HOBBY 01.04.2026",
@@ -36,20 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/laPxoitflWI/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-04-02T06:01:18Z"
-    },
-    {
-      "id": "_d-QuLXMrqk",
-      "title": "Fanklub Lev vs Pigeons SPORT 31.03.2026",
-      "thumbnail": "https://i.ytimg.com/vi/_d-QuLXMrqk/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-04-01T08:50:55Z"
-    },
-    {
-      "id": "Tuk1U0xz3FM",
-      "title": "Scarecrows vs KV Elektro HOBBY 31.03.2026",
-      "thumbnail": "https://i.ytimg.com/vi/Tuk1U0xz3FM/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-04-01T08:20:56Z"
     }
   ]
 }
