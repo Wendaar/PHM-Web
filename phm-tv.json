@@ -1,7 +1,14 @@
 {
-  "updated": "2026-04-02T05:55:56.036Z",
+  "updated": "2026-04-02T07:07:27.455Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
+    {
+      "id": "laPxoitflWI",
+      "title": "Žižkov vs HT CZ SUPER 02.04.2026",
+      "thumbnail": "https://i.ytimg.com/vi/laPxoitflWI/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-04-02T06:01:18Z"
+    },
     {
       "id": "2Clp8VOaojw",
       "title": "Reindeers vs Spiders HOBBY 01.04.2026",
@@ -29,13 +36,6 @@
       "thumbnail": "https://i.ytimg.com/vi/3ng9SC3RPCM/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-04-01T17:45:33Z"
-    },
-    {
-      "id": "laPxoitflWI",
-      "title": "Žižkov vs HT CZ SUPER 02.04.2026",
-      "thumbnail": "https://i.ytimg.com/vi/laPxoitflWI/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-04-01T16:31:55Z"
     },
     {
       "id": "_d-QuLXMrqk",
