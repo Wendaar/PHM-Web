@@ -1,20 +1,27 @@
 {
-  "updated": "2026-04-02T18:50:22.009Z",
+  "updated": "2026-04-02T19:46:05.670Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
     {
-      "id": "9bwSSszXAiA",
-      "title": "Ducks vs Gaston KLASIK 02.04.2026",
-      "thumbnail": "https://i.ytimg.com/vi/9bwSSszXAiA/mqdefault_live.jpg",
+      "id": "ETFd1BuJljY",
+      "title": "H.O.V.N.A vs Off Ice Rats SPORT 02.04.2026",
+      "thumbnail": "https://i.ytimg.com/vi/ETFd1BuJljY/mqdefault_live.jpg",
       "isLive": true,
-      "publishedAt": "2026-04-02T18:03:49Z"
+      "publishedAt": "2026-04-02T19:39:53Z"
     },
     {
       "id": "JEUkbjkG0ys",
       "title": "Raptors vs Rekreanti Klasik 02.04.2026",
-      "thumbnail": "https://i.ytimg.com/vi/JEUkbjkG0ys/mqdefault_live.jpg",
-      "isLive": true,
+      "thumbnail": "https://i.ytimg.com/vi/JEUkbjkG0ys/mqdefault.jpg",
+      "isLive": false,
       "publishedAt": "2026-04-02T18:20:49Z"
+    },
+    {
+      "id": "9bwSSszXAiA",
+      "title": "Ducks vs Gaston KLASIK 02.04.2026",
+      "thumbnail": "https://i.ytimg.com/vi/9bwSSszXAiA/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-04-02T18:03:49Z"
     },
     {
       "id": "2Clp8VOaojw",
@@ -43,13 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/3ng9SC3RPCM/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-04-02T07:07:27Z"
-    },
-    {
-      "id": "laPxoitflWI",
-      "title": "Žižkov vs HT CZ SUPER 02.04.2026",
-      "thumbnail": "https://i.ytimg.com/vi/laPxoitflWI/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-04-02T06:01:18Z"
     }
   ]
 }
