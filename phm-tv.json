@@ -1,35 +1,7 @@
 {
-  "updated": "2026-04-05T14:31:36.610Z",
+  "updated": "2026-04-05T15:26:42.015Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
-    {
-      "id": "fe7HwcmPvPE",
-      "title": "26 WEEK RECAP 04 03 SPORT",
-      "thumbnail": "https://i.ytimg.com/vi/fe7HwcmPvPE/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-04-03T17:52:48Z"
-    },
-    {
-      "id": "WCdrSIh5VzA",
-      "title": "26 WEEK RECAP 04 03 HOBBY",
-      "thumbnail": "https://i.ytimg.com/vi/WCdrSIh5VzA/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-04-03T17:52:42Z"
-    },
-    {
-      "id": "7HZ5nVW_4q4",
-      "title": "26 WEEK RECAP 04 03 KLASIK",
-      "thumbnail": "https://i.ytimg.com/vi/7HZ5nVW_4q4/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-04-03T17:52:46Z"
-    },
-    {
-      "id": "sFiM5eRtgT4",
-      "title": "26 WEEK RECAP 04 03 SUPER",
-      "thumbnail": "https://i.ytimg.com/vi/sFiM5eRtgT4/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-04-03T17:52:51Z"
-    },
     {
       "id": "ETFd1BuJljY",
       "title": "HOVNA vs Office Rats SPORT 02.04.2026",
@@ -50,6 +22,34 @@
       "thumbnail": "https://i.ytimg.com/vi/JEUkbjkG0ys/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-04-03T07:12:47Z"
+    },
+    {
+      "id": "2ApmL3ZPqlY",
+      "title": "Rekreanti vs Car-Back KLASIK 29.03.2026",
+      "thumbnail": "https://i.ytimg.com/vi/2ApmL3ZPqlY/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-03-30T03:21:44Z"
+    },
+    {
+      "id": "Ar-R6cNrDig",
+      "title": "Office Rats vs Cheza SPORT 29.03.2026",
+      "thumbnail": "https://i.ytimg.com/vi/Ar-R6cNrDig/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-03-30T01:29:10Z"
+    },
+    {
+      "id": "6Bih8xeOh1A",
+      "title": "Dragons vs Spiders HOBBY 11.03.2026",
+      "thumbnail": "https://i.ytimg.com/vi/6Bih8xeOh1A/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-03-12T09:58:09Z"
+    },
+    {
+      "id": "RD4OWqXT2dg",
+      "title": "PUK PAK PIVO vs Chiefs SUPER 01.03.2026",
+      "thumbnail": "https://i.ytimg.com/vi/RD4OWqXT2dg/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-03-02T05:33:14Z"
     }
   ]
 }
