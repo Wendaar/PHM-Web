@@ -1,12 +1,19 @@
 {
-  "updated": "2026-04-07T17:54:17.891Z",
+  "updated": "2026-04-07T18:56:29.791Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
     {
+      "id": "7_W5vFy4QZ8",
+      "title": "MYQ vs DUC, 7.4.2026, HOBBY",
+      "thumbnail": "https://i.ytimg.com/vi/7_W5vFy4QZ8/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2026-04-07T17:59:15Z"
+    },
+    {
       "id": "yB00pi1-WpA",
       "title": "Fotr vs Vikings HOBBY 07.04.2026",
-      "thumbnail": "https://i.ytimg.com/vi/yB00pi1-WpA/mqdefault_live.jpg",
-      "isLive": true,
+      "thumbnail": "https://i.ytimg.com/vi/yB00pi1-WpA/mqdefault.jpg",
+      "isLive": false,
       "publishedAt": "2026-04-07T17:30:41Z"
     },
     {
@@ -43,13 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/RD4OWqXT2dg/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-03-02T05:33:14Z"
-    },
-    {
-      "id": "pIM47CiXKj0",
-      "title": "Ducks Sport vs Fešáci SPORT 09.02.2026",
-      "thumbnail": "https://i.ytimg.com/vi/pIM47CiXKj0/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-02-10T07:54:40Z"
     }
   ]
 }
