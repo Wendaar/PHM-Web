@@ -1,10 +1,17 @@
 {
-  "updated": "2026-04-07T21:37:32.634Z",
+  "updated": "2026-04-07T22:33:02.762Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
     {
+      "id": "YgQhj5yP3So",
+      "title": "2026 PHM Cup Playoff Teaser",
+      "thumbnail": "https://i.ytimg.com/vi/YgQhj5yP3So/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-04-07T21:49:26Z"
+    },
+    {
       "id": "oy72QLptE0M",
-      "title": "PDG vs TRZ, HOBBY, 7.4.2026",
+      "title": "Dragons vs Traverzáci HOBBY 07.04.2026",
       "thumbnail": "https://i.ytimg.com/vi/oy72QLptE0M/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-04-07T19:35:35Z"
@@ -18,7 +25,7 @@
     },
     {
       "id": "7_W5vFy4QZ8",
-      "title": "MYQ vs DUC, 7.4.2026, HOBBY",
+      "title": "MyQ vs Ducks C HOBBY 07.04.2026",
       "thumbnail": "https://i.ytimg.com/vi/7_W5vFy4QZ8/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-04-07T17:59:15Z"
@@ -43,13 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/2ApmL3ZPqlY/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-03-30T03:21:44Z"
-    },
-    {
-      "id": "Ar-R6cNrDig",
-      "title": "Office Rats vs Cheza SPORT 29.03.2026",
-      "thumbnail": "https://i.ytimg.com/vi/Ar-R6cNrDig/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-03-30T01:29:10Z"
     }
   ]
 }
