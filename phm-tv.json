@@ -1,20 +1,20 @@
 {
-  "updated": "2026-04-07T19:54:56.152Z",
+  "updated": "2026-04-07T20:41:04.231Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
-    {
-      "id": "HF0UQaTrXlU",
-      "title": "Reindeers vs Žraloci HOBBY 07.04.2026",
-      "thumbnail": "https://i.ytimg.com/vi/HF0UQaTrXlU/mqdefault_live.jpg",
-      "isLive": true,
-      "publishedAt": "2026-04-07T18:59:50Z"
-    },
     {
       "id": "oy72QLptE0M",
       "title": "PDG vs TRZ, HOBBY, 7.4.2026",
       "thumbnail": "https://i.ytimg.com/vi/oy72QLptE0M/mqdefault_live.jpg",
       "isLive": true,
       "publishedAt": "2026-04-07T19:35:35Z"
+    },
+    {
+      "id": "HF0UQaTrXlU",
+      "title": "Reindeers vs Žraloci HOBBY 07.04.2026",
+      "thumbnail": "https://i.ytimg.com/vi/HF0UQaTrXlU/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-04-07T18:59:50Z"
     },
     {
       "id": "7_W5vFy4QZ8",
