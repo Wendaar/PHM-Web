@@ -1,17 +1,31 @@
 {
-  "updated": "2026-04-08T19:08:23.155Z",
+  "updated": "2026-04-08T20:06:59.544Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
     {
-      "id": "2VF8q8tfBR8",
-      "title": "OIR vs PPG, SPORT, 8.4.2026",
-      "thumbnail": "https://i.ytimg.com/vi/2VF8q8tfBR8/mqdefault_live.jpg",
+      "id": "Dr7oUELEwZw",
+      "title": "KV Elektro vs Phantoms HOBBY 08.04.2026 Pohár naděje",
+      "thumbnail": "https://i.ytimg.com/vi/Dr7oUELEwZw/mqdefault_live.jpg",
       "isLive": true,
+      "publishedAt": "2026-04-08T19:30:06Z"
+    },
+    {
+      "id": "EOeu6-Cu18c",
+      "title": "Wolves B vs Gastoni KLASIK 08.04.2026",
+      "thumbnail": "https://i.ytimg.com/vi/EOeu6-Cu18c/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2026-04-08T19:12:26Z"
+    },
+    {
+      "id": "2VF8q8tfBR8",
+      "title": "Office Rats vs Pigeons SPORT 08.04.2026",
+      "thumbnail": "https://i.ytimg.com/vi/2VF8q8tfBR8/mqdefault.jpg",
+      "isLive": false,
       "publishedAt": "2026-04-08T18:12:09Z"
     },
     {
       "id": "jrrKqSMmgxw",
-      "title": "ATT vs CHZ",
+      "title": "ATTL vs Cheza SPORT 08.04.2026",
       "thumbnail": "https://i.ytimg.com/vi/jrrKqSMmgxw/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-04-08T17:22:24Z"
@@ -36,20 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/7_W5vFy4QZ8/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-04-08T07:20:08Z"
-    },
-    {
-      "id": "yB00pi1-WpA",
-      "title": "Fotr vs Vikings HOBBY 07.04.2026",
-      "thumbnail": "https://i.ytimg.com/vi/yB00pi1-WpA/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-04-08T06:51:38Z"
-    },
-    {
-      "id": "YgQhj5yP3So",
-      "title": "2026 PHM Cup Playoff Teaser",
-      "thumbnail": "https://i.ytimg.com/vi/YgQhj5yP3So/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-04-07T21:49:26Z"
     }
   ]
 }
