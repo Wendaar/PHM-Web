@@ -1,11 +1,18 @@
 {
-  "updated": "2026-04-08T17:37:56.168Z",
+  "updated": "2026-04-08T19:08:23.155Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
     {
+      "id": "2VF8q8tfBR8",
+      "title": "OIR vs PPG, SPORT, 8.4.2026",
+      "thumbnail": "https://i.ytimg.com/vi/2VF8q8tfBR8/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2026-04-08T18:12:09Z"
+    },
+    {
       "id": "jrrKqSMmgxw",
       "title": "ATT vs CHZ",
-      "thumbnail": "https://i.ytimg.com/vi/jrrKqSMmgxw/mqdefault_live.jpg",
+      "thumbnail": "https://i.ytimg.com/vi/jrrKqSMmgxw/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-04-08T17:22:24Z"
     },
@@ -43,13 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/YgQhj5yP3So/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-04-07T21:49:26Z"
-    },
-    {
-      "id": "fe7HwcmPvPE",
-      "title": "26 WEEK RECAP 04 03 SPORT",
-      "thumbnail": "https://i.ytimg.com/vi/fe7HwcmPvPE/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-04-03T17:52:48Z"
     }
   ]
 }
