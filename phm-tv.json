@@ -1,7 +1,14 @@
 {
-  "updated": "2026-04-08T16:11:20.166Z",
+  "updated": "2026-04-08T17:37:56.168Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
+    {
+      "id": "jrrKqSMmgxw",
+      "title": "ATT vs CHZ",
+      "thumbnail": "https://i.ytimg.com/vi/jrrKqSMmgxw/mqdefault_live.jpg",
+      "isLive": false,
+      "publishedAt": "2026-04-08T17:22:24Z"
+    },
     {
       "id": "oy72QLptE0M",
       "title": "Dragons vs Traverzáci HOBBY 07.04.2026",
@@ -43,13 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/fe7HwcmPvPE/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-04-03T17:52:48Z"
-    },
-    {
-      "id": "2ApmL3ZPqlY",
-      "title": "Rekreanti vs Car-Back KLASIK 29.03.2026",
-      "thumbnail": "https://i.ytimg.com/vi/2ApmL3ZPqlY/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-03-30T03:21:44Z"
     }
   ]
 }
