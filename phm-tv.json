@@ -1,19 +1,33 @@
 {
-  "updated": "2026-04-09T18:58:32.716Z",
+  "updated": "2026-04-09T20:02:39.451Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
     {
+      "id": "aRr-yVvFdvU",
+      "title": "Car-Black vs Pigeons B KLASIK Playoffs 09.04.2026",
+      "thumbnail": "https://i.ytimg.com/vi/aRr-yVvFdvU/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2026-04-09T19:33:33Z"
+    },
+    {
+      "id": "aRB4fgA6ZNU",
+      "title": "Paladins vs Spiders HOBBY 09.04.2026 Pohár naděje",
+      "thumbnail": "https://i.ytimg.com/vi/aRB4fgA6ZNU/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2026-04-09T19:56:31Z"
+    },
+    {
       "id": "1MGNYwnKDMo",
       "title": "PLATIDLO vs Banditos KLASIK 09.04.2026",
-      "thumbnail": "https://i.ytimg.com/vi/1MGNYwnKDMo/mqdefault_live.jpg",
-      "isLive": true,
+      "thumbnail": "https://i.ytimg.com/vi/1MGNYwnKDMo/mqdefault.jpg",
+      "isLive": false,
       "publishedAt": "2026-04-09T18:31:28Z"
     },
     {
       "id": "icuP6c-lrIc",
       "title": "Ducks B vs Alligators KLASIK Předkolo Playoffs 09.04.2026",
-      "thumbnail": "https://i.ytimg.com/vi/icuP6c-lrIc/mqdefault_live.jpg",
-      "isLive": true,
+      "thumbnail": "https://i.ytimg.com/vi/icuP6c-lrIc/mqdefault.jpg",
+      "isLive": false,
       "publishedAt": "2026-04-09T18:13:16Z"
     },
     {
@@ -36,20 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/2VF8q8tfBR8/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-04-09T08:14:25Z"
-    },
-    {
-      "id": "jrrKqSMmgxw",
-      "title": "ATTL vs Cheza SPORT 08.04.2026",
-      "thumbnail": "https://i.ytimg.com/vi/jrrKqSMmgxw/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-04-09T07:29:23Z"
-    },
-    {
-      "id": "oy72QLptE0M",
-      "title": "Dragons vs Traverzáci HOBBY 07.04.2026",
-      "thumbnail": "https://i.ytimg.com/vi/oy72QLptE0M/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-04-08T08:48:41Z"
     }
   ]
 }
