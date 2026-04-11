@@ -1,14 +1,7 @@
 {
-  "updated": "2026-04-11T19:31:14.436Z",
+  "updated": "2026-04-11T20:26:38.807Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
-    {
-      "id": "aRB4fgA6ZNU",
-      "title": "Paladins vs Spiders HOBBY 09.04.2026 Pohár naděje",
-      "thumbnail": "https://i.ytimg.com/vi/aRB4fgA6ZNU/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-04-10T09:21:33Z"
-    },
     {
       "id": "aRr-yVvFdvU",
       "title": "Car-Back vs Pigeons B KLASIK 09.04.2026",
@@ -50,6 +43,13 @@
       "thumbnail": "https://i.ytimg.com/vi/2VF8q8tfBR8/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-04-09T08:14:25Z"
+    },
+    {
+      "id": "jrrKqSMmgxw",
+      "title": "ATTL vs Cheza SPORT 08.04.2026",
+      "thumbnail": "https://i.ytimg.com/vi/jrrKqSMmgxw/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-04-09T07:29:23Z"
     }
   ]
 }
