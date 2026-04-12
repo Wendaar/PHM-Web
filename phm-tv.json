@@ -1,19 +1,26 @@
 {
-  "updated": "2026-04-12T15:57:46.696Z",
+  "updated": "2026-04-12T16:41:17.884Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
     {
+      "id": "twoSPT5KNVw",
+      "title": "BDT vs PLA",
+      "thumbnail": "https://i.ytimg.com/vi/twoSPT5KNVw/mqdefault_live.jpg",
+      "isLive": false,
+      "publishedAt": "2026-04-12T16:35:43Z"
+    },
+    {
       "id": "4zP-qgPTq3c",
       "title": "2. semifinále PUK PAK PIVO vs HT CZ TOP 12.04.2026",
-      "thumbnail": "https://i.ytimg.com/vi/4zP-qgPTq3c/mqdefault_live.jpg",
-      "isLive": true,
+      "thumbnail": "https://i.ytimg.com/vi/4zP-qgPTq3c/mqdefault.jpg",
+      "isLive": false,
       "publishedAt": "2026-04-12T15:14:07Z"
     },
     {
       "id": "0DQnbCXK8tA",
       "title": "CHI vs BER",
-      "thumbnail": "https://i.ytimg.com/vi/0DQnbCXK8tA/mqdefault_live.jpg",
-      "isLive": true,
+      "thumbnail": "https://i.ytimg.com/vi/0DQnbCXK8tA/mqdefault.jpg",
+      "isLive": false,
       "publishedAt": "2026-04-12T15:01:09Z"
     },
     {
@@ -43,13 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/3lgjPT60DtA/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-04-11T22:19:16Z"
-    },
-    {
-      "id": "dhtCmIwPD90",
-      "title": "26 WEEK RECAP 04 10 KLASIK",
-      "thumbnail": "https://i.ytimg.com/vi/dhtCmIwPD90/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-04-11T22:19:22Z"
     }
   ]
 }
