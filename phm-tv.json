@@ -1,12 +1,19 @@
 {
-  "updated": "2026-04-12T14:07:30.607Z",
+  "updated": "2026-04-12T15:03:09.837Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
     {
+      "id": "0DQnbCXK8tA",
+      "title": "CHI vs BER",
+      "thumbnail": "https://i.ytimg.com/vi/0DQnbCXK8tA/mqdefault_live.jpg",
+      "isLive": false,
+      "publishedAt": "2026-04-12T15:01:09Z"
+    },
+    {
       "id": "Fskseq1Dmg0",
       "title": "Vikings vs Fotr HOBBY 12.04.2026",
-      "thumbnail": "https://i.ytimg.com/vi/Fskseq1Dmg0/mqdefault_live.jpg",
-      "isLive": true,
+      "thumbnail": "https://i.ytimg.com/vi/Fskseq1Dmg0/mqdefault.jpg",
+      "isLive": false,
       "publishedAt": "2026-04-12T13:44:12Z"
     },
     {
@@ -43,13 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/33Px1mgxImg/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-04-11T22:19:25Z"
-    },
-    {
-      "id": "U4ENGisHB1Y",
-      "title": "26 WEEK RECAP 04 10 TOP",
-      "thumbnail": "https://i.ytimg.com/vi/U4ENGisHB1Y/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-04-11T22:19:30Z"
     }
   ]
 }
