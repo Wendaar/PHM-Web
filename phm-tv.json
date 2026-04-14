@@ -1,12 +1,33 @@
 {
-  "updated": "2026-04-14T17:40:37.959Z",
+  "updated": "2026-04-14T19:05:25.346Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
     {
+      "id": "7A6qnTZmQN4",
+      "title": "KVE vs ICE",
+      "thumbnail": "https://i.ytimg.com/vi/7A6qnTZmQN4/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2026-04-14T17:57:55Z"
+    },
+    {
+      "id": "wR8a57YlYEQ",
+      "title": "Paladins vs. Phantoms HOBBY 14.4.26",
+      "thumbnail": "https://i.ytimg.com/vi/wR8a57YlYEQ/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2026-04-14T18:30:53Z"
+    },
+    {
+      "id": "-myHdHZRNyY",
+      "title": "TRZ vs PDG, HOBBY, 14.4.2026",
+      "thumbnail": "https://i.ytimg.com/vi/-myHdHZRNyY/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2026-04-14T19:01:42Z"
+    },
+    {
       "id": "hRhvvw3Rnh0",
       "title": "PPG vs OIR, SPORT, 14.4.2026",
-      "thumbnail": "https://i.ytimg.com/vi/hRhvvw3Rnh0/mqdefault_live.jpg",
-      "isLive": true,
+      "thumbnail": "https://i.ytimg.com/vi/hRhvvw3Rnh0/mqdefault.jpg",
+      "isLive": false,
       "publishedAt": "2026-04-14T16:42:00Z"
     },
     {
@@ -29,27 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/bEi_aGplQaA/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-04-14T06:43:38Z"
-    },
-    {
-      "id": "UY2Fh7zui2g",
-      "title": "Alligators vs Ducks B KLASIK 12.04.2026",
-      "thumbnail": "https://i.ytimg.com/vi/UY2Fh7zui2g/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-04-13T07:42:06Z"
-    },
-    {
-      "id": "U4h5N3t3cyU",
-      "title": "Ducks C vs MyQ HOBBY 12.04.2026",
-      "thumbnail": "https://i.ytimg.com/vi/U4h5N3t3cyU/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-04-13T06:20:28Z"
-    },
-    {
-      "id": "twoSPT5KNVw",
-      "title": "Banditos vs PLATIDLO KLASIK 12.04.2026",
-      "thumbnail": "https://i.ytimg.com/vi/twoSPT5KNVw/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-04-13T06:03:50Z"
     }
   ]
 }
