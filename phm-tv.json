@@ -1,27 +1,34 @@
 {
-  "updated": "2026-04-14T19:05:25.346Z",
+  "updated": "2026-04-14T20:28:42.999Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
     {
-      "id": "7A6qnTZmQN4",
-      "title": "KVE vs ICE",
-      "thumbnail": "https://i.ytimg.com/vi/7A6qnTZmQN4/mqdefault_live.jpg",
+      "id": "MBpnX-2Vucs",
+      "title": "BKZ vs RND",
+      "thumbnail": "https://i.ytimg.com/vi/MBpnX-2Vucs/mqdefault_live.jpg",
       "isLive": true,
-      "publishedAt": "2026-04-14T17:57:55Z"
-    },
-    {
-      "id": "wR8a57YlYEQ",
-      "title": "Paladins vs. Phantoms HOBBY 14.4.26",
-      "thumbnail": "https://i.ytimg.com/vi/wR8a57YlYEQ/mqdefault_live.jpg",
-      "isLive": true,
-      "publishedAt": "2026-04-14T18:30:53Z"
+      "publishedAt": "2026-04-14T19:10:41Z"
     },
     {
       "id": "-myHdHZRNyY",
       "title": "TRZ vs PDG, HOBBY, 14.4.2026",
-      "thumbnail": "https://i.ytimg.com/vi/-myHdHZRNyY/mqdefault_live.jpg",
-      "isLive": true,
+      "thumbnail": "https://i.ytimg.com/vi/-myHdHZRNyY/mqdefault.jpg",
+      "isLive": false,
       "publishedAt": "2026-04-14T19:01:42Z"
+    },
+    {
+      "id": "wR8a57YlYEQ",
+      "title": "Paladins vs. Phantoms HOBBY 14.4.26",
+      "thumbnail": "https://i.ytimg.com/vi/wR8a57YlYEQ/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-04-14T18:30:53Z"
+    },
+    {
+      "id": "7A6qnTZmQN4",
+      "title": "KVE vs ICE",
+      "thumbnail": "https://i.ytimg.com/vi/7A6qnTZmQN4/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-04-14T17:57:55Z"
     },
     {
       "id": "hRhvvw3Rnh0",
@@ -43,13 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/Lour600HKiw/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-04-14T07:48:46Z"
-    },
-    {
-      "id": "bEi_aGplQaA",
-      "title": "Gastoni vs Wolves B KLASIK 13.04.2026",
-      "thumbnail": "https://i.ytimg.com/vi/bEi_aGplQaA/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-04-14T06:43:38Z"
     }
   ]
 }
