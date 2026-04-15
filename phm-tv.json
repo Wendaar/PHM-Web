@@ -1,27 +1,27 @@
 {
-  "updated": "2026-04-15T20:13:16.489Z",
+  "updated": "2026-04-15T21:12:12.015Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
     {
-      "id": "Y1L0ahhXfTQ",
-      "title": "Pelikans vs  Chemie",
-      "thumbnail": "https://i.ytimg.com/vi/Y1L0ahhXfTQ/mqdefault_live.jpg",
-      "isLive": true,
-      "publishedAt": "2026-04-15T18:20:59Z"
+      "id": "FTJ6niasEss",
+      "title": "ATTL vs Cheza SPORT 15.04.2026",
+      "thumbnail": "https://i.ytimg.com/vi/FTJ6niasEss/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-04-15T19:43:44Z"
     },
     {
       "id": "dHapoSQsQ0Y",
       "title": "oir vs ppg",
-      "thumbnail": "https://i.ytimg.com/vi/dHapoSQsQ0Y/mqdefault_live.jpg",
-      "isLive": true,
+      "thumbnail": "https://i.ytimg.com/vi/dHapoSQsQ0Y/mqdefault.jpg",
+      "isLive": false,
       "publishedAt": "2026-04-15T19:18:01Z"
     },
     {
-      "id": "FTJ6niasEss",
-      "title": "ATTL vs Cheza SPORT 15.04.2026",
-      "thumbnail": "https://i.ytimg.com/vi/FTJ6niasEss/mqdefault_live.jpg",
-      "isLive": true,
-      "publishedAt": "2026-04-15T19:43:44Z"
+      "id": "Y1L0ahhXfTQ",
+      "title": "Pelikans vs  Chemie",
+      "thumbnail": "https://i.ytimg.com/vi/Y1L0ahhXfTQ/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-04-15T18:20:59Z"
     },
     {
       "id": "m0iwYB8jXzU",
