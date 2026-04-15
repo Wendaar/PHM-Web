@@ -1,7 +1,21 @@
 {
-  "updated": "2026-04-15T17:37:05.307Z",
+  "updated": "2026-04-15T19:07:59.249Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
+    {
+      "id": "Y1L0ahhXfTQ",
+      "title": "Pelikans vs  Chemie",
+      "thumbnail": "https://i.ytimg.com/vi/Y1L0ahhXfTQ/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2026-04-15T18:20:59Z"
+    },
+    {
+      "id": "m0iwYB8jXzU",
+      "title": "2. semifinále Berkut vs Chiefs TOP 15.04.2026",
+      "thumbnail": "https://i.ytimg.com/vi/m0iwYB8jXzU/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2026-04-15T18:13:32Z"
+    },
     {
       "id": "MBpnX-2Vucs",
       "title": "Žraloci vs Reindeers HOBBY 14.04.2026",
@@ -36,20 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/hRhvvw3Rnh0/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-04-15T07:05:41Z"
-    },
-    {
-      "id": "Hav8cBSnUCo",
-      "title": "Cheza vs ATTL SPORT 13.04.2026",
-      "thumbnail": "https://i.ytimg.com/vi/Hav8cBSnUCo/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-04-14T08:45:14Z"
-    },
-    {
-      "id": "Lour600HKiw",
-      "title": "Pigeons B vs Car-Back KLASIK 13.04.2026",
-      "thumbnail": "https://i.ytimg.com/vi/Lour600HKiw/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-04-14T07:48:46Z"
     }
   ]
 }
