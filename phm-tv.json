@@ -1,14 +1,7 @@
 {
-  "updated": "2026-04-16T19:42:54.553Z",
+  "updated": "2026-04-16T20:42:27.370Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
-    {
-      "id": "n_y3-0QdKq4",
-      "title": "Soldiers vs Kosti SUPER 16.4.2,26",
-      "thumbnail": "https://i.ytimg.com/vi/n_y3-0QdKq4/mqdefault_live.jpg",
-      "isLive": true,
-      "publishedAt": "2026-04-16T18:26:18Z"
-    },
     {
       "id": "MsAon3k4uu4",
       "title": "REN vs WLV, SUPER, 16.4.26",
@@ -17,11 +10,25 @@
       "publishedAt": "2026-04-16T19:34:48Z"
     },
     {
+      "id": "38h2eSyWsGQ",
+      "title": "Zbraslav vs Roosters SUPER 16,4,2026",
+      "thumbnail": "https://i.ytimg.com/vi/38h2eSyWsGQ/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2026-04-16T19:55:20Z"
+    },
+    {
       "id": "T1UIpyP_XgY",
       "title": "Trimed vs Justice",
-      "thumbnail": "https://i.ytimg.com/vi/T1UIpyP_XgY/mqdefault_live.jpg",
-      "isLive": true,
+      "thumbnail": "https://i.ytimg.com/vi/T1UIpyP_XgY/mqdefault.jpg",
+      "isLive": false,
       "publishedAt": "2026-04-16T18:39:40Z"
+    },
+    {
+      "id": "n_y3-0QdKq4",
+      "title": "Soldiers vs Kosti SUPER 16.4.2,26",
+      "thumbnail": "https://i.ytimg.com/vi/n_y3-0QdKq4/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-04-16T18:26:18Z"
     },
     {
       "id": "xRSAZcu-tMQ",
@@ -43,13 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/Y1L0ahhXfTQ/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-04-16T08:55:42Z"
-    },
-    {
-      "id": "dHapoSQsQ0Y",
-      "title": "Office Rats vs Pigeons SPORT 16.04.2026",
-      "thumbnail": "https://i.ytimg.com/vi/dHapoSQsQ0Y/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-04-16T08:41:37Z"
     }
   ]
 }
