@@ -1,7 +1,14 @@
 {
-  "updated": "2026-04-16T16:53:18.182Z",
+  "updated": "2026-04-16T18:03:56.370Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
+    {
+      "id": "xRSAZcu-tMQ",
+      "title": "DOM vs REX, SUPER, 16.04.2026",
+      "thumbnail": "https://i.ytimg.com/vi/xRSAZcu-tMQ/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2026-04-16T17:52:29Z"
+    },
     {
       "id": "FTJ6niasEss",
       "title": "ATTL vs Cheza SPORT 15.04.2026",
@@ -43,13 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/-myHdHZRNyY/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-04-15T08:11:42Z"
-    },
-    {
-      "id": "wR8a57YlYEQ",
-      "title": "Paladins vs Phantoms HOBBY 14.04.26 Pohár naděje",
-      "thumbnail": "https://i.ytimg.com/vi/wR8a57YlYEQ/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-04-15T07:57:17Z"
     }
   ]
 }
