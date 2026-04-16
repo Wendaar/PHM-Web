@@ -1,7 +1,14 @@
 {
-  "updated": "2026-04-16T09:13:39.371Z",
+  "updated": "2026-04-16T10:43:34.711Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
+    {
+      "id": "FTJ6niasEss",
+      "title": "ATTL vs Cheza SPORT 15.04.2026",
+      "thumbnail": "https://i.ytimg.com/vi/FTJ6niasEss/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-04-16T09:18:38Z"
+    },
     {
       "id": "Y1L0ahhXfTQ",
       "title": "Pelicans vs Chemie FLLH SEMIFINAL",
@@ -22,13 +29,6 @@
       "thumbnail": "https://i.ytimg.com/vi/m0iwYB8jXzU/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-04-16T07:47:28Z"
-    },
-    {
-      "id": "FTJ6niasEss",
-      "title": "ATTL vs Cheza SPORT 15.04.2026",
-      "thumbnail": "https://i.ytimg.com/vi/FTJ6niasEss/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-04-15T19:43:44Z"
     },
     {
       "id": "MBpnX-2Vucs",
