@@ -1,12 +1,33 @@
 {
-  "updated": "2026-04-16T18:03:56.370Z",
+  "updated": "2026-04-16T19:42:54.553Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
     {
+      "id": "n_y3-0QdKq4",
+      "title": "Soldiers vs Kosti SUPER 16.4.2,26",
+      "thumbnail": "https://i.ytimg.com/vi/n_y3-0QdKq4/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2026-04-16T18:26:18Z"
+    },
+    {
+      "id": "MsAon3k4uu4",
+      "title": "REN vs WLV, SUPER, 16.4.26",
+      "thumbnail": "https://i.ytimg.com/vi/MsAon3k4uu4/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2026-04-16T19:34:48Z"
+    },
+    {
+      "id": "T1UIpyP_XgY",
+      "title": "Trimed vs Justice",
+      "thumbnail": "https://i.ytimg.com/vi/T1UIpyP_XgY/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2026-04-16T18:39:40Z"
+    },
+    {
       "id": "xRSAZcu-tMQ",
       "title": "DOM vs REX, SUPER, 16.04.2026",
-      "thumbnail": "https://i.ytimg.com/vi/xRSAZcu-tMQ/mqdefault_live.jpg",
-      "isLive": true,
+      "thumbnail": "https://i.ytimg.com/vi/xRSAZcu-tMQ/mqdefault.jpg",
+      "isLive": false,
       "publishedAt": "2026-04-16T17:52:29Z"
     },
     {
@@ -29,27 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/dHapoSQsQ0Y/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-04-16T08:41:37Z"
-    },
-    {
-      "id": "m0iwYB8jXzU",
-      "title": "2. semifinále Berkut vs Chiefs TOP 15.04.2026",
-      "thumbnail": "https://i.ytimg.com/vi/m0iwYB8jXzU/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-04-16T07:47:28Z"
-    },
-    {
-      "id": "MBpnX-2Vucs",
-      "title": "Žraloci vs Reindeers HOBBY 14.04.2026",
-      "thumbnail": "https://i.ytimg.com/vi/MBpnX-2Vucs/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-04-15T08:50:57Z"
-    },
-    {
-      "id": "-myHdHZRNyY",
-      "title": "Traverzáci vs Dragons HOBBY 14.04.2026",
-      "thumbnail": "https://i.ytimg.com/vi/-myHdHZRNyY/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-04-15T08:11:42Z"
     }
   ]
 }
