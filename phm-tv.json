@@ -1,20 +1,27 @@
 {
-  "updated": "2026-04-19T17:31:16.412Z",
+  "updated": "2026-04-19T18:40:18.295Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
     {
-      "id": "vW2jDOXUDQ4",
-      "title": "1. čtvrtfinále Stars vs Pigeons B KLASIK 19.04.2026",
-      "thumbnail": "https://i.ytimg.com/vi/vW2jDOXUDQ4/mqdefault_live.jpg",
+      "id": "xLrhAcCoGug",
+      "title": "3 Semifinále Chiefs vs Berkut TOP 19.4.2026",
+      "thumbnail": "https://i.ytimg.com/vi/xLrhAcCoGug/mqdefault_live.jpg",
       "isLive": true,
-      "publishedAt": "2026-04-19T16:43:04Z"
+      "publishedAt": "2026-04-19T18:13:52Z"
     },
     {
       "id": "6wiN9I8qSsc",
       "title": "1 čtvrfinále Soldiers B vs Fotr HOBBY 19.4.2026",
-      "thumbnail": "https://i.ytimg.com/vi/6wiN9I8qSsc/mqdefault_live.jpg",
-      "isLive": true,
+      "thumbnail": "https://i.ytimg.com/vi/6wiN9I8qSsc/mqdefault.jpg",
+      "isLive": false,
       "publishedAt": "2026-04-19T16:43:48Z"
+    },
+    {
+      "id": "vW2jDOXUDQ4",
+      "title": "1. čtvrtfinále Stars vs Pigeons B KLASIK 19.04.2026",
+      "thumbnail": "https://i.ytimg.com/vi/vW2jDOXUDQ4/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-04-19T16:43:04Z"
     },
     {
       "id": "xcB47IZIPKg",
@@ -43,13 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/DOmMexFBvCA/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-04-19T13:42:26Z"
-    },
-    {
-      "id": "4Tujc_FYymI",
-      "title": "26 WEEK RECAP 04 17 HOBBY",
-      "thumbnail": "https://i.ytimg.com/vi/4Tujc_FYymI/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-04-17T21:34:59Z"
     }
   ]
 }
