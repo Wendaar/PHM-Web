@@ -1,20 +1,34 @@
 {
-  "updated": "2026-04-19T14:40:00.431Z",
+  "updated": "2026-04-19T15:33:10.232Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
     {
-      "id": "DOmMexFBvCA",
-      "title": "1.čtvrtfinále Ducks Sport vs Strojaři Attl SPORT 19.4.2026",
-      "thumbnail": "https://i.ytimg.com/vi/DOmMexFBvCA/mqdefault_live.jpg",
+      "id": "3p7239iAO2k",
+      "title": "LEV vs VHT",
+      "thumbnail": "https://i.ytimg.com/vi/3p7239iAO2k/mqdefault_live.jpg",
       "isLive": true,
-      "publishedAt": "2026-04-19T13:42:26Z"
+      "publishedAt": "2026-04-19T14:59:51Z"
+    },
+    {
+      "id": "xcB47IZIPKg",
+      "title": "1. čtvrtfinále Heyoka vs HOVNA SPORT 19.04.2026",
+      "thumbnail": "https://i.ytimg.com/vi/xcB47IZIPKg/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2026-04-19T15:12:51Z"
     },
     {
       "id": "NQTcGeN5lss",
       "title": "1. čtvrtfinále Fešáci vs Pigeons SPORT 19.04.2026",
-      "thumbnail": "https://i.ytimg.com/vi/NQTcGeN5lss/mqdefault_live.jpg",
-      "isLive": true,
+      "thumbnail": "https://i.ytimg.com/vi/NQTcGeN5lss/mqdefault.jpg",
+      "isLive": false,
       "publishedAt": "2026-04-19T13:42:55Z"
+    },
+    {
+      "id": "DOmMexFBvCA",
+      "title": "1.čtvrtfinále Ducks Sport vs Strojaři Attl SPORT 19.4.2026",
+      "thumbnail": "https://i.ytimg.com/vi/DOmMexFBvCA/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-04-19T13:42:26Z"
     },
     {
       "id": "4Tujc_FYymI",
@@ -36,20 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/ww9K25WxXZY/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-04-17T21:35:09Z"
-    },
-    {
-      "id": "7__wdXIiBVI",
-      "title": "26 WEEK RECAP 04 17 SPORT",
-      "thumbnail": "https://i.ytimg.com/vi/7__wdXIiBVI/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-04-17T21:35:07Z"
-    },
-    {
-      "id": "hGyns89w1no",
-      "title": "26 WEEK RECAP 04 17 Pohár naděje",
-      "thumbnail": "https://i.ytimg.com/vi/hGyns89w1no/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-04-17T21:35:01Z"
     }
   ]
 }
