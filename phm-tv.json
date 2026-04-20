@@ -1,12 +1,19 @@
 {
-  "updated": "2026-04-20T18:01:45.554Z",
+  "updated": "2026-04-20T19:38:25.905Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
     {
+      "id": "xrI1ITgNZvc",
+      "title": "GLA vs DKB",
+      "thumbnail": "https://i.ytimg.com/vi/xrI1ITgNZvc/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2026-04-20T18:21:54Z"
+    },
+    {
       "id": "fXfZjUQpmW8",
       "title": "Taste - Wolves B 20.4.2026",
-      "thumbnail": "https://i.ytimg.com/vi/fXfZjUQpmW8/mqdefault_live.jpg",
-      "isLive": true,
+      "thumbnail": "https://i.ytimg.com/vi/fXfZjUQpmW8/mqdefault.jpg",
+      "isLive": false,
       "publishedAt": "2026-04-20T17:34:46Z"
     },
     {
@@ -43,13 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/3p7239iAO2k/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-04-20T04:36:16Z"
-    },
-    {
-      "id": "NQTcGeN5lss",
-      "title": "1. čtvrtfinále Fešáci vs Pigeons SPORT 19.04.2026",
-      "thumbnail": "https://i.ytimg.com/vi/NQTcGeN5lss/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-04-20T03:11:51Z"
     }
   ]
 }
