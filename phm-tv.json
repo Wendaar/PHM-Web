@@ -1,7 +1,28 @@
 {
-  "updated": "2026-04-20T03:37:47.655Z",
+  "updated": "2026-04-20T06:11:14.452Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
+    {
+      "id": "6wiN9I8qSsc",
+      "title": "1. čtvrtfinále Soldiers B vs Fotr HOBBY 19.04.2026",
+      "thumbnail": "https://i.ytimg.com/vi/6wiN9I8qSsc/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-04-20T05:58:57Z"
+    },
+    {
+      "id": "xcB47IZIPKg",
+      "title": "1. čtvrtfinále Heyoka vs HOVNA SPORT 19.04.2026",
+      "thumbnail": "https://i.ytimg.com/vi/xcB47IZIPKg/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-04-20T04:39:36Z"
+    },
+    {
+      "id": "3p7239iAO2k",
+      "title": "1. čtvrtfinále Fanklub Lev vs Voholto SPORT 19.04.2026",
+      "thumbnail": "https://i.ytimg.com/vi/3p7239iAO2k/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-04-20T04:36:16Z"
+    },
     {
       "id": "NQTcGeN5lss",
       "title": "1. čtvrtfinále Fešáci vs Pigeons SPORT 19.04.2026",
@@ -24,32 +45,11 @@
       "publishedAt": "2026-04-19T18:13:52Z"
     },
     {
-      "id": "6wiN9I8qSsc",
-      "title": "1. čtvrtfinále Soldiers B vs Fotr HOBBY 19.04.2026",
-      "thumbnail": "https://i.ytimg.com/vi/6wiN9I8qSsc/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-04-19T16:43:48Z"
-    },
-    {
       "id": "vW2jDOXUDQ4",
       "title": "1. čtvrtfinále Stars vs Pigeons B KLASIK 19.04.2026",
       "thumbnail": "https://i.ytimg.com/vi/vW2jDOXUDQ4/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-04-19T16:43:04Z"
-    },
-    {
-      "id": "xcB47IZIPKg",
-      "title": "1. čtvrtfinále Heyoka vs HOVNA SPORT 19.04.2026",
-      "thumbnail": "https://i.ytimg.com/vi/xcB47IZIPKg/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-04-19T15:12:51Z"
-    },
-    {
-      "id": "3p7239iAO2k",
-      "title": "1. čtvrtfinále Fanklub Lev vs Voholto SPORT 19.04.2026",
-      "thumbnail": "https://i.ytimg.com/vi/3p7239iAO2k/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-04-19T14:59:51Z"
     }
   ]
 }
