@@ -1,7 +1,14 @@
 {
-  "updated": "2026-04-20T16:59:39.703Z",
+  "updated": "2026-04-20T18:01:45.554Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
+    {
+      "id": "fXfZjUQpmW8",
+      "title": "Taste - Wolves B 20.4.2026",
+      "thumbnail": "https://i.ytimg.com/vi/fXfZjUQpmW8/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2026-04-20T17:34:46Z"
+    },
     {
       "id": "xLrhAcCoGug",
       "title": "3. semifinále Chiefs vs Berkut TOP 19.04.2026",
@@ -43,13 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/NQTcGeN5lss/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-04-20T03:11:51Z"
-    },
-    {
-      "id": "DOmMexFBvCA",
-      "title": "1.čtvrtfinále Ducks Sport vs ATTL SPORT 19.04.2026",
-      "thumbnail": "https://i.ytimg.com/vi/DOmMexFBvCA/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-04-20T03:07:01Z"
     }
   ]
 }
