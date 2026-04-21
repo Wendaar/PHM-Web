@@ -1,13 +1,13 @@
 {
-  "updated": "2026-04-21T19:04:18.794Z",
+  "updated": "2026-04-21T20:13:30.590Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
     {
-      "id": "QhGA6glLgqI",
-      "title": "REX vs DOM",
-      "thumbnail": "https://i.ytimg.com/vi/QhGA6glLgqI/mqdefault_live.jpg",
+      "id": "RDujOrRhOfk",
+      "title": "WLV vs REN",
+      "thumbnail": "https://i.ytimg.com/vi/RDujOrRhOfk/mqdefault_live.jpg",
       "isLive": true,
-      "publishedAt": "2026-04-21T17:51:13Z"
+      "publishedAt": "2026-04-21T19:10:17Z"
     },
     {
       "id": "U_bcVaJ1W-k",
@@ -15,6 +15,13 @@
       "thumbnail": "https://i.ytimg.com/vi/U_bcVaJ1W-k/mqdefault_live.jpg",
       "isLive": true,
       "publishedAt": "2026-04-21T19:02:05Z"
+    },
+    {
+      "id": "QhGA6glLgqI",
+      "title": "REX vs DOM",
+      "thumbnail": "https://i.ytimg.com/vi/QhGA6glLgqI/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-04-21T17:51:13Z"
     },
     {
       "id": "x8blwkZflWE",
@@ -43,13 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/xLrhAcCoGug/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-04-20T07:34:57Z"
-    },
-    {
-      "id": "vW2jDOXUDQ4",
-      "title": "1. čtvrtfinále Stars vs Pigeons B KLASIK 19.04.2026",
-      "thumbnail": "https://i.ytimg.com/vi/vW2jDOXUDQ4/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-04-20T06:29:05Z"
     }
   ]
 }
