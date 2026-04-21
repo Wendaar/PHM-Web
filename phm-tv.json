@@ -1,19 +1,19 @@
 {
-  "updated": "2026-04-21T20:13:30.590Z",
+  "updated": "2026-04-21T21:09:38.111Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
     {
       "id": "RDujOrRhOfk",
       "title": "WLV vs REN",
-      "thumbnail": "https://i.ytimg.com/vi/RDujOrRhOfk/mqdefault_live.jpg",
-      "isLive": true,
+      "thumbnail": "https://i.ytimg.com/vi/RDujOrRhOfk/mqdefault.jpg",
+      "isLive": false,
       "publishedAt": "2026-04-21T19:10:17Z"
     },
     {
       "id": "U_bcVaJ1W-k",
       "title": "KOS vs SOL",
-      "thumbnail": "https://i.ytimg.com/vi/U_bcVaJ1W-k/mqdefault_live.jpg",
-      "isLive": true,
+      "thumbnail": "https://i.ytimg.com/vi/U_bcVaJ1W-k/mqdefault.jpg",
+      "isLive": false,
       "publishedAt": "2026-04-21T19:02:05Z"
     },
     {
