@@ -1,7 +1,28 @@
 {
-  "updated": "2026-04-21T17:32:57.925Z",
+  "updated": "2026-04-21T19:04:18.794Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
+    {
+      "id": "QhGA6glLgqI",
+      "title": "REX vs DOM",
+      "thumbnail": "https://i.ytimg.com/vi/QhGA6glLgqI/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2026-04-21T17:51:13Z"
+    },
+    {
+      "id": "U_bcVaJ1W-k",
+      "title": "KOS vs SOL",
+      "thumbnail": "https://i.ytimg.com/vi/U_bcVaJ1W-k/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2026-04-21T19:02:05Z"
+    },
+    {
+      "id": "x8blwkZflWE",
+      "title": "RAP vs Platidlo",
+      "thumbnail": "https://i.ytimg.com/vi/x8blwkZflWE/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-04-21T17:33:19Z"
+    },
     {
       "id": "xrI1ITgNZvc",
       "title": "1. čtvrtfinále Gladiators vs Ducks B KLASIK 20.04.2026",
@@ -29,27 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/vW2jDOXUDQ4/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-04-20T06:29:05Z"
-    },
-    {
-      "id": "6wiN9I8qSsc",
-      "title": "1. čtvrtfinále Soldiers B vs Fotr HOBBY 19.04.2026",
-      "thumbnail": "https://i.ytimg.com/vi/6wiN9I8qSsc/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-04-20T05:58:57Z"
-    },
-    {
-      "id": "xcB47IZIPKg",
-      "title": "1. čtvrtfinále Heyoka vs HOVNA SPORT 19.04.2026",
-      "thumbnail": "https://i.ytimg.com/vi/xcB47IZIPKg/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-04-20T04:39:36Z"
-    },
-    {
-      "id": "3p7239iAO2k",
-      "title": "1. čtvrtfinále Fanklub Lev vs Voholto SPORT 19.04.2026",
-      "thumbnail": "https://i.ytimg.com/vi/3p7239iAO2k/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-04-20T04:36:16Z"
     }
   ]
 }
