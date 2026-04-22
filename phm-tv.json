@@ -1,7 +1,28 @@
 {
-  "updated": "2026-04-22T17:31:08.129Z",
+  "updated": "2026-04-22T19:05:47.235Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
+    {
+      "id": "t2MgJVo167Q",
+      "title": "RSZ vs SLZ, čtvrtfinále 5. vs 4., SUPER, 22.04.2026",
+      "thumbnail": "https://i.ytimg.com/vi/t2MgJVo167Q/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2026-04-22T17:41:59Z"
+    },
+    {
+      "id": "tCH4mAqqSgw",
+      "title": "SCR vs PDG",
+      "thumbnail": "https://i.ytimg.com/vi/tCH4mAqqSgw/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2026-04-22T18:10:10Z"
+    },
+    {
+      "id": "jxFO5X-AlAg",
+      "title": "HC Trimed vs Motol Pelicans 22.04.2026 BRONZ MEDAL GAME",
+      "thumbnail": "https://i.ytimg.com/vi/jxFO5X-AlAg/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2026-04-22T18:57:10Z"
+    },
     {
       "id": "U_bcVaJ1W-k",
       "title": "2. čtvrtfinále Kosti vs Soldiers SUPER 21.04.2026",
@@ -29,27 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/QhGA6glLgqI/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-04-22T07:33:15Z"
-    },
-    {
-      "id": "xrI1ITgNZvc",
-      "title": "1. čtvrtfinále Gladiators vs Ducks B KLASIK 20.04.2026",
-      "thumbnail": "https://i.ytimg.com/vi/xrI1ITgNZvc/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-04-21T07:56:27Z"
-    },
-    {
-      "id": "fXfZjUQpmW8",
-      "title": "1. čtvrtfinále Taste vs Wolves B KLASIK 20.04.2026",
-      "thumbnail": "https://i.ytimg.com/vi/fXfZjUQpmW8/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-04-21T07:18:52Z"
-    },
-    {
-      "id": "xLrhAcCoGug",
-      "title": "3. semifinále Chiefs vs Berkut TOP 19.04.2026",
-      "thumbnail": "https://i.ytimg.com/vi/xLrhAcCoGug/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-04-20T07:34:57Z"
     }
   ]
 }
