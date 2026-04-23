@@ -1,7 +1,14 @@
 {
-  "updated": "2026-04-23T16:58:00.892Z",
+  "updated": "2026-04-23T18:06:46.583Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
+    {
+      "id": "201J4f5vq2k",
+      "title": "Chiefs vs HT.CZ  TOP  23.04.2026 Bronze medal match",
+      "thumbnail": "https://i.ytimg.com/vi/201J4f5vq2k/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2026-04-23T18:04:17Z"
+    },
     {
       "id": "6AOq8ruKCF4",
       "title": "1. čtvrtfinále Papoušci vs MyQ HOBBY 22.04.2026",
@@ -43,13 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/U_bcVaJ1W-k/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-04-22T08:54:24Z"
-    },
-    {
-      "id": "RDujOrRhOfk",
-      "title": "2. čtvrtfinále Wolves vs Renegades SUPER 21.04.2026",
-      "thumbnail": "https://i.ytimg.com/vi/RDujOrRhOfk/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-04-22T08:49:23Z"
     }
   ]
 }
