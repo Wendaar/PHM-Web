@@ -1,7 +1,14 @@
 {
-  "updated": "2026-04-25T16:02:32.590Z",
+  "updated": "2026-04-25T17:07:07.897Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
+    {
+      "id": "E__aSw9jDLU",
+      "title": "2026 Moment of Glory TOP Bronze medailist - HT CZ",
+      "thumbnail": "https://i.ytimg.com/vi/E__aSw9jDLU/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-04-25T16:06:30Z"
+    },
     {
       "id": "APjnVROKaUY",
       "title": "26 WEEK RECAP 04 24 SUPER",
@@ -43,13 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/201J4f5vq2k/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-04-24T09:43:16Z"
-    },
-    {
-      "id": "6AOq8ruKCF4",
-      "title": "1. čtvrtfinále Papoušci vs MyQ HOBBY 22.04.2026",
-      "thumbnail": "https://i.ytimg.com/vi/6AOq8ruKCF4/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-04-23T09:03:05Z"
     }
   ]
 }
