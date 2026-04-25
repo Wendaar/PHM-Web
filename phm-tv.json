@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-25T14:11:30.612Z",
+  "updated": "2026-04-25T15:06:01.314Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
     {
@@ -24,13 +24,6 @@
       "publishedAt": "2026-04-24T14:54:37Z"
     },
     {
-      "id": "90ISctk5I2I",
-      "title": "26 WEEK RECAP 04 24 HOBBY",
-      "thumbnail": "https://i.ytimg.com/vi/90ISctk5I2I/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-04-24T14:54:21Z"
-    },
-    {
       "id": "luCWLnXIUrk",
       "title": "26 WEEK RECAP 04 24 SPORT",
       "thumbnail": "https://i.ytimg.com/vi/luCWLnXIUrk/mqdefault.jpg",
@@ -50,6 +43,13 @@
       "thumbnail": "https://i.ytimg.com/vi/6AOq8ruKCF4/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-04-23T09:03:05Z"
+    },
+    {
+      "id": "jxFO5X-AlAg",
+      "title": "HC Trimed vs Motol Pelicans 22.04.2026 BRONZ MEDAL GAME",
+      "thumbnail": "https://i.ytimg.com/vi/jxFO5X-AlAg/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-04-23T08:57:28Z"
     }
   ]
 }
