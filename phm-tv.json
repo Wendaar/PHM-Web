@@ -1,7 +1,21 @@
 {
-  "updated": "2026-04-26T12:55:12.095Z",
+  "updated": "2026-04-26T14:02:18.449Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
+    {
+      "id": "9QBMnWfVVqo",
+      "title": "Phantoms vs. Spiders HOBBY 26.4.2026",
+      "thumbnail": "https://i.ytimg.com/vi/9QBMnWfVVqo/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2026-04-26T13:58:01Z"
+    },
+    {
+      "id": "drFV_jJWtJw",
+      "title": "DOM vs WLV",
+      "thumbnail": "https://i.ytimg.com/vi/drFV_jJWtJw/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2026-04-26T13:45:16Z"
+    },
     {
       "id": "E__aSw9jDLU",
       "title": "2026 Moment of Glory TOP Bronze medailist - HT CZ",
@@ -36,20 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/90ISctk5I2I/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-04-24T14:54:21Z"
-    },
-    {
-      "id": "luCWLnXIUrk",
-      "title": "26 WEEK RECAP 04 24 SPORT",
-      "thumbnail": "https://i.ytimg.com/vi/luCWLnXIUrk/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-04-24T14:54:40Z"
-    },
-    {
-      "id": "201J4f5vq2k",
-      "title": "BRONZE MEDAL GAME Chiefs vs HTCZ TOP 23.04.2026",
-      "thumbnail": "https://i.ytimg.com/vi/201J4f5vq2k/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-04-24T09:43:16Z"
     }
   ]
 }
