@@ -1,19 +1,26 @@
 {
-  "updated": "2026-04-26T17:07:48.680Z",
+  "updated": "2026-04-26T18:03:31.690Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
     {
+      "id": "2yA6c6NTQK4",
+      "title": "ATT vs DSS",
+      "thumbnail": "https://i.ytimg.com/vi/2yA6c6NTQK4/mqdefault_live.jpg",
+      "isLive": false,
+      "publishedAt": "2026-04-26T17:59:43Z"
+    },
+    {
       "id": "m79uCtU9ObA",
       "title": "PPG vs FES",
-      "thumbnail": "https://i.ytimg.com/vi/m79uCtU9ObA/mqdefault_live.jpg",
-      "isLive": true,
+      "thumbnail": "https://i.ytimg.com/vi/m79uCtU9ObA/mqdefault.jpg",
+      "isLive": false,
       "publishedAt": "2026-04-26T16:34:25Z"
     },
     {
       "id": "aDnaCUMige0",
       "title": "PUK PAK PIVO vs BERKUT TOP 26.04.2026",
-      "thumbnail": "https://i.ytimg.com/vi/aDnaCUMige0/mqdefault_live.jpg",
-      "isLive": true,
+      "thumbnail": "https://i.ytimg.com/vi/aDnaCUMige0/mqdefault.jpg",
+      "isLive": false,
       "publishedAt": "2026-04-26T15:14:07Z"
     },
     {
@@ -43,13 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/E__aSw9jDLU/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-04-25T16:06:30Z"
-    },
-    {
-      "id": "APjnVROKaUY",
-      "title": "26 WEEK RECAP 04 24 SUPER",
-      "thumbnail": "https://i.ytimg.com/vi/APjnVROKaUY/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-04-24T14:55:27Z"
     }
   ]
 }
