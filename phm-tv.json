@@ -1,19 +1,26 @@
 {
-  "updated": "2026-04-26T14:02:18.449Z",
+  "updated": "2026-04-26T15:06:34.431Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
     {
+      "id": "KefDscSAZvE",
+      "title": "KBS vs RST",
+      "thumbnail": "https://i.ytimg.com/vi/KefDscSAZvE/mqdefault_live.jpg",
+      "isLive": false,
+      "publishedAt": "2026-04-26T15:02:22Z"
+    },
+    {
       "id": "9QBMnWfVVqo",
       "title": "Phantoms vs. Spiders HOBBY 26.4.2026",
-      "thumbnail": "https://i.ytimg.com/vi/9QBMnWfVVqo/mqdefault_live.jpg",
-      "isLive": true,
+      "thumbnail": "https://i.ytimg.com/vi/9QBMnWfVVqo/mqdefault.jpg",
+      "isLive": false,
       "publishedAt": "2026-04-26T13:58:01Z"
     },
     {
       "id": "drFV_jJWtJw",
       "title": "DOM vs WLV",
-      "thumbnail": "https://i.ytimg.com/vi/drFV_jJWtJw/mqdefault_live.jpg",
-      "isLive": true,
+      "thumbnail": "https://i.ytimg.com/vi/drFV_jJWtJw/mqdefault.jpg",
+      "isLive": false,
       "publishedAt": "2026-04-26T13:45:16Z"
     },
     {
@@ -43,13 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/5YvN6PjknaE/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-04-24T14:54:37Z"
-    },
-    {
-      "id": "90ISctk5I2I",
-      "title": "26 WEEK RECAP 04 24 HOBBY",
-      "thumbnail": "https://i.ytimg.com/vi/90ISctk5I2I/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-04-24T14:54:21Z"
     }
   ]
 }
