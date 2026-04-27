@@ -1,7 +1,21 @@
 {
-  "updated": "2026-04-27T17:03:13.843Z",
+  "updated": "2026-04-27T18:47:04.263Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
+    {
+      "id": "LyZcajXH_NA",
+      "title": "DKB vs GLA, KLASIK, čtvrtfinále, 27.04.2026",
+      "thumbnail": "https://i.ytimg.com/vi/LyZcajXH_NA/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2026-04-27T18:46:15Z"
+    },
+    {
+      "id": "4IObwgmK8zU",
+      "title": "PPT vs DST, KLASIK, čtvrtfinále, 27.04.2026",
+      "thumbnail": "https://i.ytimg.com/vi/4IObwgmK8zU/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-04-27T17:21:40Z"
+    },
     {
       "id": "2yA6c6NTQK4",
       "title": "2. QF ATTL vs Ducks Sport SPORT 26.04.2026",
@@ -36,20 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/drFV_jJWtJw/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-04-27T03:10:43Z"
-    },
-    {
-      "id": "9QBMnWfVVqo",
-      "title": "Phantoms vs Spiders HOBBY 26.04.2026 Pohár naděje",
-      "thumbnail": "https://i.ytimg.com/vi/9QBMnWfVVqo/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-04-27T03:08:07Z"
-    },
-    {
-      "id": "E__aSw9jDLU",
-      "title": "2026 Moment of Glory TOP Bronze medailist - HT CZ",
-      "thumbnail": "https://i.ytimg.com/vi/E__aSw9jDLU/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-04-25T16:06:30Z"
     }
   ]
 }
