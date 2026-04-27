@@ -1,7 +1,14 @@
 {
-  "updated": "2026-04-27T21:32:19.375Z",
+  "updated": "2026-04-27T22:45:03.418Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
+    {
+      "id": "WGxoUI4wykE",
+      "title": "2026 Moment of Glory TOP Champions - PUK PAK PIVO",
+      "thumbnail": "https://i.ytimg.com/vi/WGxoUI4wykE/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-04-27T22:02:08Z"
+    },
     {
       "id": "LyZcajXH_NA",
       "title": "2. QF Ducks B vs Gladiators KLASIK 27.04.2026",
@@ -43,13 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/KefDscSAZvE/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-04-27T04:49:22Z"
-    },
-    {
-      "id": "drFV_jJWtJw",
-      "title": "1. SF Domynos vs Wolves SUPER 26.04.2026",
-      "thumbnail": "https://i.ytimg.com/vi/drFV_jJWtJw/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-04-27T03:10:43Z"
     }
   ]
 }
