@@ -1,7 +1,21 @@
 {
-  "updated": "2026-04-28T10:29:00.305Z",
+  "updated": "2026-04-28T12:11:07.008Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
+    {
+      "id": "YAH2jtp5k_Q",
+      "title": "2026 Moment of Glory TOP Silver medailist - Berkut Praha",
+      "thumbnail": "https://i.ytimg.com/vi/YAH2jtp5k_Q/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-04-28T11:33:47Z"
+    },
+    {
+      "id": "iDOtZ4ZiD4g",
+      "title": "26 04 28 GOLD MEDAL GAME PUK PAK PIVO vs Berkut",
+      "thumbnail": "https://i.ytimg.com/vi/iDOtZ4ZiD4g/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-04-28T10:42:41Z"
+    },
     {
       "id": "LyZcajXH_NA",
       "title": "2. QF Ducks B vs Gladiators KLASIK 27.04.2026",
@@ -36,20 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/aDnaCUMige0/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-04-27T06:20:35Z"
-    },
-    {
-      "id": "m79uCtU9ObA",
-      "title": "2. QF Pigeons vs Fešáci SPORT 26.04.2026",
-      "thumbnail": "https://i.ytimg.com/vi/m79uCtU9ObA/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-04-27T06:17:06Z"
-    },
-    {
-      "id": "KefDscSAZvE",
-      "title": "1. SF Soldiers vs Roosters SUPER 26.04.2026",
-      "thumbnail": "https://i.ytimg.com/vi/KefDscSAZvE/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-04-27T04:49:22Z"
     }
   ]
 }
