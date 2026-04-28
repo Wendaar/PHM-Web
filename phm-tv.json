@@ -1,19 +1,26 @@
 {
-  "updated": "2026-04-28T19:02:49.140Z",
+  "updated": "2026-04-28T20:45:49.821Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
     {
+      "id": "8yZu1D0VngM",
+      "title": "HOV vs HEY, SPORT, čtvrtfinále 6. vs 3., 28.04.2026",
+      "thumbnail": "https://i.ytimg.com/vi/8yZu1D0VngM/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-04-28T19:13:41Z"
+    },
+    {
       "id": "PlUDyxJV4P0",
       "title": "Roosters vs Soldiers 2. Semifinále SUPER 28.4.2026",
-      "thumbnail": "https://i.ytimg.com/vi/PlUDyxJV4P0/mqdefault_live.jpg",
-      "isLive": true,
+      "thumbnail": "https://i.ytimg.com/vi/PlUDyxJV4P0/mqdefault.jpg",
+      "isLive": false,
       "publishedAt": "2026-04-28T18:59:41Z"
     },
     {
       "id": "dnZB30vHqeQ",
       "title": "WLV vs DOM, SUPER, semifinále 4. vs 1., 28.04.2026",
-      "thumbnail": "https://i.ytimg.com/vi/dnZB30vHqeQ/mqdefault_live.jpg",
-      "isLive": true,
+      "thumbnail": "https://i.ytimg.com/vi/dnZB30vHqeQ/mqdefault.jpg",
+      "isLive": false,
       "publishedAt": "2026-04-28T17:49:08Z"
     },
     {
@@ -43,13 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/iDOtZ4ZiD4g/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-04-28T10:42:41Z"
-    },
-    {
-      "id": "LyZcajXH_NA",
-      "title": "2. QF Ducks B vs Gladiators KLASIK 27.04.2026",
-      "thumbnail": "https://i.ytimg.com/vi/LyZcajXH_NA/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-04-28T08:38:59Z"
     }
   ]
 }
