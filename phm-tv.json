@@ -1,7 +1,14 @@
 {
-  "updated": "2026-04-28T12:11:07.008Z",
+  "updated": "2026-04-28T17:09:35.550Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
+    {
+      "id": "xTwJ2vDUYrI",
+      "title": "26 04 23 BRONZE MEDAL GAME Chiefs vs HT CZ",
+      "thumbnail": "https://i.ytimg.com/vi/xTwJ2vDUYrI/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-04-28T15:00:15Z"
+    },
     {
       "id": "YAH2jtp5k_Q",
       "title": "2026 Moment of Glory TOP Silver medailist - Berkut Praha",
@@ -11,7 +18,7 @@
     },
     {
       "id": "iDOtZ4ZiD4g",
-      "title": "26 04 28 GOLD MEDAL GAME PUK PAK PIVO vs Berkut",
+      "title": "26 04 26 GOLD MEDAL GAME PUK PAK PIVO vs Berkut",
       "thumbnail": "https://i.ytimg.com/vi/iDOtZ4ZiD4g/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-04-28T10:42:41Z"
@@ -43,13 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/2yA6c6NTQK4/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-04-27T07:47:52Z"
-    },
-    {
-      "id": "aDnaCUMige0",
-      "title": "GOLD MEDAL GAME PUK PAK PIVO vs Berkut TOP 26.04.2026",
-      "thumbnail": "https://i.ytimg.com/vi/aDnaCUMige0/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-04-27T06:20:35Z"
     }
   ]
 }
