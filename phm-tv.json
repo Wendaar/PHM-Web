@@ -1,7 +1,28 @@
 {
-  "updated": "2026-04-28T17:09:35.550Z",
+  "updated": "2026-04-28T19:02:49.140Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
+    {
+      "id": "PlUDyxJV4P0",
+      "title": "Roosters vs Soldiers 2. Semifinále SUPER 28.4.2026",
+      "thumbnail": "https://i.ytimg.com/vi/PlUDyxJV4P0/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2026-04-28T18:59:41Z"
+    },
+    {
+      "id": "dnZB30vHqeQ",
+      "title": "WLV vs DOM, SUPER, semifinále 4. vs 1., 28.04.2026",
+      "thumbnail": "https://i.ytimg.com/vi/dnZB30vHqeQ/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2026-04-28T17:49:08Z"
+    },
+    {
+      "id": "yGjd7be4Ems",
+      "title": "Voholto vs Lev 2. Čtvrtfinále 28.4.2026",
+      "thumbnail": "https://i.ytimg.com/vi/yGjd7be4Ems/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-04-28T17:31:39Z"
+    },
     {
       "id": "xTwJ2vDUYrI",
       "title": "26 04 23 BRONZE MEDAL GAME Chiefs vs HT CZ",
@@ -29,27 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/LyZcajXH_NA/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-04-28T08:38:59Z"
-    },
-    {
-      "id": "4IObwgmK8zU",
-      "title": "2. QF Pigeons B vs Stars KLASIK 27.04.2026",
-      "thumbnail": "https://i.ytimg.com/vi/4IObwgmK8zU/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-04-28T07:15:46Z"
-    },
-    {
-      "id": "WGxoUI4wykE",
-      "title": "2026 Moment of Glory TOP Champions - PUK PAK PIVO",
-      "thumbnail": "https://i.ytimg.com/vi/WGxoUI4wykE/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-04-27T22:02:08Z"
-    },
-    {
-      "id": "2yA6c6NTQK4",
-      "title": "2. QF ATTL vs Ducks Sport SPORT 26.04.2026",
-      "thumbnail": "https://i.ytimg.com/vi/2yA6c6NTQK4/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-04-27T07:47:52Z"
     }
   ]
 }
