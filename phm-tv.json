@@ -1,7 +1,14 @@
 {
-  "updated": "2026-04-29T16:10:46.388Z",
+  "updated": "2026-04-29T17:54:49.806Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
+    {
+      "id": "AIE7x1V5bXM",
+      "title": "PLA vs RAP",
+      "thumbnail": "https://i.ytimg.com/vi/AIE7x1V5bXM/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2026-04-29T17:47:05Z"
+    },
     {
       "id": "8yZu1D0VngM",
       "title": "2. QF HOVNA vs Heyoka SPORT 28.04.2026",
@@ -43,13 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/YAH2jtp5k_Q/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-04-28T11:33:47Z"
-    },
-    {
-      "id": "iDOtZ4ZiD4g",
-      "title": "26 04 26 GOLD MEDAL GAME PUK PAK PIVO vs Berkut",
-      "thumbnail": "https://i.ytimg.com/vi/iDOtZ4ZiD4g/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-04-28T10:42:41Z"
     }
   ]
 }
