@@ -1,12 +1,26 @@
 {
-  "updated": "2026-04-29T17:54:49.806Z",
+  "updated": "2026-04-29T19:16:29.305Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
     {
+      "id": "CmIM8zY6p-s",
+      "title": "Domynos vs Wolves SF#3 29.4.2026",
+      "thumbnail": "https://i.ytimg.com/vi/CmIM8zY6p-s/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2026-04-29T18:16:50Z"
+    },
+    {
+      "id": "BT4p1lwVs04",
+      "title": "KVE vs PAL",
+      "thumbnail": "https://i.ytimg.com/vi/BT4p1lwVs04/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2026-04-29T18:57:08Z"
+    },
+    {
       "id": "AIE7x1V5bXM",
       "title": "PLA vs RAP",
-      "thumbnail": "https://i.ytimg.com/vi/AIE7x1V5bXM/mqdefault_live.jpg",
-      "isLive": true,
+      "thumbnail": "https://i.ytimg.com/vi/AIE7x1V5bXM/mqdefault.jpg",
+      "isLive": false,
       "publishedAt": "2026-04-29T17:47:05Z"
     },
     {
@@ -36,20 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/yGjd7be4Ems/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-04-29T06:54:10Z"
-    },
-    {
-      "id": "xTwJ2vDUYrI",
-      "title": "26 04 23 BRONZE MEDAL GAME Chiefs vs HT CZ",
-      "thumbnail": "https://i.ytimg.com/vi/xTwJ2vDUYrI/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-04-28T15:00:15Z"
-    },
-    {
-      "id": "YAH2jtp5k_Q",
-      "title": "2026 Moment of Glory TOP Silver medailist - Berkut Praha",
-      "thumbnail": "https://i.ytimg.com/vi/YAH2jtp5k_Q/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-04-28T11:33:47Z"
     }
   ]
 }
