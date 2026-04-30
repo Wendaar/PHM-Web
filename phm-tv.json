@@ -1,7 +1,14 @@
 {
-  "updated": "2026-04-30T17:14:38.031Z",
+  "updated": "2026-04-30T18:50:54.459Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
+    {
+      "id": "Msw9m8vJDoU",
+      "title": "Domynos vs Roosters Bronze match Super",
+      "thumbnail": "https://i.ytimg.com/vi/Msw9m8vJDoU/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2026-04-30T18:06:16Z"
+    },
     {
       "id": "BocFRoDXpd4",
       "title": "3. QF Ducks Sport vs ATTL SPORT 29.04.2026",
@@ -43,13 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/PlUDyxJV4P0/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-04-29T08:22:31Z"
-    },
-    {
-      "id": "dnZB30vHqeQ",
-      "title": "2. SF Wolves vs Domynos SUPER 28.04.2026",
-      "thumbnail": "https://i.ytimg.com/vi/dnZB30vHqeQ/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-04-29T07:19:28Z"
     }
   ]
 }
