@@ -1,7 +1,14 @@
 {
-  "updated": "2026-05-01T16:51:24.527Z",
+  "updated": "2026-05-01T17:54:31.684Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
+    {
+      "id": "Ol6Bm1nELpo",
+      "title": "2026 Moment of Glory TOP Bronze medailist - HC Domynos Praha",
+      "thumbnail": "https://i.ytimg.com/vi/Ol6Bm1nELpo/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-05-01T16:53:01Z"
+    },
     {
       "id": "MBYfy4q-3Dk",
       "title": "26 04 30 BRONZE MEDAL GAME Domynos vs Roosters",
@@ -43,13 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/fJQ64dhAm8o/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-05-01T14:21:36Z"
-    },
-    {
-      "id": "Msw9m8vJDoU",
-      "title": "BRONZE MEDAL GAME Domynos vs Roosters SUPER 30.04.2026",
-      "thumbnail": "https://i.ytimg.com/vi/Msw9m8vJDoU/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-05-01T08:45:57Z"
     }
   ]
 }
