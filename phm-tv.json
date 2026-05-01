@@ -1,7 +1,14 @@
 {
-  "updated": "2026-05-01T15:51:57.370Z",
+  "updated": "2026-05-01T16:51:24.527Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
+    {
+      "id": "MBYfy4q-3Dk",
+      "title": "26 04 30 BRONZE MEDAL GAME Domynos vs Roosters",
+      "thumbnail": "https://i.ytimg.com/vi/MBYfy4q-3Dk/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-05-01T16:33:40Z"
+    },
     {
       "id": "yb4o586_nN4",
       "title": "26 WEEK RECAP 05 01 TOP",
@@ -43,13 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/Msw9m8vJDoU/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-05-01T08:45:57Z"
-    },
-    {
-      "id": "BocFRoDXpd4",
-      "title": "3. QF Ducks Sport vs ATTL SPORT 29.04.2026",
-      "thumbnail": "https://i.ytimg.com/vi/BocFRoDXpd4/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-04-30T09:39:23Z"
     }
   ]
 }
