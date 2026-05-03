@@ -1,7 +1,14 @@
 {
-  "updated": "2026-05-03T12:03:44.064Z",
+  "updated": "2026-05-03T13:53:02.558Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
+    {
+      "id": "EEb-M4a4GYI",
+      "title": "1. semifinále Fešáci vs Attl SPORT 3.5.2026",
+      "thumbnail": "https://i.ytimg.com/vi/EEb-M4a4GYI/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2026-05-03T13:39:32Z"
+    },
     {
       "id": "Ol6Bm1nELpo",
       "title": "2026 Moment of Glory TOP Bronze medailist - HC Domynos Praha",
@@ -43,13 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/g_LxUsytY20/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-05-01T14:21:33Z"
-    },
-    {
-      "id": "fJQ64dhAm8o",
-      "title": "26 WEEK RECAP 05 01 SPORT",
-      "thumbnail": "https://i.ytimg.com/vi/fJQ64dhAm8o/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-05-01T14:21:36Z"
     }
   ]
 }
