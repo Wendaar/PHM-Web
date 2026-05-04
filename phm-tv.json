@@ -1,7 +1,14 @@
 {
-  "updated": "2026-05-04T02:26:16.360Z",
+  "updated": "2026-05-04T05:47:56.072Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
+    {
+      "id": "EEb-M4a4GYI",
+      "title": "1. SF Fešáci vs ATTL SPORT 03.05.2026",
+      "thumbnail": "https://i.ytimg.com/vi/EEb-M4a4GYI/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-05-04T03:17:45Z"
+    },
     {
       "id": "jCQpWRY2B3A",
       "title": "3. QF Raptors vs PLATIDLO KLASIK 03.05.2026",
@@ -15,13 +22,6 @@
       "thumbnail": "https://i.ytimg.com/vi/oGLilfEgXBA/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-05-03T15:17:05Z"
-    },
-    {
-      "id": "EEb-M4a4GYI",
-      "title": "1. SF Fešáci vs ATTL SPORT 03.05.2026",
-      "thumbnail": "https://i.ytimg.com/vi/EEb-M4a4GYI/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-05-03T13:39:32Z"
     },
     {
       "id": "Ol6Bm1nELpo",
