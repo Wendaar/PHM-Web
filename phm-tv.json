@@ -1,7 +1,14 @@
 {
-  "updated": "2026-05-04T10:30:21.349Z",
+  "updated": "2026-05-04T12:18:22.791Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
+    {
+      "id": "w49CqUgwf30",
+      "title": "2026 Moment of Glory SUPER Champions - HC Soldiers",
+      "thumbnail": "https://i.ytimg.com/vi/w49CqUgwf30/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-05-04T11:00:34Z"
+    },
     {
       "id": "jCQpWRY2B3A",
       "title": "3. QF Raptors vs PLATIDLO KLASIK 03.05.2026",
@@ -43,13 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/yb4o586_nN4/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-05-01T14:21:42Z"
-    },
-    {
-      "id": "E6lb-V3N8bQ",
-      "title": "26 WEEK RECAP 05 01 SUPER",
-      "thumbnail": "https://i.ytimg.com/vi/E6lb-V3N8bQ/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-05-01T14:21:40Z"
     }
   ]
 }
