@@ -1,12 +1,26 @@
 {
-  "updated": "2026-05-04T18:00:52.900Z",
+  "updated": "2026-05-04T20:00:24.886Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
     {
+      "id": "43Q4HlJreaM",
+      "title": "2. QF MyQ vs Papoušci HOBBY 04.05.2026",
+      "thumbnail": "https://i.ytimg.com/vi/43Q4HlJreaM/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2026-05-04T19:03:58Z"
+    },
+    {
+      "id": "ZbwTH83NJcU",
+      "title": "2.čtvrtfinále PHT vs Scarecrows HOBBY 4.5.2026",
+      "thumbnail": "https://i.ytimg.com/vi/ZbwTH83NJcU/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-05-04T18:48:07Z"
+    },
+    {
       "id": "tpCGkyR9FZI",
       "title": "2. QF Reindeers vs Polar Bears HOBBY 04.05.2026",
-      "thumbnail": "https://i.ytimg.com/vi/tpCGkyR9FZI/mqdefault_live.jpg",
-      "isLive": true,
+      "thumbnail": "https://i.ytimg.com/vi/tpCGkyR9FZI/mqdefault.jpg",
+      "isLive": false,
       "publishedAt": "2026-05-04T17:24:24Z"
     },
     {
@@ -36,20 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/EEb-M4a4GYI/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-05-04T03:17:45Z"
-    },
-    {
-      "id": "Ol6Bm1nELpo",
-      "title": "2026 Moment of Glory TOP Bronze medailist - HC Domynos Praha",
-      "thumbnail": "https://i.ytimg.com/vi/Ol6Bm1nELpo/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-05-01T16:53:01Z"
-    },
-    {
-      "id": "MBYfy4q-3Dk",
-      "title": "26 04 30 BRONZE MEDAL GAME Domynos vs Roosters",
-      "thumbnail": "https://i.ytimg.com/vi/MBYfy4q-3Dk/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-05-01T16:33:40Z"
     }
   ]
 }
