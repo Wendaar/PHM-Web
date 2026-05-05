@@ -1,12 +1,33 @@
 {
-  "updated": "2026-05-05T18:51:33.282Z",
+  "updated": "2026-05-05T20:03:01.904Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
     {
+      "id": "qRY6QmP7B0w",
+      "title": "1. SF Gladiators vs PLATIDLO KLASIK 05.05.2026",
+      "thumbnail": "https://i.ytimg.com/vi/qRY6QmP7B0w/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2026-05-05T18:59:47Z"
+    },
+    {
+      "id": "wsWNk51F5L8",
+      "title": "Fanklub Lev vs Heyoka, SPORT, semifinále 2. vs 3., 05. 05. 2026",
+      "thumbnail": "https://i.ytimg.com/vi/wsWNk51F5L8/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2026-05-05T19:17:09Z"
+    },
+    {
+      "id": "SgSyUYtHgRY",
+      "title": "1. SF Gladiators vs PLATIDLO KLASIK 05.05.2026",
+      "thumbnail": "https://i.ytimg.com/vi/SgSyUYtHgRY/mqdefault_live.jpg",
+      "isLive": false,
+      "publishedAt": "2026-05-05T18:59:38Z"
+    },
+    {
       "id": "zseCg8XpWV8",
       "title": "ATT vs FES, SPORT, semifinále 4. vs 1., 5.5.2026",
-      "thumbnail": "https://i.ytimg.com/vi/zseCg8XpWV8/mqdefault_live.jpg",
-      "isLive": true,
+      "thumbnail": "https://i.ytimg.com/vi/zseCg8XpWV8/mqdefault.jpg",
+      "isLive": false,
       "publishedAt": "2026-05-05T17:51:00Z"
     },
     {
@@ -29,27 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/43Q4HlJreaM/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-05-05T09:39:01Z"
-    },
-    {
-      "id": "tpCGkyR9FZI",
-      "title": "2. QF Reindeers vs Polar Bears HOBBY 04.05.2026",
-      "thumbnail": "https://i.ytimg.com/vi/tpCGkyR9FZI/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-05-05T06:58:58Z"
-    },
-    {
-      "id": "oGLilfEgXBA",
-      "title": "GOLD MEDAL GAME Wolves vs Soldiers SUPER 03.05.2026",
-      "thumbnail": "https://i.ytimg.com/vi/oGLilfEgXBA/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-05-04T16:20:51Z"
-    },
-    {
-      "id": "w49CqUgwf30",
-      "title": "2026 Moment of Glory SUPER Champions - HC Soldiers",
-      "thumbnail": "https://i.ytimg.com/vi/w49CqUgwf30/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-05-04T11:00:34Z"
     }
   ]
 }
