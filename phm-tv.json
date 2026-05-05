@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-04T23:49:16.772Z",
+  "updated": "2026-05-05T02:14:33.999Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
     {
@@ -8,13 +8,6 @@
       "thumbnail": "https://i.ytimg.com/vi/43Q4HlJreaM/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-05-04T19:03:58Z"
-    },
-    {
-      "id": "ZbwTH83NJcU",
-      "title": "2.čtvrtfinále PHT vs Scarecrows HOBBY 4.5.2026",
-      "thumbnail": "https://i.ytimg.com/vi/ZbwTH83NJcU/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-05-04T18:48:07Z"
     },
     {
       "id": "tpCGkyR9FZI",
@@ -50,6 +43,13 @@
       "thumbnail": "https://i.ytimg.com/vi/EEb-M4a4GYI/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-05-04T03:17:45Z"
+    },
+    {
+      "id": "Ol6Bm1nELpo",
+      "title": "2026 Moment of Glory TOP Bronze medailist - HC Domynos Praha",
+      "thumbnail": "https://i.ytimg.com/vi/Ol6Bm1nELpo/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-05-01T16:53:01Z"
     }
   ]
 }
