@@ -1,24 +1,24 @@
 {
-  "updated": "2026-05-06T20:08:04.387Z",
+  "updated": "2026-05-06T21:37:54.478Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
     {
-      "id": "ExOpRFnZq44",
-      "title": "HC Strojaři Attl vs HC Fešáci Semifinále ropzhodující zápas",
-      "thumbnail": "https://i.ytimg.com/vi/ExOpRFnZq44/mqdefault_live.jpg",
-      "isLive": true,
-      "publishedAt": "2026-05-06T18:51:25Z"
-    },
-    {
       "id": "3mK5jshOlE4",
-      "title": "Ducks Stars vs Wolves B, KLASIK, semifinále, 06. 05. 2026",
-      "thumbnail": "https://i.ytimg.com/vi/3mK5jshOlE4/mqdefault_live.jpg",
-      "isLive": true,
+      "title": "1. SF Stars vs Wolves B KLASIK 06.05.2026",
+      "thumbnail": "https://i.ytimg.com/vi/3mK5jshOlE4/mqdefault.jpg",
+      "isLive": false,
       "publishedAt": "2026-05-06T19:34:06Z"
     },
     {
+      "id": "ExOpRFnZq44",
+      "title": "3. SF Fešáci vs ATTL SPORT 06.05.2026",
+      "thumbnail": "https://i.ytimg.com/vi/ExOpRFnZq44/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-05-06T18:51:25Z"
+    },
+    {
       "id": "lbu-4o7X4Z8",
-      "title": "Heyoka vs Fanklub Lev Praha, SPORT,  3. semifinále, 06. 05. 2026",
+      "title": "3. SF Heyoka vs Fanklub Lev SPORT 06.05.2026",
       "thumbnail": "https://i.ytimg.com/vi/lbu-4o7X4Z8/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-05-06T18:10:40Z"
