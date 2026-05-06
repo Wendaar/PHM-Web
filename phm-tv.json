@@ -1,12 +1,26 @@
 {
-  "updated": "2026-05-06T18:18:48.013Z",
+  "updated": "2026-05-06T20:08:04.387Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
     {
+      "id": "ExOpRFnZq44",
+      "title": "HC Strojaři Attl vs HC Fešáci Semifinále ropzhodující zápas",
+      "thumbnail": "https://i.ytimg.com/vi/ExOpRFnZq44/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2026-05-06T18:51:25Z"
+    },
+    {
+      "id": "3mK5jshOlE4",
+      "title": "Ducks Stars vs Wolves B, KLASIK, semifinále, 06. 05. 2026",
+      "thumbnail": "https://i.ytimg.com/vi/3mK5jshOlE4/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2026-05-06T19:34:06Z"
+    },
+    {
       "id": "lbu-4o7X4Z8",
       "title": "Heyoka vs Fanklub Lev Praha, SPORT,  3. semifinále, 06. 05. 2026",
-      "thumbnail": "https://i.ytimg.com/vi/lbu-4o7X4Z8/mqdefault_live.jpg",
-      "isLive": true,
+      "thumbnail": "https://i.ytimg.com/vi/lbu-4o7X4Z8/mqdefault.jpg",
+      "isLive": false,
       "publishedAt": "2026-05-06T18:10:40Z"
     },
     {
@@ -36,20 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/df6zldfrKs0/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-05-06T07:15:59Z"
-    },
-    {
-      "id": "kS1FeJdxvP4",
-      "title": "26 05 03 GOLD MEDAL GAME Wolves vs Soldiers",
-      "thumbnail": "https://i.ytimg.com/vi/kS1FeJdxvP4/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-05-05T14:07:00Z"
-    },
-    {
-      "id": "43Q4HlJreaM",
-      "title": "2. QF MyQ vs Papoušci HOBBY 04.05.2026",
-      "thumbnail": "https://i.ytimg.com/vi/43Q4HlJreaM/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-05-05T09:39:01Z"
     }
   ]
 }
