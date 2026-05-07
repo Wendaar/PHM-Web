@@ -1,27 +1,34 @@
 {
-  "updated": "2026-05-07T08:25:57.614Z",
+  "updated": "2026-05-07T10:39:17.901Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
-    {
-      "id": "lbu-4o7X4Z8",
-      "title": "3. SF Heyoka vs Fanklub Lev SPORT 06.05.2026",
-      "thumbnail": "https://i.ytimg.com/vi/lbu-4o7X4Z8/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-05-07T08:16:58Z"
-    },
     {
       "id": "3mK5jshOlE4",
       "title": "1. SF Stars vs Wolves B KLASIK 06.05.2026",
       "thumbnail": "https://i.ytimg.com/vi/3mK5jshOlE4/mqdefault.jpg",
       "isLive": false,
-      "publishedAt": "2026-05-06T19:34:06Z"
+      "publishedAt": "2026-05-07T09:14:19Z"
     },
     {
       "id": "ExOpRFnZq44",
       "title": "3. SF Fešáci vs ATTL SPORT 06.05.2026",
       "thumbnail": "https://i.ytimg.com/vi/ExOpRFnZq44/mqdefault.jpg",
       "isLive": false,
-      "publishedAt": "2026-05-06T18:51:25Z"
+      "publishedAt": "2026-05-07T08:42:51Z"
+    },
+    {
+      "id": "1yzW32t1CAA",
+      "title": "2026 Moment of Glory SUPER Sliver medailist - HC Prague Wolves",
+      "thumbnail": "https://i.ytimg.com/vi/1yzW32t1CAA/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-05-07T08:26:16Z"
+    },
+    {
+      "id": "lbu-4o7X4Z8",
+      "title": "3. SF Heyoka vs Fanklub Lev SPORT 06.05.2026",
+      "thumbnail": "https://i.ytimg.com/vi/lbu-4o7X4Z8/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-05-07T08:16:58Z"
     },
     {
       "id": "wsWNk51F5L8",
@@ -43,13 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/zseCg8XpWV8/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-05-06T07:20:59Z"
-    },
-    {
-      "id": "df6zldfrKs0",
-      "title": "2. QF Fotr vs Soldiers B HOBBY 05.05.2026",
-      "thumbnail": "https://i.ytimg.com/vi/df6zldfrKs0/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-05-06T07:15:59Z"
     }
   ]
 }
