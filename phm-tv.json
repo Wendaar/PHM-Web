@@ -1,7 +1,14 @@
 {
-  "updated": "2026-05-09T10:30:53.062Z",
+  "updated": "2026-05-09T11:45:11.917Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
+    {
+      "id": "Sw_PZrKW72Q",
+      "title": "Butiqu Hamsters",
+      "thumbnail": "https://i.ytimg.com/vi/Sw_PZrKW72Q/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2026-05-09T11:40:55Z"
+    },
     {
       "id": "i4fw2ALamZQ",
       "title": "2026 Moment of Glory SPORT Bronze medailist - HC Strojaři ATTL",
@@ -43,13 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/lbu-4o7X4Z8/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-05-07T08:16:58Z"
-    },
-    {
-      "id": "6Bih8xeOh1A",
-      "title": "Dragons vs Spiders HOBBY 11.03.2026",
-      "thumbnail": "https://i.ytimg.com/vi/6Bih8xeOh1A/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-03-12T09:58:09Z"
     }
   ]
 }
