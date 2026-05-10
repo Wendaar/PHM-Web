@@ -1,7 +1,14 @@
 {
-  "updated": "2026-05-10T13:06:14.605Z",
+  "updated": "2026-05-10T14:34:16.788Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
+    {
+      "id": "DgqMkJNQgHQ",
+      "title": "3. čtvrtfinále Polar Bears vs AHA Reindeers HOBBY 10.5.2026",
+      "thumbnail": "https://i.ytimg.com/vi/DgqMkJNQgHQ/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2026-05-10T13:40:24Z"
+    },
     {
       "id": "Sw_PZrKW72Q",
       "title": "Butiqu Hamsters",
@@ -43,13 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/1yzW32t1CAA/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-05-07T08:26:16Z"
-    },
-    {
-      "id": "lbu-4o7X4Z8",
-      "title": "3. SF Heyoka vs Fanklub Lev SPORT 06.05.2026",
-      "thumbnail": "https://i.ytimg.com/vi/lbu-4o7X4Z8/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-05-07T08:16:58Z"
     }
   ]
 }
