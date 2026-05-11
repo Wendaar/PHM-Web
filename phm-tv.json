@@ -1,7 +1,21 @@
 {
-  "updated": "2026-05-11T18:16:58.278Z",
+  "updated": "2026-05-11T20:13:44.718Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
+    {
+      "id": "oOKb8-8TsaM",
+      "title": "2. SF Wolves B vs Stars KLASIK 11.05.2026",
+      "thumbnail": "https://i.ytimg.com/vi/oOKb8-8TsaM/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-05-11T18:43:26Z"
+    },
+    {
+      "id": "ucejes0li_E",
+      "title": "2. SF PLATIDLO vs Gladiators KLASIK 11.05.2026",
+      "thumbnail": "https://i.ytimg.com/vi/ucejes0li_E/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-05-11T18:30:56Z"
+    },
     {
       "id": "g_MPZpH0VEw",
       "title": "3. QF Papoušci vs MyQ HOBBY 10.05.2026",
@@ -36,20 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/i4fw2ALamZQ/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-05-08T14:55:36Z"
-    },
-    {
-      "id": "4NSrUoTJWkM",
-      "title": "BRONZE MEDAL GAME Heyoka vs ATTL SPORT 07.05.2026",
-      "thumbnail": "https://i.ytimg.com/vi/4NSrUoTJWkM/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-05-08T08:49:34Z"
-    },
-    {
-      "id": "3mK5jshOlE4",
-      "title": "1. SF Stars vs Wolves B KLASIK 06.05.2026",
-      "thumbnail": "https://i.ytimg.com/vi/3mK5jshOlE4/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-05-07T09:14:19Z"
     }
   ]
 }
