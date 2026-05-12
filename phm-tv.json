@@ -1,7 +1,21 @@
 {
-  "updated": "2026-05-12T18:01:09.319Z",
+  "updated": "2026-05-12T20:12:43.064Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
+    {
+      "id": "pk4XmS0ZbZE",
+      "title": "KV Elektro vs Spiders HOBBY 12.05.2026 Pohár naděje",
+      "thumbnail": "https://i.ytimg.com/vi/pk4XmS0ZbZE/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2026-05-12T19:22:04Z"
+    },
+    {
+      "id": "RmUVJJm28fE",
+      "title": "1. SF Soldiers B vs MyQ HOBBY 12.05.2026",
+      "thumbnail": "https://i.ytimg.com/vi/RmUVJJm28fE/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-05-12T18:10:34Z"
+    },
     {
       "id": "ucejes0li_E",
       "title": "2. SF PLATIDLO vs Gladiators KLASIK 11.05.2026",
@@ -36,20 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/g_MPZpH0VEw/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-05-11T08:08:17Z"
-    },
-    {
-      "id": "hDjTbtyTEv4",
-      "title": "GOLD MEDAL GAME Fešáci vs Fanklub Lev SPORT 10.05.2026",
-      "thumbnail": "https://i.ytimg.com/vi/hDjTbtyTEv4/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-05-11T05:59:54Z"
-    },
-    {
-      "id": "DgqMkJNQgHQ",
-      "title": "3. QF Polar Bears vs Reindeers HOBBY 10.05.2026",
-      "thumbnail": "https://i.ytimg.com/vi/DgqMkJNQgHQ/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-05-11T03:10:03Z"
     }
   ]
 }
