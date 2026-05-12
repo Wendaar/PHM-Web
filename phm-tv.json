@@ -1,20 +1,34 @@
 {
-  "updated": "2026-05-12T06:09:24.921Z",
+  "updated": "2026-05-12T09:16:35.542Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
-    {
-      "id": "oOKb8-8TsaM",
-      "title": "2. SF Wolves B vs Stars KLASIK 11.05.2026",
-      "thumbnail": "https://i.ytimg.com/vi/oOKb8-8TsaM/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-05-11T18:43:26Z"
-    },
     {
       "id": "ucejes0li_E",
       "title": "2. SF PLATIDLO vs Gladiators KLASIK 11.05.2026",
       "thumbnail": "https://i.ytimg.com/vi/ucejes0li_E/mqdefault.jpg",
       "isLive": false,
-      "publishedAt": "2026-05-11T18:30:56Z"
+      "publishedAt": "2026-05-12T09:12:01Z"
+    },
+    {
+      "id": "t59hIdRlqzY",
+      "title": "2026 Moment of Glory SPORT Silver medailist - Fanklub Lev Praha",
+      "thumbnail": "https://i.ytimg.com/vi/t59hIdRlqzY/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-05-12T08:09:49Z"
+    },
+    {
+      "id": "E7kvbw2W22s",
+      "title": "2026 Moment of Glory SPORT Champions - HC Fešáci",
+      "thumbnail": "https://i.ytimg.com/vi/E7kvbw2W22s/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-05-12T08:09:51Z"
+    },
+    {
+      "id": "oOKb8-8TsaM",
+      "title": "2. SF Wolves B vs Stars KLASIK 11.05.2026",
+      "thumbnail": "https://i.ytimg.com/vi/oOKb8-8TsaM/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-05-12T07:52:37Z"
     },
     {
       "id": "g_MPZpH0VEw",
@@ -36,20 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/DgqMkJNQgHQ/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-05-11T03:10:03Z"
-    },
-    {
-      "id": "Sw_PZrKW72Q",
-      "title": "Boutique Prague vs London Hamsters 09.05.2026",
-      "thumbnail": "https://i.ytimg.com/vi/Sw_PZrKW72Q/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-05-10T00:40:38Z"
-    },
-    {
-      "id": "i4fw2ALamZQ",
-      "title": "2026 Moment of Glory SPORT Bronze medailist - HC Strojaři ATTL",
-      "thumbnail": "https://i.ytimg.com/vi/i4fw2ALamZQ/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-05-08T14:55:36Z"
     }
   ]
 }
