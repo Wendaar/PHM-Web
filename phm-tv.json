@@ -1,20 +1,20 @@
 {
-  "updated": "2026-05-13T20:27:33.018Z",
+  "updated": "2026-05-13T21:52:03.215Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
-    {
-      "id": "jfhJtJBngBQ",
-      "title": "1. SF Polar Bears vs Dragons HOBBY 13.05.2026",
-      "thumbnail": "https://i.ytimg.com/vi/jfhJtJBngBQ/mqdefault_live.jpg",
-      "isLive": true,
-      "publishedAt": "2026-05-13T19:41:47Z"
-    },
     {
       "id": "mC_XP6jZwMQ",
       "title": "Króny Cup 2026 - Króny cup go live soon",
       "thumbnail": "https://i.ytimg.com/vi/mC_XP6jZwMQ/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-05-13T19:54:09Z"
+    },
+    {
+      "id": "jfhJtJBngBQ",
+      "title": "1. SF Polar Bears vs Dragons HOBBY 13.05.2026",
+      "thumbnail": "https://i.ytimg.com/vi/jfhJtJBngBQ/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-05-13T19:41:47Z"
     },
     {
       "id": "ZGE7p1LlZNs",
