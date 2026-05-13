@@ -1,12 +1,26 @@
 {
-  "updated": "2026-05-13T18:53:32.181Z",
+  "updated": "2026-05-13T20:27:33.018Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
     {
+      "id": "jfhJtJBngBQ",
+      "title": "1. SF Polar Bears vs Dragons HOBBY 13.05.2026",
+      "thumbnail": "https://i.ytimg.com/vi/jfhJtJBngBQ/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2026-05-13T19:41:47Z"
+    },
+    {
+      "id": "mC_XP6jZwMQ",
+      "title": "Króny Cup 2026 - Króny cup go live soon",
+      "thumbnail": "https://i.ytimg.com/vi/mC_XP6jZwMQ/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-05-13T19:54:09Z"
+    },
+    {
       "id": "ZGE7p1LlZNs",
       "title": "Phantoms vs Paladins HOBBY 13.05.2026 Pohár naděje",
-      "thumbnail": "https://i.ytimg.com/vi/ZGE7p1LlZNs/mqdefault_live.jpg",
-      "isLive": true,
+      "thumbnail": "https://i.ytimg.com/vi/ZGE7p1LlZNs/mqdefault.jpg",
+      "isLive": false,
       "publishedAt": "2026-05-13T18:10:15Z"
     },
     {
@@ -36,20 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/t59hIdRlqzY/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-05-12T08:09:49Z"
-    },
-    {
-      "id": "E7kvbw2W22s",
-      "title": "2026 Moment of Glory SPORT Champions - HC Fešáci",
-      "thumbnail": "https://i.ytimg.com/vi/E7kvbw2W22s/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-05-12T08:09:51Z"
-    },
-    {
-      "id": "oOKb8-8TsaM",
-      "title": "2. SF Wolves B vs Stars KLASIK 11.05.2026",
-      "thumbnail": "https://i.ytimg.com/vi/oOKb8-8TsaM/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-05-12T07:52:37Z"
     }
   ]
 }
