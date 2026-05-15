@@ -1,7 +1,14 @@
 {
-  "updated": "2026-05-15T20:39:02.403Z",
+  "updated": "2026-05-15T21:54:45.862Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
+    {
+      "id": "6xWKWsVXJ80",
+      "title": "HC Kihti vs HK 1625 LIEPĀJA 15.05.2026",
+      "thumbnail": "https://i.ytimg.com/vi/6xWKWsVXJ80/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-05-15T21:39:32Z"
+    },
     {
       "id": "raPOt4FC3BM",
       "title": "Opole vs. Atlantis",
@@ -43,13 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/jeSeB_q1Wx4/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-05-15T09:29:38Z"
-    },
-    {
-      "id": "fOCfkf3m72s",
-      "title": "BRONZE MEDAL GAME Gladiators vs Wolves B KLASIK 14.05.2026",
-      "thumbnail": "https://i.ytimg.com/vi/fOCfkf3m72s/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-05-15T09:26:58Z"
     }
   ]
 }
