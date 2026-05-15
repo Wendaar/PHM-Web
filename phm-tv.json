@@ -1,12 +1,19 @@
 {
-  "updated": "2026-05-15T10:43:35.108Z",
+  "updated": "2026-05-15T12:27:56.673Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
     {
+      "id": "tr07M5aAt-U",
+      "title": "Wanna Never vs. HC Kihti",
+      "thumbnail": "https://i.ytimg.com/vi/tr07M5aAt-U/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2026-05-15T11:37:31Z"
+    },
+    {
       "id": "UkSBU7V9eW0",
       "title": "Atlantis Zvolen vs. Zurich Bliizard",
-      "thumbnail": "https://i.ytimg.com/vi/UkSBU7V9eW0/mqdefault_live.jpg",
-      "isLive": true,
+      "thumbnail": "https://i.ytimg.com/vi/UkSBU7V9eW0/mqdefault.jpg",
+      "isLive": false,
       "publishedAt": "2026-05-15T10:30:19Z"
     },
     {
@@ -43,13 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/ZGE7p1LlZNs/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-05-14T07:35:57Z"
-    },
-    {
-      "id": "mC_XP6jZwMQ",
-      "title": "Króny Cup 2026 - Króny cup go live soon",
-      "thumbnail": "https://i.ytimg.com/vi/mC_XP6jZwMQ/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-05-13T19:54:09Z"
     }
   ]
 }
