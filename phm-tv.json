@@ -1,12 +1,12 @@
 {
-  "updated": "2026-05-15T15:00:16.916Z",
+  "updated": "2026-05-15T17:07:00.014Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
     {
       "id": "raPOt4FC3BM",
       "title": "Opole vs. Atlantis",
-      "thumbnail": "https://i.ytimg.com/vi/raPOt4FC3BM/mqdefault_live.jpg",
-      "isLive": true,
+      "thumbnail": "https://i.ytimg.com/vi/raPOt4FC3BM/mqdefault.jpg",
+      "isLive": false,
       "publishedAt": "2026-05-15T14:46:28Z"
     },
     {
