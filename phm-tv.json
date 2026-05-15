@@ -1,12 +1,33 @@
 {
-  "updated": "2026-05-15T12:27:56.673Z",
+  "updated": "2026-05-15T15:00:16.916Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
     {
+      "id": "raPOt4FC3BM",
+      "title": "Opole vs. Atlantis",
+      "thumbnail": "https://i.ytimg.com/vi/raPOt4FC3BM/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2026-05-15T14:46:28Z"
+    },
+    {
+      "id": "fewd75TueCU",
+      "title": "Zurich vs. Latty",
+      "thumbnail": "https://i.ytimg.com/vi/fewd75TueCU/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-05-15T13:41:08Z"
+    },
+    {
+      "id": "bEz1RoTM2I8",
+      "title": "Orlík vs. Jenoti",
+      "thumbnail": "https://i.ytimg.com/vi/bEz1RoTM2I8/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-05-15T12:39:53Z"
+    },
+    {
       "id": "tr07M5aAt-U",
       "title": "Wanna Never vs. HC Kihti",
-      "thumbnail": "https://i.ytimg.com/vi/tr07M5aAt-U/mqdefault_live.jpg",
-      "isLive": true,
+      "thumbnail": "https://i.ytimg.com/vi/tr07M5aAt-U/mqdefault.jpg",
+      "isLive": false,
       "publishedAt": "2026-05-15T11:37:31Z"
     },
     {
@@ -29,27 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/fOCfkf3m72s/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-05-15T09:26:58Z"
-    },
-    {
-      "id": "6xWKWsVXJ80",
-      "title": "Kihti vs. Liepája",
-      "thumbnail": "https://i.ytimg.com/vi/6xWKWsVXJ80/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-05-15T08:36:42Z"
-    },
-    {
-      "id": "jfhJtJBngBQ",
-      "title": "1. SF Polar Bears vs Dragons HOBBY 13.05.2026",
-      "thumbnail": "https://i.ytimg.com/vi/jfhJtJBngBQ/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-05-14T09:21:46Z"
-    },
-    {
-      "id": "ZGE7p1LlZNs",
-      "title": "Phantoms vs Paladins HOBBY 13.05.2026 Pohár naděje",
-      "thumbnail": "https://i.ytimg.com/vi/ZGE7p1LlZNs/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-05-14T07:35:57Z"
     }
   ]
 }
