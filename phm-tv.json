@@ -1,7 +1,21 @@
 {
-  "updated": "2026-05-15T22:50:36.175Z",
+  "updated": "2026-05-15T23:51:28.972Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
+    {
+      "id": "UkSBU7V9eW0",
+      "title": "HK Atlantis Zvolen vs Zürich Blizzard 15.05.2026",
+      "thumbnail": "https://i.ytimg.com/vi/UkSBU7V9eW0/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-05-15T23:42:47Z"
+    },
+    {
+      "id": "54mYbTj9hGs",
+      "title": "26 05 10 GOLD MEDAL GAME Fešáci vs Fanklub Lev",
+      "thumbnail": "https://i.ytimg.com/vi/54mYbTj9hGs/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-05-15T23:37:55Z"
+    },
     {
       "id": "jeSeB_q1Wx4",
       "title": "HC Lätty vs HK Jenoti 15.05.2026",
@@ -36,20 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/bEz1RoTM2I8/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-05-15T12:39:53Z"
-    },
-    {
-      "id": "tr07M5aAt-U",
-      "title": "Wanna Be Never Been vs HC Kihti 15.05.2026",
-      "thumbnail": "https://i.ytimg.com/vi/tr07M5aAt-U/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-05-15T11:37:31Z"
-    },
-    {
-      "id": "UkSBU7V9eW0",
-      "title": "HK Atlantis Zvolen vs Zürich Blizzard 15.05.2026",
-      "thumbnail": "https://i.ytimg.com/vi/UkSBU7V9eW0/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-05-15T10:30:19Z"
     }
   ]
 }
