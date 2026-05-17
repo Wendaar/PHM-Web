@@ -1,7 +1,14 @@
 {
-  "updated": "2026-05-17T12:02:45.802Z",
+  "updated": "2026-05-17T14:01:48.434Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
+    {
+      "id": "4x8eggsHbrg",
+      "title": "2.SF MYQ vs Soldiers B HOBBY 17.5.2026",
+      "thumbnail": "https://i.ytimg.com/vi/4x8eggsHbrg/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2026-05-17T13:47:21Z"
+    },
     {
       "id": "7Z4WpwVem2A",
       "title": "26 05 14 BRONZE MEDAL GAME Gladiators vs Wolves B",
@@ -43,13 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/UkSBU7V9eW0/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-05-15T23:42:47Z"
-    },
-    {
-      "id": "54mYbTj9hGs",
-      "title": "26 05 10 GOLD MEDAL GAME Fešáci vs Fanklub Lev",
-      "thumbnail": "https://i.ytimg.com/vi/54mYbTj9hGs/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-05-15T23:37:55Z"
     }
   ]
 }
