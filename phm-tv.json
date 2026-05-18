@@ -1,7 +1,21 @@
 {
-  "updated": "2026-05-18T18:28:10.717Z",
+  "updated": "2026-05-18T20:12:59.989Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
+    {
+      "id": "gbAyQybXaZI",
+      "title": "2. SF Dragons vs Polar Bears HOBBY 18.05.2026",
+      "thumbnail": "https://i.ytimg.com/vi/gbAyQybXaZI/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-05-18T18:42:24Z"
+    },
+    {
+      "id": "7hkO1MTO9hQ",
+      "title": "Paladins vs. Spiders",
+      "thumbnail": "https://i.ytimg.com/vi/7hkO1MTO9hQ/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-05-18T18:28:28Z"
+    },
     {
       "id": "9DQ6X6gDgdY",
       "title": "GOLD MEDAL GAME Stars vs PLATIDLO KLASIK 17.05.2026",
@@ -36,20 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/7Z4WpwVem2A/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-05-16T22:28:48Z"
-    },
-    {
-      "id": "raPOt4FC3BM",
-      "title": "HK Atlantis Zvolen vs Orlik Opole 15.05.2026",
-      "thumbnail": "https://i.ytimg.com/vi/raPOt4FC3BM/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-05-16T03:58:43Z"
-    },
-    {
-      "id": "fewd75TueCU",
-      "title": "Zürich Blizzard vs HC Lätty 15.05.2026",
-      "thumbnail": "https://i.ytimg.com/vi/fewd75TueCU/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-05-16T02:49:55Z"
     }
   ]
 }
