@@ -1,7 +1,14 @@
 {
-  "updated": "2026-05-17T23:27:48.100Z",
+  "updated": "2026-05-18T01:27:38.457Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
+    {
+      "id": "9-lrEFtjBCg",
+      "title": "2026 Moment of Glory KLASIK Silver medailist - PLATIDLO.COM",
+      "thumbnail": "https://i.ytimg.com/vi/9-lrEFtjBCg/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-05-17T23:40:42Z"
+    },
     {
       "id": "Nmmv16ccZsc",
       "title": "2026 Moment of Glory KLASIK Champions - HC Ducks Stars",
@@ -43,13 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/fewd75TueCU/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-05-16T02:49:55Z"
-    },
-    {
-      "id": "bEz1RoTM2I8",
-      "title": "HK Jenoti vs Orlik Opole 15.05.2026",
-      "thumbnail": "https://i.ytimg.com/vi/bEz1RoTM2I8/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-05-16T01:44:52Z"
     }
   ]
 }
