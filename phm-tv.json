@@ -1,7 +1,14 @@
 {
-  "updated": "2026-05-19T17:35:16.460Z",
+  "updated": "2026-05-19T19:46:25.079Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
+    {
+      "id": "AG4kwlig84E",
+      "title": "Phantoms vs KV Elektro HOBBY 19.05.2026 Pohár naděje",
+      "thumbnail": "https://i.ytimg.com/vi/AG4kwlig84E/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-05-19T18:26:13Z"
+    },
     {
       "id": "J_5qSrhQppo",
       "title": "26 05 17 GOLD MEDAL GAME Ducks Stars vs PLATIDLO",
@@ -43,13 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/9-lrEFtjBCg/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-05-17T23:40:42Z"
-    },
-    {
-      "id": "Nmmv16ccZsc",
-      "title": "2026 Moment of Glory KLASIK Champions - HC Ducks Stars",
-      "thumbnail": "https://i.ytimg.com/vi/Nmmv16ccZsc/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-05-17T21:13:30Z"
     }
   ]
 }
