@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-21T08:28:55.980Z",
+  "updated": "2026-05-21T11:47:44.925Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
     {
@@ -31,13 +31,6 @@
       "publishedAt": "2026-05-19T08:00:41Z"
     },
     {
-      "id": "9DQ6X6gDgdY",
-      "title": "GOLD MEDAL GAME Stars vs PLATIDLO KLASIK 17.05.2026",
-      "thumbnail": "https://i.ytimg.com/vi/9DQ6X6gDgdY/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-05-18T07:57:46Z"
-    },
-    {
       "id": "pIM47CiXKj0",
       "title": "Ducks Sport vs Fešáci SPORT 09.02.2026",
       "thumbnail": "https://i.ytimg.com/vi/pIM47CiXKj0/mqdefault.jpg",
@@ -50,6 +43,13 @@
       "thumbnail": "https://i.ytimg.com/vi/qjJe3NkGqOs/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-01-29T08:24:13Z"
+    },
+    {
+      "id": "diUa837d8xA",
+      "title": "Alligators vs Gastoni KLASIK 12.01.2026",
+      "thumbnail": "https://i.ytimg.com/vi/diUa837d8xA/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-01-13T09:01:04Z"
     }
   ]
 }
