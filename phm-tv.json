@@ -1,7 +1,14 @@
 {
-  "updated": "2026-05-21T17:28:21.557Z",
+  "updated": "2026-05-21T19:26:15.297Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
+    {
+      "id": "zuRhzVL4e4w",
+      "title": "Soldiers B vs PHT Dragons  HOBBY 21.05.2026",
+      "thumbnail": "https://i.ytimg.com/vi/zuRhzVL4e4w/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2026-05-21T18:01:54Z"
+    },
     {
       "id": "AG4kwlig84E",
       "title": "Phantoms vs KV Elektro HOBBY 19.05.2026 Pohár naděje",
@@ -43,13 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/qjJe3NkGqOs/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-01-29T08:24:13Z"
-    },
-    {
-      "id": "diUa837d8xA",
-      "title": "Alligators vs Gastoni KLASIK 12.01.2026",
-      "thumbnail": "https://i.ytimg.com/vi/diUa837d8xA/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-01-13T09:01:04Z"
     }
   ]
 }
