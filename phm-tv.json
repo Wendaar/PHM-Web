@@ -1,7 +1,14 @@
 {
-  "updated": "2026-05-22T18:12:49.015Z",
+  "updated": "2026-05-22T20:16:41.656Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
+    {
+      "id": "L_y65Yfy4J4",
+      "title": "2026 Moment of Glory HOBBY Bronze medailist - HC Soldiers B",
+      "thumbnail": "https://i.ytimg.com/vi/L_y65Yfy4J4/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-05-22T18:48:33Z"
+    },
     {
       "id": "zuRhzVL4e4w",
       "title": "BRONZE MEDAL GAME Soldiers B vs Dragons HOBBY 21.05.2026",
@@ -43,13 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/de_Pn4q5_LI/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2025-11-08T18:35:58Z"
-    },
-    {
-      "id": "OoahA2py8L4",
-      "title": "Kosti vs Zbraslav SUPER 06.10.2025",
-      "thumbnail": "https://i.ytimg.com/vi/OoahA2py8L4/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2025-10-07T07:46:09Z"
     }
   ]
 }
