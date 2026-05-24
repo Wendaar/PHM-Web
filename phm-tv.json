@@ -1,7 +1,14 @@
 {
-  "updated": "2026-05-24T13:13:28.851Z",
+  "updated": "2026-05-24T14:46:52.907Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
+    {
+      "id": "49tEzIPoT1M",
+      "title": "Paladins vs KV Elektro HOBBY 24.05.2026 Pohár naděje",
+      "thumbnail": "https://i.ytimg.com/vi/49tEzIPoT1M/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2026-05-24T13:44:06Z"
+    },
     {
       "id": "L_y65Yfy4J4",
       "title": "2026 Moment of Glory HOBBY Bronze medailist - HC Soldiers B",
@@ -43,13 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/de_Pn4q5_LI/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2025-11-08T18:35:58Z"
-    },
-    {
-      "id": "OoahA2py8L4",
-      "title": "Kosti vs Zbraslav SUPER 06.10.2025",
-      "thumbnail": "https://i.ytimg.com/vi/OoahA2py8L4/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2025-10-07T07:46:09Z"
     }
   ]
 }
