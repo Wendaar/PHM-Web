@@ -1,13 +1,20 @@
 {
-  "updated": "2026-05-24T18:34:56.934Z",
+  "updated": "2026-05-24T20:00:58.745Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
     {
       "id": "PjnVl30u2eA",
-      "title": "Polar Bears vs MYQ Heroes HOBBY Gold Medal Game",
+      "title": "GOLD MEDAL GAME Polar Bears vs MyQ HOBBY 24.05.2026",
       "thumbnail": "https://i.ytimg.com/vi/PjnVl30u2eA/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-05-24T15:14:10Z"
+    },
+    {
+      "id": "49tEzIPoT1M",
+      "title": "Paladins vs KV Elektro HOBBY 24.05.2026 Pohár naděje",
+      "thumbnail": "https://i.ytimg.com/vi/49tEzIPoT1M/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-05-24T13:44:06Z"
     },
     {
       "id": "L_y65Yfy4J4",
@@ -43,13 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/diUa837d8xA/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-01-13T09:01:04Z"
-    },
-    {
-      "id": "de_Pn4q5_LI",
-      "title": "26 WEEK RECAP 11 7 SPORT",
-      "thumbnail": "https://i.ytimg.com/vi/de_Pn4q5_LI/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2025-11-08T18:35:58Z"
     }
   ]
 }
