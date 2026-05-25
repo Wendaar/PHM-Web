@@ -1,7 +1,21 @@
 {
-  "updated": "2026-05-25T17:04:09.957Z",
+  "updated": "2026-05-25T18:57:40.267Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
+    {
+      "id": "c3Jek0HNjI0",
+      "title": "Ice Spiders vs Prague Phantoms, 25.05.2026, Pohár Naděje, HOBBY",
+      "thumbnail": "https://i.ytimg.com/vi/c3Jek0HNjI0/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2026-05-25T18:31:19Z"
+    },
+    {
+      "id": "ni473ZAUiXw",
+      "title": "2026 Moment of Glory HOBBY Champions - HC Polar Bears",
+      "thumbnail": "https://i.ytimg.com/vi/ni473ZAUiXw/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-05-25T17:28:44Z"
+    },
     {
       "id": "PjnVl30u2eA",
       "title": "GOLD MEDAL GAME Polar Bears vs MyQ HOBBY 24.05.2026",
@@ -36,20 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/qjJe3NkGqOs/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-01-29T08:24:13Z"
-    },
-    {
-      "id": "diUa837d8xA",
-      "title": "Alligators vs Gastoni KLASIK 12.01.2026",
-      "thumbnail": "https://i.ytimg.com/vi/diUa837d8xA/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-01-13T09:01:04Z"
-    },
-    {
-      "id": "de_Pn4q5_LI",
-      "title": "26 WEEK RECAP 11 7 SPORT",
-      "thumbnail": "https://i.ytimg.com/vi/de_Pn4q5_LI/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2025-11-08T18:35:58Z"
     }
   ]
 }
