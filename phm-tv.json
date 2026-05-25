@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-25T11:33:48.628Z",
+  "updated": "2026-05-25T14:43:54.716Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
     {
@@ -24,13 +24,6 @@
       "publishedAt": "2026-05-22T18:48:33Z"
     },
     {
-      "id": "zuRhzVL4e4w",
-      "title": "BRONZE MEDAL GAME Soldiers B vs Dragons HOBBY 21.05.2026",
-      "thumbnail": "https://i.ytimg.com/vi/zuRhzVL4e4w/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-05-22T10:08:04Z"
-    },
-    {
       "id": "pIM47CiXKj0",
       "title": "Ducks Sport vs Fešáci SPORT 09.02.2026",
       "thumbnail": "https://i.ytimg.com/vi/pIM47CiXKj0/mqdefault.jpg",
@@ -50,6 +43,13 @@
       "thumbnail": "https://i.ytimg.com/vi/diUa837d8xA/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-01-13T09:01:04Z"
+    },
+    {
+      "id": "de_Pn4q5_LI",
+      "title": "26 WEEK RECAP 11 7 SPORT",
+      "thumbnail": "https://i.ytimg.com/vi/de_Pn4q5_LI/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2025-11-08T18:35:58Z"
     }
   ]
 }
