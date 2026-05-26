@@ -1,7 +1,14 @@
 {
-  "updated": "2026-05-26T17:54:08.118Z",
+  "updated": "2026-05-26T20:01:30.619Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
+    {
+      "id": "XSMQ2gPevLc",
+      "title": "K&amp;V Elektro vs Sport Zbraslav PÚ 26.5.2026",
+      "thumbnail": "https://i.ytimg.com/vi/XSMQ2gPevLc/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-05-26T18:08:25Z"
+    },
     {
       "id": "c3Jek0HNjI0",
       "title": "Spiders vs Phantoms HOBBY 25.05.2026 Pohár naděje",
@@ -43,13 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/pIM47CiXKj0/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-02-10T07:54:40Z"
-    },
-    {
-      "id": "qjJe3NkGqOs",
-      "title": "Domynos vs Zbraslav SUPER 28.01.2026",
-      "thumbnail": "https://i.ytimg.com/vi/qjJe3NkGqOs/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-01-29T08:24:13Z"
     }
   ]
 }
