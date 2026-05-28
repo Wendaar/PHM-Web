@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-28T18:06:33.259Z",
+  "updated": "2026-05-28T20:40:51.238Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
     {
@@ -38,18 +38,18 @@
       "publishedAt": "2026-05-25T20:08:23Z"
     },
     {
-      "id": "ni473ZAUiXw",
-      "title": "2026 Moment of Glory HOBBY Champions - HC Polar Bears",
-      "thumbnail": "https://i.ytimg.com/vi/ni473ZAUiXw/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-05-25T17:28:44Z"
-    },
-    {
       "id": "pIM47CiXKj0",
       "title": "Ducks Sport vs Fešáci SPORT 09.02.2026",
       "thumbnail": "https://i.ytimg.com/vi/pIM47CiXKj0/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-02-10T07:54:40Z"
+    },
+    {
+      "id": "qjJe3NkGqOs",
+      "title": "Domynos vs Zbraslav SUPER 28.01.2026",
+      "thumbnail": "https://i.ytimg.com/vi/qjJe3NkGqOs/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-01-29T08:24:13Z"
     }
   ]
 }
