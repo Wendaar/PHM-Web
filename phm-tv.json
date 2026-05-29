@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-28T22:38:43.565Z",
+  "updated": "2026-05-29T00:06:31.575Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
     {
@@ -31,13 +31,6 @@
       "publishedAt": "2026-05-26T07:49:43Z"
     },
     {
-      "id": "bQPSUicJ3vg",
-      "title": "26 05 21 BRONZE MEDAL GAME Dragons vs Soldiers B",
-      "thumbnail": "https://i.ytimg.com/vi/bQPSUicJ3vg/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-05-25T20:08:23Z"
-    },
-    {
       "id": "pIM47CiXKj0",
       "title": "Ducks Sport vs Fešáci SPORT 09.02.2026",
       "thumbnail": "https://i.ytimg.com/vi/pIM47CiXKj0/mqdefault.jpg",
@@ -50,6 +43,13 @@
       "thumbnail": "https://i.ytimg.com/vi/qjJe3NkGqOs/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-01-29T08:24:13Z"
+    },
+    {
+      "id": "diUa837d8xA",
+      "title": "Alligators vs Gastoni KLASIK 12.01.2026",
+      "thumbnail": "https://i.ytimg.com/vi/diUa837d8xA/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-01-13T09:01:04Z"
     }
   ]
 }
