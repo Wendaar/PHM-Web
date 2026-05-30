@@ -1,7 +1,21 @@
 {
-  "updated": "2026-05-30T20:50:08.231Z",
+  "updated": "2026-05-30T21:55:56.355Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
+    {
+      "id": "hEoEyHRibAo",
+      "title": "KRÓNY CUP 2026 Hockey Urquell vs HK Křížová Ves 30.05.2026",
+      "thumbnail": "https://i.ytimg.com/vi/hEoEyHRibAo/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-05-30T21:36:41Z"
+    },
+    {
+      "id": "m8fEwLmsAdY",
+      "title": "KRÓNY CUP 2026 Cones Beograd vs Prague Hockey Masters 30.05.2026",
+      "thumbnail": "https://i.ytimg.com/vi/m8fEwLmsAdY/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-05-30T21:37:05Z"
+    },
     {
       "id": "-sSl1UPTxFM",
       "title": "KRÓNY CUP 2026 Fanklub Lev Praha vs HK Křížová Ves 30.05.2026",
@@ -36,20 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/VI9owEZohiM/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-05-30T10:41:21Z"
-    },
-    {
-      "id": "pSPzZAoW-GQ",
-      "title": "KRÓNY CUP 2026 Euro Team vs Cones Beograd 30.05.2026",
-      "thumbnail": "https://i.ytimg.com/vi/pSPzZAoW-GQ/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-05-30T09:51:18Z"
-    },
-    {
-      "id": "OtVhYmT0C70",
-      "title": "KRÓNY CUP 2026 Fanklub Lev Praha vs Lotry Krakow 30.05.2026",
-      "thumbnail": "https://i.ytimg.com/vi/OtVhYmT0C70/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-05-30T09:17:23Z"
     }
   ]
 }
