@@ -1,7 +1,35 @@
 {
-  "updated": "2026-05-30T07:36:19.405Z",
+  "updated": "2026-05-30T09:54:09.111Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
+    {
+      "id": "pSPzZAoW-GQ",
+      "title": "Euro Team vs Cones Beograd - KRONY CUP, 30.05.2026",
+      "thumbnail": "https://i.ytimg.com/vi/pSPzZAoW-GQ/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2026-05-30T09:51:18Z"
+    },
+    {
+      "id": "OtVhYmT0C70",
+      "title": "Fanklub Lev Praha vs Lotry Krakow Króny 30.05.26",
+      "thumbnail": "https://i.ytimg.com/vi/OtVhYmT0C70/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2026-05-30T09:17:23Z"
+    },
+    {
+      "id": "hEoEyHRibAo",
+      "title": "URQUELL KRIZOVA VES",
+      "thumbnail": "https://i.ytimg.com/vi/hEoEyHRibAo/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-05-30T08:34:14Z"
+    },
+    {
+      "id": "m8fEwLmsAdY",
+      "title": "Cones Beograd vs PHM Króny 30.05.26",
+      "thumbnail": "https://i.ytimg.com/vi/m8fEwLmsAdY/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-05-30T08:15:55Z"
+    },
     {
       "id": "SAp678fFP74",
       "title": "KRÓNY CUP 2026 Hockey Urquell vs Fanklub Lev 29.05.2026",
@@ -22,34 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/t6bAQTC8zGk/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-05-28T11:19:14Z"
-    },
-    {
-      "id": "NIoRqeyX3Cw",
-      "title": "26 05 24 GOLD MEDAL GAME Polar Bears vs MyQ",
-      "thumbnail": "https://i.ytimg.com/vi/NIoRqeyX3Cw/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-05-27T09:03:59Z"
-    },
-    {
-      "id": "XSMQ2gPevLc",
-      "title": "K&amp;V Elektro vs Sport Zbraslav PÚ 26.05.2026",
-      "thumbnail": "https://i.ytimg.com/vi/XSMQ2gPevLc/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-05-27T07:42:15Z"
-    },
-    {
-      "id": "pIM47CiXKj0",
-      "title": "Ducks Sport vs Fešáci SPORT 09.02.2026",
-      "thumbnail": "https://i.ytimg.com/vi/pIM47CiXKj0/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-02-10T07:54:40Z"
-    },
-    {
-      "id": "qjJe3NkGqOs",
-      "title": "Domynos vs Zbraslav SUPER 28.01.2026",
-      "thumbnail": "https://i.ytimg.com/vi/qjJe3NkGqOs/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-01-29T08:24:13Z"
     }
   ]
 }
