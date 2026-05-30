@@ -1,7 +1,14 @@
 {
-  "updated": "2026-05-30T21:55:56.355Z",
+  "updated": "2026-05-30T22:55:13.767Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
+    {
+      "id": "OtVhYmT0C70",
+      "title": "KRÓNY CUP 2026 Fanklub Lev Praha vs Lotry Krakow 30.05.2026",
+      "thumbnail": "https://i.ytimg.com/vi/OtVhYmT0C70/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-05-30T22:48:21Z"
+    },
     {
       "id": "hEoEyHRibAo",
       "title": "KRÓNY CUP 2026 Hockey Urquell vs HK Křížová Ves 30.05.2026",
@@ -43,13 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/oVxGe5Wc0Ng/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-05-30T10:46:12Z"
-    },
-    {
-      "id": "VI9owEZohiM",
-      "title": "KRÓNY CUP 2026 Prague Hockey Masters vs The North 30.05.2026",
-      "thumbnail": "https://i.ytimg.com/vi/VI9owEZohiM/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-05-30T10:41:21Z"
     }
   ]
 }
