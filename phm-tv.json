@@ -1,12 +1,33 @@
 {
-  "updated": "2026-05-30T12:44:46.077Z",
+  "updated": "2026-05-30T14:25:34.231Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
     {
+      "id": "tWN92nbDvE0",
+      "title": "Cones Beograd vs The North Króny 30.05.26",
+      "thumbnail": "https://i.ytimg.com/vi/tWN92nbDvE0/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2026-05-30T14:20:43Z"
+    },
+    {
+      "id": "-sSl1UPTxFM",
+      "title": "Fanklub Lev Praha vs HK Krížová Ves, KRONY CUP",
+      "thumbnail": "https://i.ytimg.com/vi/-sSl1UPTxFM/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2026-05-30T13:34:41Z"
+    },
+    {
+      "id": "TRg8_Ok5xLE",
+      "title": "Hockey Urquell vs Lotry Karkow Króny 30.05.26",
+      "thumbnail": "https://i.ytimg.com/vi/TRg8_Ok5xLE/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-05-30T13:17:11Z"
+    },
+    {
       "id": "CoWQZziQ0rg",
       "title": "Euro Team vs Prague Hockey Masters, KRONY CUP 30.05.2026",
-      "thumbnail": "https://i.ytimg.com/vi/CoWQZziQ0rg/mqdefault_live.jpg",
-      "isLive": true,
+      "thumbnail": "https://i.ytimg.com/vi/CoWQZziQ0rg/mqdefault.jpg",
+      "isLive": false,
       "publishedAt": "2026-05-30T12:16:28Z"
     },
     {
@@ -29,27 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/pSPzZAoW-GQ/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-05-30T09:51:18Z"
-    },
-    {
-      "id": "OtVhYmT0C70",
-      "title": "Fanklub Lev Praha vs Lotry Krakow Króny 30.05.26",
-      "thumbnail": "https://i.ytimg.com/vi/OtVhYmT0C70/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-05-30T09:17:23Z"
-    },
-    {
-      "id": "hEoEyHRibAo",
-      "title": "URQUELL KRIZOVA VES",
-      "thumbnail": "https://i.ytimg.com/vi/hEoEyHRibAo/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-05-30T08:34:14Z"
-    },
-    {
-      "id": "m8fEwLmsAdY",
-      "title": "Cones Beograd vs PHM Króny 30.05.26",
-      "thumbnail": "https://i.ytimg.com/vi/m8fEwLmsAdY/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-05-30T08:15:55Z"
     }
   ]
 }
