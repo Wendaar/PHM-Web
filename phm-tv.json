@@ -1,19 +1,33 @@
 {
-  "updated": "2026-05-30T09:54:09.111Z",
+  "updated": "2026-05-30T11:16:00.994Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
     {
+      "id": "VI9owEZohiM",
+      "title": "PHM vs The North Króny 30.05.26",
+      "thumbnail": "https://i.ytimg.com/vi/VI9owEZohiM/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2026-05-30T10:41:21Z"
+    },
+    {
+      "id": "oVxGe5Wc0Ng",
+      "title": "Krížová ves vs Lotry Krakow, KRONY CUP, 30.05.2026",
+      "thumbnail": "https://i.ytimg.com/vi/oVxGe5Wc0Ng/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2026-05-30T10:46:12Z"
+    },
+    {
       "id": "pSPzZAoW-GQ",
       "title": "Euro Team vs Cones Beograd - KRONY CUP, 30.05.2026",
-      "thumbnail": "https://i.ytimg.com/vi/pSPzZAoW-GQ/mqdefault_live.jpg",
-      "isLive": true,
+      "thumbnail": "https://i.ytimg.com/vi/pSPzZAoW-GQ/mqdefault.jpg",
+      "isLive": false,
       "publishedAt": "2026-05-30T09:51:18Z"
     },
     {
       "id": "OtVhYmT0C70",
       "title": "Fanklub Lev Praha vs Lotry Krakow Króny 30.05.26",
-      "thumbnail": "https://i.ytimg.com/vi/OtVhYmT0C70/mqdefault_live.jpg",
-      "isLive": true,
+      "thumbnail": "https://i.ytimg.com/vi/OtVhYmT0C70/mqdefault.jpg",
+      "isLive": false,
       "publishedAt": "2026-05-30T09:17:23Z"
     },
     {
@@ -36,20 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/SAp678fFP74/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-05-30T05:11:11Z"
-    },
-    {
-      "id": "gYGZWk_YVY8",
-      "title": "KRÓNY CUP 2026 Euro Team vs The North 29.05.2026",
-      "thumbnail": "https://i.ytimg.com/vi/gYGZWk_YVY8/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-05-29T15:51:05Z"
-    },
-    {
-      "id": "t6bAQTC8zGk",
-      "title": "2026 Moment of Glory HOBBY Silver medailists - MyQ Heroes",
-      "thumbnail": "https://i.ytimg.com/vi/t6bAQTC8zGk/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-05-28T11:19:14Z"
     }
   ]
 }
