@@ -1,12 +1,19 @@
 {
-  "updated": "2026-05-31T10:10:11.930Z",
+  "updated": "2026-05-31T11:54:54.535Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
     {
+      "id": "9-POl9TLGpA",
+      "title": "Hockey Urquell vs The North Króny 31.05.26",
+      "thumbnail": "https://i.ytimg.com/vi/9-POl9TLGpA/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2026-05-31T11:27:26Z"
+    },
+    {
       "id": "8PrgiHhyCZg",
       "title": "Lotry Krakow vs PHM Króny 31.05.26",
-      "thumbnail": "https://i.ytimg.com/vi/8PrgiHhyCZg/mqdefault_live.jpg",
-      "isLive": true,
+      "thumbnail": "https://i.ytimg.com/vi/8PrgiHhyCZg/mqdefault.jpg",
+      "isLive": false,
       "publishedAt": "2026-05-31T09:53:55Z"
     },
     {
@@ -43,13 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/CoWQZziQ0rg/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-05-31T01:37:27Z"
-    },
-    {
-      "id": "oVxGe5Wc0Ng",
-      "title": "KRÓNY CUP 2026 HK Křížová Ves vs Lotry Krakow 30.05.2026",
-      "thumbnail": "https://i.ytimg.com/vi/oVxGe5Wc0Ng/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-05-31T00:21:33Z"
     }
   ]
 }
