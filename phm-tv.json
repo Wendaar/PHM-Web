@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-03T23:01:23.363Z",
+  "updated": "2026-06-04T02:03:48.892Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
     {
@@ -15,13 +15,6 @@
       "thumbnail": "https://i.ytimg.com/vi/8PrgiHhyCZg/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-05-31T23:14:17Z"
-    },
-    {
-      "id": "xnyLb4g_lVk",
-      "title": "KRÓNY CUP 2026 Fanklub Lev Praha vs Euro Team 31.05.2026",
-      "thumbnail": "https://i.ytimg.com/vi/xnyLb4g_lVk/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-05-31T22:29:37Z"
     },
     {
       "id": "pIM47CiXKj0",
@@ -50,6 +43,13 @@
       "thumbnail": "https://i.ytimg.com/vi/de_Pn4q5_LI/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2025-11-08T18:35:58Z"
+    },
+    {
+      "id": "OoahA2py8L4",
+      "title": "Kosti vs Zbraslav SUPER 06.10.2025",
+      "thumbnail": "https://i.ytimg.com/vi/OoahA2py8L4/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2025-10-07T07:46:09Z"
     }
   ]
 }
