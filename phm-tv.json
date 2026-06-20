@@ -1,12 +1,19 @@
 {
-  "updated": "2026-06-20T14:38:51.296Z",
+  "updated": "2026-06-20T16:13:34.733Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
     {
+      "id": "wRHEVvWWA_k",
+      "title": "Green vs. Red Saturday",
+      "thumbnail": "https://i.ytimg.com/vi/wRHEVvWWA_k/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2026-06-20T15:57:25Z"
+    },
+    {
       "id": "jMVKtbTRk-I",
       "title": "Grey vs. Royal Blue Saturday",
-      "thumbnail": "https://i.ytimg.com/vi/jMVKtbTRk-I/mqdefault_live.jpg",
-      "isLive": true,
+      "thumbnail": "https://i.ytimg.com/vi/jMVKtbTRk-I/mqdefault.jpg",
+      "isLive": false,
       "publishedAt": "2026-06-20T14:35:59Z"
     },
     {
@@ -43,13 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/pIM47CiXKj0/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-02-10T07:54:40Z"
-    },
-    {
-      "id": "qjJe3NkGqOs",
-      "title": "Domynos vs Zbraslav SUPER 28.01.2026",
-      "thumbnail": "https://i.ytimg.com/vi/qjJe3NkGqOs/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-01-29T08:24:13Z"
     }
   ]
 }
