@@ -1,12 +1,26 @@
 {
-  "updated": "2026-06-20T12:13:43.677Z",
+  "updated": "2026-06-20T14:38:51.296Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
     {
+      "id": "jMVKtbTRk-I",
+      "title": "Grey vs. Royal Blue Saturday",
+      "thumbnail": "https://i.ytimg.com/vi/jMVKtbTRk-I/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2026-06-20T14:35:59Z"
+    },
+    {
+      "id": "9k64Z7qrEOI",
+      "title": "Navy vs. Green Saturday",
+      "thumbnail": "https://i.ytimg.com/vi/9k64Z7qrEOI/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-06-20T13:15:59Z"
+    },
+    {
       "id": "nce8gmPa5Is",
       "title": "Red vs. Royal Blue Saturday",
-      "thumbnail": "https://i.ytimg.com/vi/nce8gmPa5Is/mqdefault_live.jpg",
-      "isLive": true,
+      "thumbnail": "https://i.ytimg.com/vi/nce8gmPa5Is/mqdefault.jpg",
+      "isLive": false,
       "publishedAt": "2026-06-20T11:58:26Z"
     },
     {
@@ -36,20 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/qjJe3NkGqOs/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-01-29T08:24:13Z"
-    },
-    {
-      "id": "diUa837d8xA",
-      "title": "Alligators vs Gastoni KLASIK 12.01.2026",
-      "thumbnail": "https://i.ytimg.com/vi/diUa837d8xA/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-01-13T09:01:04Z"
-    },
-    {
-      "id": "de_Pn4q5_LI",
-      "title": "26 WEEK RECAP 11 7 SPORT",
-      "thumbnail": "https://i.ytimg.com/vi/de_Pn4q5_LI/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2025-11-08T18:35:58Z"
     }
   ]
 }
