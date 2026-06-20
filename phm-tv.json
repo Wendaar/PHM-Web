@@ -1,12 +1,47 @@
 {
-  "updated": "2026-06-20T17:52:29.711Z",
+  "updated": "2026-06-20T19:16:42.719Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
     {
+      "id": "iibIYAem4mI",
+      "title": "Grey vs. Red",
+      "thumbnail": "https://i.ytimg.com/vi/iibIYAem4mI/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2026-06-20T18:41:35Z"
+    },
+    {
+      "id": "V1iTLjPSkb0",
+      "title": "Grey vs. Red",
+      "thumbnail": "https://i.ytimg.com/vi/V1iTLjPSkb0/mqdefault_live.jpg",
+      "isLive": false,
+      "publishedAt": "2026-06-20T18:40:05Z"
+    },
+    {
+      "id": "gkS9P7fU2RM",
+      "title": "Grey vs. Red",
+      "thumbnail": "https://i.ytimg.com/vi/gkS9P7fU2RM/mqdefault_live.jpg",
+      "isLive": false,
+      "publishedAt": "2026-06-20T18:37:38Z"
+    },
+    {
+      "id": "O_FI2voPDFI",
+      "title": "Grey vs. Red",
+      "thumbnail": "https://i.ytimg.com/vi/O_FI2voPDFI/mqdefault_live.jpg",
+      "isLive": false,
+      "publishedAt": "2026-06-20T18:37:47Z"
+    },
+    {
+      "id": "W8lsIG_yGLk",
+      "title": "Grey vs. Red",
+      "thumbnail": "https://i.ytimg.com/vi/W8lsIG_yGLk/mqdefault_live.jpg",
+      "isLive": false,
+      "publishedAt": "2026-06-20T18:38:23Z"
+    },
+    {
       "id": "rjxlbwvAl6c",
       "title": "Royal Blue vs. White Saturday",
-      "thumbnail": "https://i.ytimg.com/vi/rjxlbwvAl6c/mqdefault_live.jpg",
-      "isLive": true,
+      "thumbnail": "https://i.ytimg.com/vi/rjxlbwvAl6c/mqdefault.jpg",
+      "isLive": false,
       "publishedAt": "2026-06-20T17:18:33Z"
     },
     {
@@ -15,41 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/wRHEVvWWA_k/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-06-20T15:57:25Z"
-    },
-    {
-      "id": "jMVKtbTRk-I",
-      "title": "Grey vs. Royal Blue Saturday",
-      "thumbnail": "https://i.ytimg.com/vi/jMVKtbTRk-I/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-06-20T14:35:59Z"
-    },
-    {
-      "id": "9k64Z7qrEOI",
-      "title": "Navy vs. Green Saturday",
-      "thumbnail": "https://i.ytimg.com/vi/9k64Z7qrEOI/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-06-20T13:15:59Z"
-    },
-    {
-      "id": "nce8gmPa5Is",
-      "title": "Red vs. Royal Blue Saturday",
-      "thumbnail": "https://i.ytimg.com/vi/nce8gmPa5Is/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-06-20T11:58:26Z"
-    },
-    {
-      "id": "MIeHCbEldPI",
-      "title": "Green vs. Grey.  Saturday",
-      "thumbnail": "https://i.ytimg.com/vi/MIeHCbEldPI/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-06-20T10:40:02Z"
-    },
-    {
-      "id": "x-TNLQJKzJo",
-      "title": "BCHL Match Red team vs Navy Friday June 19 2026",
-      "thumbnail": "https://i.ytimg.com/vi/x-TNLQJKzJo/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-06-20T03:47:30Z"
     }
   ]
 }
