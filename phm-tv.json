@@ -1,7 +1,14 @@
 {
-  "updated": "2026-06-21T18:57:28.922Z",
+  "updated": "2026-06-21T20:24:50.328Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
+    {
+      "id": "kGg7pIJ3Syk",
+      "title": "Match #1 Sunday 9:00",
+      "thumbnail": "https://i.ytimg.com/vi/kGg7pIJ3Syk/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-06-21T20:11:42Z"
+    },
     {
       "id": "qbk5OqzvfGA",
       "title": "Team Red vs Team ROYAL BLUE match #5 SUNDAY",
@@ -36,13 +43,6 @@
       "thumbnail": "https://i.ytimg.com/vi/iibIYAem4mI/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-06-21T07:48:36Z"
-    },
-    {
-      "id": "kGg7pIJ3Syk",
-      "title": "Match #1 Sunday 9:00",
-      "thumbnail": "https://i.ytimg.com/vi/kGg7pIJ3Syk/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-06-21T07:04:36Z"
     },
     {
       "id": "rjxlbwvAl6c",
