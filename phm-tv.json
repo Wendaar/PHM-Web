@@ -1,12 +1,26 @@
 {
-  "updated": "2026-06-21T08:24:07.244Z",
+  "updated": "2026-06-21T11:27:31.983Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
     {
+      "id": "pb0AjZvyVoY",
+      "title": "Team GREEN vs Team GREY match #4 SUNDAY",
+      "thumbnail": "https://i.ytimg.com/vi/pb0AjZvyVoY/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2026-06-21T10:54:15Z"
+    },
+    {
+      "id": "vGv9vFZjkV4",
+      "title": "Team RED vs Team NAVY Match #3 SUNDAY",
+      "thumbnail": "https://i.ytimg.com/vi/vGv9vFZjkV4/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-06-21T09:40:14Z"
+    },
+    {
       "id": "_-B9fcYyoz8",
       "title": "Team GREEN vs Team Royal BLUE Sunday Match #2",
-      "thumbnail": "https://i.ytimg.com/vi/_-B9fcYyoz8/mqdefault_live.jpg",
-      "isLive": true,
+      "thumbnail": "https://i.ytimg.com/vi/_-B9fcYyoz8/mqdefault.jpg",
+      "isLive": false,
       "publishedAt": "2026-06-21T08:18:34Z"
     },
     {
@@ -36,20 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/wRHEVvWWA_k/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-06-21T05:06:45Z"
-    },
-    {
-      "id": "jMVKtbTRk-I",
-      "title": "Grey vs. Royal Blue Saturday",
-      "thumbnail": "https://i.ytimg.com/vi/jMVKtbTRk-I/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-06-21T03:44:13Z"
-    },
-    {
-      "id": "9k64Z7qrEOI",
-      "title": "Navy vs. Green Saturday",
-      "thumbnail": "https://i.ytimg.com/vi/9k64Z7qrEOI/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-06-21T02:21:02Z"
     }
   ]
 }
