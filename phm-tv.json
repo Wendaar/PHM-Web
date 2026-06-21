@@ -1,7 +1,14 @@
 {
-  "updated": "2026-06-21T21:51:05.663Z",
+  "updated": "2026-06-21T23:06:42.985Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
+    {
+      "id": "vGv9vFZjkV4",
+      "title": "Team RED vs Team NAVY Match #3 SUNDAY",
+      "thumbnail": "https://i.ytimg.com/vi/vGv9vFZjkV4/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-06-21T22:54:47Z"
+    },
     {
       "id": "_-B9fcYyoz8",
       "title": "Team GREEN vs Team Royal BLUE Sunday Match #2",
@@ -29,13 +36,6 @@
       "thumbnail": "https://i.ytimg.com/vi/pb0AjZvyVoY/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-06-21T10:54:15Z"
-    },
-    {
-      "id": "vGv9vFZjkV4",
-      "title": "Team RED vs Team NAVY Match #3 SUNDAY",
-      "thumbnail": "https://i.ytimg.com/vi/vGv9vFZjkV4/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-06-21T09:40:14Z"
     },
     {
       "id": "iibIYAem4mI",
