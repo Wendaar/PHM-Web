@@ -1,7 +1,28 @@
 {
-  "updated": "2026-06-20T23:42:46.692Z",
+  "updated": "2026-06-21T03:34:13.265Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
+    {
+      "id": "9k64Z7qrEOI",
+      "title": "Navy vs. Green Saturday",
+      "thumbnail": "https://i.ytimg.com/vi/9k64Z7qrEOI/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-06-21T02:21:02Z"
+    },
+    {
+      "id": "nce8gmPa5Is",
+      "title": "Red vs. Royal Blue Saturday",
+      "thumbnail": "https://i.ytimg.com/vi/nce8gmPa5Is/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-06-21T01:06:17Z"
+    },
+    {
+      "id": "MIeHCbEldPI",
+      "title": "Green vs. Grey.  Saturday",
+      "thumbnail": "https://i.ytimg.com/vi/MIeHCbEldPI/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-06-20T23:45:11Z"
+    },
     {
       "id": "iibIYAem4mI",
       "title": "Grey vs. Red",
@@ -29,27 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/O_FI2voPDFI/mqdefault_live.jpg",
       "isLive": false,
       "publishedAt": "2026-06-20T18:37:47Z"
-    },
-    {
-      "id": "W8lsIG_yGLk",
-      "title": "Grey vs. Red",
-      "thumbnail": "https://i.ytimg.com/vi/W8lsIG_yGLk/mqdefault_live.jpg",
-      "isLive": false,
-      "publishedAt": "2026-06-20T18:38:23Z"
-    },
-    {
-      "id": "rjxlbwvAl6c",
-      "title": "Royal Blue vs. White Saturday",
-      "thumbnail": "https://i.ytimg.com/vi/rjxlbwvAl6c/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-06-20T17:18:33Z"
-    },
-    {
-      "id": "wRHEVvWWA_k",
-      "title": "Green vs. Red Saturday",
-      "thumbnail": "https://i.ytimg.com/vi/wRHEVvWWA_k/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-06-20T15:57:25Z"
     }
   ]
 }
