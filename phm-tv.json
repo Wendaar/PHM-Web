@@ -1,7 +1,21 @@
 {
-  "updated": "2026-06-23T19:24:06.301Z",
+  "updated": "2026-06-23T21:12:44.363Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
+    {
+      "id": "EiBn5Twb13s",
+      "title": "ZA MANTINELEM PHM #02 – PHM mimo ligu | Kempy, turnaje, výjezdy a Kanadský sen",
+      "thumbnail": "https://i.ytimg.com/vi/EiBn5Twb13s/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-06-23T19:53:05Z"
+    },
+    {
+      "id": "HzNAbkW51Ik",
+      "title": "ZA MANTINELEM PHM #01 – Recap sezony 2026 | PHM už není jen tabulka",
+      "thumbnail": "https://i.ytimg.com/vi/HzNAbkW51Ik/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-06-23T19:42:03Z"
+    },
     {
       "id": "qbk5OqzvfGA",
       "title": "Team Red vs Team ROYAL BLUE match #5 SUNDAY",
@@ -36,20 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/kGg7pIJ3Syk/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-06-21T20:11:42Z"
-    },
-    {
-      "id": "iibIYAem4mI",
-      "title": "Grey vs. Red",
-      "thumbnail": "https://i.ytimg.com/vi/iibIYAem4mI/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-06-21T07:48:36Z"
-    },
-    {
-      "id": "rjxlbwvAl6c",
-      "title": "Royal Blue vs. White Saturday",
-      "thumbnail": "https://i.ytimg.com/vi/rjxlbwvAl6c/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-06-21T06:31:45Z"
     }
   ]
 }
