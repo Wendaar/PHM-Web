@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-25T00:04:21.933Z",
+  "updated": "2026-06-25T04:41:42.206Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
     {
@@ -15,20 +15,6 @@
       "thumbnail": "https://i.ytimg.com/vi/HzNAbkW51Ik/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-06-23T19:42:03Z"
-    },
-    {
-      "id": "qbk5OqzvfGA",
-      "title": "Team Red vs Team ROYAL BLUE match #5 SUNDAY",
-      "thumbnail": "https://i.ytimg.com/vi/qbk5OqzvfGA/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-06-22T01:37:44Z"
-    },
-    {
-      "id": "pb0AjZvyVoY",
-      "title": "Team GREEN vs Team GREY match #4 SUNDAY",
-      "thumbnail": "https://i.ytimg.com/vi/pb0AjZvyVoY/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-06-21T23:58:21Z"
     },
     {
       "id": "pIM47CiXKj0",
@@ -50,6 +36,20 @@
       "thumbnail": "https://i.ytimg.com/vi/diUa837d8xA/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-01-13T09:01:04Z"
+    },
+    {
+      "id": "de_Pn4q5_LI",
+      "title": "26 WEEK RECAP 11 7 SPORT",
+      "thumbnail": "https://i.ytimg.com/vi/de_Pn4q5_LI/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2025-11-08T18:35:58Z"
+    },
+    {
+      "id": "OoahA2py8L4",
+      "title": "Kosti vs Zbraslav SUPER 06.10.2025",
+      "thumbnail": "https://i.ytimg.com/vi/OoahA2py8L4/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2025-10-07T07:46:09Z"
     }
   ]
 }
