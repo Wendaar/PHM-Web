@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-24T22:44:39.723Z",
+  "updated": "2026-06-25T00:04:21.933Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
     {
@@ -31,11 +31,25 @@
       "publishedAt": "2026-06-21T23:58:21Z"
     },
     {
-      "id": "vGv9vFZjkV4",
-      "title": "Team RED vs Team NAVY Match #3 SUNDAY",
-      "thumbnail": "https://i.ytimg.com/vi/vGv9vFZjkV4/mqdefault.jpg",
+      "id": "pIM47CiXKj0",
+      "title": "Ducks Sport vs Fešáci SPORT 09.02.2026",
+      "thumbnail": "https://i.ytimg.com/vi/pIM47CiXKj0/mqdefault.jpg",
       "isLive": false,
-      "publishedAt": "2026-06-21T22:54:47Z"
+      "publishedAt": "2026-02-10T07:54:40Z"
+    },
+    {
+      "id": "qjJe3NkGqOs",
+      "title": "Domynos vs Zbraslav SUPER 28.01.2026",
+      "thumbnail": "https://i.ytimg.com/vi/qjJe3NkGqOs/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-01-29T08:24:13Z"
+    },
+    {
+      "id": "diUa837d8xA",
+      "title": "Alligators vs Gastoni KLASIK 12.01.2026",
+      "thumbnail": "https://i.ytimg.com/vi/diUa837d8xA/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-01-13T09:01:04Z"
     }
   ]
 }
