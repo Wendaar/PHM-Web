@@ -1,21 +1,7 @@
 {
-  "updated": "2026-06-26T19:15:55.394Z",
+  "updated": "2026-06-26T21:03:53.939Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
-    {
-      "id": "EiBn5Twb13s",
-      "title": "ZA MANTINELEM PHM #02 – PHM mimo ligu | Kempy, turnaje, výjezdy a Kanadský sen",
-      "thumbnail": "https://i.ytimg.com/vi/EiBn5Twb13s/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-06-23T19:53:05Z"
-    },
-    {
-      "id": "HzNAbkW51Ik",
-      "title": "ZA MANTINELEM PHM #01 – Recap sezony 2026 | PHM už není jen tabulka",
-      "thumbnail": "https://i.ytimg.com/vi/HzNAbkW51Ik/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-06-23T19:42:03Z"
-    },
     {
       "id": "pIM47CiXKj0",
       "title": "Ducks Sport vs Fešáci SPORT 09.02.2026",
@@ -50,6 +36,20 @@
       "thumbnail": "https://i.ytimg.com/vi/OoahA2py8L4/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2025-10-07T07:46:09Z"
+    },
+    {
+      "id": "8fL-hP6uu_I",
+      "title": "PIGEONS vs. HOVNA / PHM Cup 23-24",
+      "thumbnail": "https://i.ytimg.com/vi/8fL-hP6uu_I/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2024-04-23T08:46:00Z"
+    },
+    {
+      "id": "2x1bVpwABFI",
+      "title": "23 PHM Week report 4.12.2022",
+      "thumbnail": "https://i.ytimg.com/vi/2x1bVpwABFI/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2022-12-07T09:45:04Z"
     }
   ]
 }
