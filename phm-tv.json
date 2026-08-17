@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-17T22:48:11.652Z",
+  "updated": "2026-08-17T23:16:47.015Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
     {
@@ -8,6 +8,13 @@
       "thumbnail": "https://i.ytimg.com/vi/gpl7R2HlzGQ/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-08-17T17:59:57Z"
+    },
+    {
+      "id": "pIM47CiXKj0",
+      "title": "Ducks Sport vs Fešáci SPORT 09.02.2026",
+      "thumbnail": "https://i.ytimg.com/vi/pIM47CiXKj0/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-02-10T07:54:40Z"
     },
     {
       "id": "qjJe3NkGqOs",
@@ -24,13 +31,6 @@
       "publishedAt": "2026-01-13T09:01:04Z"
     },
     {
-      "id": "fZYtAaCW5xQ",
-      "title": "Berkut vs Domynos SUPER 26.11.2025",
-      "thumbnail": "https://i.ytimg.com/vi/fZYtAaCW5xQ/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2025-11-27T08:28:31Z"
-    },
-    {
       "id": "de_Pn4q5_LI",
       "title": "26 WEEK RECAP 11 7 SPORT",
       "thumbnail": "https://i.ytimg.com/vi/de_Pn4q5_LI/mqdefault.jpg",
@@ -45,11 +45,11 @@
       "publishedAt": "2025-10-07T07:46:09Z"
     },
     {
-      "id": "X76A6PD6_S0",
-      "title": "Sokol Solopisky vs. Smíchov 1913 / TOP division 19.1.23",
-      "thumbnail": "https://i.ytimg.com/vi/X76A6PD6_S0/mqdefault.jpg",
+      "id": "8fL-hP6uu_I",
+      "title": "PIGEONS vs. HOVNA / PHM Cup 23-24",
+      "thumbnail": "https://i.ytimg.com/vi/8fL-hP6uu_I/mqdefault.jpg",
       "isLive": false,
-      "publishedAt": "2023-01-20T07:51:24Z"
+      "publishedAt": "2024-04-23T08:46:00Z"
     }
   ]
 }
