@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-21T06:39:44.417Z",
+  "updated": "2026-08-21T07:37:12.371Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
     {
@@ -8,13 +8,6 @@
       "thumbnail": "https://i.ytimg.com/vi/Zd_7nNdVlPc/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-08-20T10:49:30Z"
-    },
-    {
-      "id": "gpl7R2HlzGQ",
-      "title": "Caesars vs Pigeons B 17.08.2026",
-      "thumbnail": "https://i.ytimg.com/vi/gpl7R2HlzGQ/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-08-18T07:24:30Z"
     },
     {
       "id": "pIM47CiXKj0",
@@ -50,6 +43,13 @@
       "thumbnail": "https://i.ytimg.com/vi/OoahA2py8L4/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2025-10-07T07:46:09Z"
+    },
+    {
+      "id": "8fL-hP6uu_I",
+      "title": "PIGEONS vs. HOVNA / PHM Cup 23-24",
+      "thumbnail": "https://i.ytimg.com/vi/8fL-hP6uu_I/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2024-04-23T08:46:00Z"
     }
   ]
 }
