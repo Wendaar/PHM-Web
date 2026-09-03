@@ -1,12 +1,33 @@
 {
-  "updated": "2026-09-03T18:17:23.522Z",
+  "updated": "2026-09-03T21:11:22.131Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
+    {
+      "id": "LQdDMYvTPsc",
+      "title": "Stars vs Rekreanti KLASIK 03.09.2026",
+      "thumbnail": "https://i.ytimg.com/vi/LQdDMYvTPsc/mqdefault_live.jpg",
+      "isLive": false,
+      "publishedAt": "2026-09-03T19:06:27Z"
+    },
+    {
+      "id": "GIEp4KuLx2Y",
+      "title": "Dragons vs Pigeons B KLASIK 03.09.2026",
+      "thumbnail": "https://i.ytimg.com/vi/GIEp4KuLx2Y/mqdefault_live.jpg",
+      "isLive": false,
+      "publishedAt": "2026-09-03T19:58:53Z"
+    },
+    {
+      "id": "q6Y3Ei4lf9I",
+      "title": "Traverzáci vs Ducks C HOBBY ICE 03.09.2026",
+      "thumbnail": "https://i.ytimg.com/vi/q6Y3Ei4lf9I/mqdefault_live.jpg",
+      "isLive": false,
+      "publishedAt": "2026-09-03T18:40:12Z"
+    },
     {
       "id": "g92LK4B_MFk",
       "title": "RAP vs MEC",
       "thumbnail": "https://i.ytimg.com/vi/g92LK4B_MFk/mqdefault_live.jpg",
-      "isLive": true,
+      "isLive": false,
       "publishedAt": "2026-09-03T17:33:29Z"
     },
     {
@@ -29,27 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/lJQQ0FmNH8Y/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-09-03T06:18:34Z"
-    },
-    {
-      "id": "EnorvRvX0Ho",
-      "title": "Strašáci vs Stars KLASIK 01.09.2026",
-      "thumbnail": "https://i.ytimg.com/vi/EnorvRvX0Ho/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-09-02T09:22:19Z"
-    },
-    {
-      "id": "w_rGkNgedNM",
-      "title": "Scorpions B vs Spiders HOBBY ICE 01.09.2026",
-      "thumbnail": "https://i.ytimg.com/vi/w_rGkNgedNM/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-09-02T08:47:26Z"
-    },
-    {
-      "id": "hrhXuCwR6sM",
-      "title": "PLATIDLO vs Polar Bears HOBBY FIRE 01.09.2026",
-      "thumbnail": "https://i.ytimg.com/vi/hrhXuCwR6sM/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-09-02T08:33:30Z"
     }
   ]
 }
