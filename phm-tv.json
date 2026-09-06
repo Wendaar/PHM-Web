@@ -1,7 +1,35 @@
 {
-  "updated": "2026-09-06T13:20:33.831Z",
+  "updated": "2026-09-06T16:22:10.129Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
+    {
+      "id": "k3UrUWodCk8",
+      "title": "Alligators vs CarBack KLASIK 6.9.2026",
+      "thumbnail": "https://i.ytimg.com/vi/k3UrUWodCk8/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2026-09-06T15:13:35Z"
+    },
+    {
+      "id": "44pEsle97tI",
+      "title": "Rekreanti vs Strašáci Klasik 06.09.26",
+      "thumbnail": "https://i.ytimg.com/vi/44pEsle97tI/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2026-09-06T15:05:33Z"
+    },
+    {
+      "id": "IDJlax5IMSY",
+      "title": "Bohemian Beavers vs Soldiers B HOBBY FIRE 6.9.2026",
+      "thumbnail": "https://i.ytimg.com/vi/IDJlax5IMSY/mqdefault_live.jpg",
+      "isLive": false,
+      "publishedAt": "2026-09-06T13:45:26Z"
+    },
+    {
+      "id": "kBr_VByBJgo",
+      "title": "Dragons vs Winter Foxes Hobby 06.09.26",
+      "thumbnail": "https://i.ytimg.com/vi/kBr_VByBJgo/mqdefault_live.jpg",
+      "isLive": false,
+      "publishedAt": "2026-09-06T13:50:14Z"
+    },
     {
       "id": "LQdDMYvTPsc",
       "title": "Stars vs Rekreanti KLASIK 03.09.2026",
@@ -22,34 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/q6Y3Ei4lf9I/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-09-04T07:50:20Z"
-    },
-    {
-      "id": "g92LK4B_MFk",
-      "title": "Raptors vs Caesars KLASIK 03.09.2026",
-      "thumbnail": "https://i.ytimg.com/vi/g92LK4B_MFk/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-09-04T07:06:48Z"
-    },
-    {
-      "id": "U-oJeDSIk4g",
-      "title": "MyQ vs Papoušci HOBBY FIRE 02.09.2026",
-      "thumbnail": "https://i.ytimg.com/vi/U-oJeDSIk4g/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-09-03T09:15:38Z"
-    },
-    {
-      "id": "CrjfwAJ3LbI",
-      "title": "Alligators vs Wolves B KLASIK 02.09.2026",
-      "thumbnail": "https://i.ytimg.com/vi/CrjfwAJ3LbI/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-09-03T07:47:17Z"
-    },
-    {
-      "id": "lJQQ0FmNH8Y",
-      "title": "Golden Bears vs Gastoni KLASIK 02.09.2026",
-      "thumbnail": "https://i.ytimg.com/vi/lJQQ0FmNH8Y/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-09-03T06:18:34Z"
     }
   ]
 }
