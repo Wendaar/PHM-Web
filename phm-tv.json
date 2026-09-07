@@ -1,7 +1,28 @@
 {
-  "updated": "2026-09-07T05:35:50.893Z",
+  "updated": "2026-09-07T11:21:40.946Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
+    {
+      "id": "jjl03fKCJec",
+      "title": "Vikings vs Paladins Hobby Ice 06.09.26",
+      "thumbnail": "https://i.ytimg.com/vi/jjl03fKCJec/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-09-07T07:33:51Z"
+    },
+    {
+      "id": "dGkpKF7DKik",
+      "title": "Taste vs Gladiators KLASIK 6.9.2026",
+      "thumbnail": "https://i.ytimg.com/vi/dGkpKF7DKik/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-09-07T06:05:03Z"
+    },
+    {
+      "id": "hEH8hPnmm00",
+      "title": "Scorpions vs Raptors Klasik 06.09.26",
+      "thumbnail": "https://i.ytimg.com/vi/hEH8hPnmm00/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-09-07T06:00:48Z"
+    },
     {
       "id": "k3UrUWodCk8",
       "title": "Alligators vs CarBack KLASIK 6.9.2026",
@@ -29,27 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/kBr_VByBJgo/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-09-07T03:09:04Z"
-    },
-    {
-      "id": "jjl03fKCJec",
-      "title": "Vikings vs Paladins Hobby Ice 06.09.26",
-      "thumbnail": "https://i.ytimg.com/vi/jjl03fKCJec/mqdefault_live.jpg",
-      "isLive": false,
-      "publishedAt": "2026-09-06T18:03:31Z"
-    },
-    {
-      "id": "dGkpKF7DKik",
-      "title": "Taste vs Gladiators KLASIK 6.9.2026",
-      "thumbnail": "https://i.ytimg.com/vi/dGkpKF7DKik/mqdefault_live.jpg",
-      "isLive": false,
-      "publishedAt": "2026-09-06T16:44:50Z"
-    },
-    {
-      "id": "hEH8hPnmm00",
-      "title": "Scorpions vs Raptors Klasik 06.09.26",
-      "thumbnail": "https://i.ytimg.com/vi/hEH8hPnmm00/mqdefault_live.jpg",
-      "isLive": false,
-      "publishedAt": "2026-09-06T16:36:42Z"
     }
   ]
 }
