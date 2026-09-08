@@ -1,7 +1,21 @@
 {
-  "updated": "2026-09-08T14:41:23.691Z",
+  "updated": "2026-09-08T18:14:41.099Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
+    {
+      "id": "rq_Zr9CCb1s",
+      "title": "POB vs KBB 8.9.2026",
+      "thumbnail": "https://i.ytimg.com/vi/rq_Zr9CCb1s/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2026-09-08T17:25:15Z"
+    },
+    {
+      "id": "DrTaf-Gp0Qg",
+      "title": "KV Elektro vs. Destroit",
+      "thumbnail": "https://i.ytimg.com/vi/DrTaf-Gp0Qg/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2026-09-08T17:52:54Z"
+    },
     {
       "id": "L3u9MEPx4lQ",
       "title": "Mechenice vs. HC Ducks 7.9.2026 / KLASIK",
@@ -36,20 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/jjl03fKCJec/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-09-07T07:33:51Z"
-    },
-    {
-      "id": "dGkpKF7DKik",
-      "title": "Taste vs Gladiators KLASIK 6.9.2026",
-      "thumbnail": "https://i.ytimg.com/vi/dGkpKF7DKik/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-09-07T06:05:03Z"
-    },
-    {
-      "id": "hEH8hPnmm00",
-      "title": "Scorpions vs Raptors Klasik 06.09.26",
-      "thumbnail": "https://i.ytimg.com/vi/hEH8hPnmm00/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-09-07T06:00:48Z"
     }
   ]
 }
