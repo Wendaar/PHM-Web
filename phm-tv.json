@@ -1,19 +1,33 @@
 {
-  "updated": "2026-09-09T19:00:20.640Z",
+  "updated": "2026-09-09T21:47:42.896Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
+    {
+      "id": "ZI0k1y1wBvw",
+      "title": "Spiders vs Paladins HOBBY ICE 9.9.2026",
+      "thumbnail": "https://i.ytimg.com/vi/ZI0k1y1wBvw/mqdefault_live.jpg",
+      "isLive": false,
+      "publishedAt": "2026-09-09T19:39:53Z"
+    },
+    {
+      "id": "6jVv5eeHLFU",
+      "title": "PPB vs MEC",
+      "thumbnail": "https://i.ytimg.com/vi/6jVv5eeHLFU/mqdefault_live.jpg",
+      "isLive": false,
+      "publishedAt": "2026-09-09T19:04:07Z"
+    },
     {
       "id": "5cwVUpM6pFk",
       "title": "Strašáci vs Wolves B KLASIK 9.9.2026",
       "thumbnail": "https://i.ytimg.com/vi/5cwVUpM6pFk/mqdefault_live.jpg",
-      "isLive": true,
+      "isLive": false,
       "publishedAt": "2026-09-09T18:15:19Z"
     },
     {
       "id": "TVkabHWvm_w",
-      "title": "DST vs WFX",
+      "title": "Ducks Stars vs Winter Foxes / KLASIK",
       "thumbnail": "https://i.ytimg.com/vi/TVkabHWvm_w/mqdefault_live.jpg",
-      "isLive": true,
+      "isLive": false,
       "publishedAt": "2026-09-09T17:26:50Z"
     },
     {
@@ -36,20 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/-_IcCBdf2yc/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-09-09T08:21:10Z"
-    },
-    {
-      "id": "hhB-SF-UQdQ",
-      "title": "Alligators vs Scorpions Klasik 08.09.26",
-      "thumbnail": "https://i.ytimg.com/vi/hhB-SF-UQdQ/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-09-09T07:52:21Z"
-    },
-    {
-      "id": "rq_Zr9CCb1s",
-      "title": "Polar Bears vs Soldiers B 8.9.2026",
-      "thumbnail": "https://i.ytimg.com/vi/rq_Zr9CCb1s/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-09-09T06:54:30Z"
     }
   ]
 }
