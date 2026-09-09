@@ -1,7 +1,28 @@
 {
-  "updated": "2026-09-09T15:46:21.596Z",
+  "updated": "2026-09-09T19:00:20.640Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
+    {
+      "id": "5cwVUpM6pFk",
+      "title": "Strašáci vs Wolves B KLASIK 9.9.2026",
+      "thumbnail": "https://i.ytimg.com/vi/5cwVUpM6pFk/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2026-09-09T18:15:19Z"
+    },
+    {
+      "id": "TVkabHWvm_w",
+      "title": "DST vs WFX",
+      "thumbnail": "https://i.ytimg.com/vi/TVkabHWvm_w/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2026-09-09T17:26:50Z"
+    },
+    {
+      "id": "-yiCIKtOrzk",
+      "title": "Biturbo Goats vs Bohemian Beavers HOBBY FIRE 9.9.2026",
+      "thumbnail": "https://i.ytimg.com/vi/-yiCIKtOrzk/mqdefault_live.jpg",
+      "isLive": false,
+      "publishedAt": "2026-09-09T16:44:12Z"
+    },
     {
       "id": "jfSt1l3EQCo",
       "title": "HC Car Back vs. Golden Bears",
@@ -29,27 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/rq_Zr9CCb1s/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-09-09T06:54:30Z"
-    },
-    {
-      "id": "DrTaf-Gp0Qg",
-      "title": "KV Elektro vs. Destroit 8.9.2026",
-      "thumbnail": "https://i.ytimg.com/vi/DrTaf-Gp0Qg/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-09-09T06:39:58Z"
-    },
-    {
-      "id": "L3u9MEPx4lQ",
-      "title": "Mechenice vs. HC Ducks 7.9.2026 / KLASIK",
-      "thumbnail": "https://i.ytimg.com/vi/L3u9MEPx4lQ/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-09-08T08:48:54Z"
-    },
-    {
-      "id": "IrtgMLBKWHc",
-      "title": "PLATIDLO vs Papoušci HOBBY FIRE 07.09.2026",
-      "thumbnail": "https://i.ytimg.com/vi/IrtgMLBKWHc/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-09-08T08:18:44Z"
     }
   ]
 }
