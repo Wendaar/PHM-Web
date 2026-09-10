@@ -1,20 +1,41 @@
 {
-  "updated": "2026-09-10T19:25:59.667Z",
+  "updated": "2026-09-10T21:44:16.880Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
     {
-      "id": "Lxi7ys5JoW0",
-      "title": "HC Raptor vs. Gaston Seals",
-      "thumbnail": "https://i.ytimg.com/vi/Lxi7ys5JoW0/mqdefault_live.jpg",
-      "isLive": true,
-      "publishedAt": "2026-09-10T18:14:20Z"
+      "id": "rDF5It68alU",
+      "title": "Bears vs. Taste KLASIK II 10.9.2026",
+      "thumbnail": "https://i.ytimg.com/vi/rDF5It68alU/mqdefault_live.jpg",
+      "isLive": false,
+      "publishedAt": "2026-09-10T20:10:12Z"
+    },
+    {
+      "id": "b80Y8XJs-WA",
+      "title": "HC Scorpions Praha vs. HC Rekreanti Praha",
+      "thumbnail": "https://i.ytimg.com/vi/b80Y8XJs-WA/mqdefault_live.jpg",
+      "isLive": false,
+      "publishedAt": "2026-09-10T19:47:12Z"
+    },
+    {
+      "id": "UG3MbK2knBk",
+      "title": "Bears vs. Taste KLASIK 10.9.2026",
+      "thumbnail": "https://i.ytimg.com/vi/UG3MbK2knBk/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-09-10T20:09:14Z"
     },
     {
       "id": "4YiRhEgz_Rg",
       "title": "Ducks C vs. Vikings HOBBY ICE 10.9.2026",
       "thumbnail": "https://i.ytimg.com/vi/4YiRhEgz_Rg/mqdefault_live.jpg",
-      "isLive": true,
+      "isLive": false,
       "publishedAt": "2026-09-10T18:38:29Z"
+    },
+    {
+      "id": "Lxi7ys5JoW0",
+      "title": "HC Raptor vs. Gaston Seals",
+      "thumbnail": "https://i.ytimg.com/vi/Lxi7ys5JoW0/mqdefault_live.jpg",
+      "isLive": false,
+      "publishedAt": "2026-09-10T18:14:20Z"
     },
     {
       "id": "6jVv5eeHLFU",
@@ -29,27 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/ZI0k1y1wBvw/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-09-10T08:59:06Z"
-    },
-    {
-      "id": "5cwVUpM6pFk",
-      "title": "Strašáci vs Wolves B KLASIK 9.9.2026",
-      "thumbnail": "https://i.ytimg.com/vi/5cwVUpM6pFk/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-09-10T07:38:52Z"
-    },
-    {
-      "id": "TVkabHWvm_w",
-      "title": "Ducks Stars vs Winter Foxes / KLASIK",
-      "thumbnail": "https://i.ytimg.com/vi/TVkabHWvm_w/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-09-10T07:05:16Z"
-    },
-    {
-      "id": "-yiCIKtOrzk",
-      "title": "Biturbo Goats vs Bohemian Beavers HOBBY FIRE 9.9.2026",
-      "thumbnail": "https://i.ytimg.com/vi/-yiCIKtOrzk/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-09-10T06:10:57Z"
     }
   ]
 }
