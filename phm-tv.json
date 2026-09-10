@@ -1,7 +1,21 @@
 {
-  "updated": "2026-09-10T16:51:01.221Z",
+  "updated": "2026-09-10T19:25:59.667Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
+    {
+      "id": "Lxi7ys5JoW0",
+      "title": "HC Raptor vs. Gaston Seals",
+      "thumbnail": "https://i.ytimg.com/vi/Lxi7ys5JoW0/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2026-09-10T18:14:20Z"
+    },
+    {
+      "id": "4YiRhEgz_Rg",
+      "title": "Ducks C vs. Vikings HOBBY ICE 10.9.2026",
+      "thumbnail": "https://i.ytimg.com/vi/4YiRhEgz_Rg/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2026-09-10T18:38:29Z"
+    },
     {
       "id": "6jVv5eeHLFU",
       "title": "Prague Pigeons B vs Caesars Mechenice / KLASIK",
@@ -36,20 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/-yiCIKtOrzk/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-09-10T06:10:57Z"
-    },
-    {
-      "id": "jfSt1l3EQCo",
-      "title": "HC Car Back vs. Golden Bears",
-      "thumbnail": "https://i.ytimg.com/vi/jfSt1l3EQCo/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-09-09T08:55:25Z"
-    },
-    {
-      "id": "-_IcCBdf2yc",
-      "title": "MYQ Heroes vs HC Ducks B 8.9.2026",
-      "thumbnail": "https://i.ytimg.com/vi/-_IcCBdf2yc/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-09-09T08:21:10Z"
     }
   ]
 }
