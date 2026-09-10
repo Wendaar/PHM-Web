@@ -1,7 +1,21 @@
 {
-  "updated": "2026-09-10T07:47:18.230Z",
+  "updated": "2026-09-10T12:37:47.552Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
+    {
+      "id": "6jVv5eeHLFU",
+      "title": "Prague Pigeons B vs Caesars Mechenice / KLASIK",
+      "thumbnail": "https://i.ytimg.com/vi/6jVv5eeHLFU/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-09-10T09:00:06Z"
+    },
+    {
+      "id": "ZI0k1y1wBvw",
+      "title": "Spiders vs Paladins HOBBY ICE 9.9.2026",
+      "thumbnail": "https://i.ytimg.com/vi/ZI0k1y1wBvw/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-09-10T08:59:06Z"
+    },
     {
       "id": "5cwVUpM6pFk",
       "title": "Strašáci vs Wolves B KLASIK 9.9.2026",
@@ -22,20 +36,6 @@
       "thumbnail": "https://i.ytimg.com/vi/-yiCIKtOrzk/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-09-10T06:10:57Z"
-    },
-    {
-      "id": "ZI0k1y1wBvw",
-      "title": "Spiders vs Paladins HOBBY ICE 9.9.2026",
-      "thumbnail": "https://i.ytimg.com/vi/ZI0k1y1wBvw/mqdefault_live.jpg",
-      "isLive": false,
-      "publishedAt": "2026-09-09T19:39:53Z"
-    },
-    {
-      "id": "6jVv5eeHLFU",
-      "title": "Prague Pigeons B vs Caesars Mechenice / KLASIK",
-      "thumbnail": "https://i.ytimg.com/vi/6jVv5eeHLFU/mqdefault_live.jpg",
-      "isLive": false,
-      "publishedAt": "2026-09-09T19:04:07Z"
     },
     {
       "id": "jfSt1l3EQCo",
