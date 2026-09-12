@@ -1,7 +1,28 @@
 {
-  "updated": "2026-09-12T20:02:44.804Z",
+  "updated": "2026-09-12T22:26:11.448Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
+    {
+      "id": "HRm1IMmwZ3U",
+      "title": "PHM Week Recap 12.09.2026 - KLASIK",
+      "thumbnail": "https://i.ytimg.com/vi/HRm1IMmwZ3U/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-09-12T20:34:07Z"
+    },
+    {
+      "id": "np7X3T-a8Jc",
+      "title": "PHM Week Recap 12.09.2026 - HOBBY ICE",
+      "thumbnail": "https://i.ytimg.com/vi/np7X3T-a8Jc/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-09-12T20:34:05Z"
+    },
+    {
+      "id": "VzDE3MpSZkc",
+      "title": "PHM Week Recap 12.09.2026 - HOBBY FIRE",
+      "thumbnail": "https://i.ytimg.com/vi/VzDE3MpSZkc/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-09-12T20:34:02Z"
+    },
     {
       "id": "rDF5It68alU",
       "title": "Bears vs Taste KLASIK 10.09.2026",
@@ -29,27 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/Lxi7ys5JoW0/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-09-11T07:36:12Z"
-    },
-    {
-      "id": "6jVv5eeHLFU",
-      "title": "Pigeons B vs Caesars KLASIK 09.09.2026",
-      "thumbnail": "https://i.ytimg.com/vi/6jVv5eeHLFU/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-09-10T09:00:06Z"
-    },
-    {
-      "id": "ZI0k1y1wBvw",
-      "title": "Spiders vs Paladins HOBBY ICE 09.09.2026",
-      "thumbnail": "https://i.ytimg.com/vi/ZI0k1y1wBvw/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-09-10T08:59:06Z"
-    },
-    {
-      "id": "5cwVUpM6pFk",
-      "title": "Strašáci vs Wolves B KLASIK 09.09.2026",
-      "thumbnail": "https://i.ytimg.com/vi/5cwVUpM6pFk/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-09-10T07:38:52Z"
     }
   ]
 }
