@@ -1,12 +1,26 @@
 {
-  "updated": "2026-09-13T14:31:52.480Z",
+  "updated": "2026-09-13T17:51:18.104Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
+    {
+      "id": "CBkSnwgk3pg",
+      "title": "Winter Foxes vs HC Taste, KLASIK, 13. 09. 2026, Škoda Icerink Yellow",
+      "thumbnail": "https://i.ytimg.com/vi/CBkSnwgk3pg/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2026-09-13T16:30:44Z"
+    },
+    {
+      "id": "gyS6NCPuOGI",
+      "title": "REK  VS GLA",
+      "thumbnail": "https://i.ytimg.com/vi/gyS6NCPuOGI/mqdefault_live.jpg",
+      "isLive": false,
+      "publishedAt": "2026-09-13T15:15:52Z"
+    },
     {
       "id": "X1fXIAX4kSE",
       "title": "GAS vs PHT, 13. 09. 2026",
       "thumbnail": "https://i.ytimg.com/vi/X1fXIAX4kSE/mqdefault_live.jpg",
-      "isLive": true,
+      "isLive": false,
       "publishedAt": "2026-09-13T13:52:47Z"
     },
     {
@@ -36,20 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/rDF5It68alU/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-09-11T09:17:28Z"
-    },
-    {
-      "id": "b80Y8XJs-WA",
-      "title": "Scorpions vs Rekreanti KLASIK 10.09.2026",
-      "thumbnail": "https://i.ytimg.com/vi/b80Y8XJs-WA/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-09-11T09:12:35Z"
-    },
-    {
-      "id": "4YiRhEgz_Rg",
-      "title": "Ducks C vs Vikings HOBBY ICE 10.09.2026",
-      "thumbnail": "https://i.ytimg.com/vi/4YiRhEgz_Rg/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-09-11T07:55:24Z"
     }
   ]
 }
