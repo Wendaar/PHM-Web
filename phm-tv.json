@@ -1,55 +1,55 @@
 {
-  "updated": "2026-09-14T17:27:17.968Z",
+  "updated": "2026-09-14T21:00:36.727Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
+    {
+      "id": "EBt5Eu3JQGI",
+      "title": "Scorpions vs Car-Back KLASIK 14.09.2026",
+      "thumbnail": "https://i.ytimg.com/vi/EBt5Eu3JQGI/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-09-14T20:45:02Z"
+    },
+    {
+      "id": "i88y9z-L8AQ",
+      "title": "Destroit vs Vikings HOBBY ICE 14.09.2026",
+      "thumbnail": "https://i.ytimg.com/vi/i88y9z-L8AQ/mqdefault_live.jpg",
+      "isLive": false,
+      "publishedAt": "2026-09-14T19:23:56Z"
+    },
+    {
+      "id": "DufEk5cTm9g",
+      "title": "Fotr vs Goats HOBBY FIRE 14.09.2026",
+      "thumbnail": "https://i.ytimg.com/vi/DufEk5cTm9g/mqdefault_live.jpg",
+      "isLive": false,
+      "publishedAt": "2026-09-14T19:00:08Z"
+    },
+    {
+      "id": "4NwpQjqTtqg",
+      "title": "Papoušci vs MyQ HOBBY FIRE 14.09.2026",
+      "thumbnail": "https://i.ytimg.com/vi/4NwpQjqTtqg/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-09-14T19:26:34Z"
+    },
+    {
+      "id": "aFtBwdPEeOk",
+      "title": "Mé vysílání",
+      "thumbnail": "https://i.ytimg.com/vi/aFtBwdPEeOk/mqdefault_live.jpg",
+      "isLive": false,
+      "publishedAt": "2026-09-14T17:40:19Z"
+    },
+    {
+      "id": "_NT95_8nlzQ",
+      "title": "Žraloci vs Spiders HOBBY ICE 14.09.2026",
+      "thumbnail": "https://i.ytimg.com/vi/_NT95_8nlzQ/mqdefault_live.jpg",
+      "isLive": false,
+      "publishedAt": "2026-09-14T17:28:54Z"
+    },
     {
       "id": "CBkSnwgk3pg",
       "title": "Foxes vs Taste KLASIK 13.09.2026",
       "thumbnail": "https://i.ytimg.com/vi/CBkSnwgk3pg/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-09-14T06:02:31Z"
-    },
-    {
-      "id": "gyS6NCPuOGI",
-      "title": "Rekreanti vs Gladiators KLASIK 13.09.2026",
-      "thumbnail": "https://i.ytimg.com/vi/gyS6NCPuOGI/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-09-14T04:50:03Z"
-    },
-    {
-      "id": "X1fXIAX4kSE",
-      "title": "Gastoni vs Dragons KLASIK 13.09.2026",
-      "thumbnail": "https://i.ytimg.com/vi/X1fXIAX4kSE/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-09-14T03:07:29Z"
-    },
-    {
-      "id": "HRm1IMmwZ3U",
-      "title": "PHM Week Recap 12.09.2026 - KLASIK",
-      "thumbnail": "https://i.ytimg.com/vi/HRm1IMmwZ3U/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-09-12T20:34:07Z"
-    },
-    {
-      "id": "np7X3T-a8Jc",
-      "title": "PHM Week Recap 12.09.2026 - HOBBY ICE",
-      "thumbnail": "https://i.ytimg.com/vi/np7X3T-a8Jc/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-09-12T20:34:05Z"
-    },
-    {
-      "id": "VzDE3MpSZkc",
-      "title": "PHM Week Recap 12.09.2026 - HOBBY FIRE",
-      "thumbnail": "https://i.ytimg.com/vi/VzDE3MpSZkc/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-09-12T20:34:02Z"
-    },
-    {
-      "id": "rDF5It68alU",
-      "title": "Bears vs Taste KLASIK 10.09.2026",
-      "thumbnail": "https://i.ytimg.com/vi/rDF5It68alU/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-09-11T09:17:28Z"
     }
   ]
 }
