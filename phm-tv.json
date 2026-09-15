@@ -1,7 +1,21 @@
 {
-  "updated": "2026-09-15T14:05:29.967Z",
+  "updated": "2026-09-15T18:19:52.229Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
+    {
+      "id": "cPSfSQlJe8I",
+      "title": "KVE vs SCB",
+      "thumbnail": "https://i.ytimg.com/vi/cPSfSQlJe8I/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2026-09-15T17:35:46Z"
+    },
+    {
+      "id": "0Jgiokqhe9E",
+      "title": "Zbraslav vs Superheroes SUPER 15.9.2026",
+      "thumbnail": "https://i.ytimg.com/vi/0Jgiokqhe9E/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2026-09-15T17:36:28Z"
+    },
     {
       "id": "i88y9z-L8AQ",
       "title": "Destroit vs Vikings HOBBY ICE 14.09.2026",
@@ -36,20 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/EBt5Eu3JQGI/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-09-14T20:45:02Z"
-    },
-    {
-      "id": "4NwpQjqTtqg",
-      "title": "Papoušci vs MyQ HOBBY FIRE 14.09.2026",
-      "thumbnail": "https://i.ytimg.com/vi/4NwpQjqTtqg/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-09-14T19:26:34Z"
-    },
-    {
-      "id": "CBkSnwgk3pg",
-      "title": "Foxes vs Taste KLASIK 13.09.2026",
-      "thumbnail": "https://i.ytimg.com/vi/CBkSnwgk3pg/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-09-14T06:02:31Z"
     }
   ]
 }
