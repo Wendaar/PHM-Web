@@ -1,7 +1,28 @@
 {
-  "updated": "2026-09-16T08:13:08.787Z",
+  "updated": "2026-09-16T13:37:11.463Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
+    {
+      "id": "IP5tnBRZ2hs",
+      "title": "Foxes vs Wolves B KLASIK 15.09.2026",
+      "thumbnail": "https://i.ytimg.com/vi/IP5tnBRZ2hs/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-09-16T09:36:15Z"
+    },
+    {
+      "id": "wO_GjYS3QyA",
+      "title": "Gladiators vs Golden Bears KLASIK 15.09.2026",
+      "thumbnail": "https://i.ytimg.com/vi/wO_GjYS3QyA/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-09-16T08:52:24Z"
+    },
+    {
+      "id": "cSk7hyhlIOY",
+      "title": "Beavers vs Ducks B HOBBY FIRE 15.09.2026",
+      "thumbnail": "https://i.ytimg.com/vi/cSk7hyhlIOY/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-09-16T08:39:54Z"
+    },
     {
       "id": "0Jgiokqhe9E",
       "title": "Zbraslav vs Superheroes SUPER 15.09.2026",
@@ -22,27 +43,6 @@
       "thumbnail": "https://i.ytimg.com/vi/owiD6MctK-Q/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-09-16T07:18:55Z"
-    },
-    {
-      "id": "IP5tnBRZ2hs",
-      "title": "Foxes vs Wolves B KLASIK 15.09.2026",
-      "thumbnail": "https://i.ytimg.com/vi/IP5tnBRZ2hs/mqdefault_live.jpg",
-      "isLive": false,
-      "publishedAt": "2026-09-15T20:00:50Z"
-    },
-    {
-      "id": "wO_GjYS3QyA",
-      "title": "Gladiators vs Golden Bears KLASIK 15.09.2026",
-      "thumbnail": "https://i.ytimg.com/vi/wO_GjYS3QyA/mqdefault_live.jpg",
-      "isLive": false,
-      "publishedAt": "2026-09-15T19:12:56Z"
-    },
-    {
-      "id": "cSk7hyhlIOY",
-      "title": "Beavers vs Ducks B HOBBY FIRE 15.09.2026",
-      "thumbnail": "https://i.ytimg.com/vi/cSk7hyhlIOY/mqdefault_live.jpg",
-      "isLive": false,
-      "publishedAt": "2026-09-15T19:04:06Z"
     },
     {
       "id": "i88y9z-L8AQ",
