@@ -1,12 +1,33 @@
 {
-  "updated": "2026-09-16T17:53:49.420Z",
+  "updated": "2026-09-16T20:45:46.473Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
+    {
+      "id": "-5dc-epuOYM",
+      "title": "HC Prague Pigeons vs. HC Rex Bohemia",
+      "thumbnail": "https://i.ytimg.com/vi/-5dc-epuOYM/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2026-09-16T19:26:38Z"
+    },
+    {
+      "id": "3VJlVjpXoIw",
+      "title": "Reindeers vs Traverzáci HOBBY ICE 16.09.2026",
+      "thumbnail": "https://i.ytimg.com/vi/3VJlVjpXoIw/mqdefault_live.jpg",
+      "isLive": false,
+      "publishedAt": "2026-09-16T19:14:08Z"
+    },
+    {
+      "id": "HtMXQb3sb4U",
+      "title": "Hovna vs. Heyoka",
+      "thumbnail": "https://i.ytimg.com/vi/HtMXQb3sb4U/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-09-16T19:30:51Z"
+    },
     {
       "id": "qtCrD9hnKLU",
       "title": "HC Rekreanti Praha vs HC Raptors KLASIK 16.9.2026",
       "thumbnail": "https://i.ytimg.com/vi/qtCrD9hnKLU/mqdefault_live.jpg",
-      "isLive": true,
+      "isLive": false,
       "publishedAt": "2026-09-16T17:34:31Z"
     },
     {
@@ -29,27 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/cSk7hyhlIOY/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-09-16T08:39:54Z"
-    },
-    {
-      "id": "0Jgiokqhe9E",
-      "title": "Zbraslav vs Superheroes SUPER 15.09.2026",
-      "thumbnail": "https://i.ytimg.com/vi/0Jgiokqhe9E/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-09-16T07:25:06Z"
-    },
-    {
-      "id": "cPSfSQlJe8I",
-      "title": "KV Elektro vs Scorpions B HOBBY ICE 15.09.2026",
-      "thumbnail": "https://i.ytimg.com/vi/cPSfSQlJe8I/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-09-16T07:23:49Z"
-    },
-    {
-      "id": "owiD6MctK-Q",
-      "title": "PLATIDLO vs Soldiers B HOBBY FIRE 15.09.2026",
-      "thumbnail": "https://i.ytimg.com/vi/owiD6MctK-Q/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-09-16T07:18:55Z"
     }
   ]
 }
