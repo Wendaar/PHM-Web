@@ -1,7 +1,14 @@
 {
-  "updated": "2026-09-16T13:37:11.463Z",
+  "updated": "2026-09-16T17:53:49.420Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
+    {
+      "id": "qtCrD9hnKLU",
+      "title": "HC Rekreanti Praha vs HC Raptors KLASIK 16.9.2026",
+      "thumbnail": "https://i.ytimg.com/vi/qtCrD9hnKLU/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2026-09-16T17:34:31Z"
+    },
     {
       "id": "IP5tnBRZ2hs",
       "title": "Foxes vs Wolves B KLASIK 15.09.2026",
@@ -43,13 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/owiD6MctK-Q/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-09-16T07:18:55Z"
-    },
-    {
-      "id": "i88y9z-L8AQ",
-      "title": "Destroit vs Vikings HOBBY ICE 14.09.2026",
-      "thumbnail": "https://i.ytimg.com/vi/i88y9z-L8AQ/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-09-15T08:48:37Z"
     }
   ]
 }
