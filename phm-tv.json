@@ -1,48 +1,34 @@
 {
-  "updated": "2026-09-17T20:27:55.178Z",
+  "updated": "2026-09-17T22:58:37.143Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
     {
       "id": "XfDjWYUkzr4",
-      "title": "Wolves vs. Žižkov SUPER 17.9.2026",
+      "title": "Wolves vs Žižkov SUPER 17.09.2026",
       "thumbnail": "https://i.ytimg.com/vi/XfDjWYUkzr4/mqdefault_live.jpg",
-      "isLive": true,
+      "isLive": false,
       "publishedAt": "2026-09-17T20:07:26Z"
     },
     {
       "id": "43WuRpCg2Yw",
-      "title": "GKL vs ATTL - 17.9.2026",
+      "title": "Gladiators Kladno vs ATTL SPORT 17.09.2026",
       "thumbnail": "https://i.ytimg.com/vi/43WuRpCg2Yw/mqdefault_live.jpg",
-      "isLive": true,
+      "isLive": false,
       "publishedAt": "2026-09-17T19:48:15Z"
     },
     {
       "id": "eNxkHg_XOSc",
-      "title": "PPP vs KOS, 17.09. 2026, SUPER",
+      "title": "PUK PAK PIVO vs Kosti SUPER 17.09.2026",
       "thumbnail": "https://i.ytimg.com/vi/eNxkHg_XOSc/mqdefault_live.jpg",
       "isLive": false,
       "publishedAt": "2026-09-17T18:13:39Z"
     },
     {
       "id": "AFnffBinlnQ",
-      "title": "Destroit vs. Ducks C HOBBY 17.9.2026 1",
+      "title": "Destroit vs Ducks C HOBBY ICE 17.09.2026",
       "thumbnail": "https://i.ytimg.com/vi/AFnffBinlnQ/mqdefault_live.jpg",
       "isLive": false,
       "publishedAt": "2026-09-17T19:02:25Z"
-    },
-    {
-      "id": "_Jr9nkTx_R4",
-      "title": "Destroit vs. Ducks C. HOBBY 17.9.2026",
-      "thumbnail": "https://i.ytimg.com/vi/_Jr9nkTx_R4/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-09-17T18:56:38Z"
-    },
-    {
-      "id": "E9kt-aBLwjs",
-      "title": "Destroit vs. Ducks C. HOBBY 17.9.2026",
-      "thumbnail": "https://i.ytimg.com/vi/E9kt-aBLwjs/mqdefault_live.jpg",
-      "isLive": false,
-      "publishedAt": "2026-09-17T18:49:50Z"
     },
     {
       "id": "3VJlVjpXoIw",
@@ -50,6 +36,20 @@
       "thumbnail": "https://i.ytimg.com/vi/3VJlVjpXoIw/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-09-17T08:32:02Z"
+    },
+    {
+      "id": "qtCrD9hnKLU",
+      "title": "Rekreanti vs Raptors KLASIK 16.09.2026",
+      "thumbnail": "https://i.ytimg.com/vi/qtCrD9hnKLU/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-09-17T06:59:51Z"
+    },
+    {
+      "id": "-5dc-epuOYM",
+      "title": "Pigeons vs REX SPORT 16.09.2026",
+      "thumbnail": "https://i.ytimg.com/vi/-5dc-epuOYM/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-09-16T20:52:22Z"
     }
   ]
 }
