@@ -1,55 +1,55 @@
 {
-  "updated": "2026-09-18T06:13:26.652Z",
+  "updated": "2026-09-18T11:34:33.742Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
     {
+      "id": "hd-bFZo47v0",
+      "title": "PHM Week recap 18.09.2026 - SUPER",
+      "thumbnail": "https://i.ytimg.com/vi/hd-bFZo47v0/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-09-18T11:15:20Z"
+    },
+    {
+      "id": "GIEwhQhcUr4",
+      "title": "PHM Week recap 18.09.2026 - SPORT",
+      "thumbnail": "https://i.ytimg.com/vi/GIEwhQhcUr4/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-09-18T11:15:17Z"
+    },
+    {
+      "id": "IbPvBrcnpbw",
+      "title": "PHM Week recap 18.09.2026 - KLASIK",
+      "thumbnail": "https://i.ytimg.com/vi/IbPvBrcnpbw/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-09-18T11:15:15Z"
+    },
+    {
+      "id": "IZdIxfqCl9E",
+      "title": "PHM Week recap 18.09.2026 - HOBBY ICE",
+      "thumbnail": "https://i.ytimg.com/vi/IZdIxfqCl9E/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-09-18T11:15:12Z"
+    },
+    {
+      "id": "VOrqNdMUYB8",
+      "title": "PHM Week recap 18.09.2026 - HOBBY FIRE",
+      "thumbnail": "https://i.ytimg.com/vi/VOrqNdMUYB8/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-09-18T11:15:10Z"
+    },
+    {
       "id": "XfDjWYUkzr4",
       "title": "Wolves vs Žižkov SUPER 17.09.2026",
-      "thumbnail": "https://i.ytimg.com/vi/XfDjWYUkzr4/mqdefault_live.jpg",
+      "thumbnail": "https://i.ytimg.com/vi/XfDjWYUkzr4/mqdefault.jpg",
       "isLive": false,
-      "publishedAt": "2026-09-17T20:07:26Z"
+      "publishedAt": "2026-09-18T09:36:00Z"
     },
     {
       "id": "43WuRpCg2Yw",
       "title": "Gladiators Kladno vs ATTL SPORT 17.09.2026",
-      "thumbnail": "https://i.ytimg.com/vi/43WuRpCg2Yw/mqdefault_live.jpg",
+      "thumbnail": "https://i.ytimg.com/vi/43WuRpCg2Yw/mqdefault.jpg",
       "isLive": false,
-      "publishedAt": "2026-09-17T19:48:15Z"
-    },
-    {
-      "id": "eNxkHg_XOSc",
-      "title": "PUK PAK PIVO vs Kosti SUPER 17.09.2026",
-      "thumbnail": "https://i.ytimg.com/vi/eNxkHg_XOSc/mqdefault_live.jpg",
-      "isLive": false,
-      "publishedAt": "2026-09-17T18:13:39Z"
-    },
-    {
-      "id": "AFnffBinlnQ",
-      "title": "Destroit vs Ducks C HOBBY ICE 17.09.2026",
-      "thumbnail": "https://i.ytimg.com/vi/AFnffBinlnQ/mqdefault_live.jpg",
-      "isLive": false,
-      "publishedAt": "2026-09-17T19:02:25Z"
-    },
-    {
-      "id": "3VJlVjpXoIw",
-      "title": "Reindeers vs Traverzáci HOBBY ICE 16.09.2026",
-      "thumbnail": "https://i.ytimg.com/vi/3VJlVjpXoIw/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-09-17T08:32:02Z"
-    },
-    {
-      "id": "qtCrD9hnKLU",
-      "title": "Rekreanti vs Raptors KLASIK 16.09.2026",
-      "thumbnail": "https://i.ytimg.com/vi/qtCrD9hnKLU/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-09-17T06:59:51Z"
-    },
-    {
-      "id": "-5dc-epuOYM",
-      "title": "Pigeons vs REX SPORT 16.09.2026",
-      "thumbnail": "https://i.ytimg.com/vi/-5dc-epuOYM/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-09-16T20:52:22Z"
+      "publishedAt": "2026-09-18T08:59:01Z"
     }
   ]
 }
