@@ -1,12 +1,26 @@
 {
-  "updated": "2026-09-20T13:53:06.524Z",
+  "updated": "2026-09-20T17:14:04.442Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
     {
-      "id": "6VOODbB9TN4",
-      "title": "HEY vs CHZ",
-      "thumbnail": "https://i.ytimg.com/vi/6VOODbB9TN4/mqdefault_live.jpg",
+      "id": "kCnbLFR2OKo",
+      "title": "TAS vs PDG",
+      "thumbnail": "https://i.ytimg.com/vi/kCnbLFR2OKo/mqdefault_live.jpg",
       "isLive": true,
+      "publishedAt": "2026-09-20T16:37:14Z"
+    },
+    {
+      "id": "-djhcgGz0qM",
+      "title": "PRO vs ALI",
+      "thumbnail": "https://i.ytimg.com/vi/-djhcgGz0qM/mqdefault_live.jpg",
+      "isLive": false,
+      "publishedAt": "2026-09-20T15:06:46Z"
+    },
+    {
+      "id": "6VOODbB9TN4",
+      "title": "Heyoka vs Cheza SPORT 20.09.2026",
+      "thumbnail": "https://i.ytimg.com/vi/6VOODbB9TN4/mqdefault_live.jpg",
+      "isLive": false,
       "publishedAt": "2026-09-20T13:21:01Z"
     },
     {
@@ -36,20 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/IZdIxfqCl9E/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-09-18T11:15:12Z"
-    },
-    {
-      "id": "VOrqNdMUYB8",
-      "title": "PHM Week recap 18.09.2026 - HOBBY FIRE",
-      "thumbnail": "https://i.ytimg.com/vi/VOrqNdMUYB8/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-09-18T11:15:10Z"
-    },
-    {
-      "id": "XfDjWYUkzr4",
-      "title": "Wolves vs Žižkov SUPER 17.09.2026",
-      "thumbnail": "https://i.ytimg.com/vi/XfDjWYUkzr4/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-09-18T09:36:00Z"
     }
   ]
 }
