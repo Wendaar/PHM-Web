@@ -1,17 +1,24 @@
 {
-  "updated": "2026-09-20T17:14:04.442Z",
+  "updated": "2026-09-20T19:35:57.348Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
     {
+      "id": "QlskfoIObsc",
+      "title": "Off Ice Rats vs. Roosters",
+      "thumbnail": "https://i.ytimg.com/vi/QlskfoIObsc/mqdefault_live.jpg",
+      "isLive": false,
+      "publishedAt": "2026-09-20T18:07:01Z"
+    },
+    {
       "id": "kCnbLFR2OKo",
-      "title": "TAS vs PDG",
+      "title": "Taste vs Dragons KLASIK 20.09.2026",
       "thumbnail": "https://i.ytimg.com/vi/kCnbLFR2OKo/mqdefault_live.jpg",
-      "isLive": true,
+      "isLive": false,
       "publishedAt": "2026-09-20T16:37:14Z"
     },
     {
       "id": "-djhcgGz0qM",
-      "title": "PRO vs ALI",
+      "title": "PÚ vs Alligators KLASIK 20.09.2026",
       "thumbnail": "https://i.ytimg.com/vi/-djhcgGz0qM/mqdefault_live.jpg",
       "isLive": false,
       "publishedAt": "2026-09-20T15:06:46Z"
@@ -43,13 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/IbPvBrcnpbw/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-09-18T11:15:15Z"
-    },
-    {
-      "id": "IZdIxfqCl9E",
-      "title": "PHM Week recap 18.09.2026 - HOBBY ICE",
-      "thumbnail": "https://i.ytimg.com/vi/IZdIxfqCl9E/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-09-18T11:15:12Z"
     }
   ]
 }
