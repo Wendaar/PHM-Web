@@ -1,7 +1,14 @@
 {
-  "updated": "2026-09-20T09:55:15.277Z",
+  "updated": "2026-09-20T13:53:06.524Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
+    {
+      "id": "6VOODbB9TN4",
+      "title": "HEY vs CHZ",
+      "thumbnail": "https://i.ytimg.com/vi/6VOODbB9TN4/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2026-09-20T13:21:01Z"
+    },
     {
       "id": "hd-bFZo47v0",
       "title": "PHM Week recap 18.09.2026 - SUPER",
@@ -43,13 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/XfDjWYUkzr4/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-09-18T09:36:00Z"
-    },
-    {
-      "id": "43WuRpCg2Yw",
-      "title": "Gladiators Kladno vs ATTL SPORT 17.09.2026",
-      "thumbnail": "https://i.ytimg.com/vi/43WuRpCg2Yw/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-09-18T08:59:01Z"
     }
   ]
 }
