@@ -1,7 +1,35 @@
 {
-  "updated": "2026-09-21T16:45:06.986Z",
+  "updated": "2026-09-21T20:44:42.448Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
+    {
+      "id": "4k0ZBaXNvCk",
+      "title": "Berkut vs Chiefs SUPER 21.09.2026",
+      "thumbnail": "https://i.ytimg.com/vi/4k0ZBaXNvCk/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2026-09-21T19:24:48Z"
+    },
+    {
+      "id": "XKxPv1BKbTQ",
+      "title": "Žraloci vs Destroit HOBBY ICE 21.09.2026",
+      "thumbnail": "https://i.ytimg.com/vi/XKxPv1BKbTQ/mqdefault_live.jpg",
+      "isLive": false,
+      "publishedAt": "2026-09-21T18:59:46Z"
+    },
+    {
+      "id": "048_ec8wds4",
+      "title": "Scorpions vs Gastoni KLASIK 21.09.2026",
+      "thumbnail": "https://i.ytimg.com/vi/048_ec8wds4/mqdefault_live.jpg",
+      "isLive": false,
+      "publishedAt": "2026-09-21T17:49:04Z"
+    },
+    {
+      "id": "0MfJ76VqIV8",
+      "title": "Spiders vs Vikings HOBBY ICE 21.09.2026",
+      "thumbnail": "https://i.ytimg.com/vi/0MfJ76VqIV8/mqdefault_live.jpg",
+      "isLive": false,
+      "publishedAt": "2026-09-21T17:27:20Z"
+    },
     {
       "id": "QlskfoIObsc",
       "title": "Office Rats vs Roosters SPORT 20.09.2026",
@@ -22,34 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/-djhcgGz0qM/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-09-21T04:44:08Z"
-    },
-    {
-      "id": "6VOODbB9TN4",
-      "title": "Heyoka vs Cheza SPORT 20.09.2026",
-      "thumbnail": "https://i.ytimg.com/vi/6VOODbB9TN4/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-09-21T03:37:01Z"
-    },
-    {
-      "id": "hd-bFZo47v0",
-      "title": "PHM Week recap 18.09.2026 - SUPER",
-      "thumbnail": "https://i.ytimg.com/vi/hd-bFZo47v0/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-09-18T11:15:20Z"
-    },
-    {
-      "id": "GIEwhQhcUr4",
-      "title": "PHM Week recap 18.09.2026 - SPORT",
-      "thumbnail": "https://i.ytimg.com/vi/GIEwhQhcUr4/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-09-18T11:15:17Z"
-    },
-    {
-      "id": "IbPvBrcnpbw",
-      "title": "PHM Week recap 18.09.2026 - KLASIK",
-      "thumbnail": "https://i.ytimg.com/vi/IbPvBrcnpbw/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-09-18T11:15:15Z"
     }
   ]
 }
