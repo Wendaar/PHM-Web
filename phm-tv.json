@@ -1,20 +1,13 @@
 {
-  "updated": "2026-09-22T20:46:00.939Z",
+  "updated": "2026-09-22T23:25:28.038Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
     {
       "id": "iEV3cNl-W9M",
-      "title": "Beavers vs. Fotr",
+      "title": "Beavers vs Fotr HOBBY ICE 22.09.2026",
       "thumbnail": "https://i.ytimg.com/vi/iEV3cNl-W9M/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-09-22T20:29:11Z"
-    },
-    {
-      "id": "6Rf2_GmPGSk",
-      "title": "Raptors vs Foxes KLASIK 22.09.2026",
-      "thumbnail": "https://i.ytimg.com/vi/6Rf2_GmPGSk/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-09-22T20:07:53Z"
     },
     {
       "id": "VLJQ0KiaZsA",
@@ -25,24 +18,17 @@
     },
     {
       "id": "TFItWDY-SEc",
-      "title": "KV Elektro vs. Paladins",
+      "title": "KV Elektro vs Paladins HOBBY ICE 22.09.2026",
       "thumbnail": "https://i.ytimg.com/vi/TFItWDY-SEc/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-09-22T19:42:16Z"
     },
     {
       "id": "B0Ri8eQXFrg",
-      "title": "DKB vs KBB\n22.9.2026",
+      "title": "Ducks B vs Soldiers B HOBBY FIRE 22.09.2026",
       "thumbnail": "https://i.ytimg.com/vi/B0Ri8eQXFrg/mqdefault_live.jpg",
       "isLive": false,
       "publishedAt": "2026-09-22T16:22:31Z"
-    },
-    {
-      "id": "9HqzxU7_WoQ",
-      "title": "DKB vs KBB\n 22.9.2026",
-      "thumbnail": "https://i.ytimg.com/vi/9HqzxU7_WoQ/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-09-22T16:24:11Z"
     },
     {
       "id": "4k0ZBaXNvCk",
@@ -50,6 +36,20 @@
       "thumbnail": "https://i.ytimg.com/vi/4k0ZBaXNvCk/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-09-22T09:04:57Z"
+    },
+    {
+      "id": "XKxPv1BKbTQ",
+      "title": "Žraloci vs Destroit HOBBY ICE 21.09.2026",
+      "thumbnail": "https://i.ytimg.com/vi/XKxPv1BKbTQ/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-09-22T08:33:56Z"
+    },
+    {
+      "id": "048_ec8wds4",
+      "title": "Scorpions vs Gastoni KLASIK 21.09.2026",
+      "thumbnail": "https://i.ytimg.com/vi/048_ec8wds4/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-09-22T07:33:17Z"
     }
   ]
 }
