@@ -1,7 +1,28 @@
 {
-  "updated": "2026-09-22T13:32:45.102Z",
+  "updated": "2026-09-22T17:52:17.242Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
+    {
+      "id": "TFItWDY-SEc",
+      "title": "KV Elektro vs. Paladins",
+      "thumbnail": "https://i.ytimg.com/vi/TFItWDY-SEc/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2026-09-22T17:51:54Z"
+    },
+    {
+      "id": "B0Ri8eQXFrg",
+      "title": "DKB vs KBB\n22.9.2026",
+      "thumbnail": "https://i.ytimg.com/vi/B0Ri8eQXFrg/mqdefault_live.jpg",
+      "isLive": false,
+      "publishedAt": "2026-09-22T16:22:31Z"
+    },
+    {
+      "id": "9HqzxU7_WoQ",
+      "title": "DKB vs KBB\n 22.9.2026",
+      "thumbnail": "https://i.ytimg.com/vi/9HqzxU7_WoQ/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-09-22T16:24:11Z"
+    },
     {
       "id": "4k0ZBaXNvCk",
       "title": "Berkut vs Chiefs SUPER 21.09.2026",
@@ -29,27 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/0MfJ76VqIV8/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-09-22T06:50:51Z"
-    },
-    {
-      "id": "QlskfoIObsc",
-      "title": "Office Rats vs Roosters SPORT 20.09.2026",
-      "thumbnail": "https://i.ytimg.com/vi/QlskfoIObsc/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-09-21T07:48:21Z"
-    },
-    {
-      "id": "kCnbLFR2OKo",
-      "title": "Taste vs Dragons KLASIK 20.09.2026",
-      "thumbnail": "https://i.ytimg.com/vi/kCnbLFR2OKo/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-09-21T05:54:52Z"
-    },
-    {
-      "id": "-djhcgGz0qM",
-      "title": "PÚ vs Alligators KLASIK 20.09.2026",
-      "thumbnail": "https://i.ytimg.com/vi/-djhcgGz0qM/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-09-21T04:44:08Z"
     }
   ]
 }
