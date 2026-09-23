@@ -1,34 +1,27 @@
 {
-  "updated": "2026-09-23T20:58:06.374Z",
+  "updated": "2026-09-23T23:26:59.788Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
     {
       "id": "4fRIXe1iybQ",
-      "title": "GKL vs VHT 22.09.2026",
-      "thumbnail": "https://i.ytimg.com/vi/4fRIXe1iybQ/mqdefault_live.jpg",
+      "title": "Gladiators Kladno vs Voholto SPORT 23.09.2026",
+      "thumbnail": "https://i.ytimg.com/vi/4fRIXe1iybQ/mqdefault.jpg",
       "isLive": false,
-      "publishedAt": "2026-09-23T19:48:05Z"
+      "publishedAt": "2026-09-23T20:58:40Z"
     },
     {
       "id": "1XIhVsTLYEc",
-      "title": "Hovna vs. Rex",
+      "title": "H.O.V.N.A. vs REX SPORT 23.09.2026",
       "thumbnail": "https://i.ytimg.com/vi/1XIhVsTLYEc/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-09-23T20:35:55Z"
     },
     {
       "id": "UU8AewenNrc",
-      "title": "RST vs PPG, sport, 23.09.2026",
+      "title": "Roosters vs Pigeons SPORT 23.09.2026",
       "thumbnail": "https://i.ytimg.com/vi/UU8AewenNrc/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-09-23T19:53:04Z"
-    },
-    {
-      "id": "jhjUo-Q00c8",
-      "title": "test",
-      "thumbnail": "https://i.ytimg.com/vi/jhjUo-Q00c8/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-09-23T19:31:51Z"
     },
     {
       "id": "r3Z3-nOO4eY",
@@ -39,17 +32,24 @@
     },
     {
       "id": "rMxS406k9Wc",
-      "title": "Vikings vs. BK Žraloci",
+      "title": "Vikings vs Žraloci HOBBY ICE 23.09.2026",
       "thumbnail": "https://i.ytimg.com/vi/rMxS406k9Wc/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-09-23T19:08:00Z"
     },
     {
       "id": "PfGpuy2cx9A",
-      "title": "OIR vs FES 23.09.2026, sport",
+      "title": "Office Rats vs Fešáci SPORT 23.09.2026",
       "thumbnail": "https://i.ytimg.com/vi/PfGpuy2cx9A/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-09-23T18:07:07Z"
+    },
+    {
+      "id": "VLJQ0KiaZsA",
+      "title": "Žižkov vs Soldiers SUPER 22.09.2026",
+      "thumbnail": "https://i.ytimg.com/vi/VLJQ0KiaZsA/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-09-23T08:05:30Z"
     }
   ]
 }
