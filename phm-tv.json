@@ -1,7 +1,14 @@
 {
-  "updated": "2026-09-23T12:51:22.022Z",
+  "updated": "2026-09-23T17:38:52.760Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
+    {
+      "id": "PfGpuy2cx9A",
+      "title": "OIR vs FES 23.09.2026, sport",
+      "thumbnail": "https://i.ytimg.com/vi/PfGpuy2cx9A/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2026-09-23T16:49:46Z"
+    },
     {
       "id": "VLJQ0KiaZsA",
       "title": "Žižkov vs Soldiers SUPER 22.09.2026",
@@ -43,13 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/XKxPv1BKbTQ/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-09-22T08:33:56Z"
-    },
-    {
-      "id": "048_ec8wds4",
-      "title": "Scorpions vs Gastoni KLASIK 21.09.2026",
-      "thumbnail": "https://i.ytimg.com/vi/048_ec8wds4/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-09-22T07:33:17Z"
     }
   ]
 }
