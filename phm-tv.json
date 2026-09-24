@@ -1,7 +1,14 @@
 {
-  "updated": "2026-09-24T07:03:35.397Z",
+  "updated": "2026-09-24T12:48:48.093Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
+    {
+      "id": "r3Z3-nOO4eY",
+      "title": "Gladiators vs Strašáci KLASIK 23.09.2026",
+      "thumbnail": "https://i.ytimg.com/vi/r3Z3-nOO4eY/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-09-24T07:25:42Z"
+    },
     {
       "id": "4fRIXe1iybQ",
       "title": "Gladiators Kladno vs Voholto SPORT 23.09.2026",
@@ -22,13 +29,6 @@
       "thumbnail": "https://i.ytimg.com/vi/UU8AewenNrc/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-09-23T19:53:04Z"
-    },
-    {
-      "id": "r3Z3-nOO4eY",
-      "title": "Gladiators vs Strašáci KLASIK 23.09.2026",
-      "thumbnail": "https://i.ytimg.com/vi/r3Z3-nOO4eY/mqdefault_live.jpg",
-      "isLive": false,
-      "publishedAt": "2026-09-23T18:03:59Z"
     },
     {
       "id": "rMxS406k9Wc",
