@@ -1,55 +1,55 @@
 {
-  "updated": "2026-09-24T17:42:06.650Z",
+  "updated": "2026-09-24T21:02:22.262Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
+    {
+      "id": "lu8kkGoaANc",
+      "title": "Fanklub Lev vs ATTL SPORT 24.09.2026",
+      "thumbnail": "https://i.ytimg.com/vi/lu8kkGoaANc/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2026-09-24T19:55:44Z"
+    },
+    {
+      "id": "JdKzqg_slkY",
+      "title": "Reindeers vs Destroit HOBBY ICE 24.09.2026",
+      "thumbnail": "https://i.ytimg.com/vi/JdKzqg_slkY/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-09-24T20:44:21Z"
+    },
+    {
+      "id": "PRUDFD9lnuk",
+      "title": "Scorpions B vs Ducks C HOBBY ICE 24.09.2026",
+      "thumbnail": "https://i.ytimg.com/vi/PRUDFD9lnuk/mqdefault_live.jpg",
+      "isLive": false,
+      "publishedAt": "2026-09-24T18:41:50Z"
+    },
+    {
+      "id": "iySv5_9N6vk",
+      "title": "PHM aftergame interview 23.09.2026 - Daniel Hnízdil",
+      "thumbnail": "https://i.ytimg.com/vi/iySv5_9N6vk/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-09-24T19:45:32Z"
+    },
+    {
+      "id": "E91WJF-jY-M",
+      "title": "PHM aftergame interview 22.09.2026 - Tomáš Svoreň",
+      "thumbnail": "https://i.ytimg.com/vi/E91WJF-jY-M/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-09-24T19:45:29Z"
+    },
+    {
+      "id": "Mcl-zprWzGg",
+      "title": "PUK PAK PIVO vs Renegades SUPER 24.09.2026",
+      "thumbnail": "https://i.ytimg.com/vi/Mcl-zprWzGg/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-09-24T19:28:10Z"
+    },
     {
       "id": "r3Z3-nOO4eY",
       "title": "Gladiators vs Strašáci KLASIK 23.09.2026",
       "thumbnail": "https://i.ytimg.com/vi/r3Z3-nOO4eY/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-09-24T07:25:42Z"
-    },
-    {
-      "id": "4fRIXe1iybQ",
-      "title": "Gladiators Kladno vs Voholto SPORT 23.09.2026",
-      "thumbnail": "https://i.ytimg.com/vi/4fRIXe1iybQ/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-09-23T20:58:40Z"
-    },
-    {
-      "id": "1XIhVsTLYEc",
-      "title": "H.O.V.N.A. vs REX SPORT 23.09.2026",
-      "thumbnail": "https://i.ytimg.com/vi/1XIhVsTLYEc/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-09-23T20:35:55Z"
-    },
-    {
-      "id": "UU8AewenNrc",
-      "title": "Roosters vs Pigeons SPORT 23.09.2026",
-      "thumbnail": "https://i.ytimg.com/vi/UU8AewenNrc/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-09-23T19:53:04Z"
-    },
-    {
-      "id": "rMxS406k9Wc",
-      "title": "Vikings vs Žraloci HOBBY ICE 23.09.2026",
-      "thumbnail": "https://i.ytimg.com/vi/rMxS406k9Wc/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-09-23T19:08:00Z"
-    },
-    {
-      "id": "PfGpuy2cx9A",
-      "title": "Office Rats vs Fešáci SPORT 23.09.2026",
-      "thumbnail": "https://i.ytimg.com/vi/PfGpuy2cx9A/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-09-23T18:07:07Z"
-    },
-    {
-      "id": "VLJQ0KiaZsA",
-      "title": "Žižkov vs Soldiers SUPER 22.09.2026",
-      "thumbnail": "https://i.ytimg.com/vi/VLJQ0KiaZsA/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-09-23T08:05:30Z"
     }
   ]
 }
