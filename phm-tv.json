@@ -1,7 +1,42 @@
 {
-  "updated": "2026-09-29T14:11:05.153Z",
+  "updated": "2026-09-29T19:31:11.537Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
+    {
+      "id": "ME4ndmra-DA",
+      "title": "PLATIDLO vs Fotr HOBBY FIRE 29.09.2026",
+      "thumbnail": "https://i.ytimg.com/vi/ME4ndmra-DA/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2026-09-29T18:28:59Z"
+    },
+    {
+      "id": "g_0mWmQjrlc",
+      "title": "Prague Pigeons B vs. Golden Bears",
+      "thumbnail": "https://i.ytimg.com/vi/g_0mWmQjrlc/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2026-09-29T19:21:28Z"
+    },
+    {
+      "id": "jOTquEfIsu4",
+      "title": "Goats vs Polar Bears HOBBY FIRE 29.9.2026",
+      "thumbnail": "https://i.ytimg.com/vi/jOTquEfIsu4/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2026-09-29T18:56:59Z"
+    },
+    {
+      "id": "K0cpzuUj710",
+      "title": "ICE Spiders vs. KV Elektro",
+      "thumbnail": "https://i.ytimg.com/vi/K0cpzuUj710/mqdefault_live.jpg",
+      "isLive": false,
+      "publishedAt": "2026-09-29T17:54:03Z"
+    },
+    {
+      "id": "4niF2yAGjnw",
+      "title": "Chiefs vs Superheroes SUPER 29.9.2026",
+      "thumbnail": "https://i.ytimg.com/vi/4niF2yAGjnw/mqdefault_live.jpg",
+      "isLive": false,
+      "publishedAt": "2026-09-29T17:27:55Z"
+    },
     {
       "id": "zLtzlCavaAU",
       "title": "PHM Week recap 25.09.2026 - SUPER",
@@ -15,41 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/NLBIWutumu8/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-09-25T14:43:46Z"
-    },
-    {
-      "id": "5-YLSSJwWRM",
-      "title": "PHM Week recap 25.09.2026 - KLASIK",
-      "thumbnail": "https://i.ytimg.com/vi/5-YLSSJwWRM/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-09-25T14:43:43Z"
-    },
-    {
-      "id": "HueeAac6tB0",
-      "title": "PHM Week recap 25.09.2026 - HOBBY ICE",
-      "thumbnail": "https://i.ytimg.com/vi/HueeAac6tB0/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-09-25T14:43:41Z"
-    },
-    {
-      "id": "HHct4dp2E88",
-      "title": "PHM Week recap 25.09.2026 - HOBBY FIRE",
-      "thumbnail": "https://i.ytimg.com/vi/HHct4dp2E88/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-09-25T14:43:38Z"
-    },
-    {
-      "id": "lu8kkGoaANc",
-      "title": "Fanklub Lev vs ATTL SPORT 24.09.2026",
-      "thumbnail": "https://i.ytimg.com/vi/lu8kkGoaANc/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-09-25T09:30:46Z"
-    },
-    {
-      "id": "PRUDFD9lnuk",
-      "title": "Scorpions B vs Ducks C HOBBY ICE 24.09.2026",
-      "thumbnail": "https://i.ytimg.com/vi/PRUDFD9lnuk/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-09-25T07:50:30Z"
     }
   ]
 }
