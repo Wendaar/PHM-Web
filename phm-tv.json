@@ -1,27 +1,13 @@
 {
-  "updated": "2026-09-30T20:27:37.892Z",
+  "updated": "2026-10-01T00:03:59.820Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
-    {
-      "id": "MeQaUHi3dJU",
-      "title": "Pigeons vs. Gladiators Kladno",
-      "thumbnail": "https://i.ytimg.com/vi/MeQaUHi3dJU/mqdefault_live.jpg",
-      "isLive": true,
-      "publishedAt": "2026-09-30T17:50:16Z"
-    },
     {
       "id": "DUQFchTi0Bw",
       "title": "Traverzáci vs Scorpions B HOBBY ICE 30.09.2026",
       "thumbnail": "https://i.ytimg.com/vi/DUQFchTi0Bw/mqdefault_live.jpg",
-      "isLive": true,
-      "publishedAt": "2026-09-30T19:40:35Z"
-    },
-    {
-      "id": "IapyXarlnHg",
-      "title": "HC CAR-BACK vs Gaston Seals KLASIK 30.9.2026",
-      "thumbnail": "https://i.ytimg.com/vi/IapyXarlnHg/mqdefault_live.jpg",
       "isLive": false,
-      "publishedAt": "2026-09-30T19:09:11Z"
+      "publishedAt": "2026-09-30T19:40:35Z"
     },
     {
       "id": "1jwGKVs2wFo",
@@ -31,13 +17,6 @@
       "publishedAt": "2026-09-30T19:38:06Z"
     },
     {
-      "id": "08j29aO0K_c",
-      "title": "Traverzáci vs Scorpions B HOBBY ICE 30.09.2026",
-      "thumbnail": "https://i.ytimg.com/vi/08j29aO0K_c/mqdefault_live.jpg",
-      "isLive": false,
-      "publishedAt": "2026-09-30T19:40:26Z"
-    },
-    {
       "id": "WGGh5UP_300",
       "title": "Roosters vs H.O.V.N.A. SPORT 30.09.2026",
       "thumbnail": "https://i.ytimg.com/vi/WGGh5UP_300/mqdefault_live.jpg",
@@ -45,11 +24,32 @@
       "publishedAt": "2026-09-30T18:13:13Z"
     },
     {
-      "id": "lNdp58vPWOc",
-      "title": "HC Rex Bohemia vs HC Strojaři ATTL SPORT 30.9.2026",
-      "thumbnail": "https://i.ytimg.com/vi/lNdp58vPWOc/mqdefault_live.jpg",
+      "id": "MeQaUHi3dJU",
+      "title": "Pigeons vs Gladiators Kladno SPORT 01.10.2026",
+      "thumbnail": "https://i.ytimg.com/vi/MeQaUHi3dJU/mqdefault_live.jpg",
       "isLive": false,
-      "publishedAt": "2026-09-30T17:49:16Z"
+      "publishedAt": "2026-09-30T17:50:16Z"
+    },
+    {
+      "id": "0ZIJude-Q2U",
+      "title": "Heyoka vs Office Rats SPORT 30.09.2026",
+      "thumbnail": "https://i.ytimg.com/vi/0ZIJude-Q2U/mqdefault_live.jpg",
+      "isLive": false,
+      "publishedAt": "2026-09-30T16:42:22Z"
+    },
+    {
+      "id": "g_0mWmQjrlc",
+      "title": "Pigeons B vs Golden Bears KLASIK 29.09.2026",
+      "thumbnail": "https://i.ytimg.com/vi/g_0mWmQjrlc/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-09-30T09:08:57Z"
+    },
+    {
+      "id": "jOTquEfIsu4",
+      "title": "Goats vs Polar Bears HOBBY FIRE 29.09.2026",
+      "thumbnail": "https://i.ytimg.com/vi/jOTquEfIsu4/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-09-30T08:15:41Z"
     }
   ]
 }
