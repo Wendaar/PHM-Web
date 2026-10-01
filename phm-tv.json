@@ -1,7 +1,28 @@
 {
-  "updated": "2026-10-01T13:40:15.621Z",
+  "updated": "2026-10-01T19:12:10.640Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
+    {
+      "id": "i8j4XCXJcoE",
+      "title": "DCK vs RND, 1.10.2026, HOBBY ICE",
+      "thumbnail": "https://i.ytimg.com/vi/i8j4XCXJcoE/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2026-10-01T18:23:02Z"
+    },
+    {
+      "id": "lq9bvzpAv3A",
+      "title": "Berkut vs PUK PAK PIVO SUPER 01.10.2026",
+      "thumbnail": "https://i.ytimg.com/vi/lq9bvzpAv3A/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2026-10-01T18:13:56Z"
+    },
+    {
+      "id": "k0BhQ6_MQmA",
+      "title": "DCK vs RND, 1.10.2026, HOBBY ICE",
+      "thumbnail": "https://i.ytimg.com/vi/k0BhQ6_MQmA/mqdefault_live.jpg",
+      "isLive": false,
+      "publishedAt": "2026-10-01T18:22:53Z"
+    },
     {
       "id": "DUQFchTi0Bw",
       "title": "Traverzáci vs Scorpions B HOBBY ICE 30.09.2026",
@@ -29,27 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/MeQaUHi3dJU/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-10-01T07:27:17Z"
-    },
-    {
-      "id": "0ZIJude-Q2U",
-      "title": "Heyoka vs Office Rats SPORT 30.09.2026",
-      "thumbnail": "https://i.ytimg.com/vi/0ZIJude-Q2U/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-10-01T06:31:47Z"
-    },
-    {
-      "id": "g_0mWmQjrlc",
-      "title": "Pigeons B vs Golden Bears KLASIK 29.09.2026",
-      "thumbnail": "https://i.ytimg.com/vi/g_0mWmQjrlc/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-09-30T09:08:57Z"
-    },
-    {
-      "id": "jOTquEfIsu4",
-      "title": "Goats vs Polar Bears HOBBY FIRE 29.09.2026",
-      "thumbnail": "https://i.ytimg.com/vi/jOTquEfIsu4/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-09-30T08:15:41Z"
     }
   ]
 }
