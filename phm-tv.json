@@ -1,55 +1,55 @@
 {
-  "updated": "2026-10-03T03:24:28.876Z",
+  "updated": "2026-10-03T09:20:05.442Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
+    {
+      "id": "RYF4zmkId4s",
+      "title": "PHM Week recap 02.10.2026 - SUPER",
+      "thumbnail": "https://i.ytimg.com/vi/RYF4zmkId4s/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-10-03T08:55:17Z"
+    },
+    {
+      "id": "n6plRUOi25w",
+      "title": "PHM Week recap 02.10.2026 - SPORT",
+      "thumbnail": "https://i.ytimg.com/vi/n6plRUOi25w/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-10-03T08:55:15Z"
+    },
+    {
+      "id": "Awd_6TaSZC8",
+      "title": "PHM Week recap 02.10.2026 - KLASIK",
+      "thumbnail": "https://i.ytimg.com/vi/Awd_6TaSZC8/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-10-03T08:55:12Z"
+    },
+    {
+      "id": "v8l6OG0vjyk",
+      "title": "PHM Week recap 02.10.2026 - HOBBY ICE",
+      "thumbnail": "https://i.ytimg.com/vi/v8l6OG0vjyk/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-10-03T08:55:09Z"
+    },
+    {
+      "id": "s_qi8ga-IfU",
+      "title": "PHM Week recap 02.10.2026 - HOBBY FIRE",
+      "thumbnail": "https://i.ytimg.com/vi/s_qi8ga-IfU/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-10-03T08:55:07Z"
+    },
+    {
+      "id": "q8ZkosRgipc",
+      "title": "PHM aftergame interview 01.10.2026 - Patrik Císařovský",
+      "thumbnail": "https://i.ytimg.com/vi/q8ZkosRgipc/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-10-03T08:53:19Z"
+    },
     {
       "id": "HRTrOStOYU8",
       "title": "Alligators vs Strašáci KLASIK 01.10.2026",
       "thumbnail": "https://i.ytimg.com/vi/HRTrOStOYU8/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-10-02T09:30:33Z"
-    },
-    {
-      "id": "XehrJlplWwQ",
-      "title": "Destroit vs Paladins HOBBY ICE 01.10.2026",
-      "thumbnail": "https://i.ytimg.com/vi/XehrJlplWwQ/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-10-02T08:59:25Z"
-    },
-    {
-      "id": "i8j4XCXJcoE",
-      "title": "Ducks C vs Reindeers HOBBY ICE 01.10.2026",
-      "thumbnail": "https://i.ytimg.com/vi/i8j4XCXJcoE/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-10-02T07:48:20Z"
-    },
-    {
-      "id": "lq9bvzpAv3A",
-      "title": "Berkut vs PUK PAK PIVO SUPER 01.10.2026",
-      "thumbnail": "https://i.ytimg.com/vi/lq9bvzpAv3A/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-10-02T07:35:33Z"
-    },
-    {
-      "id": "DUQFchTi0Bw",
-      "title": "Traverzáci vs Scorpions B HOBBY ICE 30.09.2026",
-      "thumbnail": "https://i.ytimg.com/vi/DUQFchTi0Bw/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-10-01T09:04:42Z"
-    },
-    {
-      "id": "1jwGKVs2wFo",
-      "title": "Renegades vs Kosti SUPER 30.09.2026",
-      "thumbnail": "https://i.ytimg.com/vi/1jwGKVs2wFo/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-10-01T08:44:38Z"
-    },
-    {
-      "id": "WGGh5UP_300",
-      "title": "Roosters vs H.O.V.N.A. SPORT 30.09.2026",
-      "thumbnail": "https://i.ytimg.com/vi/WGGh5UP_300/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-10-01T07:50:34Z"
     }
   ]
 }
