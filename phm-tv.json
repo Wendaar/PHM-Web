@@ -1,55 +1,55 @@
 {
-  "updated": "2026-10-04T12:40:39.964Z",
+  "updated": "2026-10-04T17:13:59.424Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
+    {
+      "id": "R9FV2ofc2Is",
+      "title": "TASTE vs Scorpions KLASIK 4.10.2026",
+      "thumbnail": "https://i.ytimg.com/vi/R9FV2ofc2Is/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2026-10-04T16:48:37Z"
+    },
+    {
+      "id": "b0oNcUp_mvA",
+      "title": "MYQ vs KBB",
+      "thumbnail": "https://i.ytimg.com/vi/b0oNcUp_mvA/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2026-10-04T16:44:27Z"
+    },
+    {
+      "id": "ebSFIO5TR8U",
+      "title": "Fešáci vs Lev SPORT 4.10.2026",
+      "thumbnail": "https://i.ytimg.com/vi/ebSFIO5TR8U/mqdefault_live.jpg",
+      "isLive": false,
+      "publishedAt": "2026-10-04T15:14:20Z"
+    },
+    {
+      "id": "-Az1H4k4Glw",
+      "title": "SLZ vs WLV",
+      "thumbnail": "https://i.ytimg.com/vi/-Az1H4k4Glw/mqdefault_live.jpg",
+      "isLive": false,
+      "publishedAt": "2026-10-04T15:00:42Z"
+    },
+    {
+      "id": "0M-pRI0Dyyk",
+      "title": "PÚ vs Foxes KLASIK 4.10.2026",
+      "thumbnail": "https://i.ytimg.com/vi/0M-pRI0Dyyk/mqdefault_live.jpg",
+      "isLive": false,
+      "publishedAt": "2026-10-04T13:42:09Z"
+    },
+    {
+      "id": "b7AXieWv62k",
+      "title": "GOB vs CAR",
+      "thumbnail": "https://i.ytimg.com/vi/b7AXieWv62k/mqdefault_live.jpg",
+      "isLive": false,
+      "publishedAt": "2026-10-04T13:29:43Z"
+    },
     {
       "id": "RYF4zmkId4s",
       "title": "PHM Week recap 02.10.2026 - SUPER",
       "thumbnail": "https://i.ytimg.com/vi/RYF4zmkId4s/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-10-03T08:55:17Z"
-    },
-    {
-      "id": "n6plRUOi25w",
-      "title": "PHM Week recap 02.10.2026 - SPORT",
-      "thumbnail": "https://i.ytimg.com/vi/n6plRUOi25w/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-10-03T08:55:15Z"
-    },
-    {
-      "id": "Awd_6TaSZC8",
-      "title": "PHM Week recap 02.10.2026 - KLASIK",
-      "thumbnail": "https://i.ytimg.com/vi/Awd_6TaSZC8/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-10-03T08:55:12Z"
-    },
-    {
-      "id": "v8l6OG0vjyk",
-      "title": "PHM Week recap 02.10.2026 - HOBBY ICE",
-      "thumbnail": "https://i.ytimg.com/vi/v8l6OG0vjyk/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-10-03T08:55:09Z"
-    },
-    {
-      "id": "s_qi8ga-IfU",
-      "title": "PHM Week recap 02.10.2026 - HOBBY FIRE",
-      "thumbnail": "https://i.ytimg.com/vi/s_qi8ga-IfU/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-10-03T08:55:07Z"
-    },
-    {
-      "id": "q8ZkosRgipc",
-      "title": "PHM aftergame interview 01.10.2026 - Patrik Císařovský",
-      "thumbnail": "https://i.ytimg.com/vi/q8ZkosRgipc/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-10-03T08:53:19Z"
-    },
-    {
-      "id": "HRTrOStOYU8",
-      "title": "Alligators vs Strašáci KLASIK 01.10.2026",
-      "thumbnail": "https://i.ytimg.com/vi/HRTrOStOYU8/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-10-02T09:30:33Z"
     }
   ]
 }
