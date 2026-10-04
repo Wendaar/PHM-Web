@@ -1,20 +1,34 @@
 {
-  "updated": "2026-10-04T17:13:59.424Z",
+  "updated": "2026-10-04T20:18:11.043Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
     {
-      "id": "R9FV2ofc2Is",
-      "title": "TASTE vs Scorpions KLASIK 4.10.2026",
-      "thumbnail": "https://i.ytimg.com/vi/R9FV2ofc2Is/mqdefault_live.jpg",
-      "isLive": true,
-      "publishedAt": "2026-10-04T16:48:37Z"
+      "id": "fLVMsfJ79Zk",
+      "title": "GLA vs PDG",
+      "thumbnail": "https://i.ytimg.com/vi/fLVMsfJ79Zk/mqdefault_live.jpg",
+      "isLive": false,
+      "publishedAt": "2026-10-04T18:12:21Z"
+    },
+    {
+      "id": "jwR1a8f7Fq4",
+      "title": "Gladiators Kladno vs Cheza SPORT 04.10.2026",
+      "thumbnail": "https://i.ytimg.com/vi/jwR1a8f7Fq4/mqdefault_live.jpg",
+      "isLive": false,
+      "publishedAt": "2026-10-04T18:00:44Z"
     },
     {
       "id": "b0oNcUp_mvA",
       "title": "MYQ vs KBB",
       "thumbnail": "https://i.ytimg.com/vi/b0oNcUp_mvA/mqdefault_live.jpg",
-      "isLive": true,
+      "isLive": false,
       "publishedAt": "2026-10-04T16:44:27Z"
+    },
+    {
+      "id": "R9FV2ofc2Is",
+      "title": "TASTE vs Scorpions KLASIK 4.10.2026",
+      "thumbnail": "https://i.ytimg.com/vi/R9FV2ofc2Is/mqdefault_live.jpg",
+      "isLive": false,
+      "publishedAt": "2026-10-04T16:48:37Z"
     },
     {
       "id": "ebSFIO5TR8U",
@@ -36,20 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/0M-pRI0Dyyk/mqdefault_live.jpg",
       "isLive": false,
       "publishedAt": "2026-10-04T13:42:09Z"
-    },
-    {
-      "id": "b7AXieWv62k",
-      "title": "GOB vs CAR",
-      "thumbnail": "https://i.ytimg.com/vi/b7AXieWv62k/mqdefault_live.jpg",
-      "isLive": false,
-      "publishedAt": "2026-10-04T13:29:43Z"
-    },
-    {
-      "id": "RYF4zmkId4s",
-      "title": "PHM Week recap 02.10.2026 - SUPER",
-      "thumbnail": "https://i.ytimg.com/vi/RYF4zmkId4s/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-10-03T08:55:17Z"
     }
   ]
 }
