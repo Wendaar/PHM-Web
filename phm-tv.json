@@ -1,7 +1,21 @@
 {
-  "updated": "2026-10-05T09:22:41.918Z",
+  "updated": "2026-10-05T18:40:55.214Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
+    {
+      "id": "hduGhsdaIpI",
+      "title": "Žraloci VS Scorpions B HOBBY ICE 05.10.2026",
+      "thumbnail": "https://i.ytimg.com/vi/hduGhsdaIpI/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2026-10-05T18:02:43Z"
+    },
+    {
+      "id": "S2GFcQ6lyWQ",
+      "title": "5.10.2026 - CHI vs REN",
+      "thumbnail": "https://i.ytimg.com/vi/S2GFcQ6lyWQ/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2026-10-05T17:32:57Z"
+    },
     {
       "id": "fLVMsfJ79Zk",
       "title": "Gladiators vs Dragons KLASIK 04.10.2026",
@@ -36,20 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/ebSFIO5TR8U/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-10-05T04:49:20Z"
-    },
-    {
-      "id": "-Az1H4k4Glw",
-      "title": "Zbraslav vs Wolves SUPER 04.10.2026",
-      "thumbnail": "https://i.ytimg.com/vi/-Az1H4k4Glw/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-10-05T04:29:12Z"
-    },
-    {
-      "id": "0M-pRI0Dyyk",
-      "title": "PÚ vs Foxes KLASIK 04.10.2026",
-      "thumbnail": "https://i.ytimg.com/vi/0M-pRI0Dyyk/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-10-05T03:06:30Z"
     }
   ]
 }
