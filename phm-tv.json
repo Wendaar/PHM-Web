@@ -1,19 +1,33 @@
 {
-  "updated": "2026-10-05T18:40:55.214Z",
+  "updated": "2026-10-06T00:32:04.267Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
     {
+      "id": "qU4NJAha_ts",
+      "title": "Beavers vs Goats HOBBY FIRE 05.10.2026",
+      "thumbnail": "https://i.ytimg.com/vi/qU4NJAha_ts/mqdefault_live.jpg",
+      "isLive": false,
+      "publishedAt": "2026-10-05T19:37:11Z"
+    },
+    {
+      "id": "EQobW44uqXE",
+      "title": "Voholto vs Ducks Sport SPORT 05.10.2026",
+      "thumbnail": "https://i.ytimg.com/vi/EQobW44uqXE/mqdefault_live.jpg",
+      "isLive": false,
+      "publishedAt": "2026-10-05T18:58:41Z"
+    },
+    {
       "id": "hduGhsdaIpI",
-      "title": "Žraloci VS Scorpions B HOBBY ICE 05.10.2026",
+      "title": "Žraloci vs Scorpions B HOBBY ICE 05.10.2026",
       "thumbnail": "https://i.ytimg.com/vi/hduGhsdaIpI/mqdefault_live.jpg",
-      "isLive": true,
+      "isLive": false,
       "publishedAt": "2026-10-05T18:02:43Z"
     },
     {
       "id": "S2GFcQ6lyWQ",
-      "title": "5.10.2026 - CHI vs REN",
+      "title": "Chiefs vs Renegades SUPER 05.10.2026",
       "thumbnail": "https://i.ytimg.com/vi/S2GFcQ6lyWQ/mqdefault_live.jpg",
-      "isLive": true,
+      "isLive": false,
       "publishedAt": "2026-10-05T17:32:57Z"
     },
     {
@@ -36,20 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/b0oNcUp_mvA/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-10-05T06:23:17Z"
-    },
-    {
-      "id": "R9FV2ofc2Is",
-      "title": "Taste vs Scorpions KLASIK 04.10.2026",
-      "thumbnail": "https://i.ytimg.com/vi/R9FV2ofc2Is/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-10-05T06:08:11Z"
-    },
-    {
-      "id": "ebSFIO5TR8U",
-      "title": "Fešáci vs Fanklub Lev SPORT 04.10.2026",
-      "thumbnail": "https://i.ytimg.com/vi/ebSFIO5TR8U/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-10-05T04:49:20Z"
     }
   ]
 }
