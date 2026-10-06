@@ -1,7 +1,42 @@
 {
-  "updated": "2026-10-06T14:19:28.826Z",
+  "updated": "2026-10-06T19:38:35.607Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
+    {
+      "id": "Be0oD1k1Wdc",
+      "title": "Alligators vs. Pigeons B. KLASIK 6.10.2026",
+      "thumbnail": "https://i.ytimg.com/vi/Be0oD1k1Wdc/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2026-10-06T18:59:09Z"
+    },
+    {
+      "id": "YNW4onLfHO0",
+      "title": "Vikings vs KV Elektro HOBBY ICE 6.10.2026",
+      "thumbnail": "https://i.ytimg.com/vi/YNW4onLfHO0/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2026-10-06T17:56:00Z"
+    },
+    {
+      "id": "EKvbQKFwlZs",
+      "title": "HC Ducks Star B vs HC Fotr HOBBY FIRE 6.10.2026",
+      "thumbnail": "https://i.ytimg.com/vi/EKvbQKFwlZs/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2026-10-06T19:28:18Z"
+    },
+    {
+      "id": "0if_lpKbrkw",
+      "title": "Pigeons B vs. Alligators KLASIK 6.10.2026",
+      "thumbnail": "https://i.ytimg.com/vi/0if_lpKbrkw/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-10-06T18:41:40Z"
+    },
+    {
+      "id": "MbwAkXZ4xJI",
+      "title": "6.10.2026 DOM vs SHS",
+      "thumbnail": "https://i.ytimg.com/vi/MbwAkXZ4xJI/mqdefault_live.jpg",
+      "isLive": false,
+      "publishedAt": "2026-10-06T16:18:30Z"
+    },
     {
       "id": "qU4NJAha_ts",
       "title": "Beavers vs Goats HOBBY FIRE 05.10.2026",
@@ -15,41 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/EQobW44uqXE/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-10-06T08:45:10Z"
-    },
-    {
-      "id": "hduGhsdaIpI",
-      "title": "Žraloci vs Scorpions B HOBBY ICE 05.10.2026",
-      "thumbnail": "https://i.ytimg.com/vi/hduGhsdaIpI/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-10-06T07:19:59Z"
-    },
-    {
-      "id": "S2GFcQ6lyWQ",
-      "title": "Chiefs vs Renegades SUPER 05.10.2026",
-      "thumbnail": "https://i.ytimg.com/vi/S2GFcQ6lyWQ/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-10-06T06:54:00Z"
-    },
-    {
-      "id": "fLVMsfJ79Zk",
-      "title": "Gladiators vs Dragons KLASIK 04.10.2026",
-      "thumbnail": "https://i.ytimg.com/vi/fLVMsfJ79Zk/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-10-05T07:34:55Z"
-    },
-    {
-      "id": "jwR1a8f7Fq4",
-      "title": "Gladiators Kladno vs Cheza SPORT 04.10.2026",
-      "thumbnail": "https://i.ytimg.com/vi/jwR1a8f7Fq4/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-10-05T06:47:09Z"
-    },
-    {
-      "id": "b0oNcUp_mvA",
-      "title": "MyQ vs Soldiers B HOBBY FIRE 04.10.2026",
-      "thumbnail": "https://i.ytimg.com/vi/b0oNcUp_mvA/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-10-05T06:23:17Z"
     }
   ]
 }
