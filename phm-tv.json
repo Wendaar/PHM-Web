@@ -1,34 +1,41 @@
 {
-  "updated": "2026-10-06T19:38:35.607Z",
+  "updated": "2026-10-06T23:30:14.306Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
     {
+      "id": "oRmhHDlaoFI",
+      "title": "Dragons vs Raptors KLASIK 06.10.2026",
+      "thumbnail": "https://i.ytimg.com/vi/oRmhHDlaoFI/mqdefault_live.jpg",
+      "isLive": false,
+      "publishedAt": "2026-10-06T19:56:56Z"
+    },
+    {
+      "id": "EKvbQKFwlZs",
+      "title": "Ducks B vs Fotr HOBBY FIRE 06.10.2026",
+      "thumbnail": "https://i.ytimg.com/vi/EKvbQKFwlZs/mqdefault_live.jpg",
+      "isLive": false,
+      "publishedAt": "2026-10-06T19:28:18Z"
+    },
+    {
+      "id": "oI_9l0YPnoA",
+      "title": "PHM All-stars September 2026",
+      "thumbnail": "https://i.ytimg.com/vi/oI_9l0YPnoA/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-10-06T20:18:04Z"
+    },
+    {
       "id": "Be0oD1k1Wdc",
-      "title": "Alligators vs. Pigeons B. KLASIK 6.10.2026",
+      "title": "Alligators vs Pigeons B KLASIK 06.10.2026",
       "thumbnail": "https://i.ytimg.com/vi/Be0oD1k1Wdc/mqdefault_live.jpg",
-      "isLive": true,
+      "isLive": false,
       "publishedAt": "2026-10-06T18:59:09Z"
     },
     {
       "id": "YNW4onLfHO0",
-      "title": "Vikings vs KV Elektro HOBBY ICE 6.10.2026",
+      "title": "Vikings vs KV Elektro HOBBY ICE 06.10.2026",
       "thumbnail": "https://i.ytimg.com/vi/YNW4onLfHO0/mqdefault_live.jpg",
-      "isLive": true,
-      "publishedAt": "2026-10-06T17:56:00Z"
-    },
-    {
-      "id": "EKvbQKFwlZs",
-      "title": "HC Ducks Star B vs HC Fotr HOBBY FIRE 6.10.2026",
-      "thumbnail": "https://i.ytimg.com/vi/EKvbQKFwlZs/mqdefault_live.jpg",
-      "isLive": true,
-      "publishedAt": "2026-10-06T19:28:18Z"
-    },
-    {
-      "id": "0if_lpKbrkw",
-      "title": "Pigeons B vs. Alligators KLASIK 6.10.2026",
-      "thumbnail": "https://i.ytimg.com/vi/0if_lpKbrkw/mqdefault.jpg",
       "isLive": false,
-      "publishedAt": "2026-10-06T18:41:40Z"
+      "publishedAt": "2026-10-06T17:56:00Z"
     },
     {
       "id": "MbwAkXZ4xJI",
@@ -43,13 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/qU4NJAha_ts/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-10-06T08:54:24Z"
-    },
-    {
-      "id": "EQobW44uqXE",
-      "title": "Voholto vs Ducks Sport SPORT 05.10.2026",
-      "thumbnail": "https://i.ytimg.com/vi/EQobW44uqXE/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-10-06T08:45:10Z"
     }
   ]
 }
