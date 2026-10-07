@@ -1,7 +1,14 @@
 {
-  "updated": "2026-10-07T10:47:02.986Z",
+  "updated": "2026-10-07T17:37:56.372Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
+    {
+      "id": "P0zym60k2dw",
+      "title": "Prague Pigeons vs. OFF ICE Rats",
+      "thumbnail": "https://i.ytimg.com/vi/P0zym60k2dw/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2026-10-07T16:45:19Z"
+    },
     {
       "id": "oRmhHDlaoFI",
       "title": "Dragons vs Raptors KLASIK 06.10.2026",
@@ -43,13 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/oI_9l0YPnoA/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-10-06T20:18:04Z"
-    },
-    {
-      "id": "qU4NJAha_ts",
-      "title": "Beavers vs Goats HOBBY FIRE 05.10.2026",
-      "thumbnail": "https://i.ytimg.com/vi/qU4NJAha_ts/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-10-06T08:54:24Z"
     }
   ]
 }
