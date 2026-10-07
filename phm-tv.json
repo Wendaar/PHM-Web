@@ -1,55 +1,55 @@
 {
-  "updated": "2026-10-07T17:37:56.372Z",
+  "updated": "2026-10-07T22:33:07.244Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
     {
+      "id": "3Tm4A8GvoDo",
+      "title": "Fanklub Lev vs REX SPORT 07.10.2026",
+      "thumbnail": "https://i.ytimg.com/vi/3Tm4A8GvoDo/mqdefault_live.jpg",
+      "isLive": false,
+      "publishedAt": "2026-10-07T19:34:17Z"
+    },
+    {
+      "id": "BF-kwew4iDc",
+      "title": "Wolves B vs Taste KLASIK 07.10.2026",
+      "thumbnail": "https://i.ytimg.com/vi/BF-kwew4iDc/mqdefault_live.jpg",
+      "isLive": false,
+      "publishedAt": "2026-10-07T19:33:15Z"
+    },
+    {
+      "id": "WC-9MIKr-yA",
+      "title": "Wolves vs Kosti SUPER 07.10.2026",
+      "thumbnail": "https://i.ytimg.com/vi/WC-9MIKr-yA/mqdefault_live.jpg",
+      "isLive": false,
+      "publishedAt": "2026-10-07T19:16:54Z"
+    },
+    {
+      "id": "O0t17mx3roU",
+      "title": "Heyoka vs ATTL SPORT 07.10.2026",
+      "thumbnail": "https://i.ytimg.com/vi/O0t17mx3roU/mqdefault_live.jpg",
+      "isLive": false,
+      "publishedAt": "2026-10-07T18:01:25Z"
+    },
+    {
+      "id": "BUjxxLuh5FY",
+      "title": "Zbraslav vs Soldiers SUPER 07.10.2026",
+      "thumbnail": "https://i.ytimg.com/vi/BUjxxLuh5FY/mqdefault_live.jpg",
+      "isLive": false,
+      "publishedAt": "2026-10-07T18:00:59Z"
+    },
+    {
+      "id": "3ZKEpuKizUQ",
+      "title": "Gladiators vs Rekreanti KLASIK 07.10.2026",
+      "thumbnail": "https://i.ytimg.com/vi/3ZKEpuKizUQ/mqdefault_live.jpg",
+      "isLive": false,
+      "publishedAt": "2026-10-07T17:49:04Z"
+    },
+    {
       "id": "P0zym60k2dw",
-      "title": "Prague Pigeons vs. OFF ICE Rats",
+      "title": "Pigeons vs Office Rats SPORT 07.10.2026",
       "thumbnail": "https://i.ytimg.com/vi/P0zym60k2dw/mqdefault_live.jpg",
-      "isLive": true,
+      "isLive": false,
       "publishedAt": "2026-10-07T16:45:19Z"
-    },
-    {
-      "id": "oRmhHDlaoFI",
-      "title": "Dragons vs Raptors KLASIK 06.10.2026",
-      "thumbnail": "https://i.ytimg.com/vi/oRmhHDlaoFI/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-10-07T09:16:21Z"
-    },
-    {
-      "id": "EKvbQKFwlZs",
-      "title": "Ducks B vs Fotr HOBBY FIRE 06.10.2026",
-      "thumbnail": "https://i.ytimg.com/vi/EKvbQKFwlZs/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-10-07T08:59:11Z"
-    },
-    {
-      "id": "Be0oD1k1Wdc",
-      "title": "Alligators vs Pigeons B KLASIK 06.10.2026",
-      "thumbnail": "https://i.ytimg.com/vi/Be0oD1k1Wdc/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-10-07T07:51:37Z"
-    },
-    {
-      "id": "YNW4onLfHO0",
-      "title": "Vikings vs KV Elektro HOBBY ICE 06.10.2026",
-      "thumbnail": "https://i.ytimg.com/vi/YNW4onLfHO0/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-10-07T07:13:27Z"
-    },
-    {
-      "id": "MbwAkXZ4xJI",
-      "title": "Domynos vs Superheroes SUPER 06.10.2026",
-      "thumbnail": "https://i.ytimg.com/vi/MbwAkXZ4xJI/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-10-07T05:30:31Z"
-    },
-    {
-      "id": "oI_9l0YPnoA",
-      "title": "PHM All-stars September 2026",
-      "thumbnail": "https://i.ytimg.com/vi/oI_9l0YPnoA/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-10-06T20:18:04Z"
     }
   ]
 }
