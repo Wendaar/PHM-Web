@@ -1,55 +1,55 @@
 {
-  "updated": "2026-10-09T08:20:43.842Z",
+  "updated": "2026-10-09T15:26:18.910Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
     {
+      "id": "PiZB3TiLTPk",
+      "title": "PHM Week recap 09.10.2026 - SUPER",
+      "thumbnail": "https://i.ytimg.com/vi/PiZB3TiLTPk/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-10-09T14:31:37Z"
+    },
+    {
+      "id": "6b8ND9HKPJM",
+      "title": "PHM Week recap 09.10.2026 - SPORT",
+      "thumbnail": "https://i.ytimg.com/vi/6b8ND9HKPJM/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-10-09T14:31:35Z"
+    },
+    {
+      "id": "P3iVFkss1PQ",
+      "title": "PHM Week recap 09.10.2026 - KLASIK",
+      "thumbnail": "https://i.ytimg.com/vi/P3iVFkss1PQ/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-10-09T14:31:32Z"
+    },
+    {
+      "id": "YwjBESbHRes",
+      "title": "PHM Week recap 09.10.2026 - HOBBY ICE",
+      "thumbnail": "https://i.ytimg.com/vi/YwjBESbHRes/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-10-09T14:31:30Z"
+    },
+    {
+      "id": "NGUHvSbqtFE",
+      "title": "PHM Week recap 09.10.2026 - HOBBY FIRE",
+      "thumbnail": "https://i.ytimg.com/vi/NGUHvSbqtFE/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-10-09T14:31:29Z"
+    },
+    {
       "id": "rztUvqiYOgo",
       "title": "Car-Back vs Alligators KLASIK 08.10.2026",
-      "thumbnail": "https://i.ytimg.com/vi/rztUvqiYOgo/mqdefault_live.jpg",
-      "isLive": true,
-      "publishedAt": "2026-10-08T19:57:55Z"
-    },
-    {
-      "id": "s2JaDXwaK0s",
-      "title": "Ducks C vs Paladins HOBBY ICE 08.10.2026",
-      "thumbnail": "https://i.ytimg.com/vi/s2JaDXwaK0s/mqdefault.jpg",
+      "thumbnail": "https://i.ytimg.com/vi/rztUvqiYOgo/mqdefault.jpg",
       "isLive": false,
-      "publishedAt": "2026-10-09T07:56:55Z"
-    },
-    {
-      "id": "GIpvr_jaHGw",
-      "title": "Pelicans vs Přírodověda FLLH 08.10.2026",
-      "thumbnail": "https://i.ytimg.com/vi/GIpvr_jaHGw/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-10-09T07:55:09Z"
-    },
-    {
-      "id": "8k3INq89SsE",
-      "title": "HT CZ vs PUK PAK PIVO SUPER 08.10.2026",
-      "thumbnail": "https://i.ytimg.com/vi/8k3INq89SsE/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-10-09T07:45:05Z"
+      "publishedAt": "2026-10-09T09:42:35Z"
     },
     {
       "id": "PcHQqO0lV88",
       "title": "H.O.V.N.A. vs Gladiators Kladno SPORT 08.10.2026",
-      "thumbnail": "https://i.ytimg.com/vi/PcHQqO0lV88/mqdefault_live.jpg",
+      "thumbnail": "https://i.ytimg.com/vi/PcHQqO0lV88/mqdefault.jpg",
       "isLive": false,
-      "publishedAt": "2026-10-08T19:49:52Z"
-    },
-    {
-      "id": "3Tm4A8GvoDo",
-      "title": "Fanklub Lev vs REX SPORT 07.10.2026",
-      "thumbnail": "https://i.ytimg.com/vi/3Tm4A8GvoDo/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-10-08T09:13:15Z"
-    },
-    {
-      "id": "WC-9MIKr-yA",
-      "title": "Wolves vs Kosti SUPER 07.10.2026",
-      "thumbnail": "https://i.ytimg.com/vi/WC-9MIKr-yA/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-10-08T08:44:30Z"
+      "publishedAt": "2026-10-09T09:00:38Z"
     }
   ]
 }
