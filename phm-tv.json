@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-11T18:14:23.947Z",
+  "updated": "2026-10-11T22:13:13.525Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
     {
@@ -10,25 +10,11 @@
       "publishedAt": "2026-10-11T15:12:15Z"
     },
     {
-      "id": "mBtGxhprR14",
-      "title": "Dragons vs Gastoni Klasik 11.10.26",
-      "thumbnail": "https://i.ytimg.com/vi/mBtGxhprR14/mqdefault_live.jpg",
-      "isLive": true,
-      "publishedAt": "2026-10-11T18:05:18Z"
-    },
-    {
       "id": "NwSGGG4u3_4",
       "title": "Spiders vs Destroit HOBBY ICE 11.10.2026",
       "thumbnail": "https://i.ytimg.com/vi/NwSGGG4u3_4/mqdefault_live.jpg",
       "isLive": true,
       "publishedAt": "2026-10-11T16:41:51Z"
-    },
-    {
-      "id": "iHbfU312hqM",
-      "title": "Žižkov vs Berkut Super 11.10.26",
-      "thumbnail": "https://i.ytimg.com/vi/iHbfU312hqM/mqdefault_live.jpg",
-      "isLive": true,
-      "publishedAt": "2026-10-11T13:39:56Z"
     },
     {
       "id": "t_nQ60sVxbk",
@@ -38,18 +24,32 @@
       "publishedAt": "2026-10-11T13:40:34Z"
     },
     {
+      "id": "mBtGxhprR14",
+      "title": "Dragons vs Gastoni KLASIK 11.10.2026",
+      "thumbnail": "https://i.ytimg.com/vi/mBtGxhprR14/mqdefault_live.jpg",
+      "isLive": false,
+      "publishedAt": "2026-10-11T18:05:18Z"
+    },
+    {
       "id": "bl29yc-dgIo",
-      "title": "Gladiators vs. Pigeons",
+      "title": "Gladiators vs Pigeons KLASIK 11.10.2026",
       "thumbnail": "https://i.ytimg.com/vi/bl29yc-dgIo/mqdefault_live.jpg",
-      "isLive": true,
+      "isLive": false,
       "publishedAt": "2026-10-11T17:57:58Z"
     },
     {
       "id": "Xvha9DbJhms",
-      "title": "Scorpions vs Ducks Stars Klasik 11.10.26",
+      "title": "Scorpions vs Stars KLASIK 11.10.2026",
       "thumbnail": "https://i.ytimg.com/vi/Xvha9DbJhms/mqdefault_live.jpg",
       "isLive": false,
       "publishedAt": "2026-10-11T16:41:25Z"
+    },
+    {
+      "id": "hT6S1w64X2o",
+      "title": "Papoušci vs Soldiers B HOBBY FIRE 11.10.2026",
+      "thumbnail": "https://i.ytimg.com/vi/hT6S1w64X2o/mqdefault_live.jpg",
+      "isLive": false,
+      "publishedAt": "2026-10-11T15:10:02Z"
     }
   ]
 }
