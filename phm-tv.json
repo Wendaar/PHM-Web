@@ -1,7 +1,35 @@
 {
-  "updated": "2026-10-12T17:15:03.515Z",
+  "updated": "2026-10-12T23:42:14.446Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
+    {
+      "id": "xSmBTVki08Q",
+      "title": "PÚ vs Raptors KLASIK 12.10.2026",
+      "thumbnail": "https://i.ytimg.com/vi/xSmBTVki08Q/mqdefault_live.jpg",
+      "isLive": false,
+      "publishedAt": "2026-10-12T19:26:50Z"
+    },
+    {
+      "id": "sEKRIpLBeVc",
+      "title": "Car-Back vs Rekreanti KLASIK 12.10.2026",
+      "thumbnail": "https://i.ytimg.com/vi/sEKRIpLBeVc/mqdefault_live.jpg",
+      "isLive": false,
+      "publishedAt": "2026-10-12T19:06:30Z"
+    },
+    {
+      "id": "2U4B8DvgP_M",
+      "title": "Ducks Sport vs Heyoka SPORT 12.10.2026",
+      "thumbnail": "https://i.ytimg.com/vi/2U4B8DvgP_M/mqdefault_live.jpg",
+      "isLive": false,
+      "publishedAt": "2026-10-12T18:02:22Z"
+    },
+    {
+      "id": "EsNjcBp3DF4",
+      "title": "ATTL vs Gladiators Kladno SPORT 12.10.2026",
+      "thumbnail": "https://i.ytimg.com/vi/EsNjcBp3DF4/mqdefault_live.jpg",
+      "isLive": false,
+      "publishedAt": "2026-10-12T17:31:51Z"
+    },
     {
       "id": "mBtGxhprR14",
       "title": "Dragons vs Gastoni KLASIK 11.10.2026",
@@ -22,34 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/Xvha9DbJhms/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-10-12T06:06:34Z"
-    },
-    {
-      "id": "NwSGGG4u3_4",
-      "title": "Spiders vs Destroit HOBBY ICE 11.10.2026",
-      "thumbnail": "https://i.ytimg.com/vi/NwSGGG4u3_4/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-10-12T06:02:51Z"
-    },
-    {
-      "id": "3uMZ6OyubTU",
-      "title": "Strašáci vs Foxes KLASIK 11.10.2026",
-      "thumbnail": "https://i.ytimg.com/vi/3uMZ6OyubTU/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-10-12T04:52:43Z"
-    },
-    {
-      "id": "hT6S1w64X2o",
-      "title": "Papoušci vs Soldiers B HOBBY FIRE 11.10.2026",
-      "thumbnail": "https://i.ytimg.com/vi/hT6S1w64X2o/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-10-12T04:43:21Z"
-    },
-    {
-      "id": "t_nQ60sVxbk",
-      "title": "Polar Bears vs MyQ HOBBY FIRE 11.10.2026",
-      "thumbnail": "https://i.ytimg.com/vi/t_nQ60sVxbk/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-10-12T03:49:05Z"
     }
   ]
 }
