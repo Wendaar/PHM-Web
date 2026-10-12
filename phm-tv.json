@@ -1,55 +1,55 @@
 {
-  "updated": "2026-10-12T01:29:18.700Z",
+  "updated": "2026-10-12T07:52:04.034Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
     {
-      "id": "3uMZ6OyubTU",
-      "title": "Strašáci vs Foxes KLASIK 11.10.2026",
-      "thumbnail": "https://i.ytimg.com/vi/3uMZ6OyubTU/mqdefault_live.jpg",
-      "isLive": true,
-      "publishedAt": "2026-10-11T15:12:15Z"
-    },
-    {
-      "id": "NwSGGG4u3_4",
-      "title": "Spiders vs Destroit HOBBY ICE 11.10.2026",
-      "thumbnail": "https://i.ytimg.com/vi/NwSGGG4u3_4/mqdefault_live.jpg",
-      "isLive": true,
-      "publishedAt": "2026-10-11T16:41:51Z"
-    },
-    {
-      "id": "t_nQ60sVxbk",
-      "title": "Polar Bears vs MyQ HOBBY FIRE 11.10.2026",
-      "thumbnail": "https://i.ytimg.com/vi/t_nQ60sVxbk/mqdefault_live.jpg",
-      "isLive": true,
-      "publishedAt": "2026-10-11T13:40:34Z"
-    },
-    {
       "id": "mBtGxhprR14",
       "title": "Dragons vs Gastoni KLASIK 11.10.2026",
-      "thumbnail": "https://i.ytimg.com/vi/mBtGxhprR14/mqdefault_live.jpg",
+      "thumbnail": "https://i.ytimg.com/vi/mBtGxhprR14/mqdefault.jpg",
       "isLive": false,
-      "publishedAt": "2026-10-11T18:05:18Z"
+      "publishedAt": "2026-10-12T07:41:45Z"
     },
     {
       "id": "bl29yc-dgIo",
       "title": "Gladiators vs Pigeons KLASIK 11.10.2026",
-      "thumbnail": "https://i.ytimg.com/vi/bl29yc-dgIo/mqdefault_live.jpg",
+      "thumbnail": "https://i.ytimg.com/vi/bl29yc-dgIo/mqdefault.jpg",
       "isLive": false,
-      "publishedAt": "2026-10-11T17:57:58Z"
+      "publishedAt": "2026-10-12T07:26:47Z"
     },
     {
       "id": "Xvha9DbJhms",
       "title": "Scorpions vs Stars KLASIK 11.10.2026",
-      "thumbnail": "https://i.ytimg.com/vi/Xvha9DbJhms/mqdefault_live.jpg",
+      "thumbnail": "https://i.ytimg.com/vi/Xvha9DbJhms/mqdefault.jpg",
       "isLive": false,
-      "publishedAt": "2026-10-11T16:41:25Z"
+      "publishedAt": "2026-10-12T06:06:34Z"
+    },
+    {
+      "id": "NwSGGG4u3_4",
+      "title": "Spiders vs Destroit HOBBY ICE 11.10.2026",
+      "thumbnail": "https://i.ytimg.com/vi/NwSGGG4u3_4/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-10-12T06:02:51Z"
+    },
+    {
+      "id": "3uMZ6OyubTU",
+      "title": "Strašáci vs Foxes KLASIK 11.10.2026",
+      "thumbnail": "https://i.ytimg.com/vi/3uMZ6OyubTU/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-10-12T04:52:43Z"
     },
     {
       "id": "hT6S1w64X2o",
       "title": "Papoušci vs Soldiers B HOBBY FIRE 11.10.2026",
-      "thumbnail": "https://i.ytimg.com/vi/hT6S1w64X2o/mqdefault_live.jpg",
+      "thumbnail": "https://i.ytimg.com/vi/hT6S1w64X2o/mqdefault.jpg",
       "isLive": false,
-      "publishedAt": "2026-10-11T15:10:02Z"
+      "publishedAt": "2026-10-12T04:43:21Z"
+    },
+    {
+      "id": "t_nQ60sVxbk",
+      "title": "Polar Bears vs MyQ HOBBY FIRE 11.10.2026",
+      "thumbnail": "https://i.ytimg.com/vi/t_nQ60sVxbk/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-10-12T03:49:05Z"
     }
   ]
 }
