@@ -1,55 +1,55 @@
 {
-  "updated": "2026-10-13T12:50:26.463Z",
+  "updated": "2026-10-13T19:41:56.232Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
+    {
+      "id": "XcM28n-mzeU",
+      "title": "PPB vs TAS",
+      "thumbnail": "https://i.ytimg.com/vi/XcM28n-mzeU/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2026-10-13T19:08:05Z"
+    },
+    {
+      "id": "lh2lLoHrIjU",
+      "title": "PLATIDLO vs Beavers KLASIK 13.10.2026",
+      "thumbnail": "https://i.ytimg.com/vi/lh2lLoHrIjU/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2026-10-13T18:39:23Z"
+    },
+    {
+      "id": "ewMr4_KTx7U",
+      "title": "Měchenice Ceasars vs Golden Bears KLASIK 13.10.2026",
+      "thumbnail": "https://i.ytimg.com/vi/ewMr4_KTx7U/mqdefault_live.jpg",
+      "isLive": false,
+      "publishedAt": "2026-10-13T18:55:48Z"
+    },
+    {
+      "id": "htverJ1P1hY",
+      "title": "BER vs WLV",
+      "thumbnail": "https://i.ytimg.com/vi/htverJ1P1hY/mqdefault_live.jpg",
+      "isLive": false,
+      "publishedAt": "2026-10-13T17:38:13Z"
+    },
+    {
+      "id": "nal86c828Cc",
+      "title": "HC  Ducks Stars B vs Biturbostav HOBBY FIRE 13.10.2026",
+      "thumbnail": "https://i.ytimg.com/vi/nal86c828Cc/mqdefault_live.jpg",
+      "isLive": false,
+      "publishedAt": "2026-10-13T17:31:00Z"
+    },
+    {
+      "id": "PkzC2A9N5X0",
+      "title": "HC  Ducks Stars B vs Biturbostav HOBBY FIRE 13.10.2026",
+      "thumbnail": "https://i.ytimg.com/vi/PkzC2A9N5X0/mqdefault_live.jpg",
+      "isLive": false,
+      "publishedAt": "2026-10-13T17:29:55Z"
+    },
     {
       "id": "xSmBTVki08Q",
       "title": "PÚ vs Raptors KLASIK 12.10.2026",
       "thumbnail": "https://i.ytimg.com/vi/xSmBTVki08Q/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-10-13T08:56:39Z"
-    },
-    {
-      "id": "sEKRIpLBeVc",
-      "title": "Car-Back vs Rekreanti KLASIK 12.10.2026",
-      "thumbnail": "https://i.ytimg.com/vi/sEKRIpLBeVc/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-10-13T08:21:21Z"
-    },
-    {
-      "id": "EsNjcBp3DF4",
-      "title": "ATTL vs Gladiators Kladno SPORT 12.10.2026",
-      "thumbnail": "https://i.ytimg.com/vi/EsNjcBp3DF4/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-10-13T07:49:57Z"
-    },
-    {
-      "id": "2U4B8DvgP_M",
-      "title": "Ducks Sport vs Heyoka SPORT 12.10.2026",
-      "thumbnail": "https://i.ytimg.com/vi/2U4B8DvgP_M/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-10-13T07:29:40Z"
-    },
-    {
-      "id": "mBtGxhprR14",
-      "title": "Dragons vs Gastoni KLASIK 11.10.2026",
-      "thumbnail": "https://i.ytimg.com/vi/mBtGxhprR14/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-10-12T07:41:45Z"
-    },
-    {
-      "id": "bl29yc-dgIo",
-      "title": "Gladiators vs Pigeons KLASIK 11.10.2026",
-      "thumbnail": "https://i.ytimg.com/vi/bl29yc-dgIo/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-10-12T07:26:47Z"
-    },
-    {
-      "id": "Xvha9DbJhms",
-      "title": "Scorpions vs Stars KLASIK 11.10.2026",
-      "thumbnail": "https://i.ytimg.com/vi/Xvha9DbJhms/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-10-12T06:06:34Z"
     }
   ]
 }
