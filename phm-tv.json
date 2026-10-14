@@ -1,7 +1,14 @@
 {
-  "updated": "2026-10-14T08:54:32.723Z",
+  "updated": "2026-10-14T14:15:46.227Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
+    {
+      "id": "gr9rLxvmZxw",
+      "title": "Dragons vs Strašáci KLASIK 13.10.2026",
+      "thumbnail": "https://i.ytimg.com/vi/gr9rLxvmZxw/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-10-14T09:18:23Z"
+    },
     {
       "id": "XcM28n-mzeU",
       "title": "Pigeons B vs Taste KLASIK 13.10.2026",
@@ -36,13 +43,6 @@
       "thumbnail": "https://i.ytimg.com/vi/nal86c828Cc/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-10-14T06:55:51Z"
-    },
-    {
-      "id": "gr9rLxvmZxw",
-      "title": "Dragons vs Strašáci KLASIK 13.10.2026",
-      "thumbnail": "https://i.ytimg.com/vi/gr9rLxvmZxw/mqdefault_live.jpg",
-      "isLive": false,
-      "publishedAt": "2026-10-13T19:59:26Z"
     },
     {
       "id": "xSmBTVki08Q",
