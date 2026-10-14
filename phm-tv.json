@@ -1,7 +1,35 @@
 {
-  "updated": "2026-10-14T14:15:46.227Z",
+  "updated": "2026-10-14T18:46:04.574Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
+    {
+      "id": "F6qr-WfAe-k",
+      "title": "HC Prague Wolves B vs Winter Foxes KLASIK 14.10.2026",
+      "thumbnail": "https://i.ytimg.com/vi/F6qr-WfAe-k/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2026-10-14T17:27:19Z"
+    },
+    {
+      "id": "lQ_llYyd3h0",
+      "title": "Pigeons VS Fanklub Lev SPORT 14.10.2026",
+      "thumbnail": "https://i.ytimg.com/vi/lQ_llYyd3h0/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2026-10-14T18:05:13Z"
+    },
+    {
+      "id": "lUNtSw6lxNY",
+      "title": "HC Rex Bohemia vs. Roosters",
+      "thumbnail": "https://i.ytimg.com/vi/lUNtSw6lxNY/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2026-10-14T17:59:21Z"
+    },
+    {
+      "id": "hbujdNnhwM0",
+      "title": "HC Gladiators vs. Gaston Seals",
+      "thumbnail": "https://i.ytimg.com/vi/hbujdNnhwM0/mqdefault_live.jpg",
+      "isLive": false,
+      "publishedAt": "2026-10-14T16:51:17Z"
+    },
     {
       "id": "gr9rLxvmZxw",
       "title": "Dragons vs Strašáci KLASIK 13.10.2026",
@@ -22,34 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/ewMr4_KTx7U/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-10-14T08:40:24Z"
-    },
-    {
-      "id": "lh2lLoHrIjU",
-      "title": "PLATIDLO vs Beavers HOBBY FIRE 13.10.2026",
-      "thumbnail": "https://i.ytimg.com/vi/lh2lLoHrIjU/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-10-14T07:54:47Z"
-    },
-    {
-      "id": "htverJ1P1hY",
-      "title": "Berkut vs Wolves SUPER 13.10.2026",
-      "thumbnail": "https://i.ytimg.com/vi/htverJ1P1hY/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-10-14T07:07:21Z"
-    },
-    {
-      "id": "nal86c828Cc",
-      "title": "Ducks B vs Goats HOBBY FIRE 13.10.2026",
-      "thumbnail": "https://i.ytimg.com/vi/nal86c828Cc/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-10-14T06:55:51Z"
-    },
-    {
-      "id": "xSmBTVki08Q",
-      "title": "PÚ vs Raptors KLASIK 12.10.2026",
-      "thumbnail": "https://i.ytimg.com/vi/xSmBTVki08Q/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-10-13T08:56:39Z"
     }
   ]
 }
