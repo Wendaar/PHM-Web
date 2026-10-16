@@ -1,7 +1,42 @@
 {
-  "updated": "2026-10-16T14:05:34.016Z",
+  "updated": "2026-10-16T18:14:31.441Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
+    {
+      "id": "prKS7eSpqX0",
+      "title": "PHM Week recap 16.10.2026 - SUPER",
+      "thumbnail": "https://i.ytimg.com/vi/prKS7eSpqX0/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-10-16T14:38:01Z"
+    },
+    {
+      "id": "yF12JItQrE4",
+      "title": "PHM Week recap 16.10.2026 - SPORT",
+      "thumbnail": "https://i.ytimg.com/vi/yF12JItQrE4/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-10-16T14:37:59Z"
+    },
+    {
+      "id": "9RGjxgxmIDM",
+      "title": "PHM Week recap 16.10.2026 - KLASIK",
+      "thumbnail": "https://i.ytimg.com/vi/9RGjxgxmIDM/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-10-16T14:37:56Z"
+    },
+    {
+      "id": "IUrlzojnlPE",
+      "title": "PHM Week recap 16.10.2026 - HOBBY ICE",
+      "thumbnail": "https://i.ytimg.com/vi/IUrlzojnlPE/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-10-16T14:37:54Z"
+    },
+    {
+      "id": "bwY7B91cbi8",
+      "title": "PHM Week recap 16.10.2026 - HOBBY FIRE",
+      "thumbnail": "https://i.ytimg.com/vi/bwY7B91cbi8/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-10-16T14:37:52Z"
+    },
     {
       "id": "5kCV9JEWtiE",
       "title": "MyQ vs Soldiers B HOBBY FIRE 15.10.2026",
@@ -15,41 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/PY9vR2BfWew/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-10-16T08:52:06Z"
-    },
-    {
-      "id": "5Zu13rc_Lhg",
-      "title": "Trimed vs Justice FLLH 15.10.2026",
-      "thumbnail": "https://i.ytimg.com/vi/5Zu13rc_Lhg/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-10-16T08:16:32Z"
-    },
-    {
-      "id": "pjZBFZE1vJw",
-      "title": "Spiders vs Ducks C HOBBY ICE 15.10.2026",
-      "thumbnail": "https://i.ytimg.com/vi/pjZBFZE1vJw/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-10-16T07:46:12Z"
-    },
-    {
-      "id": "C5mkjzGhROg",
-      "title": "Soldiers vs PUK PAK PIVO SUPER 15.10.2026",
-      "thumbnail": "https://i.ytimg.com/vi/C5mkjzGhROg/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-10-16T07:36:34Z"
-    },
-    {
-      "id": "rO-GddnquRs",
-      "title": "Scorpions B vs Vikings HOBBY ICE 14.10.2026",
-      "thumbnail": "https://i.ytimg.com/vi/rO-GddnquRs/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-10-15T09:07:39Z"
-    },
-    {
-      "id": "v9WoJ9W1u80",
-      "title": "Reindeers vs Žraloci HOBBY ICE 14.10.2026",
-      "thumbnail": "https://i.ytimg.com/vi/v9WoJ9W1u80/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-10-15T08:39:00Z"
     }
   ]
 }
