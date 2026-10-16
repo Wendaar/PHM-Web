@@ -1,24 +1,17 @@
 {
-  "updated": "2026-10-15T21:53:58.030Z",
+  "updated": "2026-10-16T00:00:11.753Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
     {
-      "id": "pjZBFZE1vJw",
-      "title": "Spiders vs. Ducks C HOBBY 15.10.2026",
-      "thumbnail": "https://i.ytimg.com/vi/pjZBFZE1vJw/mqdefault_live.jpg",
-      "isLive": true,
-      "publishedAt": "2026-10-15T18:52:09Z"
-    },
-    {
       "id": "5kCV9JEWtiE",
-      "title": "MyQ vs. Soldiers B HOBBY 15.10.2026",
+      "title": "MyQ vs Soldiers B HOBBY FIRE 15.10.2026",
       "thumbnail": "https://i.ytimg.com/vi/5kCV9JEWtiE/mqdefault_live.jpg",
       "isLive": false,
       "publishedAt": "2026-10-15T20:00:00Z"
     },
     {
       "id": "PY9vR2BfWew",
-      "title": "FES vs VHT",
+      "title": "Fešáci vs Voholto SPORT 15.10.2026",
       "thumbnail": "https://i.ytimg.com/vi/PY9vR2BfWew/mqdefault_live.jpg",
       "isLive": false,
       "publishedAt": "2026-10-15T19:34:45Z"
@@ -31,22 +24,29 @@
       "publishedAt": "2026-10-15T18:44:36Z"
     },
     {
+      "id": "pjZBFZE1vJw",
+      "title": "Spiders vs Ducks C HOBBY ICE 15.10.2026",
+      "thumbnail": "https://i.ytimg.com/vi/pjZBFZE1vJw/mqdefault_live.jpg",
+      "isLive": false,
+      "publishedAt": "2026-10-15T18:52:09Z"
+    },
+    {
       "id": "C5mkjzGhROg",
-      "title": "KBS vs PPP",
+      "title": "Soldiers vs PUK PAK PIVO SUPER 15.10.2026",
       "thumbnail": "https://i.ytimg.com/vi/C5mkjzGhROg/mqdefault_live.jpg",
       "isLive": false,
       "publishedAt": "2026-10-15T17:56:01Z"
     },
     {
       "id": "rO-GddnquRs",
-      "title": "HC Scorpions Praha vs. Vikings",
+      "title": "Scorpions B vs Vikings HOBBY ICE 14.10.2026",
       "thumbnail": "https://i.ytimg.com/vi/rO-GddnquRs/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-10-15T09:07:39Z"
     },
     {
       "id": "v9WoJ9W1u80",
-      "title": "AHA Reindeers vs BK Žraloci HOBBY ICE 14.10.2026",
+      "title": "Reindeers vs Žraloci HOBBY ICE 14.10.2026",
       "thumbnail": "https://i.ytimg.com/vi/v9WoJ9W1u80/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-10-15T08:39:00Z"
