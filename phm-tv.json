@@ -1,7 +1,35 @@
 {
-  "updated": "2026-10-18T13:24:26.326Z",
+  "updated": "2026-10-18T16:39:58.780Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
+    {
+      "id": "kJ3oGOtpHRY",
+      "title": "SCB vs PAL, 18. 10. 2026, HOBBY ICE",
+      "thumbnail": "https://i.ytimg.com/vi/kJ3oGOtpHRY/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2026-10-18T15:16:48Z"
+    },
+    {
+      "id": "IlKipQ07UE0",
+      "title": "Pigeons B vs Car-Back Klasik 18.10.26",
+      "thumbnail": "https://i.ytimg.com/vi/IlKipQ07UE0/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2026-10-18T15:15:01Z"
+    },
+    {
+      "id": "l-PL3xevvCo",
+      "title": "TAS vs DST, 18. 10.2026, KLASIK,  Icerink Y",
+      "thumbnail": "https://i.ytimg.com/vi/l-PL3xevvCo/mqdefault_live.jpg",
+      "isLive": false,
+      "publishedAt": "2026-10-18T16:17:30Z"
+    },
+    {
+      "id": "irlKbr4YhbE",
+      "title": "SLZ vs KOS, 18. 10. 2026, SUPER, Icerink Yellow",
+      "thumbnail": "https://i.ytimg.com/vi/irlKbr4YhbE/mqdefault_live.jpg",
+      "isLive": false,
+      "publishedAt": "2026-10-18T13:43:24Z"
+    },
     {
       "id": "P5ihLa41rNk",
       "title": "Brno Lions vs VSFS Prague Guardians EUCHL 17.10.2026",
@@ -22,34 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/yF12JItQrE4/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-10-16T14:37:59Z"
-    },
-    {
-      "id": "9RGjxgxmIDM",
-      "title": "PHM Week recap 16.10.2026 - KLASIK",
-      "thumbnail": "https://i.ytimg.com/vi/9RGjxgxmIDM/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-10-16T14:37:56Z"
-    },
-    {
-      "id": "IUrlzojnlPE",
-      "title": "PHM Week recap 16.10.2026 - HOBBY ICE",
-      "thumbnail": "https://i.ytimg.com/vi/IUrlzojnlPE/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-10-16T14:37:54Z"
-    },
-    {
-      "id": "bwY7B91cbi8",
-      "title": "PHM Week recap 16.10.2026 - HOBBY FIRE",
-      "thumbnail": "https://i.ytimg.com/vi/bwY7B91cbi8/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-10-16T14:37:52Z"
-    },
-    {
-      "id": "5kCV9JEWtiE",
-      "title": "MyQ vs Soldiers B HOBBY FIRE 15.10.2026",
-      "thumbnail": "https://i.ytimg.com/vi/5kCV9JEWtiE/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-10-16T09:21:40Z"
     }
   ]
 }
