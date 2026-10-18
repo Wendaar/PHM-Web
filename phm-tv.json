@@ -1,55 +1,55 @@
 {
-  "updated": "2026-10-18T19:10:48.490Z",
+  "updated": "2026-10-18T21:38:12.044Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
     {
-      "id": "kJ3oGOtpHRY",
-      "title": "SCB vs PAL, 18. 10. 2026, HOBBY ICE",
-      "thumbnail": "https://i.ytimg.com/vi/kJ3oGOtpHRY/mqdefault_live.jpg",
-      "isLive": true,
-      "publishedAt": "2026-10-18T15:16:48Z"
-    },
-    {
-      "id": "IlKipQ07UE0",
-      "title": "Pigeons B vs Car-Back Klasik 18.10.26",
-      "thumbnail": "https://i.ytimg.com/vi/IlKipQ07UE0/mqdefault_live.jpg",
-      "isLive": true,
-      "publishedAt": "2026-10-18T15:15:01Z"
-    },
-    {
-      "id": "l-PL3xevvCo",
-      "title": "TAS vs DST, 18. 10.2026, KLASIK,  Icerink Y",
-      "thumbnail": "https://i.ytimg.com/vi/l-PL3xevvCo/mqdefault_live.jpg",
-      "isLive": true,
-      "publishedAt": "2026-10-18T16:17:30Z"
+      "id": "34Fz5vtjYxU",
+      "title": "Papoušci vs Fotr Hobby Fire 18.10.26",
+      "thumbnail": "https://i.ytimg.com/vi/34Fz5vtjYxU/mqdefault_live.jpg",
+      "isLive": false,
+      "publishedAt": "2026-10-18T18:06:44Z"
     },
     {
       "id": "E7Hayvp1zoQ",
       "title": "Alligators vs Dragons KLASIK 18.10.2026",
       "thumbnail": "https://i.ytimg.com/vi/E7Hayvp1zoQ/mqdefault_live.jpg",
-      "isLive": true,
+      "isLive": false,
       "publishedAt": "2026-10-18T17:58:24Z"
     },
     {
-      "id": "34Fz5vtjYxU",
-      "title": "Papoušci vs Fotr Hobby Fire 18.10.26",
-      "thumbnail": "https://i.ytimg.com/vi/34Fz5vtjYxU/mqdefault_live.jpg",
-      "isLive": true,
-      "publishedAt": "2026-10-18T18:06:44Z"
-    },
-    {
       "id": "MTMVC20ooEo",
-      "title": "Renegades vs Domynos Super 18.10.26",
+      "title": "Renegades vs Domynos SUPER 18.10.2026",
       "thumbnail": "https://i.ytimg.com/vi/MTMVC20ooEo/mqdefault_live.jpg",
-      "isLive": true,
+      "isLive": false,
       "publishedAt": "2026-10-18T16:43:57Z"
     },
     {
-      "id": "WP2BOyyrMLs",
-      "title": "Renegades vs Domynos Super 18.10.26",
-      "thumbnail": "https://i.ytimg.com/vi/WP2BOyyrMLs/mqdefault.jpg",
+      "id": "l-PL3xevvCo",
+      "title": "Taste vs Stars KLASIK 18.10.2026",
+      "thumbnail": "https://i.ytimg.com/vi/l-PL3xevvCo/mqdefault_live.jpg",
       "isLive": false,
-      "publishedAt": "2026-10-18T18:38:45Z"
+      "publishedAt": "2026-10-18T16:17:30Z"
+    },
+    {
+      "id": "IlKipQ07UE0",
+      "title": "Pigeons B vs Car-Back KLASIK 18.10.2026",
+      "thumbnail": "https://i.ytimg.com/vi/IlKipQ07UE0/mqdefault_live.jpg",
+      "isLive": false,
+      "publishedAt": "2026-10-18T15:15:01Z"
+    },
+    {
+      "id": "kJ3oGOtpHRY",
+      "title": "Scorpions B vs Paladins HOBBY ICE 18.10.2026",
+      "thumbnail": "https://i.ytimg.com/vi/kJ3oGOtpHRY/mqdefault_live.jpg",
+      "isLive": false,
+      "publishedAt": "2026-10-18T15:16:48Z"
+    },
+    {
+      "id": "irlKbr4YhbE",
+      "title": "Zbraslav vs Kosti SUPER 18.10.2026",
+      "thumbnail": "https://i.ytimg.com/vi/irlKbr4YhbE/mqdefault_live.jpg",
+      "isLive": false,
+      "publishedAt": "2026-10-18T13:43:24Z"
     }
   ]
 }
