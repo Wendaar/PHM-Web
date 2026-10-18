@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-18T16:39:58.780Z",
+  "updated": "2026-10-18T19:10:48.490Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
     {
@@ -20,36 +20,36 @@
       "id": "l-PL3xevvCo",
       "title": "TAS vs DST, 18. 10.2026, KLASIK,  Icerink Y",
       "thumbnail": "https://i.ytimg.com/vi/l-PL3xevvCo/mqdefault_live.jpg",
-      "isLive": false,
+      "isLive": true,
       "publishedAt": "2026-10-18T16:17:30Z"
     },
     {
-      "id": "irlKbr4YhbE",
-      "title": "SLZ vs KOS, 18. 10. 2026, SUPER, Icerink Yellow",
-      "thumbnail": "https://i.ytimg.com/vi/irlKbr4YhbE/mqdefault_live.jpg",
-      "isLive": false,
-      "publishedAt": "2026-10-18T13:43:24Z"
+      "id": "E7Hayvp1zoQ",
+      "title": "Alligators vs Dragons KLASIK 18.10.2026",
+      "thumbnail": "https://i.ytimg.com/vi/E7Hayvp1zoQ/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2026-10-18T17:58:24Z"
     },
     {
-      "id": "P5ihLa41rNk",
-      "title": "Brno Lions vs VSFS Prague Guardians EUCHL 17.10.2026",
-      "thumbnail": "https://i.ytimg.com/vi/P5ihLa41rNk/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-10-18T10:11:32Z"
+      "id": "34Fz5vtjYxU",
+      "title": "Papoušci vs Fotr Hobby Fire 18.10.26",
+      "thumbnail": "https://i.ytimg.com/vi/34Fz5vtjYxU/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2026-10-18T18:06:44Z"
     },
     {
-      "id": "prKS7eSpqX0",
-      "title": "PHM Week recap 16.10.2026 - SUPER",
-      "thumbnail": "https://i.ytimg.com/vi/prKS7eSpqX0/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-10-16T14:38:01Z"
+      "id": "MTMVC20ooEo",
+      "title": "Renegades vs Domynos Super 18.10.26",
+      "thumbnail": "https://i.ytimg.com/vi/MTMVC20ooEo/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2026-10-18T16:43:57Z"
     },
     {
-      "id": "yF12JItQrE4",
-      "title": "PHM Week recap 16.10.2026 - SPORT",
-      "thumbnail": "https://i.ytimg.com/vi/yF12JItQrE4/mqdefault.jpg",
+      "id": "WP2BOyyrMLs",
+      "title": "Renegades vs Domynos Super 18.10.26",
+      "thumbnail": "https://i.ytimg.com/vi/WP2BOyyrMLs/mqdefault.jpg",
       "isLive": false,
-      "publishedAt": "2026-10-16T14:37:59Z"
+      "publishedAt": "2026-10-18T18:38:45Z"
     }
   ]
 }
