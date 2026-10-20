@@ -1,7 +1,35 @@
 {
-  "updated": "2026-10-20T15:14:30.532Z",
+  "updated": "2026-10-20T19:26:49.563Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
+    {
+      "id": "9aHAj7dVf0g",
+      "title": "MyQ vs PLATIDLO HOBBY FIRE 20.10.2026",
+      "thumbnail": "https://i.ytimg.com/vi/9aHAj7dVf0g/mqdefault_live.jpg",
+      "isLive": true,
+      "publishedAt": "2026-10-20T18:28:14Z"
+    },
+    {
+      "id": "z1dIkPM_WIs",
+      "title": "DOM vs BER",
+      "thumbnail": "https://i.ytimg.com/vi/z1dIkPM_WIs/mqdefault_live.jpg",
+      "isLive": false,
+      "publishedAt": "2026-10-20T19:10:55Z"
+    },
+    {
+      "id": "Yyk-WE9KjAw",
+      "title": "SCB vs KVE",
+      "thumbnail": "https://i.ytimg.com/vi/Yyk-WE9KjAw/mqdefault_live.jpg",
+      "isLive": false,
+      "publishedAt": "2026-10-20T17:45:11Z"
+    },
+    {
+      "id": "62wmjoKNZtk",
+      "title": "20.10.2026 DKB vs PAP",
+      "thumbnail": "https://i.ytimg.com/vi/62wmjoKNZtk/mqdefault_live.jpg",
+      "isLive": false,
+      "publishedAt": "2026-10-20T16:18:39Z"
+    },
     {
       "id": "GSFoOW2OIr8",
       "title": "Scorpions vs PÚ KLASIK 19.10.2026",
@@ -22,34 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/SBst6vgb59k/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-10-20T09:51:30Z"
-    },
-    {
-      "id": "cd3Mtnt6BOo",
-      "title": "Heyoka vs Ducks Sport SPORT 19.10.2026",
-      "thumbnail": "https://i.ytimg.com/vi/cd3Mtnt6BOo/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-10-20T09:30:37Z"
-    },
-    {
-      "id": "zqJJPo5Pqhs",
-      "title": "Destroit vs Traverzáci HOBBY ICE 19.10.2026",
-      "thumbnail": "https://i.ytimg.com/vi/zqJJPo5Pqhs/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-10-20T07:45:58Z"
-    },
-    {
-      "id": "Fwll9TsHSI4",
-      "title": "Raptors vs Wolves B KLASIK 19.10.2026",
-      "thumbnail": "https://i.ytimg.com/vi/Fwll9TsHSI4/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-10-20T07:05:12Z"
-    },
-    {
-      "id": "34Fz5vtjYxU",
-      "title": "Papoušci vs Fotr HOBBY FIRE 18.10.2026",
-      "thumbnail": "https://i.ytimg.com/vi/34Fz5vtjYxU/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-10-19T07:43:02Z"
     }
   ]
 }
