@@ -1,13 +1,13 @@
 {
-  "updated": "2026-10-20T19:26:49.563Z",
+  "updated": "2026-10-20T22:29:44.073Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
     {
-      "id": "9aHAj7dVf0g",
-      "title": "MyQ vs PLATIDLO HOBBY FIRE 20.10.2026",
-      "thumbnail": "https://i.ytimg.com/vi/9aHAj7dVf0g/mqdefault_live.jpg",
-      "isLive": true,
-      "publishedAt": "2026-10-20T18:28:14Z"
+      "id": "koLPpYf2Fec",
+      "title": "Žižkov vs Renegades SUPER 20.10.2026",
+      "thumbnail": "https://i.ytimg.com/vi/koLPpYf2Fec/mqdefault_live.jpg",
+      "isLive": false,
+      "publishedAt": "2026-10-20T19:57:37Z"
     },
     {
       "id": "z1dIkPM_WIs",
@@ -15,6 +15,13 @@
       "thumbnail": "https://i.ytimg.com/vi/z1dIkPM_WIs/mqdefault_live.jpg",
       "isLive": false,
       "publishedAt": "2026-10-20T19:10:55Z"
+    },
+    {
+      "id": "9aHAj7dVf0g",
+      "title": "MyQ vs PLATIDLO HOBBY FIRE 20.10.2026",
+      "thumbnail": "https://i.ytimg.com/vi/9aHAj7dVf0g/mqdefault_live.jpg",
+      "isLive": false,
+      "publishedAt": "2026-10-20T18:28:14Z"
     },
     {
       "id": "Yyk-WE9KjAw",
@@ -43,13 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/gz9Ub8jWJCo/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-10-20T10:08:47Z"
-    },
-    {
-      "id": "SBst6vgb59k",
-      "title": "Vikings vs Žraloci HOBBY ICE 19.10.2026",
-      "thumbnail": "https://i.ytimg.com/vi/SBst6vgb59k/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-10-20T09:51:30Z"
     }
   ]
 }
