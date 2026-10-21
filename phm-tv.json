@@ -1,55 +1,55 @@
 {
-  "updated": "2026-10-21T20:15:46.301Z",
+  "updated": "2026-10-21T23:29:29.303Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
     {
       "id": "URMCCRMgpZs",
-      "title": "SCR vs REK, 21.10.2026",
-      "thumbnail": "https://i.ytimg.com/vi/URMCCRMgpZs/mqdefault.jpg",
-      "isLive": true,
+      "title": "Strašáci vs Rekreanti KLASIK 21.10.2026",
+      "thumbnail": "https://i.ytimg.com/vi/URMCCRMgpZs/mqdefault.jpg?v=6ad929dd",
+      "isLive": false,
       "publishedAt": "2026-10-21T20:09:17Z"
-    },
-    {
-      "id": "09h0ncdzIVc",
-      "title": "PRO vs GOB",
-      "thumbnail": "https://i.ytimg.com/vi/09h0ncdzIVc/mqdefault.jpg",
-      "isLive": true,
-      "publishedAt": "2026-10-21T17:17:52Z"
     },
     {
       "id": "nDDjMaFplkA",
       "title": "Soldiers vs Kosti SUPER 21.10.2026",
-      "thumbnail": "https://i.ytimg.com/vi/nDDjMaFplkA/mqdefault.jpg",
-      "isLive": true,
+      "thumbnail": "https://i.ytimg.com/vi/nDDjMaFplkA/mqdefault.jpg?v=6ad929ae",
+      "isLive": false,
       "publishedAt": "2026-10-21T19:25:49Z"
     },
     {
-      "id": "T_NPvZxdkS0",
-      "title": "OIR vs VHT, 21.10.2026 - SPORT",
-      "thumbnail": "https://i.ytimg.com/vi/T_NPvZxdkS0/mqdefault.jpg",
-      "isLive": true,
-      "publishedAt": "2026-10-21T16:42:48Z"
-    },
-    {
       "id": "IZTSQNg3wJo",
-      "title": "GAS vs SCO",
-      "thumbnail": "https://i.ytimg.com/vi/IZTSQNg3wJo/mqdefault.jpg?v=b",
+      "title": "Gastoni vs Scorpions KLASIK 21.10.2026",
+      "thumbnail": "https://i.ytimg.com/vi/IZTSQNg3wJo/mqdefault.jpg?v=6ad92993",
       "isLive": false,
       "publishedAt": "2026-10-21T19:00:13Z"
     },
     {
       "id": "NFKkD88eaSU",
-      "title": "RST vs CHZ, 21. 10. 2026, SPORT",
-      "thumbnail": "https://i.ytimg.com/vi/NFKkD88eaSU/mqdefault.jpg?v=19",
+      "title": "Roosters vs Cheza SPORT 21.10.2026",
+      "thumbnail": "https://i.ytimg.com/vi/NFKkD88eaSU/mqdefault.jpg?v=6ad92955",
       "isLive": false,
       "publishedAt": "2026-10-21T18:05:10Z"
     },
     {
       "id": "9H97V9lq4uo",
       "title": "Reindeers vs Paladins HOBBY ICE 21.10.2026",
-      "thumbnail": "https://i.ytimg.com/vi/9H97V9lq4uo/mqdefault.jpg?v=d",
+      "thumbnail": "https://i.ytimg.com/vi/9H97V9lq4uo/mqdefault.jpg?v=6ad928cd",
       "isLive": false,
       "publishedAt": "2026-10-21T18:02:55Z"
+    },
+    {
+      "id": "09h0ncdzIVc",
+      "title": "PÚ vs Golden Bears KLASIK 21.10.2026",
+      "thumbnail": "https://i.ytimg.com/vi/09h0ncdzIVc/mqdefault.jpg?v=6ad928b2",
+      "isLive": false,
+      "publishedAt": "2026-10-21T17:17:52Z"
+    },
+    {
+      "id": "T_NPvZxdkS0",
+      "title": "Office Rats vs Voholto SPORT 21.10.2026",
+      "thumbnail": "https://i.ytimg.com/vi/T_NPvZxdkS0/mqdefault.jpg?v=6ad92894",
+      "isLive": false,
+      "publishedAt": "2026-10-21T16:42:48Z"
     }
   ]
 }
