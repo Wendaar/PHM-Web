@@ -1,7 +1,14 @@
 {
-  "updated": "2026-10-22T01:42:51.569Z",
+  "updated": "2026-10-22T06:58:28.322Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
+    {
+      "id": "T_NPvZxdkS0",
+      "title": "Office Rats vs Voholto SPORT 21.10.2026",
+      "thumbnail": "https://i.ytimg.com/vi/T_NPvZxdkS0/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-10-22T06:09:43Z"
+    },
     {
       "id": "URMCCRMgpZs",
       "title": "Strašáci vs Rekreanti KLASIK 21.10.2026",
@@ -43,13 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/09h0ncdzIVc/mqdefault.jpg?v=6ad928b2",
       "isLive": false,
       "publishedAt": "2026-10-21T17:17:52Z"
-    },
-    {
-      "id": "T_NPvZxdkS0",
-      "title": "Office Rats vs Voholto SPORT 21.10.2026",
-      "thumbnail": "https://i.ytimg.com/vi/T_NPvZxdkS0/mqdefault.jpg?v=6ad92894",
-      "isLive": false,
-      "publishedAt": "2026-10-21T16:42:48Z"
     }
   ]
 }
