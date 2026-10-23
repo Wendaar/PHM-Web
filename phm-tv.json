@@ -1,7 +1,42 @@
 {
-  "updated": "2026-10-23T15:18:49.830Z",
+  "updated": "2026-10-23T19:24:58.434Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
+    {
+      "id": "7iq_aat2-l8",
+      "title": "PHM Week recap 23.10.2026 - SUPER",
+      "thumbnail": "https://i.ytimg.com/vi/7iq_aat2-l8/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-10-23T17:03:53Z"
+    },
+    {
+      "id": "tWdVT23ZfU8",
+      "title": "PHM Week recap 23.10.2026 - SPORT",
+      "thumbnail": "https://i.ytimg.com/vi/tWdVT23ZfU8/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-10-23T17:03:51Z"
+    },
+    {
+      "id": "QnlPf_6bHBI",
+      "title": "PHM Week recap 23.10.2026 - KLASIK",
+      "thumbnail": "https://i.ytimg.com/vi/QnlPf_6bHBI/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-10-23T17:03:48Z"
+    },
+    {
+      "id": "Bu3B0yRbhGo",
+      "title": "PHM Week recap 23.10.2026 - HOBBY ICE",
+      "thumbnail": "https://i.ytimg.com/vi/Bu3B0yRbhGo/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-10-23T17:03:46Z"
+    },
+    {
+      "id": "tVkZxc3PKBk",
+      "title": "PHM Week recap 23.10.2026 - HOBBY FIRE",
+      "thumbnail": "https://i.ytimg.com/vi/tVkZxc3PKBk/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-10-23T17:03:43Z"
+    },
     {
       "id": "6ryMn0qF1xw",
       "title": "H.O.V.N.A. vs Fešáci SPORT 22.10.2026",
@@ -15,41 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/7PeiDWb1awE/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-10-23T09:01:40Z"
-    },
-    {
-      "id": "7Kl2cBtzPd0",
-      "title": "Přírodověda vs Legio FLLH 22.10.2026",
-      "thumbnail": "https://i.ytimg.com/vi/7Kl2cBtzPd0/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-10-23T08:17:38Z"
-    },
-    {
-      "id": "jxalNmGX9sI",
-      "title": "Vikings vs Ducks C HOBBY ICE 22.10.2026",
-      "thumbnail": "https://i.ytimg.com/vi/jxalNmGX9sI/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-10-23T07:56:39Z"
-    },
-    {
-      "id": "v2mWGMIGgv4",
-      "title": "PUK PAK PIVO vs Superheroes SUPER 22.10.2026",
-      "thumbnail": "https://i.ytimg.com/vi/v2mWGMIGgv4/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-10-23T07:33:48Z"
-    },
-    {
-      "id": "URMCCRMgpZs",
-      "title": "Strašáci vs Rekreanti KLASIK 21.10.2026",
-      "thumbnail": "https://i.ytimg.com/vi/URMCCRMgpZs/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-10-22T08:54:58Z"
-    },
-    {
-      "id": "nDDjMaFplkA",
-      "title": "Soldiers vs Kosti SUPER 21.10.2026",
-      "thumbnail": "https://i.ytimg.com/vi/nDDjMaFplkA/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-10-22T08:48:15Z"
     }
   ]
 }
