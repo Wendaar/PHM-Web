@@ -1,14 +1,7 @@
 {
-  "updated": "2026-10-26T00:56:17.516Z",
+  "updated": "2026-10-26T05:45:18.307Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
-    {
-      "id": "urfZ6ASdd-g",
-      "title": "Polar Bears vs Beavers HOBBY FIRE 25.10.2026",
-      "thumbnail": "https://i.ytimg.com/vi/urfZ6ASdd-g/mqdefault.jpg",
-      "isLive": true,
-      "publishedAt": "2026-10-25T14:43:48Z"
-    },
     {
       "id": "BUxLtONMADo",
       "title": "Goats vs Soldiers B HOBBY FIRE 25.10.2026",
@@ -19,9 +12,16 @@
     {
       "id": "PL324GX9axY",
       "title": "Ceasars vs Foxes KLASIK 25.10.2026",
-      "thumbnail": "https://i.ytimg.com/vi/PL324GX9axY/mqdefault.jpg?v=6ade4194",
+      "thumbnail": "https://i.ytimg.com/vi/PL324GX9axY/mqdefault.jpg",
       "isLive": false,
-      "publishedAt": "2026-10-25T16:15:25Z"
+      "publishedAt": "2026-10-26T05:37:38Z"
+    },
+    {
+      "id": "urfZ6ASdd-g",
+      "title": "Polar Bears vs Beavers HOBBY FIRE 25.10.2026",
+      "thumbnail": "https://i.ytimg.com/vi/urfZ6ASdd-g/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-10-26T03:55:16Z"
     },
     {
       "id": "7iq_aat2-l8",
