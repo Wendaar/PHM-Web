@@ -1,7 +1,28 @@
 {
-  "updated": "2026-10-26T12:05:46.463Z",
+  "updated": "2026-10-26T18:45:49.724Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
+    {
+      "id": "zHQklo_USPQ",
+      "title": "Berkut vs Soldiers SUPER 26.10.2026",
+      "thumbnail": "https://i.ytimg.com/vi/zHQklo_USPQ/mqdefault.jpg",
+      "isLive": true,
+      "publishedAt": "2026-10-26T18:29:51Z"
+    },
+    {
+      "id": "CcP0GKLDkwc",
+      "title": "Berkut vs Soldiers SUPER 26.10.2026",
+      "thumbnail": "https://i.ytimg.com/vi/CcP0GKLDkwc/mqdefault.jpg",
+      "isLive": true,
+      "publishedAt": "2026-10-26T18:11:59Z"
+    },
+    {
+      "id": "O2Y_mOLV0gI",
+      "title": "HC Gladiators Kladno vs Heyoka Praha SPORT 26.10.2026",
+      "thumbnail": "https://i.ytimg.com/vi/O2Y_mOLV0gI/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-10-26T18:35:47Z"
+    },
     {
       "id": "BUxLtONMADo",
       "title": "Goats vs Soldiers B HOBBY FIRE 25.10.2026",
@@ -29,27 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/7iq_aat2-l8/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-10-23T17:03:53Z"
-    },
-    {
-      "id": "tWdVT23ZfU8",
-      "title": "PHM Week recap 23.10.2026 - SPORT",
-      "thumbnail": "https://i.ytimg.com/vi/tWdVT23ZfU8/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-10-23T17:03:51Z"
-    },
-    {
-      "id": "QnlPf_6bHBI",
-      "title": "PHM Week recap 23.10.2026 - KLASIK",
-      "thumbnail": "https://i.ytimg.com/vi/QnlPf_6bHBI/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-10-23T17:03:48Z"
-    },
-    {
-      "id": "Bu3B0yRbhGo",
-      "title": "PHM Week recap 23.10.2026 - HOBBY ICE",
-      "thumbnail": "https://i.ytimg.com/vi/Bu3B0yRbhGo/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-10-23T17:03:46Z"
     }
   ]
 }
