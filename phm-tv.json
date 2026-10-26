@@ -1,27 +1,41 @@
 {
-  "updated": "2026-10-26T18:45:49.724Z",
+  "updated": "2026-10-26T22:59:08.241Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
     {
-      "id": "zHQklo_USPQ",
-      "title": "Berkut vs Soldiers SUPER 26.10.2026",
-      "thumbnail": "https://i.ytimg.com/vi/zHQklo_USPQ/mqdefault.jpg",
+      "id": "0F4MJyT0kTI",
+      "title": "Cheza vs ATTL SPORT 26.10.2026",
+      "thumbnail": "https://i.ytimg.com/vi/0F4MJyT0kTI/mqdefault.jpg",
       "isLive": true,
-      "publishedAt": "2026-10-26T18:29:51Z"
+      "publishedAt": "2026-10-26T20:22:29Z"
     },
     {
-      "id": "CcP0GKLDkwc",
-      "title": "Berkut vs Soldiers SUPER 26.10.2026",
-      "thumbnail": "https://i.ytimg.com/vi/CcP0GKLDkwc/mqdefault.jpg",
-      "isLive": true,
-      "publishedAt": "2026-10-26T18:11:59Z"
+      "id": "BkPLjgsKbWA",
+      "title": "Fešáci vs Ducks Sport SPORT 26.10.2026",
+      "thumbnail": "https://i.ytimg.com/vi/BkPLjgsKbWA/mqdefault.jpg?v=6adfc0e1",
+      "isLive": false,
+      "publishedAt": "2026-10-26T19:45:02Z"
+    },
+    {
+      "id": "5BM94OHdoj0",
+      "title": "Zbraslav vs Chiefs SUPER 26.10.2026",
+      "thumbnail": "https://i.ytimg.com/vi/5BM94OHdoj0/mqdefault.jpg?v=6adfc0b0",
+      "isLive": false,
+      "publishedAt": "2026-10-26T19:05:53Z"
     },
     {
       "id": "O2Y_mOLV0gI",
       "title": "HC Gladiators Kladno vs Heyoka Praha SPORT 26.10.2026",
-      "thumbnail": "https://i.ytimg.com/vi/O2Y_mOLV0gI/mqdefault.jpg",
+      "thumbnail": "https://i.ytimg.com/vi/O2Y_mOLV0gI/mqdefault.jpg?v=10",
       "isLive": false,
       "publishedAt": "2026-10-26T18:35:47Z"
+    },
+    {
+      "id": "zHQklo_USPQ",
+      "title": "Berkut vs Soldiers SUPER 26.10.2026",
+      "thumbnail": "https://i.ytimg.com/vi/zHQklo_USPQ/mqdefault.jpg?v=6adf9e78",
+      "isLive": false,
+      "publishedAt": "2026-10-26T18:29:51Z"
     },
     {
       "id": "BUxLtONMADo",
@@ -36,20 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/PL324GX9axY/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-10-26T05:37:38Z"
-    },
-    {
-      "id": "urfZ6ASdd-g",
-      "title": "Polar Bears vs Beavers HOBBY FIRE 25.10.2026",
-      "thumbnail": "https://i.ytimg.com/vi/urfZ6ASdd-g/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-10-26T03:55:16Z"
-    },
-    {
-      "id": "7iq_aat2-l8",
-      "title": "PHM Week recap 23.10.2026 - SUPER",
-      "thumbnail": "https://i.ytimg.com/vi/7iq_aat2-l8/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-10-23T17:03:53Z"
     }
   ]
 }
