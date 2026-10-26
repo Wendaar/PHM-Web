@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-25T22:42:54.087Z",
+  "updated": "2026-10-26T00:56:17.516Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
     {
@@ -15,13 +15,6 @@
       "thumbnail": "https://i.ytimg.com/vi/BUxLtONMADo/mqdefault.jpg",
       "isLive": true,
       "publishedAt": "2026-10-25T17:45:03Z"
-    },
-    {
-      "id": "2k_BLhGETg8",
-      "title": "REX vs Pigeons, 25.10. 2026 - SPORT",
-      "thumbnail": "https://i.ytimg.com/vi/2k_BLhGETg8/mqdefault.jpg",
-      "isLive": true,
-      "publishedAt": "2026-10-25T18:56:59Z"
     },
     {
       "id": "PL324GX9axY",
@@ -50,6 +43,13 @@
       "thumbnail": "https://i.ytimg.com/vi/QnlPf_6bHBI/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-10-23T17:03:48Z"
+    },
+    {
+      "id": "Bu3B0yRbhGo",
+      "title": "PHM Week recap 23.10.2026 - HOBBY ICE",
+      "thumbnail": "https://i.ytimg.com/vi/Bu3B0yRbhGo/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-10-23T17:03:46Z"
     }
   ]
 }
