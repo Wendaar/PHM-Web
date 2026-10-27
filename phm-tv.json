@@ -1,7 +1,42 @@
 {
-  "updated": "2026-10-27T18:50:34.849Z",
+  "updated": "2026-10-27T22:48:46.239Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
+    {
+      "id": "dI83TWkzxW4",
+      "title": "Voholto vs REX 27.10.2026 Sport",
+      "thumbnail": "https://i.ytimg.com/vi/dI83TWkzxW4/mqdefault.jpg?v=11",
+      "isLive": false,
+      "publishedAt": "2026-10-27T20:53:47Z"
+    },
+    {
+      "id": "bKaEMcWKWV8",
+      "title": "Roosters vs. OFF Ice Rats",
+      "thumbnail": "https://i.ytimg.com/vi/bKaEMcWKWV8/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-10-27T22:16:40Z"
+    },
+    {
+      "id": "JZVa_Iqa3Q8",
+      "title": "Roosters vs. OFF Ice Rats",
+      "thumbnail": "https://i.ytimg.com/vi/JZVa_Iqa3Q8/mqdefault.jpg?v=e",
+      "isLive": false,
+      "publishedAt": "2026-10-27T20:35:06Z"
+    },
+    {
+      "id": "7g2gJ6KJxxQ",
+      "title": "Platidlo vs Ducks B 27.10.2026 Hobby Fire",
+      "thumbnail": "https://i.ytimg.com/vi/7g2gJ6KJxxQ/mqdefault.jpg?v=e",
+      "isLive": false,
+      "publishedAt": "2026-10-27T19:24:47Z"
+    },
+    {
+      "id": "DH4hYjHlLwQ",
+      "title": "KV Elektro vs. ICE Spiders",
+      "thumbnail": "https://i.ytimg.com/vi/DH4hYjHlLwQ/mqdefault.jpg?v=10",
+      "isLive": false,
+      "publishedAt": "2026-10-27T18:59:37Z"
+    },
     {
       "id": "0F4MJyT0kTI",
       "title": "Cheza vs ATTL SPORT 26.10.2026",
@@ -15,41 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/BkPLjgsKbWA/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-10-27T09:29:00Z"
-    },
-    {
-      "id": "5BM94OHdoj0",
-      "title": "Zbraslav vs Chiefs SUPER 26.10.2026",
-      "thumbnail": "https://i.ytimg.com/vi/5BM94OHdoj0/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-10-27T08:58:07Z"
-    },
-    {
-      "id": "O2Y_mOLV0gI",
-      "title": "Gladiators Kladno vs Heyoka SPORT 26.10.2026",
-      "thumbnail": "https://i.ytimg.com/vi/O2Y_mOLV0gI/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-10-27T08:56:51Z"
-    },
-    {
-      "id": "zHQklo_USPQ",
-      "title": "Berkut vs Soldiers SUPER 26.10.2026",
-      "thumbnail": "https://i.ytimg.com/vi/zHQklo_USPQ/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-10-27T07:45:53Z"
-    },
-    {
-      "id": "BUxLtONMADo",
-      "title": "Goats vs Soldiers B HOBBY FIRE 25.10.2026",
-      "thumbnail": "https://i.ytimg.com/vi/BUxLtONMADo/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-10-26T07:05:37Z"
-    },
-    {
-      "id": "PL324GX9axY",
-      "title": "Ceasars vs Foxes KLASIK 25.10.2026",
-      "thumbnail": "https://i.ytimg.com/vi/PL324GX9axY/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-10-26T05:37:38Z"
     }
   ]
 }
