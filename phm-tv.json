@@ -1,39 +1,32 @@
 {
-  "updated": "2026-10-27T22:48:46.239Z",
+  "updated": "2026-10-28T01:58:38.832Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
     {
       "id": "dI83TWkzxW4",
-      "title": "Voholto vs REX 27.10.2026 Sport",
-      "thumbnail": "https://i.ytimg.com/vi/dI83TWkzxW4/mqdefault.jpg?v=11",
+      "title": "Voholto vs REX SPORT 27.10.2026",
+      "thumbnail": "https://i.ytimg.com/vi/dI83TWkzxW4/mqdefault.jpg?v=6ae13568",
       "isLive": false,
       "publishedAt": "2026-10-27T20:53:47Z"
     },
     {
-      "id": "bKaEMcWKWV8",
-      "title": "Roosters vs. OFF Ice Rats",
-      "thumbnail": "https://i.ytimg.com/vi/bKaEMcWKWV8/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-10-27T22:16:40Z"
-    },
-    {
       "id": "JZVa_Iqa3Q8",
-      "title": "Roosters vs. OFF Ice Rats",
-      "thumbnail": "https://i.ytimg.com/vi/JZVa_Iqa3Q8/mqdefault.jpg?v=e",
+      "title": "Roosters vs Office Rats SPORT 27.10.2026",
+      "thumbnail": "https://i.ytimg.com/vi/JZVa_Iqa3Q8/mqdefault.jpg?v=6ae13515",
       "isLive": false,
       "publishedAt": "2026-10-27T20:35:06Z"
     },
     {
       "id": "7g2gJ6KJxxQ",
-      "title": "Platidlo vs Ducks B 27.10.2026 Hobby Fire",
-      "thumbnail": "https://i.ytimg.com/vi/7g2gJ6KJxxQ/mqdefault.jpg?v=e",
+      "title": "PLATIDLO vs Ducks B HOBBY FIRE 27.10.2026",
+      "thumbnail": "https://i.ytimg.com/vi/7g2gJ6KJxxQ/mqdefault.jpg?v=6ae1353e",
       "isLive": false,
       "publishedAt": "2026-10-27T19:24:47Z"
     },
     {
       "id": "DH4hYjHlLwQ",
-      "title": "KV Elektro vs. ICE Spiders",
-      "thumbnail": "https://i.ytimg.com/vi/DH4hYjHlLwQ/mqdefault.jpg?v=10",
+      "title": "KV Elektro vs Spiders HOBBY ICE 27.10.2026",
+      "thumbnail": "https://i.ytimg.com/vi/DH4hYjHlLwQ/mqdefault.jpg?v=6ae134d1",
       "isLive": false,
       "publishedAt": "2026-10-27T18:59:37Z"
     },
@@ -50,6 +43,13 @@
       "thumbnail": "https://i.ytimg.com/vi/BkPLjgsKbWA/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-10-27T09:29:00Z"
+    },
+    {
+      "id": "5BM94OHdoj0",
+      "title": "Zbraslav vs Chiefs SUPER 26.10.2026",
+      "thumbnail": "https://i.ytimg.com/vi/5BM94OHdoj0/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-10-27T08:58:07Z"
     }
   ]
 }
