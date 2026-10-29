@@ -1,7 +1,14 @@
 {
-  "updated": "2026-10-29T19:06:33.862Z",
+  "updated": "2026-10-29T23:28:03.725Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
+    {
+      "id": "0BOJ7TEaMf8",
+      "title": "Motol Pelicans vs Justice FLLH 29.10.2026",
+      "thumbnail": "https://i.ytimg.com/vi/0BOJ7TEaMf8/mqdefault.jpg?v=11",
+      "isLive": false,
+      "publishedAt": "2026-10-29T19:12:34Z"
+    },
     {
       "id": "dI83TWkzxW4",
       "title": "Voholto vs REX SPORT 27.10.2026",
@@ -43,13 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/BkPLjgsKbWA/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-10-27T09:29:00Z"
-    },
-    {
-      "id": "5BM94OHdoj0",
-      "title": "Zbraslav vs Chiefs SUPER 26.10.2026",
-      "thumbnail": "https://i.ytimg.com/vi/5BM94OHdoj0/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-10-27T08:58:07Z"
     }
   ]
 }
