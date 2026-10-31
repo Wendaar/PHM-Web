@@ -1,7 +1,42 @@
 {
-  "updated": "2026-10-30T20:57:11.693Z",
+  "updated": "2026-10-31T00:25:16.690Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
+    {
+      "id": "EYiFmVcdckE",
+      "title": "PHM Week recap 31.10.2026 - SUPER",
+      "thumbnail": "https://i.ytimg.com/vi/EYiFmVcdckE/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-10-30T23:26:24Z"
+    },
+    {
+      "id": "Ae2T4CMeZr4",
+      "title": "PHM Week recap 31.10.2026 - SPORT",
+      "thumbnail": "https://i.ytimg.com/vi/Ae2T4CMeZr4/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-10-30T23:26:22Z"
+    },
+    {
+      "id": "8LhgptQXqpI",
+      "title": "PHM Week recap 31.10.2026 - KLASIK",
+      "thumbnail": "https://i.ytimg.com/vi/8LhgptQXqpI/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-10-30T23:26:20Z"
+    },
+    {
+      "id": "GtXKeJ9_j6U",
+      "title": "PHM Week recap 31.10.2026 - HOBBY ICE",
+      "thumbnail": "https://i.ytimg.com/vi/GtXKeJ9_j6U/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-10-30T23:26:17Z"
+    },
+    {
+      "id": "knAmh3MpZyI",
+      "title": "PHM Week recap 31.10.2026 - HOBBY FIRE",
+      "thumbnail": "https://i.ytimg.com/vi/knAmh3MpZyI/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-10-30T23:26:16Z"
+    },
     {
       "id": "0BOJ7TEaMf8",
       "title": "Motol Pelicans vs Justice FLLH 29.10.2026",
@@ -15,41 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/dI83TWkzxW4/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-10-28T10:25:34Z"
-    },
-    {
-      "id": "JZVa_Iqa3Q8",
-      "title": "Roosters vs Office Rats SPORT 27.10.2026",
-      "thumbnail": "https://i.ytimg.com/vi/JZVa_Iqa3Q8/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-10-28T09:53:48Z"
-    },
-    {
-      "id": "7g2gJ6KJxxQ",
-      "title": "PLATIDLO vs Ducks B HOBBY FIRE 27.10.2026",
-      "thumbnail": "https://i.ytimg.com/vi/7g2gJ6KJxxQ/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-10-28T08:51:48Z"
-    },
-    {
-      "id": "DH4hYjHlLwQ",
-      "title": "KV Elektro vs Spiders HOBBY ICE 27.10.2026",
-      "thumbnail": "https://i.ytimg.com/vi/DH4hYjHlLwQ/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-10-28T08:21:46Z"
-    },
-    {
-      "id": "0F4MJyT0kTI",
-      "title": "Cheza vs ATTL SPORT 26.10.2026",
-      "thumbnail": "https://i.ytimg.com/vi/0F4MJyT0kTI/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-10-27T10:32:47Z"
-    },
-    {
-      "id": "BkPLjgsKbWA",
-      "title": "Fešáci vs Ducks Sport SPORT 26.10.2026",
-      "thumbnail": "https://i.ytimg.com/vi/BkPLjgsKbWA/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-10-27T09:29:00Z"
     }
   ]
 }
