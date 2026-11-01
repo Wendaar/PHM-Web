@@ -1,7 +1,35 @@
 {
-  "updated": "2026-11-01T10:58:27.140Z",
+  "updated": "2026-11-01T17:01:07.080Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
+    {
+      "id": "TfkuQCwVnII",
+      "title": "Soldiers B vs Polar Bears HOBBY FIRE 01.11.2026",
+      "thumbnail": "https://i.ytimg.com/vi/TfkuQCwVnII/mqdefault.jpg",
+      "isLive": true,
+      "publishedAt": "2026-11-01T16:12:52Z"
+    },
+    {
+      "id": "g8J_0jIdkpc",
+      "title": "HC Kosti vs. HC Domynos Praha",
+      "thumbnail": "https://i.ytimg.com/vi/g8J_0jIdkpc/mqdefault.jpg",
+      "isLive": true,
+      "publishedAt": "2026-11-01T14:36:19Z"
+    },
+    {
+      "id": "Js9TN2QTiDM",
+      "title": "Reindeers vs Traverzáci HOBBY ICE 01.11.2026",
+      "thumbnail": "https://i.ytimg.com/vi/Js9TN2QTiDM/mqdefault.jpg?v=b",
+      "isLive": false,
+      "publishedAt": "2026-11-01T15:01:54Z"
+    },
+    {
+      "id": "4XFGRDxNWV8",
+      "title": "Reindeers vs Traverzáci HOBBY ICE 01.11.2026",
+      "thumbnail": "https://i.ytimg.com/vi/4XFGRDxNWV8/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-11-01T14:41:52Z"
+    },
     {
       "id": "EYiFmVcdckE",
       "title": "PHM Week recap 31.10.2026 - SUPER",
@@ -22,34 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/8LhgptQXqpI/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-10-30T23:26:20Z"
-    },
-    {
-      "id": "GtXKeJ9_j6U",
-      "title": "PHM Week recap 31.10.2026 - HOBBY ICE",
-      "thumbnail": "https://i.ytimg.com/vi/GtXKeJ9_j6U/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-10-30T23:26:17Z"
-    },
-    {
-      "id": "knAmh3MpZyI",
-      "title": "PHM Week recap 31.10.2026 - HOBBY FIRE",
-      "thumbnail": "https://i.ytimg.com/vi/knAmh3MpZyI/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-10-30T23:26:16Z"
-    },
-    {
-      "id": "0BOJ7TEaMf8",
-      "title": "Motol Pelicans vs Justice FLLH 29.10.2026",
-      "thumbnail": "https://i.ytimg.com/vi/0BOJ7TEaMf8/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-10-30T08:37:49Z"
-    },
-    {
-      "id": "dI83TWkzxW4",
-      "title": "Voholto vs REX SPORT 27.10.2026",
-      "thumbnail": "https://i.ytimg.com/vi/dI83TWkzxW4/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-10-28T10:25:34Z"
     }
   ]
 }
