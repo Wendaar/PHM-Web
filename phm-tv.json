@@ -1,7 +1,35 @@
 {
-  "updated": "2026-11-02T17:18:02.517Z",
+  "updated": "2026-11-02T23:57:53.114Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
+    {
+      "id": "haVwqRh3A1g",
+      "title": "ATTL vs Ducks Sport SPORT 02.11.2026",
+      "thumbnail": "https://i.ytimg.com/vi/haVwqRh3A1g/mqdefault.jpg?v=6ae90f96",
+      "isLive": false,
+      "publishedAt": "2026-11-02T19:57:23Z"
+    },
+    {
+      "id": "6FoT2sDkw2o",
+      "title": "Gladiators vs Ducks Stars KLASIK 02.11.2026",
+      "thumbnail": "https://i.ytimg.com/vi/6FoT2sDkw2o/mqdefault.jpg?v=6ae90fbe",
+      "isLive": false,
+      "publishedAt": "2026-11-02T20:22:20Z"
+    },
+    {
+      "id": "EUNr3PreNbI",
+      "title": "Beavers vs Papoušci HOBBY FIRE 02.11.2026",
+      "thumbnail": "https://i.ytimg.com/vi/EUNr3PreNbI/mqdefault.jpg?v=6ae90f83",
+      "isLive": false,
+      "publishedAt": "2026-11-02T18:52:56Z"
+    },
+    {
+      "id": "OS6yhR1SNyA",
+      "title": "Fanklub Lev vs Cheza SPORT 02.11.2026",
+      "thumbnail": "https://i.ytimg.com/vi/OS6yhR1SNyA/mqdefault.jpg?v=6ae90f65",
+      "isLive": false,
+      "publishedAt": "2026-11-02T18:25:54Z"
+    },
     {
       "id": "FzUT45_N-5k",
       "title": "Pigeons B vs Foxes KLASIK 01.11.2026",
@@ -22,34 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/xiYUb5WuS4s/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-11-02T07:41:15Z"
-    },
-    {
-      "id": "1b6VOralwVE",
-      "title": "Superheroes vs Renegades SUPER 01.11.2026",
-      "thumbnail": "https://i.ytimg.com/vi/1b6VOralwVE/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-11-02T07:31:54Z"
-    },
-    {
-      "id": "TfkuQCwVnII",
-      "title": "Soldiers B vs Polar Bears HOBBY FIRE 01.11.2026",
-      "thumbnail": "https://i.ytimg.com/vi/TfkuQCwVnII/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-11-02T06:40:20Z"
-    },
-    {
-      "id": "g8J_0jIdkpc",
-      "title": "Kosti vs Domynos + Scorpions B vs Destroit 01.11.2026",
-      "thumbnail": "https://i.ytimg.com/vi/g8J_0jIdkpc/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-11-02T06:12:38Z"
-    },
-    {
-      "id": "Js9TN2QTiDM",
-      "title": "Reindeers vs Traverzáci HOBBY ICE 01.11.2026",
-      "thumbnail": "https://i.ytimg.com/vi/Js9TN2QTiDM/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-11-02T04:09:17Z"
     }
   ]
 }
