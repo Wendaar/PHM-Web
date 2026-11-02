@@ -1,7 +1,35 @@
 {
-  "updated": "2026-11-02T07:11:58.225Z",
+  "updated": "2026-11-02T17:18:02.517Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
+    {
+      "id": "FzUT45_N-5k",
+      "title": "Pigeons B vs Foxes KLASIK 01.11.2026",
+      "thumbnail": "https://i.ytimg.com/vi/FzUT45_N-5k/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-11-02T08:41:06Z"
+    },
+    {
+      "id": "Xxdtf_5auPE",
+      "title": "H.O.V.N.A. vs Pigeons SPORT 01.11.2026",
+      "thumbnail": "https://i.ytimg.com/vi/Xxdtf_5auPE/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-11-02T08:28:27Z"
+    },
+    {
+      "id": "xiYUb5WuS4s",
+      "title": "Taste vs Car-Back KLASIK 01.11.2026",
+      "thumbnail": "https://i.ytimg.com/vi/xiYUb5WuS4s/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-11-02T07:41:15Z"
+    },
+    {
+      "id": "1b6VOralwVE",
+      "title": "Superheroes vs Renegades SUPER 01.11.2026",
+      "thumbnail": "https://i.ytimg.com/vi/1b6VOralwVE/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-11-02T07:31:54Z"
+    },
     {
       "id": "TfkuQCwVnII",
       "title": "Soldiers B vs Polar Bears HOBBY FIRE 01.11.2026",
@@ -22,34 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/Js9TN2QTiDM/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-11-02T04:09:17Z"
-    },
-    {
-      "id": "5xqCMDn_58w",
-      "title": "Navštívili jsme prodejnu Tejpy.cz!",
-      "thumbnail": "https://i.ytimg.com/vi/5xqCMDn_58w/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-11-01T22:54:53Z"
-    },
-    {
-      "id": "x-stYQVhwa4",
-      "title": "PHM All-stars October 2026",
-      "thumbnail": "https://i.ytimg.com/vi/x-stYQVhwa4/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-11-01T22:49:01Z"
-    },
-    {
-      "id": "FzUT45_N-5k",
-      "title": "Pigeons B vs Foxes KLASIK 01.11.2026",
-      "thumbnail": "https://i.ytimg.com/vi/FzUT45_N-5k/mqdefault.jpg?v=6ae7b6cc",
-      "isLive": false,
-      "publishedAt": "2026-11-01T19:15:00Z"
-    },
-    {
-      "id": "Xxdtf_5auPE",
-      "title": "H.O.V.N.A. vs Pigeons SPORT 01.11.2026",
-      "thumbnail": "https://i.ytimg.com/vi/Xxdtf_5auPE/mqdefault.jpg?v=6ae7b6b5",
-      "isLive": false,
-      "publishedAt": "2026-11-01T18:47:54Z"
     }
   ]
 }
