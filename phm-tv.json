@@ -1,7 +1,35 @@
 {
-  "updated": "2026-11-03T13:28:12.998Z",
+  "updated": "2026-11-03T20:13:40.671Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
+    {
+      "id": "Gg2K2puHoqY",
+      "title": "MYQ vs Ducks B HOBBY FIRE 3.11.2026",
+      "thumbnail": "https://i.ytimg.com/vi/Gg2K2puHoqY/mqdefault.jpg",
+      "isLive": true,
+      "publishedAt": "2026-11-03T19:59:12Z"
+    },
+    {
+      "id": "USYdT-rAbjY",
+      "title": "Goats vs PLATIDLO HOBBY FIRE 03.11.2026",
+      "thumbnail": "https://i.ytimg.com/vi/USYdT-rAbjY/mqdefault.jpg",
+      "isLive": true,
+      "publishedAt": "2026-11-03T19:29:42Z"
+    },
+    {
+      "id": "bfpjH4PUS70",
+      "title": "BK Žraloci vs KV Elektro HOBBY ICE 3.11.2026",
+      "thumbnail": "https://i.ytimg.com/vi/bfpjH4PUS70/mqdefault.jpg?v=e",
+      "isLive": false,
+      "publishedAt": "2026-11-03T18:47:19Z"
+    },
+    {
+      "id": "5zO2tQgpJ-0",
+      "title": "Soldiers B vs Fotr HOBBY FIRE 3.11.2026",
+      "thumbnail": "https://i.ytimg.com/vi/5zO2tQgpJ-0/mqdefault.jpg?v=f",
+      "isLive": false,
+      "publishedAt": "2026-11-03T18:30:36Z"
+    },
     {
       "id": "haVwqRh3A1g",
       "title": "ATTL vs Ducks Sport SPORT 02.11.2026",
@@ -22,34 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/EUNr3PreNbI/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-11-03T09:13:31Z"
-    },
-    {
-      "id": "OS6yhR1SNyA",
-      "title": "Fanklub Lev vs Cheza SPORT 02.11.2026",
-      "thumbnail": "https://i.ytimg.com/vi/OS6yhR1SNyA/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-11-03T07:45:13Z"
-    },
-    {
-      "id": "FzUT45_N-5k",
-      "title": "Pigeons B vs Foxes KLASIK 01.11.2026",
-      "thumbnail": "https://i.ytimg.com/vi/FzUT45_N-5k/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-11-02T08:41:06Z"
-    },
-    {
-      "id": "Xxdtf_5auPE",
-      "title": "H.O.V.N.A. vs Pigeons SPORT 01.11.2026",
-      "thumbnail": "https://i.ytimg.com/vi/Xxdtf_5auPE/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-11-02T08:28:27Z"
-    },
-    {
-      "id": "xiYUb5WuS4s",
-      "title": "Taste vs Car-Back KLASIK 01.11.2026",
-      "thumbnail": "https://i.ytimg.com/vi/xiYUb5WuS4s/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-11-02T07:41:15Z"
     }
   ]
 }
