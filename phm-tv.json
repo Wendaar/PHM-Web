@@ -1,55 +1,55 @@
 {
-  "updated": "2026-11-05T01:56:44.570Z",
+  "updated": "2026-11-05T08:58:25.426Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
     {
-      "id": "g9ZuH9_1EhA",
-      "title": "Gladiators Kladno vs REX SPORT 04.11.2026",
-      "thumbnail": "https://i.ytimg.com/vi/g9ZuH9_1EhA/mqdefault.jpg?v=6aebac9f",
-      "isLive": false,
-      "publishedAt": "2026-11-04T21:01:53Z"
+      "id": "26aLkYZew5k",
+      "title": "Police Euro CUp2026 Hungary vs Ukraine",
+      "thumbnail": "https://i.ytimg.com/vi/26aLkYZew5k/mqdefault.jpg",
+      "isLive": true,
+      "publishedAt": "2026-11-05T08:03:02Z"
     },
     {
-      "id": "mS3WCV5QbWY",
-      "title": "Pigeons B vs Rekreanti KLASIK 04.11.2026",
-      "thumbnail": "https://i.ytimg.com/vi/mS3WCV5QbWY/mqdefault.jpg?v=6aebac80",
-      "isLive": false,
-      "publishedAt": "2026-11-04T20:10:56Z"
-    },
-    {
-      "id": "MzzDaz7d3JI",
-      "title": "Roosters vs Voholto SPORT 04.11.2026",
-      "thumbnail": "https://i.ytimg.com/vi/MzzDaz7d3JI/mqdefault.jpg?v=6aebac6c",
-      "isLive": false,
-      "publishedAt": "2026-11-04T19:40:48Z"
-    },
-    {
-      "id": "60ISlwquErQ",
-      "title": "Alligators vs Caesars KLASIK 04.11.2026",
-      "thumbnail": "https://i.ytimg.com/vi/60ISlwquErQ/mqdefault.jpg?v=6aebb413",
-      "isLive": false,
-      "publishedAt": "2026-11-04T18:42:09Z"
+      "id": "6UnOGkvKDao",
+      "title": "Slovenia vs. Denmark",
+      "thumbnail": "https://i.ytimg.com/vi/6UnOGkvKDao/mqdefault.jpg",
+      "isLive": true,
+      "publishedAt": "2026-11-05T07:57:41Z"
     },
     {
       "id": "nXhHjk7CNY0",
       "title": "Fešáci vs Office Rats SPORT 04.11.2026",
-      "thumbnail": "https://i.ytimg.com/vi/nXhHjk7CNY0/mqdefault.jpg?v=6aebac29",
+      "thumbnail": "https://i.ytimg.com/vi/nXhHjk7CNY0/mqdefault.jpg",
       "isLive": false,
-      "publishedAt": "2026-11-04T18:28:25Z"
+      "publishedAt": "2026-11-05T08:10:01Z"
     },
     {
       "id": "ukovoMwrhz0",
       "title": "Police Euro Cup 2026 France vs Ukraine",
-      "thumbnail": "https://i.ytimg.com/vi/ukovoMwrhz0/mqdefault.jpg?v=11",
+      "thumbnail": "https://i.ytimg.com/vi/ukovoMwrhz0/mqdefault.jpg",
       "isLive": false,
-      "publishedAt": "2026-11-04T15:52:52Z"
+      "publishedAt": "2026-11-05T06:17:40Z"
     },
     {
       "id": "gh4i9lNcYUg",
       "title": "Police Euro Cup 2026 Germany vs Denmark",
-      "thumbnail": "https://i.ytimg.com/vi/gh4i9lNcYUg/mqdefault.jpg?v=10",
+      "thumbnail": "https://i.ytimg.com/vi/gh4i9lNcYUg/mqdefault.jpg",
       "isLive": false,
-      "publishedAt": "2026-11-04T15:48:29Z"
+      "publishedAt": "2026-11-05T05:28:35Z"
+    },
+    {
+      "id": "kqjHLORhijU",
+      "title": "Police Euro Cup 2026 Slovakia vs Hungary",
+      "thumbnail": "https://i.ytimg.com/vi/kqjHLORhijU/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-11-05T03:14:15Z"
+    },
+    {
+      "id": "Y0QRwSbxh5Y",
+      "title": "Police Euro Cup 2026 Czechia vs Slovenia",
+      "thumbnail": "https://i.ytimg.com/vi/Y0QRwSbxh5Y/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-11-05T03:09:07Z"
     }
   ]
 }
