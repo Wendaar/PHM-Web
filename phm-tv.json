@@ -1,10 +1,45 @@
 {
-  "updated": "2026-11-06T11:16:13.348Z",
+  "updated": "2026-11-06T18:10:31.828Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
     {
+      "id": "hISwzss-qbY",
+      "title": "PHM Week recap 06.11.2026 - SUPER",
+      "thumbnail": "https://i.ytimg.com/vi/hISwzss-qbY/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-11-06T17:25:28Z"
+    },
+    {
+      "id": "EuxzTubuxnM",
+      "title": "PHM Week recap 06.11.2026 - SPORT",
+      "thumbnail": "https://i.ytimg.com/vi/EuxzTubuxnM/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-11-06T17:25:25Z"
+    },
+    {
+      "id": "X1GIebZebfE",
+      "title": "PHM Week recap 06.11.2026 - KLASIK",
+      "thumbnail": "https://i.ytimg.com/vi/X1GIebZebfE/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-11-06T17:25:23Z"
+    },
+    {
+      "id": "e7QwG55JSMA",
+      "title": "PHM Week recap 06.11.2026 - HOBBY ICE",
+      "thumbnail": "https://i.ytimg.com/vi/e7QwG55JSMA/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-11-06T17:25:21Z"
+    },
+    {
+      "id": "cfsHiJbyBhk",
+      "title": "PHM Week recap 06.11.2026 - HOBBY FIRE",
+      "thumbnail": "https://i.ytimg.com/vi/cfsHiJbyBhk/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-11-06T17:25:18Z"
+    },
+    {
       "id": "r3D7_Rw4pSA",
-      "title": "Police Cup 2026 Slovakia vs Germany",
+      "title": "Police Euro Cup 2026 Slovakia vs Germany",
       "thumbnail": "https://i.ytimg.com/vi/r3D7_Rw4pSA/mqdefault.jpg?v=f",
       "isLive": false,
       "publishedAt": "2026-11-06T09:50:07Z"
@@ -15,41 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/UVAlXEaWLsY/mqdefault.jpg?v=8",
       "isLive": false,
       "publishedAt": "2026-11-06T10:19:07Z"
-    },
-    {
-      "id": "xClvYLdLK5E",
-      "title": "Trimed vs Legio FLLH 05.11.2026",
-      "thumbnail": "https://i.ytimg.com/vi/xClvYLdLK5E/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-11-06T10:46:53Z"
-    },
-    {
-      "id": "LGFyxcibetQ",
-      "title": "Foxes vs Car-Back KLASIK 05.11.2026",
-      "thumbnail": "https://i.ytimg.com/vi/LGFyxcibetQ/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-11-06T10:28:16Z"
-    },
-    {
-      "id": "yIwHiBbhZYs",
-      "title": "Czechia vs. France",
-      "thumbnail": "https://i.ytimg.com/vi/yIwHiBbhZYs/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-11-06T10:22:13Z"
-    },
-    {
-      "id": "0GEBxUu_DkA",
-      "title": "Czechia vs. France",
-      "thumbnail": "https://i.ytimg.com/vi/0GEBxUu_DkA/mqdefault.jpg?v=4",
-      "isLive": false,
-      "publishedAt": "2026-11-06T09:52:28Z"
-    },
-    {
-      "id": "14KB7icJzcA",
-      "title": "Traverzáci vs Vikings HOBBY ICE 05.11.2026",
-      "thumbnail": "https://i.ytimg.com/vi/14KB7icJzcA/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-11-06T09:57:05Z"
     }
   ]
 }
