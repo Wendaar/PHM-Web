@@ -1,12 +1,19 @@
 {
-  "updated": "2026-11-07T09:48:22.168Z",
+  "updated": "2026-11-07T16:01:25.386Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
     {
+      "id": "y6vL_UftBwk",
+      "title": "Police Euro Cup Final 2026 Czechia vs Slovakia",
+      "thumbnail": "https://i.ytimg.com/vi/y6vL_UftBwk/mqdefault.jpg?v=20",
+      "isLive": false,
+      "publishedAt": "2026-11-07T09:58:33Z"
+    },
+    {
       "id": "UwymhVRURMQ",
       "title": "Police Euro Cup 2026 Germany vs France",
-      "thumbnail": "https://i.ytimg.com/vi/UwymhVRURMQ/mqdefault.jpg",
-      "isLive": true,
+      "thumbnail": "https://i.ytimg.com/vi/UwymhVRURMQ/mqdefault.jpg?v=11",
+      "isLive": false,
       "publishedAt": "2026-11-07T09:45:10Z"
     },
     {
@@ -43,13 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/0GEBxUu_DkA/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-11-06T22:16:45Z"
-    },
-    {
-      "id": "Qz3YLjZE9so",
-      "title": "Police Euro Cup 2026 Denmark vs Ukraine",
-      "thumbnail": "https://i.ytimg.com/vi/Qz3YLjZE9so/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-11-06T21:44:42Z"
     }
   ]
 }
