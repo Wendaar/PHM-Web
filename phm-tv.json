@@ -1,7 +1,28 @@
 {
-  "updated": "2026-11-07T02:59:09.130Z",
+  "updated": "2026-11-07T09:48:22.168Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
+    {
+      "id": "UwymhVRURMQ",
+      "title": "Police Euro Cup 2026 Germany vs France",
+      "thumbnail": "https://i.ytimg.com/vi/UwymhVRURMQ/mqdefault.jpg",
+      "isLive": true,
+      "publishedAt": "2026-11-07T09:45:10Z"
+    },
+    {
+      "id": "KPUzV5ATAuo",
+      "title": "Police Euro Cup 2026 Denmark vs Hungary",
+      "thumbnail": "https://i.ytimg.com/vi/KPUzV5ATAuo/mqdefault.jpg?v=11",
+      "isLive": false,
+      "publishedAt": "2026-11-07T08:07:13Z"
+    },
+    {
+      "id": "hWl4mpV7jL4",
+      "title": "Police Euro Cup 2026 Ukraine vs Slovenia",
+      "thumbnail": "https://i.ytimg.com/vi/hWl4mpV7jL4/mqdefault.jpg?v=11",
+      "isLive": false,
+      "publishedAt": "2026-11-07T07:50:21Z"
+    },
     {
       "id": "UVAlXEaWLsY",
       "title": "Czechia vs. France",
@@ -29,27 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/Qz3YLjZE9so/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-11-06T21:44:42Z"
-    },
-    {
-      "id": "M1Ni9GT2als",
-      "title": "Police Euro Cup 2026 Hungary vs Slovenia",
-      "thumbnail": "https://i.ytimg.com/vi/M1Ni9GT2als/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-11-06T21:23:55Z"
-    },
-    {
-      "id": "hISwzss-qbY",
-      "title": "PHM Week recap 06.11.2026 - SUPER",
-      "thumbnail": "https://i.ytimg.com/vi/hISwzss-qbY/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-11-06T17:25:28Z"
-    },
-    {
-      "id": "EuxzTubuxnM",
-      "title": "PHM Week recap 06.11.2026 - SPORT",
-      "thumbnail": "https://i.ytimg.com/vi/EuxzTubuxnM/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-11-06T17:25:25Z"
     }
   ]
 }
