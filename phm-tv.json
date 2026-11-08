@@ -1,19 +1,47 @@
 {
-  "updated": "2026-11-08T17:09:16.600Z",
+  "updated": "2026-11-08T21:16:12.296Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
     {
+      "id": "hVYb06HncXk",
+      "title": "Voholto vs H.O.V.N.A. Sport 08.11.26",
+      "thumbnail": "https://i.ytimg.com/vi/hVYb06HncXk/mqdefault.jpg?v=10",
+      "isLive": false,
+      "publishedAt": "2026-11-08T19:09:40Z"
+    },
+    {
+      "id": "ZeU3nIq5jHU",
+      "title": "Car Back vs. Scorpions",
+      "thumbnail": "https://i.ytimg.com/vi/ZeU3nIq5jHU/mqdefault.jpg?v=2c",
+      "isLive": false,
+      "publishedAt": "2026-11-08T19:00:56Z"
+    },
+    {
+      "id": "UQPdB7UARR0",
+      "title": "Superheroes vs Soldiers Super 08.11.26",
+      "thumbnail": "https://i.ytimg.com/vi/UQPdB7UARR0/mqdefault.jpg?v=e",
+      "isLive": false,
+      "publishedAt": "2026-11-08T17:42:14Z"
+    },
+    {
+      "id": "tIISxrQZHbo",
+      "title": "Taste vs Golden Bears Klasik 8.11.26",
+      "thumbnail": "https://i.ytimg.com/vi/tIISxrQZHbo/mqdefault.jpg?v=e",
+      "isLive": false,
+      "publishedAt": "2026-11-08T17:45:22Z"
+    },
+    {
       "id": "ULBne5q9Jic",
       "title": "Raptors vs Alligators Klasik 08.11.26",
-      "thumbnail": "https://i.ytimg.com/vi/ULBne5q9Jic/mqdefault.jpg",
-      "isLive": true,
+      "thumbnail": "https://i.ytimg.com/vi/ULBne5q9Jic/mqdefault.jpg?v=11",
+      "isLive": false,
       "publishedAt": "2026-11-08T16:04:48Z"
     },
     {
       "id": "nMZgqGE5g9Y",
       "title": "Wolves B vs Ducks Stars KLASIK  8.11.2026",
-      "thumbnail": "https://i.ytimg.com/vi/nMZgqGE5g9Y/mqdefault.jpg",
-      "isLive": true,
+      "thumbnail": "https://i.ytimg.com/vi/nMZgqGE5g9Y/mqdefault.jpg?v=10",
+      "isLive": false,
       "publishedAt": "2026-11-08T16:17:48Z"
     },
     {
@@ -22,34 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/dueM9O_L_Vc/mqdefault.jpg?v=f",
       "isLive": false,
       "publishedAt": "2026-11-08T14:45:26Z"
-    },
-    {
-      "id": "WjEd0s0PkKA",
-      "title": "Paladins vs Traverzáci Hobby Ice 08.11.26",
-      "thumbnail": "https://i.ytimg.com/vi/WjEd0s0PkKA/mqdefault.jpg?v=10",
-      "isLive": false,
-      "publishedAt": "2026-11-08T14:38:00Z"
-    },
-    {
-      "id": "y6vL_UftBwk",
-      "title": "Police Euro Cup Final 2026 Czechia vs Slovakia",
-      "thumbnail": "https://i.ytimg.com/vi/y6vL_UftBwk/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-11-08T00:54:10Z"
-    },
-    {
-      "id": "UwymhVRURMQ",
-      "title": "Police Euro Cup 2026 Germany vs France",
-      "thumbnail": "https://i.ytimg.com/vi/UwymhVRURMQ/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-11-07T23:14:47Z"
-    },
-    {
-      "id": "hWl4mpV7jL4",
-      "title": "Police Euro Cup 2026 Ukraine vs Slovenia",
-      "thumbnail": "https://i.ytimg.com/vi/hWl4mpV7jL4/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-11-07T22:14:08Z"
     }
   ]
 }
