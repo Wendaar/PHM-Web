@@ -1,7 +1,35 @@
 {
-  "updated": "2026-11-08T11:00:48.167Z",
+  "updated": "2026-11-08T17:09:16.600Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
+    {
+      "id": "ULBne5q9Jic",
+      "title": "Raptors vs Alligators Klasik 08.11.26",
+      "thumbnail": "https://i.ytimg.com/vi/ULBne5q9Jic/mqdefault.jpg",
+      "isLive": true,
+      "publishedAt": "2026-11-08T16:04:48Z"
+    },
+    {
+      "id": "nMZgqGE5g9Y",
+      "title": "Wolves B vs Ducks Stars KLASIK  8.11.2026",
+      "thumbnail": "https://i.ytimg.com/vi/nMZgqGE5g9Y/mqdefault.jpg",
+      "isLive": true,
+      "publishedAt": "2026-11-08T16:17:48Z"
+    },
+    {
+      "id": "dueM9O_L_Vc",
+      "title": "PÚ vs Gaston KLASIK 8.11.2026",
+      "thumbnail": "https://i.ytimg.com/vi/dueM9O_L_Vc/mqdefault.jpg?v=f",
+      "isLive": false,
+      "publishedAt": "2026-11-08T14:45:26Z"
+    },
+    {
+      "id": "WjEd0s0PkKA",
+      "title": "Paladins vs Traverzáci Hobby Ice 08.11.26",
+      "thumbnail": "https://i.ytimg.com/vi/WjEd0s0PkKA/mqdefault.jpg?v=10",
+      "isLive": false,
+      "publishedAt": "2026-11-08T14:38:00Z"
+    },
     {
       "id": "y6vL_UftBwk",
       "title": "Police Euro Cup Final 2026 Czechia vs Slovakia",
@@ -22,34 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/hWl4mpV7jL4/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-11-07T22:14:08Z"
-    },
-    {
-      "id": "KPUzV5ATAuo",
-      "title": "Police Euro Cup 2026 Denmark vs Hungary",
-      "thumbnail": "https://i.ytimg.com/vi/KPUzV5ATAuo/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-11-07T22:11:16Z"
-    },
-    {
-      "id": "UVAlXEaWLsY",
-      "title": "Czechia vs. France",
-      "thumbnail": "https://i.ytimg.com/vi/UVAlXEaWLsY/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-11-06T23:17:53Z"
-    },
-    {
-      "id": "r3D7_Rw4pSA",
-      "title": "Police Euro Cup 2026 Slovakia vs Germany",
-      "thumbnail": "https://i.ytimg.com/vi/r3D7_Rw4pSA/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-11-06T23:17:49Z"
-    },
-    {
-      "id": "0GEBxUu_DkA",
-      "title": "Czechia vs. France",
-      "thumbnail": "https://i.ytimg.com/vi/0GEBxUu_DkA/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-11-06T22:16:45Z"
     }
   ]
 }
