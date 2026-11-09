@@ -1,7 +1,28 @@
 {
-  "updated": "2026-11-09T08:18:52.533Z",
+  "updated": "2026-11-09T18:58:37.426Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
+    {
+      "id": "xmArRSPPK04",
+      "title": "Dragons vs Caesars KLASIK 09.11.2026",
+      "thumbnail": "https://i.ytimg.com/vi/xmArRSPPK04/mqdefault.jpg",
+      "isLive": true,
+      "publishedAt": "2026-11-09T18:28:31Z"
+    },
+    {
+      "id": "hVYb06HncXk",
+      "title": "Voholto vs H.O.V.N.A. SPORT 08.11.2026",
+      "thumbnail": "https://i.ytimg.com/vi/hVYb06HncXk/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-11-09T09:10:03Z"
+    },
+    {
+      "id": "ZeU3nIq5jHU",
+      "title": "Car-Back vs Scorpions KLASIK 08.11.2026",
+      "thumbnail": "https://i.ytimg.com/vi/ZeU3nIq5jHU/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-11-09T08:20:50Z"
+    },
     {
       "id": "UQPdB7UARR0",
       "title": "Superheroes vs Soldiers SUPER 08.11.2026",
@@ -29,27 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/ULBne5q9Jic/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-11-09T05:38:13Z"
-    },
-    {
-      "id": "WjEd0s0PkKA",
-      "title": "Paladins vs Traverzáci HOBBY ICE 08.11.26",
-      "thumbnail": "https://i.ytimg.com/vi/WjEd0s0PkKA/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-11-09T04:21:26Z"
-    },
-    {
-      "id": "dueM9O_L_Vc",
-      "title": "PÚ vs Gastoni KLASIK 08.11.2026",
-      "thumbnail": "https://i.ytimg.com/vi/dueM9O_L_Vc/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-11-09T04:06:00Z"
-    },
-    {
-      "id": "hVYb06HncXk",
-      "title": "Voholto vs H.O.V.N.A. SPORT 08.11.2026",
-      "thumbnail": "https://i.ytimg.com/vi/hVYb06HncXk/mqdefault.jpg?v=6af0f029",
-      "isLive": false,
-      "publishedAt": "2026-11-08T19:09:40Z"
     }
   ]
 }
