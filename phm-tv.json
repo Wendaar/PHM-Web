@@ -1,55 +1,55 @@
 {
-  "updated": "2026-11-09T01:04:14.763Z",
+  "updated": "2026-11-09T08:18:52.533Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
+    {
+      "id": "UQPdB7UARR0",
+      "title": "Superheroes vs Soldiers SUPER 08.11.2026",
+      "thumbnail": "https://i.ytimg.com/vi/UQPdB7UARR0/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-11-09T07:46:00Z"
+    },
+    {
+      "id": "tIISxrQZHbo",
+      "title": "Taste vs Golden Bears KLASIK 08.11.2026",
+      "thumbnail": "https://i.ytimg.com/vi/tIISxrQZHbo/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-11-09T07:01:49Z"
+    },
+    {
+      "id": "nMZgqGE5g9Y",
+      "title": "Wolves B vs Stars KLASIK 08.11.2026",
+      "thumbnail": "https://i.ytimg.com/vi/nMZgqGE5g9Y/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-11-09T05:48:51Z"
+    },
+    {
+      "id": "ULBne5q9Jic",
+      "title": "Raptors vs Alligators KLASIK 08.11.2026",
+      "thumbnail": "https://i.ytimg.com/vi/ULBne5q9Jic/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-11-09T05:38:13Z"
+    },
+    {
+      "id": "WjEd0s0PkKA",
+      "title": "Paladins vs Traverzáci HOBBY ICE 08.11.26",
+      "thumbnail": "https://i.ytimg.com/vi/WjEd0s0PkKA/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-11-09T04:21:26Z"
+    },
+    {
+      "id": "dueM9O_L_Vc",
+      "title": "PÚ vs Gastoni KLASIK 08.11.2026",
+      "thumbnail": "https://i.ytimg.com/vi/dueM9O_L_Vc/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-11-09T04:06:00Z"
+    },
     {
       "id": "hVYb06HncXk",
       "title": "Voholto vs H.O.V.N.A. SPORT 08.11.2026",
       "thumbnail": "https://i.ytimg.com/vi/hVYb06HncXk/mqdefault.jpg?v=6af0f029",
       "isLive": false,
       "publishedAt": "2026-11-08T19:09:40Z"
-    },
-    {
-      "id": "ZeU3nIq5jHU",
-      "title": "Car-Back vs Scorpions KLASIK 08.11.2026",
-      "thumbnail": "https://i.ytimg.com/vi/ZeU3nIq5jHU/mqdefault.jpg?v=6af0efff",
-      "isLive": false,
-      "publishedAt": "2026-11-08T19:00:56Z"
-    },
-    {
-      "id": "UQPdB7UARR0",
-      "title": "Superheroes vs Soldiers SUPER 08.11.2026",
-      "thumbnail": "https://i.ytimg.com/vi/UQPdB7UARR0/mqdefault.jpg?v=6af0efd4",
-      "isLive": false,
-      "publishedAt": "2026-11-08T17:42:14Z"
-    },
-    {
-      "id": "tIISxrQZHbo",
-      "title": "Taste vs Golden Bears KLASIK 08.11.2026",
-      "thumbnail": "https://i.ytimg.com/vi/tIISxrQZHbo/mqdefault.jpg?v=6af0efab",
-      "isLive": false,
-      "publishedAt": "2026-11-08T17:45:22Z"
-    },
-    {
-      "id": "ULBne5q9Jic",
-      "title": "Raptors vs Alligators KLASIK 08.11.2026",
-      "thumbnail": "https://i.ytimg.com/vi/ULBne5q9Jic/mqdefault.jpg?v=6af0ef84",
-      "isLive": false,
-      "publishedAt": "2026-11-08T16:04:48Z"
-    },
-    {
-      "id": "nMZgqGE5g9Y",
-      "title": "Wolves B vs Stars KLASIK 08.11.2026",
-      "thumbnail": "https://i.ytimg.com/vi/nMZgqGE5g9Y/mqdefault.jpg?v=6af0ef65",
-      "isLive": false,
-      "publishedAt": "2026-11-08T16:17:48Z"
-    },
-    {
-      "id": "dueM9O_L_Vc",
-      "title": "PÚ vs Gastoni KLASIK 08.11.2026",
-      "thumbnail": "https://i.ytimg.com/vi/dueM9O_L_Vc/mqdefault.jpg?v=6af0ef00",
-      "isLive": false,
-      "publishedAt": "2026-11-08T14:45:26Z"
     }
   ]
 }
