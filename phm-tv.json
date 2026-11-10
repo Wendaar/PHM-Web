@@ -1,12 +1,33 @@
 {
-  "updated": "2026-11-09T18:58:37.426Z",
+  "updated": "2026-11-10T01:54:38.259Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
     {
+      "id": "_xKKDvQGhso",
+      "title": "Renegades vs Berkut SUPER 09.11.2026",
+      "thumbnail": "https://i.ytimg.com/vi/_xKKDvQGhso/mqdefault.jpg?v=6af245ba",
+      "isLive": false,
+      "publishedAt": "2026-11-09T20:31:41Z"
+    },
+    {
+      "id": "WsQrGM4Wzxs",
+      "title": "Gladiators Kladno vs Ducks Sport SPORT 09.11.2026",
+      "thumbnail": "https://i.ytimg.com/vi/WsQrGM4Wzxs/mqdefault.jpg?v=6af2459b",
+      "isLive": false,
+      "publishedAt": "2026-11-09T19:58:23Z"
+    },
+    {
+      "id": "JQitcNmpFWs",
+      "title": "Polar Bears vs Papoušci HOBBY FIRE 09.11.2026",
+      "thumbnail": "https://i.ytimg.com/vi/JQitcNmpFWs/mqdefault.jpg?v=6af24584",
+      "isLive": false,
+      "publishedAt": "2026-11-09T19:00:29Z"
+    },
+    {
       "id": "xmArRSPPK04",
       "title": "Dragons vs Caesars KLASIK 09.11.2026",
-      "thumbnail": "https://i.ytimg.com/vi/xmArRSPPK04/mqdefault.jpg",
-      "isLive": true,
+      "thumbnail": "https://i.ytimg.com/vi/xmArRSPPK04/mqdefault.jpg?v=6af24564",
+      "isLive": false,
       "publishedAt": "2026-11-09T18:28:31Z"
     },
     {
@@ -29,27 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/UQPdB7UARR0/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-11-09T07:46:00Z"
-    },
-    {
-      "id": "tIISxrQZHbo",
-      "title": "Taste vs Golden Bears KLASIK 08.11.2026",
-      "thumbnail": "https://i.ytimg.com/vi/tIISxrQZHbo/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-11-09T07:01:49Z"
-    },
-    {
-      "id": "nMZgqGE5g9Y",
-      "title": "Wolves B vs Stars KLASIK 08.11.2026",
-      "thumbnail": "https://i.ytimg.com/vi/nMZgqGE5g9Y/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-11-09T05:48:51Z"
-    },
-    {
-      "id": "ULBne5q9Jic",
-      "title": "Raptors vs Alligators KLASIK 08.11.2026",
-      "thumbnail": "https://i.ytimg.com/vi/ULBne5q9Jic/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-11-09T05:38:13Z"
     }
   ]
 }
