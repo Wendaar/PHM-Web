@@ -1,7 +1,42 @@
 {
-  "updated": "2026-11-10T17:10:54.151Z",
+  "updated": "2026-11-10T22:26:43.894Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
+    {
+      "id": "6sablru8C5c",
+      "title": "Raptors vs Car-Back KLASIK 10.11.2026",
+      "thumbnail": "https://i.ytimg.com/vi/6sablru8C5c/mqdefault.jpg?v=e",
+      "isLive": false,
+      "publishedAt": "2026-11-10T21:01:03Z"
+    },
+    {
+      "id": "VQUfwmJfeYI",
+      "title": "MYQ vs FOR 10.11.26",
+      "thumbnail": "https://i.ytimg.com/vi/VQUfwmJfeYI/mqdefault.jpg?v=e",
+      "isLive": false,
+      "publishedAt": "2026-11-10T20:31:49Z"
+    },
+    {
+      "id": "PmheZKWgvkY",
+      "title": "PLATIDLO vs Soldiers B HOBBY FIRE 10.11.2026",
+      "thumbnail": "https://i.ytimg.com/vi/PmheZKWgvkY/mqdefault.jpg?v=f",
+      "isLive": false,
+      "publishedAt": "2026-11-10T19:26:48Z"
+    },
+    {
+      "id": "vIQbfCU1Kcs",
+      "title": "KVE vs TRZ, HOBBY ICE, 10. 11. 2026",
+      "thumbnail": "https://i.ytimg.com/vi/vIQbfCU1Kcs/mqdefault.jpg?v=14",
+      "isLive": false,
+      "publishedAt": "2026-11-10T18:48:19Z"
+    },
+    {
+      "id": "uCX6A4KmCh8",
+      "title": "HC Kosti vs Pross Sport Superheroes SUPER 10.11.2026",
+      "thumbnail": "https://i.ytimg.com/vi/uCX6A4KmCh8/mqdefault.jpg?v=10",
+      "isLive": false,
+      "publishedAt": "2026-11-10T17:14:14Z"
+    },
     {
       "id": "_xKKDvQGhso",
       "title": "Renegades vs Berkut SUPER 09.11.2026",
@@ -15,41 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/WsQrGM4Wzxs/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-11-10T09:24:28Z"
-    },
-    {
-      "id": "JQitcNmpFWs",
-      "title": "Polar Bears vs Papoušci HOBBY FIRE 09.11.2026",
-      "thumbnail": "https://i.ytimg.com/vi/JQitcNmpFWs/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-11-10T08:46:49Z"
-    },
-    {
-      "id": "xmArRSPPK04",
-      "title": "Dragons vs Caesars KLASIK 09.11.2026",
-      "thumbnail": "https://i.ytimg.com/vi/xmArRSPPK04/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-11-10T08:01:37Z"
-    },
-    {
-      "id": "hVYb06HncXk",
-      "title": "Voholto vs H.O.V.N.A. SPORT 08.11.2026",
-      "thumbnail": "https://i.ytimg.com/vi/hVYb06HncXk/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-11-09T09:10:03Z"
-    },
-    {
-      "id": "ZeU3nIq5jHU",
-      "title": "Car-Back vs Scorpions KLASIK 08.11.2026",
-      "thumbnail": "https://i.ytimg.com/vi/ZeU3nIq5jHU/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-11-09T08:20:50Z"
-    },
-    {
-      "id": "UQPdB7UARR0",
-      "title": "Superheroes vs Soldiers SUPER 08.11.2026",
-      "thumbnail": "https://i.ytimg.com/vi/UQPdB7UARR0/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-11-09T07:46:00Z"
     }
   ]
 }
