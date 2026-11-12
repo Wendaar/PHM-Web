@@ -1,55 +1,55 @@
 {
-  "updated": "2026-11-12T14:29:45.795Z",
+  "updated": "2026-11-12T21:32:27.807Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
+    {
+      "id": "HaZf4V3O800",
+      "title": "HC Prague Wolves B vs. Gaston Seals",
+      "thumbnail": "https://i.ytimg.com/vi/HaZf4V3O800/mqdefault.jpg",
+      "isLive": true,
+      "publishedAt": "2026-11-12T20:54:38Z"
+    },
+    {
+      "id": "bfkxoHDfg4A",
+      "title": "Lev vs H.O.V.N.A Sport 12.11.26",
+      "thumbnail": "https://i.ytimg.com/vi/bfkxoHDfg4A/mqdefault.jpg",
+      "isLive": true,
+      "publishedAt": "2026-11-12T20:43:15Z"
+    },
+    {
+      "id": "36HKq_aALXs",
+      "title": "Justice vs Přírodověda FLLH 12.11.2026",
+      "thumbnail": "https://i.ytimg.com/vi/36HKq_aALXs/mqdefault.jpg?v=6af61777",
+      "isLive": false,
+      "publishedAt": "2026-11-12T19:45:56Z"
+    },
+    {
+      "id": "O8tqx1xk3iU",
+      "title": "HC Ducks Praha C vs. Paladins",
+      "thumbnail": "https://i.ytimg.com/vi/O8tqx1xk3iU/mqdefault.jpg?v=e",
+      "isLive": false,
+      "publishedAt": "2026-11-12T19:31:05Z"
+    },
+    {
+      "id": "NDV5wdQIDWY",
+      "title": "Reindeers vs Scorpions B HobbyICE 12.11.26",
+      "thumbnail": "https://i.ytimg.com/vi/NDV5wdQIDWY/mqdefault.jpg?v=f",
+      "isLive": false,
+      "publishedAt": "2026-11-12T19:11:00Z"
+    },
+    {
+      "id": "fP3ZHD-h00g",
+      "title": "https://prod.hms.wootera.net/obs/game?id=F632DBE4-98CA-11F1-8BDF-EF2495D048F3",
+      "thumbnail": "https://i.ytimg.com/vi/fP3ZHD-h00g/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-11-12T20:24:47Z"
+    },
     {
       "id": "9L6l6m4Yj4M",
       "title": "Foxes vs Golden Bears KLASIK 11.11.2026",
       "thumbnail": "https://i.ytimg.com/vi/9L6l6m4Yj4M/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-11-12T10:43:45Z"
-    },
-    {
-      "id": "CnNfzRiNbNY",
-      "title": "Vikings vs Destroit HOBBY ICE 11.11.2026",
-      "thumbnail": "https://i.ytimg.com/vi/CnNfzRiNbNY/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-11-12T09:59:09Z"
-    },
-    {
-      "id": "8THB46YkKZU",
-      "title": "Fešáci vs ATTL SPORT 11.11.2026",
-      "thumbnail": "https://i.ytimg.com/vi/8THB46YkKZU/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-11-12T09:44:53Z"
-    },
-    {
-      "id": "xenW17LrChg",
-      "title": "Heyoka vs Voholto SPORT 11.11.2026",
-      "thumbnail": "https://i.ytimg.com/vi/xenW17LrChg/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-11-12T08:35:10Z"
-    },
-    {
-      "id": "2ZB_RrGPsog",
-      "title": "Soldiers vs Wolves SUPER 11.11.2026",
-      "thumbnail": "https://i.ytimg.com/vi/2ZB_RrGPsog/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-11-12T08:08:22Z"
-    },
-    {
-      "id": "gB8a5blgj3o",
-      "title": "PÚ vs Gladiators KLASIK 11.11.2026",
-      "thumbnail": "https://i.ytimg.com/vi/gB8a5blgj3o/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-11-12T08:00:08Z"
-    },
-    {
-      "id": "ZgASyv-qYiE",
-      "title": "REX vs Office Rats SPORT 11.11.2026",
-      "thumbnail": "https://i.ytimg.com/vi/ZgASyv-qYiE/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-11-12T07:26:17Z"
     }
   ]
 }
