@@ -1,19 +1,19 @@
 {
-  "updated": "2026-11-12T21:32:27.807Z",
+  "updated": "2026-11-13T02:19:15.371Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
     {
       "id": "HaZf4V3O800",
-      "title": "HC Prague Wolves B vs. Gaston Seals",
-      "thumbnail": "https://i.ytimg.com/vi/HaZf4V3O800/mqdefault.jpg",
-      "isLive": true,
+      "title": "Wolves B vs Gastoni KLASIK 12.11.2026",
+      "thumbnail": "https://i.ytimg.com/vi/HaZf4V3O800/mqdefault.jpg?v=6af640c8",
+      "isLive": false,
       "publishedAt": "2026-11-12T20:54:38Z"
     },
     {
       "id": "bfkxoHDfg4A",
-      "title": "Lev vs H.O.V.N.A Sport 12.11.26",
-      "thumbnail": "https://i.ytimg.com/vi/bfkxoHDfg4A/mqdefault.jpg",
-      "isLive": true,
+      "title": "Fanklub Lev vs H.O.V.N.A. SPORT 12.11.2026",
+      "thumbnail": "https://i.ytimg.com/vi/bfkxoHDfg4A/mqdefault.jpg?v=6af640ab",
+      "isLive": false,
       "publishedAt": "2026-11-12T20:43:15Z"
     },
     {
@@ -25,24 +25,17 @@
     },
     {
       "id": "O8tqx1xk3iU",
-      "title": "HC Ducks Praha C vs. Paladins",
-      "thumbnail": "https://i.ytimg.com/vi/O8tqx1xk3iU/mqdefault.jpg?v=e",
+      "title": "Paladins vs Ducks C HOBBY ICE 12.11.2026",
+      "thumbnail": "https://i.ytimg.com/vi/O8tqx1xk3iU/mqdefault.jpg?v=6af64089",
       "isLive": false,
       "publishedAt": "2026-11-12T19:31:05Z"
     },
     {
       "id": "NDV5wdQIDWY",
-      "title": "Reindeers vs Scorpions B HobbyICE 12.11.26",
-      "thumbnail": "https://i.ytimg.com/vi/NDV5wdQIDWY/mqdefault.jpg?v=f",
+      "title": "Reindeers vs Scorpions B HOBBY ICE 12.11.2026",
+      "thumbnail": "https://i.ytimg.com/vi/NDV5wdQIDWY/mqdefault.jpg?v=6af6400e",
       "isLive": false,
       "publishedAt": "2026-11-12T19:11:00Z"
-    },
-    {
-      "id": "fP3ZHD-h00g",
-      "title": "https://prod.hms.wootera.net/obs/game?id=F632DBE4-98CA-11F1-8BDF-EF2495D048F3",
-      "thumbnail": "https://i.ytimg.com/vi/fP3ZHD-h00g/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-11-12T20:24:47Z"
     },
     {
       "id": "9L6l6m4Yj4M",
@@ -50,6 +43,13 @@
       "thumbnail": "https://i.ytimg.com/vi/9L6l6m4Yj4M/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-11-12T10:43:45Z"
+    },
+    {
+      "id": "CnNfzRiNbNY",
+      "title": "Vikings vs Destroit HOBBY ICE 11.11.2026",
+      "thumbnail": "https://i.ytimg.com/vi/CnNfzRiNbNY/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-11-12T09:59:09Z"
     }
   ]
 }
