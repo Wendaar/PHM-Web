@@ -1,7 +1,35 @@
 {
-  "updated": "2026-11-18T08:47:46.646Z",
+  "updated": "2026-11-18T17:44:02.297Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
+    {
+      "id": "EYdeUw-BsMU",
+      "title": "OIR vs HOV, 18. 11. 2026, SPORT - Icerink Y",
+      "thumbnail": "https://i.ytimg.com/vi/EYdeUw-BsMU/mqdefault.jpg",
+      "isLive": true,
+      "publishedAt": "2026-11-18T17:37:20Z"
+    },
+    {
+      "id": "6nPN9Lfbmew",
+      "title": "OIR vs HOV, 18. 11. 2026, SPORT - Icerink Y",
+      "thumbnail": "https://i.ytimg.com/vi/6nPN9Lfbmew/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-11-18T17:37:05Z"
+    },
+    {
+      "id": "Snq2g0e30KA",
+      "title": "MyQ vs Soldiers B HOBBY FIRE 17.11.2026",
+      "thumbnail": "https://i.ytimg.com/vi/Snq2g0e30KA/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-11-18T10:33:06Z"
+    },
+    {
+      "id": "xRtz1QkWql4",
+      "title": "FRIENDLY MATCH / Prague Guardians vs VŠCHT Alchemists 17.11.2026",
+      "thumbnail": "https://i.ytimg.com/vi/xRtz1QkWql4/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-11-18T09:13:46Z"
+    },
     {
       "id": "VFWexxGE9qw",
       "title": "Ducks B vs PLATIDLO HOBBY FIRE 17.11.2026 2.část",
@@ -17,39 +45,11 @@
       "publishedAt": "2026-11-18T08:12:56Z"
     },
     {
-      "id": "Snq2g0e30KA",
-      "title": "MyQ vs Soldiers B HOBBY FIRE 17.11.2026",
-      "thumbnail": "https://i.ytimg.com/vi/Snq2g0e30KA/mqdefault.jpg?v=6afce8d5",
-      "isLive": false,
-      "publishedAt": "2026-11-17T21:03:01Z"
-    },
-    {
-      "id": "xRtz1QkWql4",
-      "title": "FRIENDLY MATCH / Prague Guardians vs VŠCHT Alchemists 17.11.2026",
-      "thumbnail": "https://i.ytimg.com/vi/xRtz1QkWql4/mqdefault.jpg?v=6afcb173",
-      "isLive": false,
-      "publishedAt": "2026-11-17T19:03:02Z"
-    },
-    {
       "id": "zfXOvcIshfE",
       "title": "PHM Week recap 13.11.2026 - SUPER",
       "thumbnail": "https://i.ytimg.com/vi/zfXOvcIshfE/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-11-13T12:48:33Z"
-    },
-    {
-      "id": "5ZUw8394GF8",
-      "title": "PHM Week recap 13.11.2026 - SPORT",
-      "thumbnail": "https://i.ytimg.com/vi/5ZUw8394GF8/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-11-13T12:48:30Z"
-    },
-    {
-      "id": "eAhoG-1ayJs",
-      "title": "PHM Week recap 13.11.2026 - KLASIK",
-      "thumbnail": "https://i.ytimg.com/vi/eAhoG-1ayJs/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-11-13T12:48:28Z"
     }
   ]
 }
