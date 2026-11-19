@@ -1,10 +1,24 @@
 {
-  "updated": "2026-11-19T15:03:50.406Z",
+  "updated": "2026-11-19T22:42:32.185Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
     {
+      "id": "Gi0It1niCj8",
+      "title": "Ducks B\nVS PLATIDLO\nHOBBY FIRE 19.11.2026.",
+      "thumbnail": "https://i.ytimg.com/vi/Gi0It1niCj8/mqdefault.jpg?v=d",
+      "isLive": false,
+      "publishedAt": "2026-11-19T20:50:50Z"
+    },
+    {
+      "id": "B9E_uCTSGdc",
+      "title": "Legio Prima vs. Motol Pelicans",
+      "thumbnail": "https://i.ytimg.com/vi/B9E_uCTSGdc/mqdefault.jpg?v=1a",
+      "isLive": false,
+      "publishedAt": "2026-11-19T19:36:05Z"
+    },
+    {
       "id": "OXYXh86cHJo",
-      "title": "Domynos vs Kosti, 18. 11. 2026, SUPER, Icerink Y",
+      "title": "Domynos vs Kosti SUPER 18.11.2026",
       "thumbnail": "https://i.ytimg.com/vi/OXYXh86cHJo/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-11-19T09:55:01Z"
@@ -25,31 +39,17 @@
     },
     {
       "id": "KvLyLdRVHhY",
-      "title": "RST vs LEV, 18. 11.- 2026, SPORT",
+      "title": "Roosters vs Fanklub Lev SPORT 18.11.2026",
       "thumbnail": "https://i.ytimg.com/vi/KvLyLdRVHhY/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-11-19T08:39:12Z"
     },
     {
       "id": "wC0omZbAR00",
-      "title": "Paladins VS Spiders HOBBY ICE 18.11.2026",
+      "title": "Paladins vs Spiders HOBBY ICE 18.11.2026",
       "thumbnail": "https://i.ytimg.com/vi/wC0omZbAR00/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-11-19T08:28:43Z"
-    },
-    {
-      "id": "blt7rU8RjxA",
-      "title": "Vikings vs Scorpions B HOBBY ICE 18.11.2026",
-      "thumbnail": "https://i.ytimg.com/vi/blt7rU8RjxA/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-11-19T08:09:52Z"
-    },
-    {
-      "id": "EYdeUw-BsMU",
-      "title": "OIR vs HOV, 18. 11. 2026, SPORT - Icerink Y",
-      "thumbnail": "https://i.ytimg.com/vi/EYdeUw-BsMU/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-11-19T07:17:34Z"
     }
   ]
 }
