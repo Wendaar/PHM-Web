@@ -1,18 +1,11 @@
 {
-  "updated": "2026-11-19T22:42:32.185Z",
+  "updated": "2026-11-20T03:49:36.072Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
     {
-      "id": "Gi0It1niCj8",
-      "title": "Ducks B\nVS PLATIDLO\nHOBBY FIRE 19.11.2026.",
-      "thumbnail": "https://i.ytimg.com/vi/Gi0It1niCj8/mqdefault.jpg?v=d",
-      "isLive": false,
-      "publishedAt": "2026-11-19T20:50:50Z"
-    },
-    {
       "id": "B9E_uCTSGdc",
-      "title": "Legio Prima vs. Motol Pelicans",
-      "thumbnail": "https://i.ytimg.com/vi/B9E_uCTSGdc/mqdefault.jpg?v=1a",
+      "title": "Legio vs Pelicans FLLH 20.11.2026",
+      "thumbnail": "https://i.ytimg.com/vi/B9E_uCTSGdc/mqdefault.jpg?v=6aff8537",
       "isLive": false,
       "publishedAt": "2026-11-19T19:36:05Z"
     },
@@ -50,6 +43,13 @@
       "thumbnail": "https://i.ytimg.com/vi/wC0omZbAR00/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-11-19T08:28:43Z"
+    },
+    {
+      "id": "blt7rU8RjxA",
+      "title": "Vikings vs Scorpions B HOBBY ICE 18.11.2026",
+      "thumbnail": "https://i.ytimg.com/vi/blt7rU8RjxA/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-11-19T08:09:52Z"
     }
   ]
 }
