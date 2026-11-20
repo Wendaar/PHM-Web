@@ -1,13 +1,34 @@
 {
-  "updated": "2026-11-20T03:49:36.072Z",
+  "updated": "2026-11-20T12:24:57.154Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
     {
+      "id": "eA6g0shrfis",
+      "title": "Preshow vs REME Stallions YELLOW HOCKEY GAMES 20.11.2026",
+      "thumbnail": "https://i.ytimg.com/vi/eA6g0shrfis/mqdefault.jpg",
+      "isLive": true,
+      "publishedAt": "2026-11-20T11:41:24Z"
+    },
+    {
+      "id": "-1jvKWHvHVI",
+      "title": "Samorosti vs Košice Flyers YELLOW HOCKEY GAMES 20.11.2026",
+      "thumbnail": "https://i.ytimg.com/vi/-1jvKWHvHVI/mqdefault.jpg?v=a",
+      "isLive": false,
+      "publishedAt": "2026-11-20T10:30:37Z"
+    },
+    {
       "id": "B9E_uCTSGdc",
       "title": "Legio vs Pelicans FLLH 20.11.2026",
-      "thumbnail": "https://i.ytimg.com/vi/B9E_uCTSGdc/mqdefault.jpg?v=6aff8537",
+      "thumbnail": "https://i.ytimg.com/vi/B9E_uCTSGdc/mqdefault.jpg",
       "isLive": false,
-      "publishedAt": "2026-11-19T19:36:05Z"
+      "publishedAt": "2026-11-20T11:16:48Z"
+    },
+    {
+      "id": "gOt0LZbB0Ec",
+      "title": "Mollvero vs Mandagskluben YELLOW HOCKEY GAMES 20.11.2026",
+      "thumbnail": "https://i.ytimg.com/vi/gOt0LZbB0Ec/mqdefault.jpg?v=9",
+      "isLive": false,
+      "publishedAt": "2026-11-20T09:31:50Z"
     },
     {
       "id": "OXYXh86cHJo",
@@ -29,27 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/DN5Fe6d-4iE/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-11-19T09:37:18Z"
-    },
-    {
-      "id": "KvLyLdRVHhY",
-      "title": "Roosters vs Fanklub Lev SPORT 18.11.2026",
-      "thumbnail": "https://i.ytimg.com/vi/KvLyLdRVHhY/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-11-19T08:39:12Z"
-    },
-    {
-      "id": "wC0omZbAR00",
-      "title": "Paladins vs Spiders HOBBY ICE 18.11.2026",
-      "thumbnail": "https://i.ytimg.com/vi/wC0omZbAR00/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-11-19T08:28:43Z"
-    },
-    {
-      "id": "blt7rU8RjxA",
-      "title": "Vikings vs Scorpions B HOBBY ICE 18.11.2026",
-      "thumbnail": "https://i.ytimg.com/vi/blt7rU8RjxA/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-11-19T08:09:52Z"
     }
   ]
 }
