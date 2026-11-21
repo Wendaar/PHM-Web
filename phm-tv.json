@@ -1,55 +1,55 @@
 {
-  "updated": "2026-11-21T09:06:11.164Z",
+  "updated": "2026-11-21T16:52:55.472Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
     {
+      "id": "FTfp0BKW3zw",
+      "title": "Lions vs. Booze Brothers",
+      "thumbnail": "https://i.ytimg.com/vi/FTfp0BKW3zw/mqdefault.jpg?v=9",
+      "isLive": false,
+      "publishedAt": "2026-11-21T15:31:25Z"
+    },
+    {
+      "id": "OoGuHP9ldYs",
+      "title": "Košice vs. Vendangeurs",
+      "thumbnail": "https://i.ytimg.com/vi/OoGuHP9ldYs/mqdefault.jpg?v=d",
+      "isLive": false,
+      "publishedAt": "2026-11-21T14:24:19Z"
+    },
+    {
+      "id": "uA3c6-MntNY",
+      "title": "Booze Brothers vs. SAMOROSTI",
+      "thumbnail": "https://i.ytimg.com/vi/uA3c6-MntNY/mqdefault.jpg?v=8",
+      "isLive": false,
+      "publishedAt": "2026-11-21T13:21:44Z"
+    },
+    {
+      "id": "h_8Rt0Bycc8",
+      "title": "Mandagskluben vs. Lake Boys",
+      "thumbnail": "https://i.ytimg.com/vi/h_8Rt0Bycc8/mqdefault.jpg?v=b",
+      "isLive": false,
+      "publishedAt": "2026-11-21T12:16:16Z"
+    },
+    {
+      "id": "86zdSS3OdcI",
+      "title": "Lions vs. Košice",
+      "thumbnail": "https://i.ytimg.com/vi/86zdSS3OdcI/mqdefault.jpg?v=b",
+      "isLive": false,
+      "publishedAt": "2026-11-21T11:15:10Z"
+    },
+    {
+      "id": "dfByW2-h4JY",
+      "title": "SAMOROSTI vs. Vendangeurs",
+      "thumbnail": "https://i.ytimg.com/vi/dfByW2-h4JY/mqdefault.jpg?v=a",
+      "isLive": false,
+      "publishedAt": "2026-11-21T10:05:29Z"
+    },
+    {
       "id": "DexmD4ZwO7o",
       "title": "Reme stallions vs. Molivero hockey team",
-      "thumbnail": "https://i.ytimg.com/vi/DexmD4ZwO7o/mqdefault.jpg",
-      "isLive": true,
+      "thumbnail": "https://i.ytimg.com/vi/DexmD4ZwO7o/mqdefault.jpg?v=b",
+      "isLive": false,
       "publishedAt": "2026-11-21T09:00:39Z"
-    },
-    {
-      "id": "wUBGV3kIAE8",
-      "title": "Vendageurs de Bordeaux vs HC Lions Zlín YELLOW HOCKEY GAMES 21.11.2026",
-      "thumbnail": "https://i.ytimg.com/vi/wUBGV3kIAE8/mqdefault.jpg?v=9",
-      "isLive": false,
-      "publishedAt": "2026-11-21T08:04:22Z"
-    },
-    {
-      "id": "B0l3HZpqljM",
-      "title": "Lake Boys Bratislava vs REME Stallions YELLOW HOCKEY GAMES 20.11.2026",
-      "thumbnail": "https://i.ytimg.com/vi/B0l3HZpqljM/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-11-21T04:42:03Z"
-    },
-    {
-      "id": "KPH8_kGUckE",
-      "title": "HC Lions Zlín vs Samorosti YELLOW HOCKEY GAMES 20.11.2026",
-      "thumbnail": "https://i.ytimg.com/vi/KPH8_kGUckE/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-11-21T03:52:44Z"
-    },
-    {
-      "id": "LO_xsHojAdQ",
-      "title": "Måndagskluben HC vs Preshow YELLOW HOCKEY GAMES 20.11.2026",
-      "thumbnail": "https://i.ytimg.com/vi/LO_xsHojAdQ/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-11-21T03:19:35Z"
-    },
-    {
-      "id": "EPjQZ_XtWZU",
-      "title": "Booze Brothers vs Košice Flyers YELLOW HOCKEY GAMES 20.11.2026",
-      "thumbnail": "https://i.ytimg.com/vi/EPjQZ_XtWZU/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-11-21T02:41:19Z"
-    },
-    {
-      "id": "oLx0lVOJzWI",
-      "title": "Lake Boys Bratislava vs Mollvero Hockey Team YELLOW HOCKEY GAMES 20.11.2026",
-      "thumbnail": "https://i.ytimg.com/vi/oLx0lVOJzWI/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-11-21T01:35:25Z"
     }
   ]
 }
