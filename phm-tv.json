@@ -1,7 +1,28 @@
 {
-  "updated": "2026-11-22T22:39:21.914Z",
+  "updated": "2026-11-23T03:26:38.287Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
+    {
+      "id": "9qiTii-P45Y",
+      "title": "1st place game Samorosti vs Mollvero Hockey Team YELLOW HOCKEY GAMES 22.11.2026",
+      "thumbnail": "https://i.ytimg.com/vi/9qiTii-P45Y/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-11-23T01:46:38Z"
+    },
+    {
+      "id": "SdcbBLWB9QM",
+      "title": "3rd place game Lake Boys Bratislava vs HC Lions Zlín YELLOW HOCKEY GAMES 22.11.2026",
+      "thumbnail": "https://i.ytimg.com/vi/SdcbBLWB9QM/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-11-23T00:23:12Z"
+    },
+    {
+      "id": "wKP9k2yQMf8",
+      "title": "5th place game Košice Flyers vs Preshow YELLOW HOCKEY GAMES 22.11.2026",
+      "thumbnail": "https://i.ytimg.com/vi/wKP9k2yQMf8/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-11-22T23:15:14Z"
+    },
     {
       "id": "LKJu7tPe-as",
       "title": "7th place game Booze Bbrothers vs Måndagsklubben HC YELLOW HOCKEY GAMES 22.11.2026",
@@ -18,38 +39,17 @@
     },
     {
       "id": "SLnNZs1yNnQ",
-      "title": "POB vs FOT 22.11.2026",
-      "thumbnail": "https://i.ytimg.com/vi/SLnNZs1yNnQ/mqdefault.jpg?v=c",
+      "title": "Polar Bears vs Fotr HOBBY FIRE 22.11.2026",
+      "thumbnail": "https://i.ytimg.com/vi/SLnNZs1yNnQ/mqdefault.jpg?v=6b0375ae",
       "isLive": false,
       "publishedAt": "2026-11-22T19:24:18Z"
     },
     {
       "id": "xQxn3JbY0t4",
       "title": "Traverzáci vs Destroit HOBBY ICE 22.11.2026",
-      "thumbnail": "https://i.ytimg.com/vi/xQxn3JbY0t4/mqdefault.jpg?v=d",
+      "thumbnail": "https://i.ytimg.com/vi/xQxn3JbY0t4/mqdefault.jpg?v=6b03758e",
       "isLive": false,
       "publishedAt": "2026-11-22T18:57:18Z"
-    },
-    {
-      "id": "QEHxwOVpUjY",
-      "title": "CHEZ - HEY 22.11.2026",
-      "thumbnail": "https://i.ytimg.com/vi/QEHxwOVpUjY/mqdefault.jpg?v=13",
-      "isLive": false,
-      "publishedAt": "2026-11-22T17:51:57Z"
-    },
-    {
-      "id": "ZOgljsCqXVw",
-      "title": "Traverzáci vs Destroit HOBBY ICE 22.11.2026",
-      "thumbnail": "https://i.ytimg.com/vi/ZOgljsCqXVw/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-11-22T18:56:00Z"
-    },
-    {
-      "id": "LJO1x52chSE",
-      "title": "TAS vs WFX",
-      "thumbnail": "https://i.ytimg.com/vi/LJO1x52chSE/mqdefault.jpg?v=d",
-      "isLive": false,
-      "publishedAt": "2026-11-22T17:39:55Z"
     }
   ]
 }
