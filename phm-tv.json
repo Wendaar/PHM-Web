@@ -1,55 +1,55 @@
 {
-  "updated": "2026-11-23T13:27:48.800Z",
+  "updated": "2026-11-24T01:07:15.517Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
+    {
+      "id": "HC4hkpb9fiU",
+      "title": "Chiefs vs Soldiers SUPER 23.11.2026",
+      "thumbnail": "https://i.ytimg.com/vi/HC4hkpb9fiU/mqdefault.jpg?v=f",
+      "isLive": false,
+      "publishedAt": "2026-11-23T20:30:54Z"
+    },
+    {
+      "id": "dLGyeJIzbpc",
+      "title": "MyQ Heroes vs Bohe,iam Beavers HOBBY FIRE 23.11.2026",
+      "thumbnail": "https://i.ytimg.com/vi/dLGyeJIzbpc/mqdefault.jpg?v=10",
+      "isLive": false,
+      "publishedAt": "2026-11-23T20:22:52Z"
+    },
+    {
+      "id": "gJt00UCkgMs",
+      "title": "HOV - DSS 23.11.2026",
+      "thumbnail": "https://i.ytimg.com/vi/gJt00UCkgMs/mqdefault.jpg?v=c",
+      "isLive": false,
+      "publishedAt": "2026-11-23T20:01:48Z"
+    },
+    {
+      "id": "7RHhF3SnLvQ",
+      "title": "HC Slavoj Zbraslav vs Golden Renegades SUPER 23.11.2026",
+      "thumbnail": "https://i.ytimg.com/vi/7RHhF3SnLvQ/mqdefault.jpg?v=e",
+      "isLive": false,
+      "publishedAt": "2026-11-23T18:37:23Z"
+    },
+    {
+      "id": "8fGyNxruU3g",
+      "title": "Stars vs CarBack KLASIK 23.11.2026",
+      "thumbnail": "https://i.ytimg.com/vi/8fGyNxruU3g/mqdefault.jpg?v=e",
+      "isLive": false,
+      "publishedAt": "2026-11-23T18:59:31Z"
+    },
+    {
+      "id": "25Req5dV-cg",
+      "title": "23.11.2026 DUC - ŽRA",
+      "thumbnail": "https://i.ytimg.com/vi/25Req5dV-cg/mqdefault.jpg?v=a",
+      "isLive": false,
+      "publishedAt": "2026-11-23T18:37:56Z"
+    },
     {
       "id": "SLnNZs1yNnQ",
       "title": "Polar Bears vs Fotr HOBBY FIRE 22.11.2026",
       "thumbnail": "https://i.ytimg.com/vi/SLnNZs1yNnQ/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-11-23T08:29:32Z"
-    },
-    {
-      "id": "xQxn3JbY0t4",
-      "title": "Traverzáci vs Destroit HOBBY ICE 22.11.2026",
-      "thumbnail": "https://i.ytimg.com/vi/xQxn3JbY0t4/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-11-23T08:18:29Z"
-    },
-    {
-      "id": "QEHxwOVpUjY",
-      "title": "Cheza vs Heyoka SPORT 22.11.2026",
-      "thumbnail": "https://i.ytimg.com/vi/QEHxwOVpUjY/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-11-23T07:34:32Z"
-    },
-    {
-      "id": "LJO1x52chSE",
-      "title": "Taste vs Foxes KLASIK 22.11.2026",
-      "thumbnail": "https://i.ytimg.com/vi/LJO1x52chSE/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-11-23T07:04:52Z"
-    },
-    {
-      "id": "ImGeKblbwIc",
-      "title": "Spiders vs Reindeers HOBBY ICE 22.11.2026",
-      "thumbnail": "https://i.ytimg.com/vi/ImGeKblbwIc/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-11-23T05:24:08Z"
-    },
-    {
-      "id": "qttt4BAfSbM",
-      "title": "Golden Bears vs Rekreanti KLASIK 22.11.2026",
-      "thumbnail": "https://i.ytimg.com/vi/qttt4BAfSbM/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-11-23T04:04:14Z"
-    },
-    {
-      "id": "EaI5woRRiM8",
-      "title": "PÚ vs Pigeons B KLASIK 22.11.2026",
-      "thumbnail": "https://i.ytimg.com/vi/EaI5woRRiM8/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-11-23T04:00:07Z"
     }
   ]
 }
