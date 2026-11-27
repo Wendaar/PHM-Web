@@ -1,7 +1,42 @@
 {
-  "updated": "2026-11-26T15:33:10.018Z",
+  "updated": "2026-11-27T00:14:17.006Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
+    {
+      "id": "RhQxuzjXYZg",
+      "title": "Dragons vs PÚ KLASIK 26.11.2026",
+      "thumbnail": "https://i.ytimg.com/vi/RhQxuzjXYZg/mqdefault.jpg?v=6b08acc7",
+      "isLive": false,
+      "publishedAt": "2026-11-26T21:01:53Z"
+    },
+    {
+      "id": "g0xp705gj4E",
+      "title": "Traverzáci vs Reindeers HOBBY ICE 26.11.2026",
+      "thumbnail": "https://i.ytimg.com/vi/g0xp705gj4E/mqdefault.jpg?v=6b08aca9",
+      "isLive": false,
+      "publishedAt": "2026-11-26T20:48:49Z"
+    },
+    {
+      "id": "tod8CW8lDlY",
+      "title": "Přírodověda vs Trimed FLLH 26.11.2026",
+      "thumbnail": "https://i.ytimg.com/vi/tod8CW8lDlY/mqdefault.jpg?v=6b08acf3",
+      "isLive": false,
+      "publishedAt": "2026-11-26T19:40:23Z"
+    },
+    {
+      "id": "iiKRH0vLvaE",
+      "title": "Ducks C vs Scorpions B HOBBY ICE 26.11.2026",
+      "thumbnail": "https://i.ytimg.com/vi/iiKRH0vLvaE/mqdefault.jpg?v=6b08ac93",
+      "isLive": false,
+      "publishedAt": "2026-11-26T19:44:19Z"
+    },
+    {
+      "id": "x4uVlOvJ6cc",
+      "title": "REX vs Fešáci SPORT 26.11.2026",
+      "thumbnail": "https://i.ytimg.com/vi/x4uVlOvJ6cc/mqdefault.jpg?v=6b08ac75",
+      "isLive": false,
+      "publishedAt": "2026-11-26T19:24:35Z"
+    },
     {
       "id": "cYEorABttXM",
       "title": "Alligators vs Rekreanti KLASIK 25.11.2026",
@@ -15,41 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/QMaqVNGUSw4/mqdefault.jpg",
       "isLive": false,
       "publishedAt": "2026-11-26T10:02:36Z"
-    },
-    {
-      "id": "MLlSdw5gRxU",
-      "title": "Gastoni vs Gladiators KLASIK 25.11.2026",
-      "thumbnail": "https://i.ytimg.com/vi/MLlSdw5gRxU/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-11-26T09:31:07Z"
-    },
-    {
-      "id": "8ZL6Xii9HB8",
-      "title": "ATTL vs Roosters SPORT 25.11.2026",
-      "thumbnail": "https://i.ytimg.com/vi/8ZL6Xii9HB8/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-11-26T08:40:17Z"
-    },
-    {
-      "id": "HuvmfHRLZzk",
-      "title": "Žižkov vs Wolves SUPER 25.11.2026",
-      "thumbnail": "https://i.ytimg.com/vi/HuvmfHRLZzk/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-11-26T08:21:37Z"
-    },
-    {
-      "id": "n6sLp2QI-jg",
-      "title": "Raptors vs Wolves B KLASIK 25.11.2026",
-      "thumbnail": "https://i.ytimg.com/vi/n6sLp2QI-jg/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-11-26T08:14:42Z"
-    },
-    {
-      "id": "MANqFcirsek",
-      "title": "Office Rats vs Gladiators Kladno SPORT 25.11.2026",
-      "thumbnail": "https://i.ytimg.com/vi/MANqFcirsek/mqdefault.jpg",
-      "isLive": false,
-      "publishedAt": "2026-11-26T07:13:35Z"
     }
   ]
 }
