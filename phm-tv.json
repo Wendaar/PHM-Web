@@ -1,7 +1,14 @@
 {
-  "updated": "2026-11-27T00:14:17.006Z",
+  "updated": "2026-11-27T08:54:00.496Z",
   "channelId": "UCQZv6ak1WpuZLoqz0FT1aqg",
   "items": [
+    {
+      "id": "x4uVlOvJ6cc",
+      "title": "REX vs Fešáci SPORT 26.11.2026",
+      "thumbnail": "https://i.ytimg.com/vi/x4uVlOvJ6cc/mqdefault.jpg",
+      "isLive": false,
+      "publishedAt": "2026-11-27T08:35:45Z"
+    },
     {
       "id": "RhQxuzjXYZg",
       "title": "Dragons vs PÚ KLASIK 26.11.2026",
@@ -29,13 +36,6 @@
       "thumbnail": "https://i.ytimg.com/vi/iiKRH0vLvaE/mqdefault.jpg?v=6b08ac93",
       "isLive": false,
       "publishedAt": "2026-11-26T19:44:19Z"
-    },
-    {
-      "id": "x4uVlOvJ6cc",
-      "title": "REX vs Fešáci SPORT 26.11.2026",
-      "thumbnail": "https://i.ytimg.com/vi/x4uVlOvJ6cc/mqdefault.jpg?v=6b08ac75",
-      "isLive": false,
-      "publishedAt": "2026-11-26T19:24:35Z"
     },
     {
       "id": "cYEorABttXM",
